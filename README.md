@@ -163,6 +163,8 @@ Players who collect a combined total of 10,800B declare:
 "We are millionaires."
 Once confirmed by the other players, they are declared the winners.
 
+(Players may also mutually agree upon a different target amount required for victory before the game begins.)
+
 ---
 
 # Blank Cards
@@ -442,6 +444,8 @@ Bablos символизирует экономическую энергию, с�
 Игроки, собравшие в сумме **10800B**, объявляют:
 "Мы миллионеры"
 После подтверждения другими игроками оно становится победителями.
+
+(Сумму необходимую собрать для победы, игроки также могут определить сами, по взаимной договорённости перед началом игры.)
 
 ---
 
