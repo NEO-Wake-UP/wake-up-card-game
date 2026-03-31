@@ -36,7 +36,7 @@ The central symbolic character of the game is the **Golden Coin** — the object
 
 # Game Duration
 
-Approximately **30–60 minutes**
+Approximately **30–90 minutes**
 
 ---
 
@@ -148,15 +148,20 @@ receives **double salary (200B)**.
 
 # Goal of the Game
 
-The main victory condition:
-
-A player who collects **4400B** may declare:
-
+**"Free-for-all" mode:**
+A player who collects 4,400B declares:
 "I am an oligarch."
+Once confirmed by the other players, they are declared the winner.
 
-If confirmed by the other players, that player wins the game.
+**"Two-on-two" team play:**
+Players who collect a combined total of 8,000B declare:
+"We are millionaires."
+Once confirmed by the other players, they are declared the winners.
 
-The number **4400** is a symbolic reference to the famous **404 error**.
+**"Three-on-three" team play:**
+Players who collect a combined total of 10,800B declare:
+"We are millionaires."
+Once confirmed by the other players, they are declared the winners.
 
 ---
 
@@ -310,7 +315,7 @@ Wake Up — это настольная игра для **3–6 игроков**
 
 # Продолжительность игры
 
-Примерно **30–60 минут**
+Примерно **30–90 минут**
 
 ---
 
@@ -423,13 +428,20 @@ Bablos символизирует экономическую энергию, с�
 
 Основная победа:
 
-Игрок, собравший **4400B**, может объявить:
-
+При игре "Каждый сам за себя":
+Игрок, собравший **4400B**, объявляет:
 "Я олигарх."
-
 После подтверждения другими игроками он становится победителем.
 
-Число **4400** является символической отсылкой к **ошибке 404**.
+При командной игре "двое против двух"
+Игроки, собравшие в сумме **8000B**, объявляют:
+"Мы миллионеры"
+После подтверждения другими игроками оно становится победителями.
+
+При командной игре "трое против трёх"
+Игроки, собравшие в сумме **10800B**, объявляют:
+"Мы миллионеры"
+После подтверждения другими игроками оно становится победителями.
 
 ---
 
