@@ -3,7 +3,7 @@ Subject: Production Specification for Custom Game Tokens ("Wake Up" Coins)
 Item Type: Double-sided metal coin (3D embossed).
 Dimensions:
 Diameter: 35 mm
-Thickness: 3 mm
+Thickness: 2 mm
 Material & Finish: Brushed Brass (natural gold color). Entire coin features a uniform metallic finish without any color infill or enamel.
 Design Details (3D Relief):
 Side A (Obverse): Features the word "WAKE" in a bold, sans-serif font, raised/embossed from the surface.
@@ -19,7 +19,7 @@ Files: Vector files (CDR/EPS) provided for mold/CNC production.
 Тип изделия: Двусторонняя металлическая монета (с 3D-рельефом).
 Размеры:
 Диаметр: 35 мм
-Толщина: 3 мм
+Толщина: 2 мм
 Материал и покрытие: Шлифованная латунь (естественный золотистый цвет). Монета выполняется полностью в цвете металла, без использования эмали или краски.
 Детали дизайна (Объемный рельеф):
 Сторона А (Аверс): В центре расположено слово «WAKE», выполненное выпуклым/рельефным шрифтом.
