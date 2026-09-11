@@ -16,8 +16,8 @@ Earn BABLOS, change your social status and navigate absurd events. Play for fun,
 | English | [English edition](game/en/README.md) | [Print pack status](print-and-play/en/README.md) |
 | Other languages / Другие языки | [Translation guide / Как перевести](templates/translation/README.md) | [Blank card layouts / Пустые макеты](templates/cards/README.md) |
 
-**Work in progress:** Russian card texts and draft rules are available. English draft rules exist; the English card catalogue is awaiting translation. Complete printable sets are not available yet.  
-**Идёт доработка:** есть русские тексты карт и черновые правила. Для английского уже есть черновик правил; каталог карт ждёт перевода. Полных готовых наборов для печати пока нет.
+**Work in progress:** The approved Russian rules and their English translation are available. Russian card texts are being refined; the English card catalogue awaits translation. Complete printable sets are not available yet.  
+**Идёт доработка:** утверждённые русские правила и их английский перевод готовы. Русские карты проходят доработку; английский каталог ждёт перевода. Полных готовых наборов для печати пока нет.
 
 ## Work on the game / Работать над игрой
 

@@ -2,9 +2,9 @@
 
 **Provisional inventory, not an approved print manifest. / Предварительная опись, не утверждённый состав для печати.**
 
-One copy per source row is a working assumption; Coffee explicitly specifies 30 copies. This gives **340 event/final cards + 1 blank event card**, whereas the original component list says **331 + 1**. All 311 source rows remain separate, including duplicate names. Resolve this discrepancy before producing a full pack.
+The author confirmed the final target: **331 event/final cards + 1 blank event card**. The current catalogue deliberately contains reserve ideas for later selection. One copy per source row, with the explicitly specified 30 Coffee cards, gives **340 + 1 blank**. All 311 source rows remain separate, including duplicate names; the final selection is still pending.
 
-По одному экземпляру на запись — рабочее допущение; у «Кофе» явно указано 30 экземпляров. Получается **340 игровых/финальных карт + 1 пустая**, хотя исходный комплект указывает **331 + 1**. До согласования состава ничего не удаляем. Статусов — **32 + 1 пустой**.
+Автор подтвердил конечную цель: **331 игровая/финальная карта + 1 пустая**. Нынешний избыток намеренный: идеи записаны с запасом для последующего отбора. При одном экземпляре на запись и 30 экземплярах «Кофе» сейчас получается **340 + 1 пустая**. Отбор ещё предстоит; текущие строки и количества не менялись. Статусов — **32 + 1 пустой**.
 
 ## ID convention / Постоянные номера
 
@@ -12,7 +12,7 @@ One copy per source row is a working assumption; Coffee explicitly specifies 30 
 - `EV-001` … `EV-311`: original event row order, not alphabetical order.
 - `EV-BLANK`: blank event card named in the original component list.
 - Never recycle IDs. Add new IDs after the largest existing number. Translation and illustration filenames retain the same ID.
-- `final` identifies WAKE UP; it does not resolve the open setup/drawing rules for that card.
+- `final` identifies WAKE UP. During setup it goes at the bottom of the deck; drawing it triggers the ending immediately. Unusual reveal/discard interactions still need clarification.
 
 Names and effects live in the language folders. This table owns copy counts for all translations. / Названия и эффекты находятся в языковых папках. Количества экземпляров для всех переводов задаются здесь.
 

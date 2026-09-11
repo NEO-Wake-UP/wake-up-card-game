@@ -1,179 +1,52 @@
-# WAKE UP rules — draft
+# WAKE UP
+**3–6 players**
 
-Extracted from the original README on 2026-09-10, retaining its gameplay wording. This is the existing gameplay outline, not a complete detailed rulebook. The [open questions](../../design/open-questions.md) still need to be resolved.
+### Setup
 
-[Event cards](cards/events.md) · [Status cards](cards/statuses.md) · [Components](../components.md)
+1. Shuffle the status cards. Deal one face up to each player.
+2. Set **WAKE UP** aside, shuffle the remaining event cards, then place WAKE UP at the bottom of the deck.
+3. Deal **5 event cards** face down to each player.
+4. Place the BABLOS in the centre of the table — this is the **Bank**. Each banknote is worth **100B**.
 
+### Playing the game
 
-## Players
+The game is played in rounds called **months**. The dealer takes the first turn, then play proceeds clockwise.
 
-3–6 players
+On your turn, **play one event card and resolve its effect**, or say **“pass.”**
 
-## Game Duration
+After resolving the card, place it in the **Discard pile** and draw **one new card**. Do not draw after passing.
 
-Approximately **30–90 minutes**
+To **discard** a card is to place it in the Discard pile without resolving its effect. Do not draw a replacement for a discarded card.
 
-## Game Components
+### Months and salary
 
-The game includes three types of cards:
+**After each of the dealer’s turns, including the first, the month ends.** All players receive a **100B salary** from the Bank, then a new month begins.
 
-### 1. Bablos (B)
+Status cards and event cards may change these rules: salary, card draws, the direction of play and when the month ends.
 
-Bablos is the in-game currency.
+### Bankruptcy
 
-Each card represents **100B**.
+If you do not have enough BABLOS to make a payment, pay everything you have. You are considered **bankrupt**, but stay in the game and owe nothing more for that payment.
 
-Bablos represents the economic energy produced by players in the system.
+### Standard victory
 
----
+Collect the required amount and declare victory:
 
-### 2. Status Cards
+- **Free-for-all:** 4400B — **“I am an oligarch!”**
+- **Two against two:** 8000B per team — **“We are millionaires!”**
+- **Three against three:** 10800B per team — **“We are millionaires!”**
 
-Each player has exactly **one status card**.
+If the other players confirm that you have reached or exceeded the target, you win! The game is over.
 
-Status cards represent social position and influence.
+Before starting, players may agree on a different amount needed to win.
 
-Examples:
+### Legendary ending
 
-- Son of an Official
-- Supermodel
-- Worker
-- Blogger
-- Startup Founder
+When you draw the final card, **WAKE UP**, immediately flip the coin:
 
-Status cards affect how players receive income or interact with others.
+- **WAKE:** you have awakened and won! Distribute your BABLOS among the other players however you wish. The game is over.
+- **UP:** the game ends with no winner. Start a new game from Setup.
 
-Players may change their status during the game if a card allows it.
+### Create your own card
 
----
-
-### 3. Event Cards
-
-Event cards represent situations and events that happen in life.
-
-Each card contains:
-
-- a title
-- an illustration
-- a short gameplay effect
-
-Examples:
-
-- Inflation
-- Lottery
-- Bribe
-- Cheap Transportation
-- Bureaucracy
-- Strike
-- Startup Investment
-
-## Setup
-
-1. Shuffle all **Status Cards**.
-2. Deal **one status card face up** to each player.
-3. Shuffle the **Event Cards**.
-4. Deal **5 event cards** face down to each player.
-5. Place the **Bablos cards** in a pile in the center of the table.  
-   This pile is called **The Bank**.
-
-## Game Structure
-
-The game is played in rounds.
-
-Each round represents **one month**.
-
-Players take turns **clockwise** starting from the dealer.
-
-## Player Turn
-
-During their turn a player may:
-
-- play one **event card** and apply its effect
-- choose a target player if required
-- or say **pass**
-
-After playing a card, the player draws **one new event card** from the deck.
-
-## End of Month
-
-When every player has taken a turn or passed, the month ends.
-
-At the end of each month:
-
-All players receive **100B salary from the Bank**.
-
-Status cards may modify this amount.
-
-Example:
-
-**Son of an Official**  
-receives **double salary (200B)**.
-
-## Goal of the Game
-
-**"Free-for-all" mode:**
-A player who collects 4,400B declares:
-"I am an oligarch."
-Once confirmed by the other players, they are declared the winner.
-
-**"Two-on-two" team play:**
-Players who collect a combined total of 8,000B declare:
-"We are millionaires."
-Once confirmed by the other players, they are declared the winners.
-
-**"Three-on-three" team play:**
-Players who collect a combined total of 10,800B declare:
-"We are millionaires."
-Once confirmed by the other players, they are declared the winners.
-
-(Players may also mutually agree upon a different target amount required for victory before the game begins.)
-
-## Blank Cards
-
-The game includes **blank cards**.
-
-Players may write their own:
-
-- status cards
-- event cards
-
-Anything written on a blank card becomes valid game rules.
-
-This allows infinite variations and creativity.
-
-## Special Coin
-
-The game includes a **Wake / Up coin**.
-
-The coin is used for certain event cards such as lotteries or chance effects.
-
-During normal gameplay:
-
-**UP = success**  
-**WAKE = failure**
-
-## The Final Card — WAKE UP
-
-If the Event Deck runs out, the final hidden card is revealed.
-
-The player who draws it reads the effect:
-
-Flip the Wake / Up coin.
-
-If the coin shows **WAKE**:
-
-You win.
-
-You have awakened.
-
-Distribute all your Bablos among the other players in any way you choose.
-
-Money no longer matters.
-
-The game ends.
-
-If the coin shows **UP**:
-
-The system continues.
-
-Start the game again from the beginning.
+The set includes one blank status card and one blank event card. Give them your own names and effects — or remove them from the decks.

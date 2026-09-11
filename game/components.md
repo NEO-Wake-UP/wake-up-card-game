@@ -6,7 +6,7 @@ Current specifications copied from the original design notes; final production c
 | --- | --- | --- |
 | Event and status cards / Игровые карты и статусы | 63 × 88 mm | Stated trim size / Указанный размер карты |
 | Status deck / Статусы | 32 + 1 blank / пустая | Matches 33 source entries / Соответствует 33 записям |
-| Event deck / Игровые карты | Source says 331 + 1 blank / В исходнике 331 + 1 пустая | [Count unresolved / Количество не согласовано](deck.md) |
+| Event deck / Игровые карты | Target: 331 + 1 blank / Цель: 331 + 1 пустая | [Target confirmed; selection pending / Цель подтверждена; отбор впереди](deck.md) |
 | BABLOS | 30,000 B, written as 3 × 10,000 in source | At 100 B per note this implies 300 notes / При номинале 100 B это 300 банкнот; расчёт |
 | BABLOS note / Банкнота | 155 × 65 mm; 100 B | Prototype has identical sides / Прототип одинаковый с двух сторон |
 | Coin / Монета | 35 mm diameter; 2 mm thick | [Original specification / Исходное ТЗ](../assets/coin/specification.md) |
