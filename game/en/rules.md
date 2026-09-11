@@ -8,13 +8,15 @@
 3. Deal **5 event cards** face down to each player.
 4. Place the BABLOS in the centre of the table — this is the **Bank**. Each banknote is worth **100B**.
 
+Keep your BABLOS stacks visible to all players.
+
 ### Playing the game
 
 The game is played in rounds called **months**. The dealer takes the first turn, then play proceeds clockwise.
 
 On your turn, **play one event card and resolve its effect**, or say **“pass.”**
 
-After resolving the card, place it in the **Discard pile** and draw **one new card**. Do not draw after passing.
+After playing the card, place it in the **Discard pile**, unless its effect requires you to keep it in front of you, and draw **one new card**. Do not draw after passing.
 
 To **discard** a card is to place it in the Discard pile without resolving its effect. Do not draw a replacement for a discarded card.
 
@@ -23,6 +25,8 @@ To **discard** a card is to place it in the Discard pile without resolving its e
 **After each of the dealer’s turns, including the first, the month ends.** All players receive a **100B salary** from the Bank, then a new month begins.
 
 Status cards and event cards may change these rules: salary, card draws, the direction of play and when the month ends.
+
+If the player whose turn ends the month is eliminated, that role passes to the next player in the current direction of play.
 
 ### Bankruptcy
 
