@@ -2,7 +2,7 @@
 
 Working terminology for consistent translation; not new mechanics. / Рабочие соответствия для единообразного перевода; не новые правила.
 
-The source mixes Latin B and Cyrillic В. Normalization is a later editorial task. / В исходнике смешаны латинская B и кириллическая В. Их унификация — отдельная редакторская задача.
+Use BABLOS for the currency name and Latin B immediately after amounts: 100B. On cards, use W for the Wake side and UP for the other side. / Деньги называются BABLOS; суммы пишутся с латинской B без пробела: 100B. На картах сторона Wake обозначается W, другая сторона — UP.
 
 | Key | Русский | English |
 | --- | --- | --- |

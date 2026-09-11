@@ -2,9 +2,9 @@
 
 **Provisional inventory, not an approved print manifest. / Предварительная опись, не утверждённый состав для печати.**
 
-The author confirmed the final target: **331 event/final cards + 1 blank event card**. The current catalogue deliberately contains reserve ideas for later selection. One copy per source row, with the explicitly specified 30 Coffee cards, gives **340 + 1 blank**. All 311 source rows remain separate, including duplicate names; the final selection is still pending.
+The author confirmed the final target: **331 event/final cards + 1 blank event card**. The current catalogue deliberately contains reserve ideas for later selection. One copy per source row, with the explicitly specified 30 Coffee cards, gives **333 + 1 blank** after EV-035, EV-109, EV-111, EV-263, EV-275, EV-287 and EV-305 were removed. The remaining 304 source rows are preserved while cards with similar functions are reviewed; the final selection is still pending.
 
-Автор подтвердил конечную цель: **331 игровая/финальная карта + 1 пустая**. Нынешний избыток намеренный: идеи записаны с запасом для последующего отбора. При одном экземпляре на запись и 30 экземплярах «Кофе» сейчас получается **340 + 1 пустая**. Отбор ещё предстоит; текущие строки и количества не менялись. Статусов — **32 + 1 пустой**.
+Автор подтвердил конечную цель: **331 игровая/финальная карта + 1 пустая**. Нынешний избыток намеренный: идеи записаны с запасом для последующего отбора. При одном экземпляре на запись и 30 экземплярах «Кофе» сейчас получается **333 + 1 пустая** после удаления EV-035, EV-109, EV-111, EV-263, EV-275, EV-287 и EV-305. Отбор ещё предстоит; оставшиеся карты с похожими функциями будут разобраны отдельно. Статусов — **32 + 1 пустой**.
 
 ## ID convention / Постоянные номера
 
@@ -85,7 +85,6 @@ Names and effects live in the language folders. This table owns copy counts for 
 | EV-032 | event | 1 | draft: one per source row |
 | EV-033 | event | 1 | draft: one per source row |
 | EV-034 | event | 1 | draft: one per source row |
-| EV-035 | event | 1 | draft: one per source row |
 | EV-036 | event | 1 | draft: one per source row |
 | EV-037 | event | 1 | draft: one per source row |
 | EV-038 | event | 1 | draft: one per source row |
@@ -159,9 +158,7 @@ Names and effects live in the language folders. This table owns copy counts for 
 | EV-106 | event | 1 | draft: one per source row |
 | EV-107 | event | 1 | draft: one per source row |
 | EV-108 | event | 1 | draft: one per source row |
-| EV-109 | event | 1 | draft: one per source row |
 | EV-110 | event | 1 | draft: one per source row |
-| EV-111 | event | 1 | draft: one per source row |
 | EV-112 | event | 1 | draft: one per source row |
 | EV-113 | event | 1 | draft: one per source row |
 | EV-114 | event | 1 | draft: one per source row |
@@ -313,7 +310,6 @@ Names and effects live in the language folders. This table owns copy counts for 
 | EV-260 | event | 1 | draft: one per source row |
 | EV-261 | event | 1 | draft: one per source row |
 | EV-262 | event | 1 | draft: one per source row |
-| EV-263 | event | 1 | draft: one per source row |
 | EV-264 | event | 1 | draft: one per source row |
 | EV-265 | event | 1 | draft: one per source row |
 | EV-266 | event | 1 | draft: one per source row |
@@ -325,7 +321,6 @@ Names and effects live in the language folders. This table owns copy counts for 
 | EV-272 | event | 1 | draft: one per source row |
 | EV-273 | event | 1 | draft: one per source row |
 | EV-274 | event | 1 | draft: one per source row |
-| EV-275 | event | 1 | draft: one per source row |
 | EV-276 | event | 1 | draft: one per source row |
 | EV-277 | event | 1 | draft: one per source row |
 | EV-278 | event | 1 | draft: one per source row |
@@ -337,7 +332,6 @@ Names and effects live in the language folders. This table owns copy counts for 
 | EV-284 | event | 1 | draft: one per source row |
 | EV-285 | event | 1 | draft: one per source row |
 | EV-286 | event | 1 | draft: one per source row |
-| EV-287 | event | 1 | draft: one per source row |
 | EV-288 | event | 1 | draft: one per source row |
 | EV-289 | event | 1 | draft: one per source row |
 | EV-290 | event | 1 | draft: one per source row |
@@ -355,7 +349,6 @@ Names and effects live in the language folders. This table owns copy counts for 
 | EV-302 | event | 1 | draft: one per source row |
 | EV-303 | event | 1 | draft: one per source row |
 | EV-304 | event | 1 | draft: one per source row |
-| EV-305 | event | 1 | draft: one per source row |
 | EV-306 | event | 1 | draft: one per source row |
 | EV-307 | event | 1 | draft: one per source row |
 | EV-308 | event | 1 | draft: one per source row |
