@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="63mm" height="88mm" viewBox="0 0 63 88">
+  <title>WAKE UP — blank event card drafting frame</title>
+  <desc>63 by 88 millimetres. Empty title, artwork and effect areas. No bleed.</desc>
+  <g id="frame">
+    <rect width="63" height="88" fill="white"/>
+    <rect x="1.5" y="1.5" width="60" height="85" rx="3" fill="white" stroke="#78b7db" stroke-width="0.7"/>
+  </g>
+  <g id="title-area">
+    <rect x="4" y="4" width="55" height="11" rx="2" fill="white" stroke="#78b7db" stroke-width="0.4"/>
+  </g>
+  <g id="art-area">
+    <rect x="4" y="17" width="55" height="43" rx="2" fill="white" stroke="#78b7db" stroke-width="0.3"/>
+  </g>
+  <g id="effect-area">
+    <rect x="4" y="62" width="55" height="22" rx="2" fill="white" stroke="#78b7db" stroke-width="0.4"/>
+  </g>
+</svg>
