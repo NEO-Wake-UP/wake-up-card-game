@@ -20,6 +20,8 @@ After playing the card, place it in the **Discard pile**, unless its effect requ
 
 To **discard** a card is to place it in the Discard pile without resolving its effect. Do not draw a replacement for a discarded card.
 
+When replacing your status, put the previous status card in the Discard pile unless the effect says otherwise.
+
 ### Months and salary
 
 **After each of the dealer’s turns, including the first, the month ends.** All players receive a **100B salary** from the Bank, then a new month begins.

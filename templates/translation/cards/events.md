@@ -38,7 +38,6 @@ Status: untranslated. Empty title/effect cells are fields to fill, not approved 
 | EV-032 |  |  |  |
 | EV-033 |  |  |  |
 | EV-034 |  |  |  |
-| EV-035 |  |  |  |
 | EV-036 |  |  |  |
 | EV-037 |  |  |  |
 | EV-038 |  |  |  |
@@ -112,9 +111,7 @@ Status: untranslated. Empty title/effect cells are fields to fill, not approved 
 | EV-106 |  |  |  |
 | EV-107 |  |  |  |
 | EV-108 |  |  |  |
-| EV-109 |  |  |  |
 | EV-110 |  |  |  |
-| EV-111 |  |  |  |
 | EV-112 |  |  |  |
 | EV-113 |  |  |  |
 | EV-114 |  |  |  |
@@ -266,7 +263,6 @@ Status: untranslated. Empty title/effect cells are fields to fill, not approved 
 | EV-260 |  |  |  |
 | EV-261 |  |  |  |
 | EV-262 |  |  |  |
-| EV-263 |  |  |  |
 | EV-264 |  |  |  |
 | EV-265 |  |  |  |
 | EV-266 |  |  |  |
@@ -278,7 +274,6 @@ Status: untranslated. Empty title/effect cells are fields to fill, not approved 
 | EV-272 |  |  |  |
 | EV-273 |  |  |  |
 | EV-274 |  |  |  |
-| EV-275 |  |  |  |
 | EV-276 |  |  |  |
 | EV-277 |  |  |  |
 | EV-278 |  |  |  |
@@ -290,7 +285,6 @@ Status: untranslated. Empty title/effect cells are fields to fill, not approved 
 | EV-284 |  |  |  |
 | EV-285 |  |  |  |
 | EV-286 |  |  |  |
-| EV-287 |  |  |  |
 | EV-288 |  |  |  |
 | EV-289 |  |  |  |
 | EV-290 |  |  |  |
@@ -308,7 +302,6 @@ Status: untranslated. Empty title/effect cells are fields to fill, not approved 
 | EV-302 |  |  |  |
 | EV-303 |  |  |  |
 | EV-304 |  |  |  |
-| EV-305 |  |  |  |
 | EV-306 |  |  |  |
 | EV-307 |  |  |  |
 | EV-308 |  |  |  |
