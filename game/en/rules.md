@@ -34,6 +34,8 @@ If the player whose turn ends the month is eliminated, that role passes to the n
 
 If you do not have enough BABLOS to make a payment, pay everything you have. You are considered **bankrupt**, but stay in the game and owe nothing more for that payment.
 
+When choosing between a payment and discarding a card, you may pay only if you can pay the full amount. If you do not have enough BABLOS, discard a card.
+
 ### Standard victory
 
 Collect the required amount and declare victory:
