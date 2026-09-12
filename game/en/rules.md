@@ -36,6 +36,8 @@ If you do not have enough BABLOS to make a payment, pay everything you have. You
 
 When choosing between a payment and discarding a card, you may pay only if you can pay the full amount. If you do not have enough BABLOS, discard a card.
 
+You may play a card that charges a fee for its effect only by paying the full amount. Bankruptcy does not replace payment.
+
 ### Standard victory
 
 Collect the required amount and declare victory:
