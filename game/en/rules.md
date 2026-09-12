@@ -18,6 +18,8 @@ On your turn, **play one event card and resolve its effect**, or say **â€œpass.â
 
 After playing the card, place it in the **Discard pile**, unless its effect requires you to keep it in front of you, and draw **one new card**. Do not draw after passing.
 
+For cards played consecutively in one turn, take their normal replacement draws after the entire chain, respecting any card-specific exceptions.
+
 To **discard** a card is to place it in the Discard pile without resolving its effect. Do not draw a replacement for a discarded card.
 
 Each player has one status card at a time. When you receive a new one, put the previous card in the Discard pile unless the effect says otherwise.
