@@ -12,3 +12,4 @@ This is a tabletop card-game repository, not an application. Keep it easy to edi
 - For new languages, follow templates/translation/README.md; keep all card IDs and identify incomplete/reviewed status.
 - Run python scripts/validate.py after structural or catalogue changes. For migration work, also compare original blobs and card text against the baseline. Rendering/proofing is required before claiming print readiness.
 - Explain changes to the user in plain Russian unless they request another language. Describe open questions as questions, not newly adopted rules.
+- Author's workflow preference: save approved changes to a working branch throughout the day; merge into main once at the end of the workday, not after every batch. Do not treat the earlier internal merge error as proof of a rate limit. As of the continuation after PR #11, the working branch is events-114-onward-review; check current repository state before writing.
