@@ -36,7 +36,7 @@ If the player whose turn ends the month is eliminated, that role passes to the n
 
 If you do not have enough BABLOS to make a payment, pay everything you have. You are considered **bankrupt**, but stay in the game and owe nothing more for that payment.
 
-When choosing between a payment and discarding a card, you may pay only if you can pay the full amount. If you do not have enough BABLOS, discard a card.
+When choosing between a payment and another action, you may pay only if you can pay the full amount. If you do not have enough BABLOS, take the other action.
 
 You may play a card that charges a fee for its effect only by paying the full amount. Bankruptcy does not replace payment.
 
