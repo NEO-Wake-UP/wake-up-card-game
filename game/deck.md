@@ -2,14 +2,15 @@
 
 **Provisional inventory, not an approved print manifest. / Предварительная опись, не утверждённый состав для печати.**
 
-The author confirmed the final target: **331 event/final cards + 1 blank event card**. The current catalogue deliberately contains reserve ideas for later selection. One copy per source row, with the explicitly specified 30 Coffee cards, gives **333 + 1 blank** after EV-035, EV-109, EV-111, EV-263, EV-275, EV-287 and EV-305 were removed. The remaining 304 source rows are preserved while cards with similar functions are reviewed; the final selection is still pending.
+The author confirmed the final target: **331 event/final cards + 1 blank event card**. The current catalogue deliberately contains reserve ideas for later selection. With 30 copies of Coffee, the remaining 304 source rows and newly added EV-312 give **334 + 1 blank**. EV-035, EV-109, EV-111, EV-263, EV-275, EV-287 and EV-305 remain removed. The final selection is still pending.
 
-Автор подтвердил конечную цель: **331 игровая/финальная карта + 1 пустая**. Нынешний избыток намеренный: идеи записаны с запасом для последующего отбора. При одном экземпляре на запись и 30 экземплярах «Кофе» сейчас получается **333 + 1 пустая** после удаления EV-035, EV-109, EV-111, EV-263, EV-275, EV-287 и EV-305. Отбор ещё предстоит; оставшиеся карты с похожими функциями будут разобраны отдельно. Статусов — **32 + 1 пустой**.
+Автор подтвердил конечную цель: **331 игровая/финальная карта + 1 пустая**. Нынешний избыток намеренный: идеи записаны с запасом для последующего отбора. После добавления EV-312 к 304 оставшимся исходным записям, с учётом 30 экземпляров «Кофе», получается **334 + 1 пустая**. EV-035, EV-109, EV-111, EV-263, EV-275, EV-287 и EV-305 остаются удалёнными. Отбор ещё предстоит; оставшиеся карты с похожими функциями будут разобраны отдельно. Статусов — **32 + 1 пустой**.
 
 ## ID convention / Постоянные номера
 
 - `ST-001` … `ST-033`: original status positions; `ST-005` is the original blank status.
 - `EV-001` … `EV-311`: original event row order, not alphabetical order.
+- `EV-312`: new event added during review on 2026-09-14. Numbering does not set physical deck order; WAKE UP remains last during setup.
 - `EV-BLANK`: blank event card named in the original component list.
 - Never recycle IDs. Add new IDs after the largest existing number. Translation and illustration filenames retain the same ID.
 - `final` identifies WAKE UP. During setup it goes at the bottom of the deck; drawing it triggers the ending immediately. Unusual reveal/discard interactions still need clarification.
@@ -355,4 +356,5 @@ Names and effects live in the language folders. This table owns copy counts for 
 | EV-309 | event | 1 | draft: one per source row |
 | EV-310 | event | 1 | draft: one per source row |
 | EV-311 | final | 1 | draft: one per source row |
+| EV-312 | event | 1 | author-added: ordinary tablets, 2026-09-14 |
 | EV-BLANK | blank-event | 1 | explicit blank component |
