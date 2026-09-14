@@ -356,5 +356,5 @@ Names and effects live in the language folders. This table owns copy counts for 
 | EV-309 | event | 1 | draft: one per source row |
 | EV-310 | event | 1 | draft: one per source row |
 | EV-311 | final | 1 | draft: one per source row |
-| EV-312 | event | 1 | author-added: ordinary tablets, 2026-09-14 |
+| EV-312 | event | 1 | author-added: ordinary tablet, 2026-09-14 |
 | EV-BLANK | blank-event | 1 | explicit blank component |
