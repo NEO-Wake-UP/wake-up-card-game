@@ -62,3 +62,5 @@ When you draw the final card, **WAKE UP**, immediately flip the coin:
 ### Create your own card
 
 The set includes one blank status card and one blank event card. Give them your own names and effects — or remove them from the decks.
+
+If it's unclear, decide for yourselves.
