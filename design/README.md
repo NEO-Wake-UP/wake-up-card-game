@@ -6,7 +6,7 @@
 - [Текущее состояние проекта / Project state](project-state.md)
 - [Вопросы доработки / Open questions](open-questions.md)
 - [Задания художнику для статусов](status-art-briefs.ru.md)
-- [Замыслы игровых карт и задания художнику](event-design-notes.ru.md)
+- [Замыслы карт событий и задания художнику](event-design-notes.ru.md)
 
 Игровые эффекты редактируются в [game/ru](../game/ru/README.md), а не в заметках художнику. / Edit gameplay text in the card catalogue, not in art briefs.
 
@@ -19,3 +19,5 @@
 **Приглашение создателям:** если вы разрабатываете мобильные или сетевые игры и хотите помочь воплотить эту идею, свяжитесь с автором через [контакты проекта](../CONTACTS.md). Вместе можно обсудить прототип и условия участия.
 
 The author's future concept is a shared smartphone lobby with live video of the players at the top and the game below. Preserve social interaction, humor and team play. App development has not started; platform and schedule are undecided. Mobile and multiplayer game creators interested in collaborating are invited to [contact the author](../CONTACTS.md).
+
+Последние решения перед паузой: [EV-244–253, терминология и статусы](reviews/2026-09-15-ev-244-253-and-terminology.ru.md).

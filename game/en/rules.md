@@ -1,6 +1,8 @@
 # WAKE UP
 **3–6 players**
 
+There are three card types: **BABLOS**, **STATUS** and **EVENT** — referred to as BABLOS banknotes, status cards and event cards in these rules.
+
 ### Setup
 
 1. Shuffle the status cards. Deal one face up to each player.
@@ -16,11 +18,11 @@ The game is played in rounds called **months**. The dealer takes the first turn,
 
 On your turn, **play one event card and resolve its effect**, or say **“pass.”**
 
-After playing the card, place it in the **Discard pile**, unless its effect requires you to keep it in front of you, and draw **one new card**. Do not draw after passing.
+After playing the card, place it in the **Discard pile**, unless its effect requires you to keep it in front of you, and draw **an event card from the deck** — this is your replacement draw. Do not draw after passing.
 
 For cards played consecutively in one turn, take their normal replacement draws after the entire chain, respecting any card-specific exceptions.
 
-To **discard** a card is to place it in the Discard pile without resolving its effect. Do not draw a replacement for a discarded card.
+The **Discard pile** holds both played and discarded cards. To **discard a card** is to place it there without resolving its effect. Do not draw a replacement for this discard unless stated otherwise.
 
 Each player has one status card at a time. When you receive a new one, put the previous card in the Discard pile unless the effect says otherwise.
 
