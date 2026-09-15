@@ -20,7 +20,7 @@ The template contains every current card ID with empty translation fields. The R
 
 ## Worksheet files / Файлы для заполнения
 
-- [Event cards / Игровые карты](cards/events.md)
+- [Event cards / Карты событий](cards/events.md)
 - [Status cards / Статусы](cards/statuses.md)
 - [Rules / Правила](rules.md)
 - [Glossary / Словарь](glossary.md)

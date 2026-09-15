@@ -22,8 +22,8 @@ The lettering inside illustrations may also need translation. / Надписи �
 | Prototype | ID |
 | --- | --- |
 | [Shopaholic / Шопоголик](prototypes/cards/status-shopaholic.ru.png) | ST-022 |
-| [Conspiracy theorist / Теоретик заговора](prototypes/cards/status-conspiracy-theorist.ru.png) | ST-019 |
+| [Old ST-019 prototype / Старый прототип ST-019](prototypes/cards/status-conspiracy-theorist.ru.png) | ST-019 |
 | [Budget trip / Экономная поездка](prototypes/cards/event-budget-trip.ru.png) | EV-212 |
 
 
-The conspiracy-theorist picture says all players must agree; the source text says a majority. The current text catalogue retains the source wording. / На картинке Теоретика заговора указано согласие всех, в тексте — большинства. В каталоге сохранена исходная текстовая версия.
+ST-019 is now «Городской сумасшедший», with a new effect and no vote or reward. This prototype retains the old title and effect and needs new lettering. / ST-019 теперь «Городской сумасшедший»: новый эффект без голосования и награды. Прототип сохраняет старое название и эффект; надписи требуют обновления.
