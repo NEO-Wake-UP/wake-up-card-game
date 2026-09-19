@@ -1,6 +1,6 @@
 # Blank card layouts / Пустые макеты карт
 
-- [Event card / Игровая карта](event-blank.svg)
+- [Event card / Событие](event-blank.svg)
 - [Status card / Карта статуса](status-blank.svg)
 
 Two editable SVG drafting frames, **63 × 88 mm** each. They have separate areas for title, illustration and effect, with no visible text. Use them for handwritten custom cards or as a starting point in a vector editor. The status frame uses gold; the event frame uses blue. These are newly drawn basic frames, not the illustrated style of the existing prototypes.
