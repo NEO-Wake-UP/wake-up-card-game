@@ -4,7 +4,7 @@
 
 The author confirmed the final target: **331 event/final cards + 1 blank event card**. The current catalogue deliberately contains reserve ideas for later selection. With 30 copies of Coffee, the remaining 304 source rows and newly added EV-312 and EV-314 give **335 + 1 blank**. EV-035, EV-109, EV-111, EV-263, EV-275, EV-287, EV-305 and EV-313 are removed; EV-313 duplicated EV-188. The final selection is still pending.
 
-Автор подтвердил конечную цель: **331 карта события (включая финальную) + 1 пустая**. Избыток намеренный: идеи записаны с запасом для отбора. С новыми EV-312 и EV-314, 304 оставшимися исходными записями и 30 экземплярами «Кофе» получается **335 + 1 пустая**. EV-035, EV-109, EV-111, EV-263, EV-275, EV-287, EV-305 и EV-313 удалены; EV-313 повторяла EV-188. Отбор ещё предстоит. Статусов — **32 + 1 пустой**.
+Автор подтвердил конечную цель: **331 событие (включая финальное) + 1 пустое**. Избыток намеренный: идеи записаны с запасом для отбора. С новыми EV-312 и EV-314, 304 оставшимися исходными записями и 30 экземплярами «Кофе» получается **335 + 1 пустая**. EV-035, EV-109, EV-111, EV-263, EV-275, EV-287, EV-305 и EV-313 удалены; EV-313 повторяла EV-188. Отбор ещё предстоит. Статусов — **32 + 1 пустой**.
 
 ## ID convention / Постоянные номера
 

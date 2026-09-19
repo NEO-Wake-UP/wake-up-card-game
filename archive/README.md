@@ -2,7 +2,7 @@
 
 Historical snapshot before the 2026-09-10 reorganization, source commit `65d3758e11f264b960525a1b42c0f62d561173cf`. Keep as reference; edit [current game files](../game/README.md).
 
-Снимок до реорганизации от 2026-09-10. Исходные тексты сохранены целиком, включая прежние неточные ссылки и смешение разделов. Они нужны для сверки; рабочие файлы находятся в новых папках.
+Снимок до реорганизации от 2026-09-10. Исторические механики, прежние неточные ссылки и смешение разделов сохранены для сверки; рабочие файлы находятся в новых папках. По прямому запросу автора от 2026-09-19 в архивных текстах обновлены названия «событие» / «события» и «сброс» с согласованием слов. Дословный исходник доступен в указанном коммите.
 
 - [Original README / Прежний README](2026-09-10/original-readme.md)
 - [Original design notes / Прежний rulebook](2026-09-10/original-design-notes.ru.md)
@@ -31,4 +31,4 @@ Historical snapshot before the 2026-09-10 reorganization, source commit `65d3758
 | prototype/game currency (the same on both sides).png | [assets/prototypes/currency/bablos-100.png](../assets/prototypes/currency/bablos-100.png) |
 
 
-The former README is preserved above and replaced at the root with bilingual navigation. LICENSE.md is unchanged. All moved files retain their original bytes; extracted current text has formatting and ID additions. The artwork folder is not a collection of approved print exports.
+The former README is preserved above and replaced at the root with bilingual navigation. LICENSE.md is unchanged. Binary assets retain their original bytes. On 2026-09-19 the author requested terminology updates throughout the repository, including these archived text copies; the source commit preserves the verbatim originals. Extracted current text has formatting and ID additions. The artwork folder is not a collection of approved print exports.

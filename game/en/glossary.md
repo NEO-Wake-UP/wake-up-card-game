@@ -10,7 +10,7 @@ Use BABLOS for the currency name and Latin B immediately after amounts: 100B. On
 | bank | Банк | Bank |
 | month | Месяц | Month |
 | salary | Зарплата | Salary |
-| event-card | Карта события | Event card |
+| event-card | Событие | Event card |
 | status-card | Карта статуса | Status card |
 | discard | Сброс | Discard pile |
 | coin-up | UP | UP |
