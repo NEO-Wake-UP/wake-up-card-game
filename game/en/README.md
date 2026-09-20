@@ -2,10 +2,10 @@
 
 Status: **work in progress**, not a complete playable English release.
 
-- [Rules](rules.md): translation of the previous Russian edition. It does not yet reflect the short Russian rules updated on 2026-09-19–20. Translation will follow completion of the Russian wording.
+- [Rules](rules.md): current translation of the author-approved Russian A5 rules (2026-09-20), prepared by the AI assistant at the author’s request. Translation status: draft pending independent language review; the gameplay meaning has been checked against the Russian source. Source details: [rules review](../../design/reviews/2026-09-20-short-rules.ru.md).
 - [Event cards](cards/events.md): IDs provided; titles and effects awaiting translation.
 - [Status cards](cards/statuses.md): IDs provided; titles and effects awaiting translation.
-- [Glossary](glossary.md): working terminology from the existing English introduction.
+- [Glossary](glossary.md): terminology used in the current rules translation.
 - [Shared deck composition](../deck.md)
 - [Print pack status](../../print-and-play/en/README.md)
 
