@@ -2,6 +2,7 @@
 
 Эти материалы предназначены для работы над игрой и могут раскрывать финал. / These documents support development and may reveal the ending.
 
+- [Актуальные решения: единые короткие русские правила, 2026-09-20](reviews/2026-09-20-short-rules.ru.md) — имеют приоритет над прежними описаниями общих правил.
 - [Авторский замысел](vision.ru.md)
 - [Текущее состояние проекта / Project state](project-state.md)
 - [Вопросы доработки / Open questions](open-questions.md)
