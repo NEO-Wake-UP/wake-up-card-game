@@ -13,7 +13,7 @@ The author confirmed the final target: **331 event/final cards + 1 blank event c
 - `EV-312` and `EV-314`: active events added during review. `EV-313` was removed as a duplicate; do not reuse this ID. Numbering does not set physical deck order; WAKE UP remains last during setup.
 - `EV-BLANK`: blank event card named in the original component list.
 - Never recycle IDs. Add new IDs after the largest existing number. Translation and illustration filenames retain the same ID.
-- `final` identifies WAKE UP. During setup it goes at the bottom of the deck; drawing it triggers the ending immediately. EV-172 may discard it; the author's intended winnerless outcome is kept in design notes and deliberately unstated on the card. Other unusual reveal/discard interactions still need clarification.
+- `final` identifies WAKE UP. During setup it goes at the bottom of the deck. Under the latest [short-rules decisions](../design/reviews/2026-09-20-short-rules.ru.md), receiving it puts it in hand; the player plays it on their own turn to trigger the ending. Revealing or receiving it does not trigger the ending. EV-172 may discard it; the author's intended winnerless outcome is kept in design notes and deliberately unstated on the card. Other unusual reveal/discard interactions still need clarification.
 
 Names and effects live in the language folders. This table owns copy counts for all translations. / Названия и эффекты находятся в языковых папках. Количества экземпляров для всех переводов задаются здесь.
 

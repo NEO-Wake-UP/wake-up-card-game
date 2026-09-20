@@ -3,7 +3,7 @@
 **A satirical card game about money, status and the choices we make.**  
 **Сатирическая карточная игра о деньгах, статусе и наших жизненных выборах.**
 
-3–6 players / игроков · 30–90 minutes / минут (current estimate / текущая оценка)
+3–6 players / игроков · 33–99 minutes / минут · ages / возраст 9–99 (as stated in the current Russian rules / по текущим русским правилам)
 
 Earn BABLOS, change your social status and navigate absurd events. Play for fun, or discover something about the values behind the race.  
 Зарабатывайте BABLOS, меняйте социальный статус и попадайте в абсурдные ситуации. Можно просто повеселиться — или задуматься о ценностях, стоящих за этой гонкой.
@@ -16,8 +16,9 @@ Earn BABLOS, change your social status and navigate absurd events. Play for fun,
 | English | [English edition](game/en/README.md) | [Print pack status](print-and-play/en/README.md) |
 | Other languages / Другие языки | [Translation guide / Как перевести](templates/translation/README.md) | [Blank card layouts / Пустые макеты](templates/cards/README.md) |
 
-**Work in progress:** The approved Russian rules and their English translation are available. Russian card texts are being refined; the English card catalogue awaits translation. Complete printable sets are not available yet.  
-**Идёт доработка:** утверждённые русские правила и их английский перевод готовы. Русские карты проходят доработку; английский каталог ждёт перевода. Полных готовых наборов для печати пока нет.
+**Work in progress:** The Russian rules are being finalized as one concise text for GitHub and the box. The English rules still reflect the previous edition and will be updated after the Russian wording is complete. Russian card texts are being refined; the English card catalogue awaits translation. Complete printable sets are not available yet.
+
+**Идёт доработка:** русские правила доводятся до единого короткого текста для GitHub и коробки. Английские правила пока соответствуют предыдущей редакции; перевод обновим после завершения русской. Русские карты проходят доработку; английский каталог ждёт перевода. Полных готовых наборов для печати пока нет.
 
 ## Work on the game / Работать над игрой
 

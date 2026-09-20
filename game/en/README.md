@@ -2,7 +2,7 @@
 
 Status: **work in progress**, not a complete playable English release.
 
-- [Rules](rules.md): complete English translation of the Russian text approved by the author on 2026-09-10.
+- [Rules](rules.md): translation of the previous Russian edition. It does not yet reflect the short Russian rules updated on 2026-09-19–20. Translation will follow completion of the Russian wording.
 - [Event cards](cards/events.md): IDs provided; titles and effects awaiting translation.
 - [Status cards](cards/statuses.md): IDs provided; titles and effects awaiting translation.
 - [Glossary](glossary.md): working terminology from the existing English introduction.
