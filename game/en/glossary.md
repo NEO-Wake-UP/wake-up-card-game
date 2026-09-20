@@ -9,10 +9,13 @@ Use BABLOS for the currency name and Latin B immediately after amounts: 100B. On
 | currency | BABLOS / B | BABLOS / B |
 | bank | Банк | Bank |
 | month | Месяц | Month |
+| dealer | Раздающий | Dealer |
 | salary | Зарплата | Salary |
-| event-card | Событие | Event card |
+| event-card | Событие | Event (event card) |
 | status-card | Карта статуса | Status card |
 | discard | Сброс | Discard pile |
+| standard-victory | Основная победа | Standard victory |
+| legendary-victory | Легендарная победа | Legendary victory |
 | coin-up | UP | UP |
 | coin-wake | WAKE / W | WAKE / W |
 | final-card | WAKE UP | WAKE UP |

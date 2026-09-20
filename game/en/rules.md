@@ -1,68 +1,47 @@
 # WAKE UP
-**3–6 players**
 
-There are three card types: **BABLOS**, **STATUS** and **EVENT** — referred to as BABLOS banknotes, status cards and event cards in these rules.
+**3–6 players / 33–99 minutes / ages 9–99**
 
-### Setup
+## Contents
+
+**BABLOS** — 300 green banknotes worth 100B each; **STATUS** — 33 cards with purple backs; **EVENT** — 332 cards with light blue backs. And one **GOLD COIN**.
+
+## Setup
 
 1. Shuffle the status cards. Deal one face up to each player.
-2. Set **WAKE UP** aside, shuffle the remaining event cards, then place WAKE UP at the bottom of the deck.
-3. Deal **5 event cards** face down to each player.
-4. Place the BABLOS in the centre of the table — this is the **Bank**. Each banknote is worth **100B**.
+2. Place the **“WAKE UP”** event at the bottom of the shuffled event deck.
+3. Deal **5 events** face down to each player.
+4. Place the BABLOS in the centre of the table — this is the **Bank**.
 
-Keep your BABLOS stacks visible to all players.
+## Playing the game
 
-### Playing the game
+Status and event effects take priority over the rules.
 
-The game is played in rounds called **months**. The dealer takes the first turn, then play proceeds clockwise.
+The dealer goes first, then play proceeds clockwise. On your turn, play **one event** and resolve its effect, or say “pass”. After playing an event, put it in the **discard pile** and draw a new one **from the deck**. Do not draw after passing or discarding without playing.
 
-On your turn, **play one event card and resolve its effect**, or say **“pass.”**
+When your status changes, discard the old one; you may use the new effect immediately. **BABLOS belong to individual players.** You may transfer BABLOS and events only through card effects.
 
-After playing the card, place it in the **Discard pile**, unless its effect requires you to keep it in front of you, and draw **an event card from the deck** — this is your replacement draw. Do not draw after passing.
+The game is divided into **months**. At the end of each month, all players receive a **100B salary** from the Bank. A month ends after the dealer’s turn, **including the first**.
 
-For cards played consecutively in one turn, take their normal replacement draws after the entire chain, respecting any card-specific exceptions.
+If you do not have enough BABLOS for a mandatory payment, pay the BABLOS you have and keep playing. You are bankrupt; the remainder of that payment is written off. **Paying for an event effect requires the full amount.**
 
-The **Discard pile** holds both played and discarded cards. To **discard a card** is to place it there without resolving its effect. Do not draw a replacement for this discard unless stated otherwise.
+Fill in the blank cards or leave them out of the game.
 
-Each player has one status card at a time. When you receive a new one, put the previous card in the Discard pile unless the effect says otherwise.
+## Standard victory
 
-### Months and salary
+To win, show that you have the stated amount or more **at the end of any turn**:
 
-**After each of the dealer’s turns, including the first, the month ends.** All players receive a **100B salary** from the Bank, then a new month begins.
+- **Free-for-all:** 4400B — “I am an oligarch!”
+- **Two against two:** 8000B per team — “We are millionaires!”
+- **Three against three:** 10800B per team — “We are billionaires!”
 
-Status cards and event cards may change these rules: salary, card draws, the direction of play and when the month ends.
+You may agree on a different winning amount before the game begins.
 
-If the player whose turn ends the month is eliminated, that role passes to the next player in the current direction of play.
+## Legendary victory
 
-### Bankruptcy
+Play the **“WAKE UP”** event on your turn and flip the coin:
 
-If you do not have enough BABLOS to make a payment, pay everything you have. You are considered **bankrupt**, but stay in the game and owe nothing more for that payment.
+- **WAKE:** you have awakened and won! Distribute your BABLOS among the other players however you wish.
+- **UP:** start a new game!
 
-When choosing between a payment and another action, you may pay only if you can pay the full amount. If you do not have enough BABLOS, take the other action.
-
-You may play a card that charges a fee for its effect only by paying the full amount. Bankruptcy does not replace payment.
-
-### Standard victory
-
-Collect the required amount and declare victory:
-
-- **Free-for-all:** 4400B — **“I am an oligarch!”**
-- **Two against two:** 8000B per team — **“We are millionaires!”**
-- **Three against three:** 10800B per team — **“We are millionaires!”**
-
-If the other players confirm that you have reached or exceeded the target, you win! The game is over.
-
-Before starting, players may agree on a different amount needed to win.
-
-### Legendary ending
-
-When you draw the final card, **WAKE UP**, immediately flip the coin:
-
-- **WAKE:** you have awakened and won! Distribute your BABLOS among the other players however you wish. The game is over.
-- **UP:** the game ends with no winner. Start a new game from Setup.
-
-### Create your own card
-
-The set includes one blank status card and one blank event card. Give them your own names and effects — or remove them from the decks.
-
-If it's unclear, decide for yourselves.
+**If anything is unclear, decide for yourselves.** Blah, blah, blah… Let’s play!

@@ -2,7 +2,7 @@
 
 **No complete print-ready pack is available yet. / Полного готового набора пока нет.**
 
-- [Русский набор: статус](ru/README.md)
+- [Русский набор: правила A5 и статус остальных компонентов](ru/README.md)
 - [English pack status](en/README.md)
 - [Blank card layouts / Пустые рамки](../templates/cards/README.md)
 
