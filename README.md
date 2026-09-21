@@ -39,4 +39,6 @@ See [CONTRIBUTING](CONTRIBUTING.md) for browser editing and contributions.
 Original concept and design: **Luchinkin Dmitrii Olegovich / Лучинкин Дмитрий Олегович**. Created with the help of AI tools.  
 Оригинальная идея и разработка; создано при помощи инструментов искусственного интеллекта.
 
-[Author's distribution terms / Авторские условия распространения](LICENSE.md) · [Contacts / Контакты](CONTACTS.md)
+[Лицензия WAKE UP](LICENSE.md) · [English licence translation](legal/license.en.md) · [Пояснения и прежние права / Transition and earlier rights](legal/README.md) · [Contacts / Контакты](CONTACTS.md)
+
+Собственная лицензия разрешает издание и переработки с ограничением наценки и обязательным обозначением версии. Ранее предоставленные права, включая права по CC в их прежнем объёме, сохраняются. / The custom licence permits publishing and adaptations subject to a price cap and edition notices. Previously granted rights, including earlier CC permissions within their scope, remain available.

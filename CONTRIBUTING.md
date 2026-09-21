@@ -27,7 +27,8 @@
 - Keep art without gameplay lettering; maintain title and effect as editable text. / Картинка и текст — отдельно.
 - The Russian catalogue is the current wording source. Mark translations draft/reviewed with a source commit; updating an image does not update the rules. / У переводов указываем статус и редакцию исходника.
 - Keep historical source snapshots in archive; edit the current game folders. / Архивные снимки не являются рабочими копиями.
-- Preserve author attribution and the existing [distribution terms](LICENSE.md). / Сохраняйте авторство и условия распространения.
+- Preserve attribution and follow the [current licence](LICENSE.md), its [English translation](legal/license.en.md) and the [transition notes](legal/README.md). Earlier permissions remain available within their scope. / Сохраняйте авторство и учитывайте новую лицензию и прежние разрешения.
+- When intentionally submitting your own copyrightable contribution for inclusion under the current project licence, state that you have the necessary rights and offer the contribution under that licence. Do not assume an unmarked third-party submission transfers rights. / При передаче собственного охраняемого вклада для включения на текущих условиях явно укажите наличие нужных прав и разрешение по этой лицензии. Молчание стороннего автора не означает передачу прав.
 
 ## Optional local check / Проверка на компьютере
 

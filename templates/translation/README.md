@@ -18,6 +18,10 @@ The template contains every current card ID with empty translation fields. The R
 
 Путь «вписать название и эффект → распечатать» станет полностью доступен после подготовки окончательных макетов с отдельным текстовым слоем. Сейчас уже готовы таблицы перевода и пустые рамки; полного набора иллюстрированных шаблонов пока нет.
 
+For editions relying on the new [WAKE UP licence](../../LICENSE.md), a faithful translation uses the “TRANSLATION OF THE AUTHOR EDITION OF WAKE UP” notice with the author’s name and project address. Changes to gameplay, card composition or illustrations require the modified-edition notice. Read the [English terms](../../legal/license.en.md) and [transition notes](../../legal/README.md); previously granted rights remain available within their scope.
+
+Для издания на условиях новой лицензии точный перевод получает пометку «ПЕРЕВОД АВТОРСКОЙ ВЕРСИИ WAKE UP» с именем автора и ссылкой. Изменённые правила, состав или иллюстрации требуют пометки модификации.
+
 ## Worksheet files / Файлы для заполнения
 
 - [Event cards / События](cards/events.md)
