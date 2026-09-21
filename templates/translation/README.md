@@ -18,9 +18,9 @@ The template contains every current card ID with empty translation fields. The R
 
 Путь «вписать название и эффект → распечатать» станет полностью доступен после подготовки окончательных макетов с отдельным текстовым слоем. Сейчас уже готовы таблицы перевода и пустые рамки; полного набора иллюстрированных шаблонов пока нет.
 
-For editions relying on the new [WAKE UP licence](../../LICENSE.md), a faithful translation uses the “TRANSLATION OF THE AUTHOR EDITION OF WAKE UP” notice with the author’s name and project address. Changes to gameplay, card composition or illustrations require the modified-edition notice. Read the [English terms](../../legal/license.en.md) and [transition notes](../../legal/README.md); previously granted rights remain available within their scope.
+Translations may be shared under standard [CC BY-SA 4.0](../../LICENSE.md), subject to its attribution, change-notice and ShareAlike conditions. A faithful translation is still a change to identify and may be an adaptation under CC. There is no extra price limit or mandatory box-label format. “Translation of the author edition of WAKE UP” is a suggested label for faithful translations; use “Modified edition” when changing content as well. See the [English explanation](../../legal/license.en.md) and [voluntary publishing suggestions](../../legal/publishing-guide.md).
 
-Для издания на условиях новой лицензии точный перевод получает пометку «ПЕРЕВОД АВТОРСКОЙ ВЕРСИИ WAKE UP» с именем автора и ссылкой. Изменённые правила, состав или иллюстрации требуют пометки модификации.
+Переводы можно распространять по стандартной CC BY-SA 4.0 с соблюдением её условий авторства, обозначения изменений и ShareAlike. Точный перевод тоже нужно обозначить как изменение; в смысле CC он может быть переработкой. Дополнительного ограничения цены и обязательного формата надписи на коробке нет. «Перевод авторской версии WAKE UP» — рекомендуемая пометка точного перевода; при изменении содержания рекомендуем «Модифицированная версия». Это добровольные примеры оформления, а не дополнительные условия лицензии.
 
 ## Worksheet files / Файлы для заполнения
 
