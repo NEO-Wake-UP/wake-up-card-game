@@ -17,7 +17,7 @@
 
 Status and event effects take priority over the rules.
 
-The dealer goes first, then play proceeds clockwise. On your turn, play **one event** and resolve its effect, or say “pass”. After playing an event, put it in the **discard pile** and draw a new one **from the deck**. Do not draw after passing or discarding without playing.
+The player who completed setup is the **dealer**. They go first, then play proceeds clockwise. On your turn, play **one event**, resolve its effect, put the event in the **discard pile** and draw a new one **from the deck**. Alternatively, say “pass” — voluntarily skip your turn without drawing. Discarding an event without playing it does not give you a draw.
 
 When your status changes, discard the old one; you may use the new effect immediately. **BABLOS belong to individual players.** You may transfer BABLOS and events only through card effects.
 
@@ -25,7 +25,7 @@ The game is divided into **months**. At the end of each month, all players recei
 
 If you do not have enough BABLOS for a mandatory payment, pay the BABLOS you have and keep playing. You are bankrupt; the remainder of that payment is written off. **Paying for an event effect requires the full amount.**
 
-Fill in the blank cards or leave them out of the game.
+There are two blank cards — fill them in or leave them out of the game.
 
 ## Standard victory
 
@@ -35,13 +35,13 @@ To win, show that you have the stated amount or more **at the end of any turn**:
 - **Two against two:** 8000B per team — “We are millionaires!”
 - **Three against three:** 10800B per team — “We are billionaires!”
 
-You may agree on a different winning amount before the game begins.
+(You may agree on a different winning amount before the game begins.)
 
 ## Legendary victory
 
 Play the **“WAKE UP”** event on your turn and flip the coin:
 
-- **WAKE:** you have awakened and won! Distribute your BABLOS among the other players however you wish.
+- **WAKE:** you have awakened and won! Distribute your BABLOS among the other players.
 - **UP:** start a new game!
 
 **If anything is unclear, decide for yourselves.** Blah, blah, blah… Let’s play!

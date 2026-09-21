@@ -1,87 +1,29 @@
-WAKE UP — Card Game
+# WAKE UP — CC BY-SA 4.0
 
-Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)
+© 2026 Лучинкин Дмитрий Олегович / Luchinkin Dmitrii Olegovich.
 
-Copyright (c) 2026 Luchinkin Dmitrii Olegovich (20.08.1984)
+Авторский проект / Author's project: <https://github.com/NEO-Wake-UP/wake-up-card-game>.
 
-You are free to:
+## Русский
 
-• Download the game and print it.
-• Play and share the game.
-• Modify the game and create new cards.
-• Distribute digital or physical copies of the game.
+Автор предоставляет принадлежащие ему права на материалы игры WAKE UP в этом репозитории по стандартной лицензии **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)**: <https://creativecommons.org/licenses/by-sa/4.0/>.
 
-Conditions:
+Это относится к правилам, текстам карт, охраняемому подбору и расположению материалов, иллюстрациям, макетам и документации автора, включая его ранее опубликованные версии. Разрешение действует только в пределах прав, которыми автор вправе распоряжаться; отдельно обозначенные материалы третьих лиц сохраняют свои условия. Это уведомление не перелицензирует программный код и не создаёт прав на неохраняемые идеи или игровые механики.
 
-1. Attribution (BY)
+**Дополнительных ограничений цены, наценки, прибыли, размера тиража или обязательного согласования с автором нет.** Прежние дополнительные требования автора о цене, отчётности, бесплатном размещении файлов и специальной маркировке не применяются к использованию этих материалов по данному разрешению. Ранее предоставленные права не отзываются.
 
-You must give appropriate credit to the original author:
-"Luchinkin Dmitrii Olegovich, creator of the Wake Up card game".
+[Полный неизменённый текст лицензии](legal/cc-by-sa-4.0.txt) · [Официальное краткое описание на русском](https://creativecommons.org/licenses/by-sa/4.0/deed.ru) · [Пояснения и история](legal/README.md).
 
-2. ShareAlike (SA)
+Материалы предоставляются как есть; применяются положения об отказе от гарантий и ограничении ответственности из раздела 5 лицензии. Этот файл обозначает материалы и выбранную лицензию, не изменяя её стандартных условий. [Пожелания издателям](legal/publishing-guide.md) добровольны и не являются дополнительными условиями лицензии.
 
-If you modify or adapt the game, you must distribute your version under the same license (CC BY-SA 4.0).
+## English
 
-3. Physical copies
+The author licenses the rights he controls in the WAKE UP game materials in this repository under the standard **Creative Commons Attribution-ShareAlike 4.0 International (CC BY-SA 4.0)** licence: <https://creativecommons.org/licenses/by-sa/4.0/>.
 
-Selling physical copies is allowed, but the price must not exceed:
+This covers the author's rules, card texts, copyrightable selection and arrangement, artwork, layouts and documentation, including his previously published versions. Permission extends only to rights the author can license; separately identified third-party materials retain their own terms. This notice does not relicense software or create rights in unprotected ideas or game mechanics.
 
-production cost + 50% (including taxes).
+**There are no additional limits on price, markup, profit or print-run size, and no requirement to obtain the author's individual approval.** The author's former additional requirements concerning price, reporting, free file hosting and special edition labels do not apply to use of these materials under this grant. Previously granted rights are not revoked.
 
-4. Digital copies
+[Unmodified full legal code](legal/cc-by-sa-4.0.txt) · [English explanation](legal/license.en.md) · [Background and history](legal/README.md).
 
-Digital versions of the game must remain freely accessible for download.
-
-5. Included materials
-
-All game materials (rules, cards, graphics) created by the author are covered by this license unless stated otherwise.
-
-Full license text:
-https://creativecommons.org/licenses/by-sa/4.0/
-
-
-------------------------------------------------------------
-
-НЕОФИЦИАЛЬНЫЙ ПЕРЕВОД НА РУССКИЙ ЯЗЫК
-(официальной юридической версией является английский текст выше)
-
-WAKE UP — карточная игра
-
-Лицензия Creative Commons Attribution-ShareAlike 4.0
-
-Авторское право (c) 2026 Лучинкин Дмитрий Олегович (20.08.1984)
-
-Вы можете:
-
-• Скачать игру и распечатать её.
-• Играть и делиться игрой.
-• Изменять игру и создавать новые карты.
-• Распространять цифровые и физические копии игры.
-
-Условия:
-
-1. Указание авторства
-
-При распространении игры необходимо указывать автора:
-"Лучинкин Дмитрий Олегович, создатель карточной игры Wake Up".
-
-2. Та же лицензия
-
-Если вы изменяете игру или создаёте новые версии, они должны распространяться под той же лицензией CC BY-SA 4.0.
-
-3. Продажа физических копий
-
-Разрешена продажа физических копий игры, но цена не должна превышать:
-
-себестоимость производства + 50% (с учётом налогов).
-
-4. Цифровые версии
-
-Цифровые версии игры должны оставаться свободно доступными для скачивания.
-
-5. Материалы игры
-
-Все материалы игры (правила, карты, изображения), созданные автором, распространяются по этой лицензии, если не указано иное.
-
-Полный текст лицензии:
-https://creativecommons.org/licenses/by-sa/4.0/
+Materials are provided as-is, subject to the disclaimer and limitation of liability in Section 5 of the licence. This file identifies the materials and licence without modifying its standard terms. The [publishing suggestions](legal/publishing-guide.md) are voluntary and are not additional licence conditions.

@@ -2,7 +2,7 @@
 
 Status: **work in progress**, not a complete playable English release.
 
-- [Rules](rules.md): current translation of the author-approved Russian A5 rules (2026-09-20), prepared by the AI assistant at the author’s request. Translation status: draft pending independent language review; the gameplay meaning has been checked against the Russian source. Source details: [rules review](../../design/reviews/2026-09-20-short-rules.ru.md).
+- [Rules](rules.md): current translation of the author-approved Russian A5 rules (2026-09-20, clarified 2026-09-21), prepared by the AI assistant at the author’s request. Translation status: draft pending independent language review; the gameplay meaning has been checked against the Russian source. Source details: [final wording review](../../design/reviews/2026-09-21-final-wording.ru.md).
 - [Event cards](cards/events.md): IDs provided; titles and effects awaiting translation.
 - [Status cards](cards/statuses.md): IDs provided; titles and effects awaiting translation.
 - [Glossary](glossary.md): terminology used in the current rules translation.

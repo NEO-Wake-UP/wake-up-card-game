@@ -39,4 +39,8 @@ See [CONTRIBUTING](CONTRIBUTING.md) for browser editing and contributions.
 Original concept and design: **Luchinkin Dmitrii Olegovich / Лучинкин Дмитрий Олегович**. Created with the help of AI tools.  
 Оригинальная идея и разработка; создано при помощи инструментов искусственного интеллекта.
 
-[Author's distribution terms / Авторские условия распространения](LICENSE.md) · [Contacts / Контакты](CONTACTS.md)
+[CC BY-SA 4.0](LICENSE.md) · [English explanation](legal/license.en.md) · [Издателям / For publishers](legal/publishing-guide.md) · [История лицензии / Licensing history](legal/README.md) · [Contacts / Контакты](CONTACTS.md)
+
+**Главная цель — свободное распространение игры по миру.** Материалы автора доступны по стандартной CC BY-SA 4.0: можно печатать, продавать, переводить и изменять их без отдельного согласования и платы автору. Дополнительных ограничений цены и прибыли нет. Действуют стандартные условия указания авторства, изменений и ShareAlike; пожелания о доступной цене и заметном обозначении версии добровольны.
+
+**The main goal is worldwide sharing.** The author's materials use standard CC BY-SA 4.0: print, sell, translate and adapt without individual approval or a licence fee to the author. There are no extra price or profit limits. Standard attribution, change notices and ShareAlike apply; suggestions about affordability and prominent edition labels are voluntary.

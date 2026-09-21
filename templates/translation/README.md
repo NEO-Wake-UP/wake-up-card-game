@@ -18,6 +18,10 @@ The template contains every current card ID with empty translation fields. The R
 
 Путь «вписать название и эффект → распечатать» станет полностью доступен после подготовки окончательных макетов с отдельным текстовым слоем. Сейчас уже готовы таблицы перевода и пустые рамки; полного набора иллюстрированных шаблонов пока нет.
 
+Translations may be shared under standard [CC BY-SA 4.0](../../LICENSE.md), subject to its attribution, change-notice and ShareAlike conditions. A faithful translation is still a change to identify and may be an adaptation under CC. There is no extra price limit or mandatory box-label format. “Translation of the author edition of WAKE UP” is a suggested label for faithful translations; use “Modified edition” when changing content as well. See the [English explanation](../../legal/license.en.md) and [voluntary publishing suggestions](../../legal/publishing-guide.md).
+
+Переводы можно распространять по стандартной CC BY-SA 4.0 с соблюдением её условий авторства, обозначения изменений и ShareAlike. Точный перевод тоже нужно обозначить как изменение; в смысле CC он может быть переработкой. Дополнительного ограничения цены и обязательного формата надписи на коробке нет. «Перевод авторской версии WAKE UP» — рекомендуемая пометка точного перевода; при изменении содержания рекомендуем «Модифицированная версия». Это добровольные примеры оформления, а не дополнительные условия лицензии.
+
 ## Worksheet files / Файлы для заполнения
 
 - [Event cards / События](cards/events.md)
