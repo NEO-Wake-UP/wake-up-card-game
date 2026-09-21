@@ -17,7 +17,7 @@
 
 Status and event effects take priority over the rules.
 
-The dealer goes first, then play proceeds clockwise. On your turn, play **one event** and resolve its effect, or say “pass”. After playing an event, put it in the **discard pile** and draw a new one **from the deck**. Do not draw after passing or discarding without playing.
+The player who completed setup is the **dealer**. They go first, then play proceeds clockwise. On your turn, play **one event** and resolve its effect, or say “pass” — voluntarily skip your turn. After playing an event, put it in the **discard pile** and draw a new one **from the deck**. Do not draw after a pass or after discarding without playing.
 
 When your status changes, discard the old one; you may use the new effect immediately. **BABLOS belong to individual players.** You may transfer BABLOS and events only through card effects.
 

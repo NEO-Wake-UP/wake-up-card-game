@@ -9,7 +9,8 @@ Use BABLOS for the currency name and Latin B immediately after amounts: 100B. On
 | currency | BABLOS / B | BABLOS / B |
 | bank | Банк | Bank |
 | month | Месяц | Month |
-| dealer | Раздающий | Dealer |
+| dealer | Раздающий | Dealer (the player who completed setup) |
+| pass | Пас — добровольный пропуск хода | Pass — voluntarily skip your turn |
 | salary | Зарплата | Salary |
 | event-card | Событие | Event (event card) |
 | status-card | Карта статуса | Status card |
