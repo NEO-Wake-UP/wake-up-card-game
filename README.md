@@ -16,9 +16,9 @@ Earn BABLOS, change your social status and navigate absurd events. Play for fun,
 | English | [English edition](game/en/README.md) | [Print pack status](print-and-play/en/README.md) |
 | Other languages / Другие языки | [Translation guide / Как перевести](templates/translation/README.md) | [Blank card layouts / Пустые макеты](templates/cards/README.md) |
 
-**Rules milestone:** The author-approved Russian rules match the [one-page A5 PDF](print-and-play/ru/WAKE_UP_rules_RU_A5.pdf). The [English rules](game/en/rules.md) now translate that same edition; independent language review is pending. The first editorial pass of Russian events is complete; status review is next. The English card catalogue awaits translation. Complete printable sets are not available yet.
+**Rules milestone:** The author-approved Russian rules match the [one-page A5 PDF](print-and-play/ru/WAKE_UP_rules_RU_A5.pdf). The [English rules](game/en/rules.md) now translate that same edition; independent language review is pending. The first editorial pass of Russian events is complete; the first status group ST-001–011 is approved. The English card catalogue awaits translation. Complete printable sets are not available yet.
 
-**Правила утверждены автором:** русский текст совпадает с [одностраничным PDF A5](print-and-play/ru/WAKE_UP_rules_RU_A5.pdf). [Английские правила](game/en/rules.md) переведены с этой же редакции; независимая языковая вычитка ещё впереди. Первая вычитка русских событий завершена; следующий этап — статусы. Английский каталог ждёт перевода. Полных готовых наборов для печати пока нет.
+**Правила утверждены автором:** русский текст совпадает с [одностраничным PDF A5](print-and-play/ru/WAKE_UP_rules_RU_A5.pdf). [Английские правила](game/en/rules.md) переведены с этой же редакции; независимая языковая вычитка ещё впереди. Первая вычитка русских событий завершена; первая группа статусов ST-001–011 утверждена. Английский каталог ждёт перевода. Полных готовых наборов для печати пока нет.
 
 ## Work on the game / Работать над игрой
 
