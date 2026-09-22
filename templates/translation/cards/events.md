@@ -302,7 +302,6 @@ Status: untranslated. Empty title/effect cells are fields to fill, not approved 
 | EV-302 |  |  |  |
 | EV-303 |  |  |  |
 | EV-304 |  |  |  |
-| EV-306 |  |  |  |
 | EV-307 |  |  |  |
 | EV-308 |  |  |  |
 | EV-309 |  |  |  |
