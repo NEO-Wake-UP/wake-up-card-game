@@ -18,7 +18,7 @@ Earn BABLOS, change your social status and navigate absurd events. Play for fun,
 
 **Rules milestone:** The author-approved Russian rules match the [one-page A5 PDF](print-and-play/ru/WAKE_UP_rules_RU_A5.pdf). The [English rules](game/en/rules.md) now translate that same edition; independent language review is pending. The first editorial pass of Russian events is complete; statuses ST-001–032 are approved; Joker wording is under discussion. The English card catalogue awaits translation. Complete printable sets are not available yet.
 
-**Правила утверждены автором:** русский текст совпадает с [одностраничным PDF A5](print-and-play/ru/WAKE_UP_rules_RU_A5.pdf). [Английские правила](game/en/rules.md) переведены с этой же редакции; независимая языковая вычитка ещё впереди. Первая вычитка русских событий завершена; статусы ST-001–032 утверждены, формулировка «Джокера» обсуждается. Английский каталог ждёт перевода. Полных готовых наборов для печати пока нет.
+**Правила утверждены автором:** русский текст совпадает с [одностраничным PDF A5](print-and-play/ru/WAKE_UP_rules_RU_A5.pdf). [Английские правила](game/en/rules.md) переведены с этой же редакции; независимая языковая вычитка ещё впереди. Первая вычитка русских событий и статусов завершена. [Уточнение от 2026-09-23](design/reviews/2026-09-23-month-before-dealer.ru.md): месяц заканчивается перед очередью хода раздающего, включая первую и пропущенные ходы; EV-061, EV-141 и «Джокер» обновлены. Английский каталог ждёт перевода. Полных готовых наборов для печати пока нет.
 
 ## Work on the game / Работать над игрой
 
