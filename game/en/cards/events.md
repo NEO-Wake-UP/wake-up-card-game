@@ -302,7 +302,6 @@ Status: effects await translation. The title of EV-081, Community Cleanup, is ap
 | EV-302 |  |  |  |
 | EV-303 |  |  |  |
 | EV-304 |  |  |  |
-| EV-306 |  |  |  |
 | EV-307 |  |  |  |
 | EV-308 |  |  |  |
 | EV-309 |  |  |  |

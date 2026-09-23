@@ -2,9 +2,9 @@
 
 **Provisional inventory, not an approved print manifest. / Предварительная опись, не утверждённый состав для печати.**
 
-The author confirmed the final target: **331 event/final cards + 1 blank event card**. The current catalogue deliberately contains reserve ideas for later selection. With 30 copies of Coffee, the remaining 304 source rows and newly added EV-312 and EV-314 give **335 + 1 blank**. EV-035, EV-109, EV-111, EV-263, EV-275, EV-287, EV-305 and EV-313 are removed; EV-313 duplicated EV-188. The final selection is still pending.
+The author confirmed the final target: **331 event/final cards + 1 blank event card**. The current catalogue deliberately contains reserve ideas for later selection. With 30 copies of Coffee, the remaining 303 source rows and newly added EV-312 and EV-314 give **334 + 1 blank**. EV-035, EV-109, EV-111, EV-263, EV-275, EV-287, EV-305, EV-306 and EV-313 are removed; EV-306 duplicated EV-278, and EV-313 duplicated EV-188. The final selection is still pending.
 
-Автор подтвердил конечную цель: **331 событие (включая финальное) + 1 пустое**. Избыток намеренный: идеи записаны с запасом для отбора. С новыми EV-312 и EV-314, 304 оставшимися исходными записями и 30 экземплярами «Кофе» получается **335 + 1 пустая**. EV-035, EV-109, EV-111, EV-263, EV-275, EV-287, EV-305 и EV-313 удалены; EV-313 повторяла EV-188. Отбор ещё предстоит. Статусов — **32 + 1 пустой**.
+Автор подтвердил конечную цель: **331 событие (включая финальное) + 1 пустое**. Избыток намеренный: идеи записаны с запасом для отбора. С новыми EV-312 и EV-314, 303 оставшимися исходными записями и 30 экземплярами «Кофе» получается **334 + 1 пустая**. EV-035, EV-109, EV-111, EV-263, EV-275, EV-287, EV-305, EV-306 и EV-313 удалены; EV-306 повторяла EV-278, EV-313 повторяла EV-188. Отбор ещё предстоит. Статусов — **32 + 1 пустой**.
 
 ## ID convention / Постоянные номера
 
@@ -350,7 +350,6 @@ Names and effects live in the language folders. This table owns copy counts for 
 | EV-302 | event | 1 | draft: one per source row |
 | EV-303 | event | 1 | draft: one per source row |
 | EV-304 | event | 1 | draft: one per source row |
-| EV-306 | event | 1 | draft: one per source row |
 | EV-307 | event | 1 | draft: one per source row |
 | EV-308 | event | 1 | draft: one per source row |
 | EV-309 | event | 1 | draft: one per source row |
