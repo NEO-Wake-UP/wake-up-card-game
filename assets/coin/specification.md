@@ -3,13 +3,14 @@ Subject: Production Specification for Custom Game Tokens ("Wake Up" Coins)
 Item Type: Double-sided metal coin (3D embossed).
 Dimensions:
 Diameter: 35 mm
-Thickness: 2 mm
+Thickness: 3 mm
 Material & Finish: Brushed Brass (natural gold color). Entire coin features a uniform metallic finish without any color infill or enamel.
 Design Details (3D Relief):
 Side A (Obverse): Features the word "WAKE" in a bold, sans-serif font, raised/embossed from the surface.
 Side B (Reverse): Features the word "UP" in the same bold, sans-serif font, raised/embossed from the surface.
 Border: Both sides feature a circular border of repeating uppercase "B" characters, radially aligned and raised/embossed.
-Edge (Reed): Interrupted Reeding (alternating smooth and reeded segments).
+Edge: Fully reeded or interrupted reeding (alternating smooth and reeded segments); either finish is acceptable.
+Existing physical coin: Fully reeded. The factory used for the author's order did not offer interrupted reeding.
 Production Note: All design elements (text and "B" border) must be tactile and elevated relative to the coin's background, mimicking 3D-printed relief.
 Files: Vector files (CDR/EPS) provided for mold/CNC production.
 
@@ -19,12 +20,13 @@ Files: Vector files (CDR/EPS) provided for mold/CNC production.
 Тип изделия: Двусторонняя металлическая монета (с 3D-рельефом).
 Размеры:
 Диаметр: 35 мм
-Толщина: 2 мм
+Толщина: 3 мм
 Материал и покрытие: Шлифованная латунь (естественный золотистый цвет). Монета выполняется полностью в цвете металла, без использования эмали или краски.
 Детали дизайна (Объемный рельеф):
 Сторона А (Аверс): В центре расположено слово «WAKE», выполненное выпуклым/рельефным шрифтом.
 Сторона Б (Реверс): В центре расположено слово «UP», выполненное тем же выпуклым/рельефным шрифтом.
 Бордюр: На обеих сторонах по кругу идет орнамент из повторяющихся заглавных букв «B», которые также являются выпуклыми/рельефными.
-Гурт (ребро): Прерывисто-рубчатый (чередование гладких и ребристых участков).
+Гурт (ребро): Полностью ребристый или прерывисто-ребристый (чередование гладких и ребристых участков); допустимы оба варианта.
+Изготовленная монета автора: Полностью ребристый гурт. Фабрика, на которой был размещён заказ, не предлагала прерывисто-ребристый вариант.
 Техническое примечание: Все элементы дизайна (текст и рамка) должны быть тактильно ощутимыми и приподнятыми над плоскостью монеты (эффект 3D-печати/высокого рельефа).
 Исходные данные: Прилагаются векторные файлы (CDR/EPS) для изготовления пресс-форм или CNC-обработки.

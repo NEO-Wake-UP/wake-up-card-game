@@ -26,6 +26,12 @@ Earn BABLOS, change your social status and navigate absurd events. Play for fun,
 
 Это рабочие предложения и учебные заготовки. Прототипы сохранены; готовый иллюстрированный набор ещё не собран.
 
+## Официальный слоган
+
+**WAKE UP. Места за столом хватит всем.**
+
+[Утверждённый рекламный текст и варианты размещения на коробке и магазинной «хоругви»](design/official-advertising.ru.md).
+
 ## Work on the game / Работать над игрой
 
 | Folder / Папка | Purpose / Назначение |

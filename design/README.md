@@ -2,6 +2,8 @@
 
 Эти материалы предназначены для работы над игрой и могут раскрывать финал. / These documents support development and may reveal the ending.
 
+- [Официальный слоган, рекламный монолог и размещение на коробке / магазинной «хоругви»](official-advertising.ru.md).
+
 - [Идеи рисунков для всех 305 действующих событий](event-illustration-ideas.ru.md).
 - [Генерация иллюстраций и сборка карточки в Affinity: руководство для новичка](affinity-event-card-guide.ru.md).
 - [Новая граница месяца, EV-061/141, короткий «Джокер» и поручение на слияние, 2026-09-23](reviews/2026-09-23-month-before-dealer.ru.md).
