@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" width="63mm" height="88mm" viewBox="0 0 63 88">
+  <title>WAKE UP — editable event frame, long effect</title>
+  <desc>New vector drafting frame inspired by the Budget Trip prototype. Trim 63 x 88 mm. Configure actual 3 mm bleed in Affinity; SVG does not store a PDF TrimBox. Artwork window 54 x 38.5 mm. Delete DELETE_ME_HINTS before adding final text. No illustration, no native Affinity file, no printer approval.</desc>
+  <defs>
+    <linearGradient id="frame-gradient" x1="0" y1="0" x2="0" y2="1">
+      <stop offset="0" stop-color="#B7E3FF"/>
+      <stop offset="0.55" stop-color="#B8D5F4"/>
+      <stop offset="1" stop-color="#ACA1E3"/>
+    </linearGradient>
+  </defs>
+  <rect id="BACKGROUND" x="-3" y="-3" width="69" height="94" fill="#FFFFFF"/>
+  <rect id="FRAME" x="3" y="3" width="57" height="82" rx="3" fill="url(#frame-gradient)"/>
+  <rect id="ART_WINDOW" x="4.5" y="16" width="54" height="38.5" rx="1.4" fill="#EAF3FB"/>
+  <rect id="TITLE_SHADOW" x="4.5" y="5.0" width="54" height="10.5" rx="3.1" fill="#6171A9" fill-opacity="0.18"/>
+  <rect id="TITLE_PANEL" x="4.5" y="4.5" width="54" height="10.5" rx="3.1" fill="#FFF8DE" stroke="#EFC75A" stroke-width="0.35"/>
+  <rect id="EFFECT_PANEL" x="4.5" y="55.5" width="54" height="28" rx="2" fill="#FCFAFF"/>
+  <g id="DELETE_ME_HINTS" font-family="Arial, DejaVu Sans, sans-serif" fill="#45629D" text-anchor="middle">
+    <text x="31.5" y="11.35" font-size="4.15" font-weight="bold">НАЗВАНИЕ</text>
+    <text x="31.5" y="34.25" font-size="2.65" font-weight="bold">ИЛЛЮСТРАЦИЯ</text>
+    <text x="31.5" y="38.25" font-size="2.05">54 × 38,5 мм</text>
+    <text x="31.5" y="61.8" font-size="3.25" font-weight="bold">ТЕКСТ ЭФФЕКТА</text>
+    <text x="31.5" y="65.9" font-size="2.05">Отдельным текстовым слоем</text>
+  </g>
+</svg>

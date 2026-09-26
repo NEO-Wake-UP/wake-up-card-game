@@ -16,9 +16,23 @@ Earn BABLOS, change your social status and navigate absurd events. Play for fun,
 | English | [English edition](game/en/README.md) | [Print pack status](print-and-play/en/README.md) |
 | Other languages / Другие языки | [Translation guide / Как перевести](templates/translation/README.md) | [Blank card layouts / Пустые макеты](templates/cards/README.md) |
 
-**Rules milestone:** The author-approved Russian rules match the [one-page A5 PDF](print-and-play/ru/WAKE_UP_rules_RU_A5.pdf). The [English rules](game/en/rules.md) now translate that same edition; independent language review is pending. The first editorial pass of Russian events is complete; statuses ST-001–032 are approved; Joker wording is under discussion. The English card catalogue awaits translation. Complete printable sets are not available yet.
+**Rules milestone:** The author-approved Russian rules match the [one-page A5 PDF](print-and-play/ru/WAKE_UP_rules_RU_A5.pdf). The [English rules](game/en/rules.md) now translate that same edition; independent language review is pending. The first editorial pass of Russian events is complete; the first status pass is also complete, including the concise Joker wording. The English card catalogue awaits translation. Complete printable sets are not available yet.
 
 **Правила утверждены автором:** русский текст совпадает с [одностраничным PDF A5](print-and-play/ru/WAKE_UP_rules_RU_A5.pdf). [Английские правила](game/en/rules.md) переведены с этой же редакции; независимая языковая вычитка ещё впереди. Первая вычитка русских событий и статусов завершена. [Уточнение от 2026-09-23](design/reviews/2026-09-23-month-before-dealer.ru.md): месяц заканчивается перед очередью хода раздающего, включая первую и пропущенные ходы; EV-061, EV-141 и «Джокер» обновлены. Английский каталог ждёт перевода. Полных готовых наборов для печати пока нет.
+
+## Иллюстрации событий и статусов
+
+[Идеи рисунков для 305 событий](design/event-illustration-ideas.ru.md) · [Как собрать карту в Affinity](design/affinity-event-card-guide.ru.md) · [Редактируемые рамки 63 × 88 мм](templates/cards/README.md).
+
+[Идеи рисунков для статусов: по два варианта для каждого из 32 персонажей](design/status-illustration-ideas.ru.md).
+
+Это рабочие предложения и учебные заготовки. Прототипы сохранены; готовый иллюстрированный набор ещё не собран.
+
+## Официальный слоган
+
+**WAKE UP. Места за столом хватит всем.**
+
+[Утверждённый рекламный текст и варианты размещения на коробке и магазинной «хоругви»](design/official-advertising.ru.md).
 
 ## Work on the game / Работать над игрой
 
