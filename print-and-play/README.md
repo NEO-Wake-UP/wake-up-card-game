@@ -1,5 +1,7 @@
 # Print & play / Наборы для печати
 
+**2026-09-27:** Russian and English rule text and target quantities have been updated; the Russian A5 PDF is intentionally still the 2026-09-23 edition at the author’s request. / Правила RU/EN и целевые количества обновлены; PDF A5 по просьбе автора пока остаётся редакцией 2026-09-23.
+
 **No complete print-ready pack is available yet. / Полного готового набора пока нет.**
 
 - [Русский набор: правила A5 и статус остальных компонентов](ru/README.md)

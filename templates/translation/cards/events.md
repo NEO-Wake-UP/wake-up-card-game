@@ -1,6 +1,6 @@
 # Blank translation worksheet: events
 
-Status: untranslated. Empty title/effect cells are fields to fill, not approved blank effects. Preserve IDs. Look up source text by ID in the [Russian events](../../../game/ru/cards/events.md). For ST-005 and EV-BLANK, translate only a label if needed; leave their custom effect empty.
+Status: untranslated. Empty title/effect cells are fields to fill, not approved blank effects. Preserve IDs. Look up source text by ID in the [Russian events](../../../game/ru/cards/events.md). For ST-034 and EV-BLANK, translate only a label if needed; leave their custom effect empty.
 
 | ID | Title | Effect | Translation notes |
 | --- | --- | --- | --- |
@@ -232,7 +232,6 @@ Status: untranslated. Empty title/effect cells are fields to fill, not approved 
 | EV-229 |  |  |  |
 | EV-230 |  |  |  |
 | EV-231 |  |  |  |
-| EV-232 |  |  |  |
 | EV-233 |  |  |  |
 | EV-234 |  |  |  |
 | EV-235 |  |  |  |

@@ -1,6 +1,6 @@
 # English card translation worksheet: statuses
 
-Status: untranslated. Empty title/effect cells are fields to fill, not approved blank effects. Preserve IDs. Look up source text by ID in the [Russian statuses](../../ru/cards/statuses.md). For ST-005 and EV-BLANK, translate only a label if needed; leave their custom effect empty.
+Status: untranslated. Author update 2026-09-27: ST-005 is now Minimalist, ST-030 is Insurance Agent, and the custom blank status is ST-034. These English names identify the Russian source, not an approved translation. Empty title/effect cells are fields to fill, not approved blank effects. Preserve IDs. Look up source text by ID in the [Russian statuses](../../ru/cards/statuses.md). For ST-034 and EV-BLANK, translate only a label if needed; leave their custom effect empty.
 
 | ID | Title | Effect | Translation notes |
 | --- | --- | --- | --- |
@@ -37,3 +37,4 @@ Status: untranslated. Empty title/effect cells are fields to fill, not approved 
 | ST-031 |  |  |  |
 | ST-032 |  |  |  |
 | ST-033 |  |  |  |
+| ST-034 |  |  |  |
