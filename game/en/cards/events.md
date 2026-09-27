@@ -1,6 +1,6 @@
 # English card translation worksheet: events
 
-Status: effects await translation. The title of EV-081, Community Cleanup, is approved by the author; other titles remain untranslated. Empty title/effect cells are fields to fill, not approved blank effects. Preserve IDs. Look up source text by ID in the [Russian events](../../ru/cards/events.md). For ST-005 and EV-BLANK, translate only a label if needed; leave their custom effect empty.
+Status: effects await translation. The title of EV-081, Community Cleanup, is approved by the author; other titles remain untranslated. Empty title/effect cells are fields to fill, not approved blank effects. Preserve IDs. Look up source text by ID in the [Russian events](../../ru/cards/events.md). For ST-034 and EV-BLANK, translate only a label if needed; leave their custom effect empty.
 
 | ID | Title | Effect | Translation notes |
 | --- | --- | --- | --- |

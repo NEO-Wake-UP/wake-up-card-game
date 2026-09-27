@@ -31,6 +31,7 @@ def rows(path, expected_columns):
 
 deck = rows(ROOT / "game/deck.md", 4)
 deck_ids = {r[0] for r in deck}
+blank_ids = {key for key, kind, *_ in deck if kind in {"blank-status", "blank-event"}}
 counts = collections.Counter()
 for key, kind, copies, basis in deck:
     if not re.fullmatch(r"(?:ST-\d{3,}|EV-\d{3,}|EV-BLANK)", key):
@@ -55,7 +56,7 @@ for category, prefix in [("events", "EV-"), ("statuses", "ST-")]:
     if source[category] != expected:
         errors.append(f"{path.relative_to(ROOT)}: IDs differ from deck; missing={sorted(expected-source[category])}, extra={sorted(source[category]-expected)}")
     for key, title, effect in records:
-        if not title or (key not in {"ST-005", "EV-BLANK"} and not effect):
+        if not title or (key not in blank_ids and not effect):
             errors.append(f"{path.relative_to(ROOT)}: missing Russian text for {key}")
     print(f"ru/{category}: {len(records)} records")
 
@@ -72,7 +73,7 @@ for directory, label in worksheets:
         actual = {r[0] for r in records}
         if actual != source[category]:
             errors.append(f"{path.relative_to(ROOT)}: IDs differ from Russian source; missing={sorted(source[category]-actual)}, extra={sorted(actual-source[category])}")
-        translatable = [r for r in records if r[0] not in {"ST-005", "EV-BLANK"}]
+        translatable = [r for r in records if r[0] not in blank_ids]
         complete = sum(bool(r[1] and r[2]) for r in translatable)
         print(f"{label}/{category}: {complete}/{len(translatable)} title/effect pairs filled (not a review status)")
 

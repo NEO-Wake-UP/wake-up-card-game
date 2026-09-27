@@ -16,15 +16,15 @@ Earn BABLOS, change your social status and navigate absurd events. Play for fun,
 | English | [English edition](game/en/README.md) | [Print pack status](print-and-play/en/README.md) |
 | Other languages / Другие языки | [Translation guide / Как перевести](templates/translation/README.md) | [Blank card layouts / Пустые макеты](templates/cards/README.md) |
 
-**Rules update (2026-09-27):** The author-approved [Russian rules](game/ru/rules.md) and their [English translation](game/en/rules.md) now include ordinary draw timing for multiple events and limits on discarding unplayed events. The existing [A5 PDF](print-and-play/ru/WAKE_UP_rules_RU_A5.pdf) remains the 2026-09-23 edition: the author asked to defer its update. The second event review is underway; the first pass of events and statuses is complete. English cards await translation, and complete printable sets are not available yet.
+**Rules update (2026-09-27):** The author-approved [Russian rules](game/ru/rules.md) and their [English translation](game/en/rules.md) now include ordinary draw timing for multiple events and limits on discarding unplayed events. The existing [A5 PDF](print-and-play/ru/WAKE_UP_rules_RU_A5.pdf) remains the 2026-09-23 edition: the author asked to defer its update. The latest [approved update](design/reviews/2026-09-27-statuses-and-insurance.ru.md) adds Minimalist, replaces Commentator with Insurance Agent and moves the blank status to ST-034. The target set is 34 status cards and 331 event cards, maintaining 666 components overall. The second event review is underway; the first pass of events and statuses is complete. English cards await translation, and complete printable sets are not available yet.
 
-**Уточнение правил от 2026-09-27:** в [русский текст](game/ru/rules.md) и [английский перевод](game/en/rules.md) добавлены общий порядок добора нескольких событий и ограничение сброса без розыгрыша. [PDF A5](print-and-play/ru/WAKE_UP_rules_RU_A5.pdf) пока содержит редакцию 2026-09-23: автор попросил отложить его обновление. Идёт [вторая вычитка событий](design/reviews/2026-09-27-events-second-pass.ru.md); первая вычитка событий и статусов завершена. Независимая языковая вычитка английских правил, перевод карт и полный печатный набор ещё впереди.
+**Уточнение правил от 2026-09-27:** в [русский текст](game/ru/rules.md) и [английский перевод](game/en/rules.md) добавлены общий порядок добора нескольких событий и ограничение сброса без розыгрыша. [PDF A5](print-and-play/ru/WAKE_UP_rules_RU_A5.pdf) пока содержит редакцию 2026-09-23: автор попросил отложить его обновление. [Утверждены новые статусы](design/reviews/2026-09-27-statuses-and-insurance.ru.md): ST-005 «Минималист», ST-030 «Страховой агент» и пустая ST-034. Целевой комплект теперь содержит 34 статуса и 331 событие, всего по-прежнему 666 компонентов. Идёт [вторая вычитка событий](design/reviews/2026-09-27-events-second-pass.ru.md); первая вычитка событий и статусов завершена. Независимая языковая вычитка английских правил, перевод карт и полный печатный набор ещё впереди.
 
 ## Иллюстрации событий и статусов
 
 [Идеи рисунков для 304 событий](design/event-illustration-ideas.ru.md) · [Как собрать карту в Affinity](design/affinity-event-card-guide.ru.md) · [Редактируемые рамки 63 × 88 мм](templates/cards/README.md).
 
-[Идеи рисунков для статусов: по два варианта для каждого из 32 персонажей](design/status-illustration-ideas.ru.md).
+[Идеи рисунков для 33 статусов, включая «Минималиста» и «Страхового агента»](design/status-illustration-ideas.ru.md).
 
 Это рабочие предложения и учебные заготовки. Прототипы сохранены; готовый иллюстрированный набор ещё не собран.
 

@@ -2,15 +2,15 @@
 
 **Provisional inventory, not an approved print manifest. / Предварительная опись, не утверждённый состав для печати.**
 
-The author confirmed the final target: **331 event/final cards + 1 blank event card**. The current catalogue deliberately contains reserve ideas for later selection. With 30 copies of Coffee, the remaining 302 source rows and newly added EV-312 and EV-314 give **333 + 1 blank**. EV-035, EV-109, EV-111, EV-232, EV-263, EV-275, EV-287, EV-305, EV-306 and EV-313 are removed; EV-232 was removed in favour of EV-061, EV-306 duplicated EV-278, and EV-313 duplicated EV-188. The final selection is still pending.
+The author confirmed the final target: **330 event/final cards + 1 blank event card**. The current catalogue deliberately contains reserve ideas for later selection. With 30 copies of Coffee, the remaining 302 source rows and newly added EV-312 and EV-314 give **333 + 1 blank**. EV-035, EV-109, EV-111, EV-232, EV-263, EV-275, EV-287, EV-305, EV-306 and EV-313 are removed; EV-232 was removed in favour of EV-061, EV-306 duplicated EV-278, and EV-313 duplicated EV-188. The final selection is still pending.
 
-Автор подтвердил конечную цель: **331 событие (включая финальное) + 1 пустое**. Избыток намеренный: идеи записаны с запасом для отбора. С новыми EV-312 и EV-314, 302 оставшимися исходными записями и 30 экземплярами «Кофе» получается **333 + 1 пустая**. EV-035, EV-109, EV-111, EV-232, EV-263, EV-275, EV-287, EV-305, EV-306 и EV-313 удалены; EV-232 удалена в пользу EV-061, EV-306 повторяла EV-278, EV-313 повторяла EV-188. Отбор ещё предстоит. Статусов — **32 + 1 пустой**.
+Автор подтвердил конечную цель: **330 событий (включая финальное) + 1 пустое**. Избыток намеренный: идеи записаны с запасом для отбора. С новыми EV-312 и EV-314, 302 оставшимися исходными записями и 30 экземплярами «Кофе» получается **333 + 1 пустая**. EV-035, EV-109, EV-111, EV-232, EV-263, EV-275, EV-287, EV-305, EV-306 и EV-313 удалены; EV-232 удалена в пользу EV-061, EV-306 повторяла EV-278, EV-313 повторяла EV-188. Отбор ещё предстоит. Статусов — **33 + 1 пустой**. Для целевой колоды нужно отобрать ещё три события из предварительной описи, не меняя 30 экземпляров «Кофе».
 
-The author plans to add «Минималист» as another named status while reducing the target event count by one to retain the 666-component set. That future status and target change are not part of this event-editing batch; the current tables still contain 32 named statuses plus one blank. / Автор планирует добавить «Минималиста» отдельным статусом и сократить целевую колоду событий на одну карту, сохранив комплект из 666 компонентов. Сам статус и изменение целевых количеств в эту вычитку событий не включены; в текущих таблицах 32 статуса и один пустой.
+The author added «Минималист» at ST-005, moved the blank status to ST-034 and replaced ST-030 with «Страховой агент» on 2026-09-27. The target set remains **666 components: 300 BABLOS banknotes + 34 status cards + 331 event cards + 1 coin**. The provisional event inventory still contains three reserve copies above that target; final selection is pending. / Автор добавил «Минималиста» на ST-005, перенёс пустой статус на ST-034 и заменил ST-030 на «Страхового агента». Целевой комплект — **666 компонентов: 300 банкнот BABLOS + 34 статуса + 331 событие + 1 монета**. В предварительной описи ещё три резервных экземпляра событий сверх цели; их отбор впереди.
 
 ## ID convention / Постоянные номера
 
-- `ST-001` … `ST-033`: original status positions; `ST-005` is the original blank status.
+- `ST-001` … `ST-033`: original positions. By explicit author instruction on 2026-09-27, ST-005 is now Minimalist, ST-030 is Insurance Agent, and the blank status has moved to the new ST-034. This documented reassignment supersedes the former blank-ID mapping; other IDs are unchanged.
 - `EV-001` … `EV-311`: original event row order, not alphabetical order.
 - `EV-312` and `EV-314`: active events added during review. `EV-313` was removed as a duplicate; do not reuse this ID. Numbering does not set physical deck order; WAKE UP remains last during setup.
 - `EV-BLANK`: blank event card named in the original component list.
@@ -25,7 +25,7 @@ Names and effects live in the language folders. This table owns copy counts for 
 | ST-002 | status | 1 | draft: one per listed status |
 | ST-003 | status | 1 | draft: one per listed status |
 | ST-004 | status | 1 | draft: one per listed status |
-| ST-005 | blank-status | 1 | explicit blank component |
+| ST-005 | status | 1 | author-approved: Minimalist, replaces blank slot, 2026-09-27 |
 | ST-006 | status | 1 | draft: one per listed status |
 | ST-007 | status | 1 | draft: one per listed status |
 | ST-008 | status | 1 | draft: one per listed status |
@@ -50,10 +50,11 @@ Names and effects live in the language folders. This table owns copy counts for 
 | ST-027 | status | 1 | draft: one per listed status |
 | ST-028 | status | 1 | draft: one per listed status |
 | ST-029 | status | 1 | draft: one per listed status |
-| ST-030 | status | 1 | draft: one per listed status |
+| ST-030 | status | 1 | author-approved: Insurance Agent replaces Commentator, 2026-09-27 |
 | ST-031 | status | 1 | draft: one per listed status |
 | ST-032 | status | 1 | draft: one per listed status |
 | ST-033 | status | 1 | draft: one per listed status |
+| ST-034 | blank-status | 1 | author-approved: blank moved from ST-005, 2026-09-27 |
 | EV-001 | event | 1 | draft: one per source row |
 | EV-002 | event | 1 | draft: one per source row |
 | EV-003 | event | 1 | draft: one per source row |

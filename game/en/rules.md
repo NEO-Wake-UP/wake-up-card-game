@@ -4,7 +4,7 @@
 
 ## Contents
 
-**BABLOS** — 300 green banknotes worth 100B each; **STATUS** — 33 cards with purple backs; **EVENT** — 332 cards with light blue backs. And one **GOLD COIN**.
+**BABLOS** — 300 green banknotes worth 100B each; **STATUS** — 34 cards with purple backs; **EVENT** — 331 cards with light blue backs. And one **GOLD COIN**.
 
 ## Setup
 
