@@ -2,9 +2,11 @@
 
 **Provisional inventory, not an approved print manifest. / Предварительная опись, не утверждённый состав для печати.**
 
-The author confirmed the final target: **331 event/final cards + 1 blank event card**. The current catalogue deliberately contains reserve ideas for later selection. With 30 copies of Coffee, the remaining 303 source rows and newly added EV-312 and EV-314 give **334 + 1 blank**. EV-035, EV-109, EV-111, EV-263, EV-275, EV-287, EV-305, EV-306 and EV-313 are removed; EV-306 duplicated EV-278, and EV-313 duplicated EV-188. The final selection is still pending.
+The author confirmed the final target: **331 event/final cards + 1 blank event card**. The current catalogue deliberately contains reserve ideas for later selection. With 30 copies of Coffee, the remaining 302 source rows and newly added EV-312 and EV-314 give **333 + 1 blank**. EV-035, EV-109, EV-111, EV-232, EV-263, EV-275, EV-287, EV-305, EV-306 and EV-313 are removed; EV-232 was removed in favour of EV-061, EV-306 duplicated EV-278, and EV-313 duplicated EV-188. The final selection is still pending.
 
-Автор подтвердил конечную цель: **331 событие (включая финальное) + 1 пустое**. Избыток намеренный: идеи записаны с запасом для отбора. С новыми EV-312 и EV-314, 303 оставшимися исходными записями и 30 экземплярами «Кофе» получается **334 + 1 пустая**. EV-035, EV-109, EV-111, EV-263, EV-275, EV-287, EV-305, EV-306 и EV-313 удалены; EV-306 повторяла EV-278, EV-313 повторяла EV-188. Отбор ещё предстоит. Статусов — **32 + 1 пустой**.
+Автор подтвердил конечную цель: **331 событие (включая финальное) + 1 пустое**. Избыток намеренный: идеи записаны с запасом для отбора. С новыми EV-312 и EV-314, 302 оставшимися исходными записями и 30 экземплярами «Кофе» получается **333 + 1 пустая**. EV-035, EV-109, EV-111, EV-232, EV-263, EV-275, EV-287, EV-305, EV-306 и EV-313 удалены; EV-232 удалена в пользу EV-061, EV-306 повторяла EV-278, EV-313 повторяла EV-188. Отбор ещё предстоит. Статусов — **32 + 1 пустой**.
+
+The author plans to add «Минималист» as another named status while reducing the target event count by one to retain the 666-component set. That future status and target change are not part of this event-editing batch; the current tables still contain 32 named statuses plus one blank. / Автор планирует добавить «Минималиста» отдельным статусом и сократить целевую колоду событий на одну карту, сохранив комплект из 666 компонентов. Сам статус и изменение целевых количеств в эту вычитку событий не включены; в текущих таблицах 32 статуса и один пустой.
 
 ## ID convention / Постоянные номера
 
@@ -280,7 +282,6 @@ Names and effects live in the language folders. This table owns copy counts for 
 | EV-229 | event | 1 | draft: one per source row |
 | EV-230 | event | 1 | draft: one per source row |
 | EV-231 | event | 1 | draft: one per source row |
-| EV-232 | event | 1 | draft: one per source row |
 | EV-233 | event | 1 | draft: one per source row |
 | EV-234 | event | 1 | draft: one per source row |
 | EV-235 | event | 1 | draft: one per source row |

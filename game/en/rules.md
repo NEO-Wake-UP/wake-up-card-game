@@ -21,9 +21,11 @@ The player who completed setup is the **dealer**. They go first, then play proce
 
 The game is divided into **months**. At the end of each month, all players receive a **100B salary** from the Bank. A month ends just before the dealer’s turn comes around, **including the first**, even if that turn is skipped.
 
-On your turn, play **one event**, resolve its effect, put the event in the **discard pile** and draw a new one **from the deck**. Alternatively, say “pass” — voluntarily skip your turn without drawing. Discarding an event without playing it does not give you a draw.
+On your turn, play **one event**, resolve its effect, put the event in the **discard pile** and draw a new one **from the deck**. Alternatively, say “pass” — voluntarily skip your turn without drawing.
 
-When your status changes, discard the old one; you may use the new effect immediately. **BABLOS belong to individual players.** You may transfer BABLOS and events only through card effects.
+If you play several events in one turn, take the ordinary draws for all of them after resolving the last one. Discarding an event without playing it does not give you a draw.
+
+When your status changes, discard the old one; you may use the new effect immediately. **BABLOS belong to individual players.** You may transfer BABLOS and events, or discard events without playing them, only through card effects.
 
 If you do not have enough BABLOS for a mandatory payment, pay the BABLOS you have and keep playing. You are bankrupt; the remainder of that payment is written off. **Paying for an event effect requires the full amount.**
 

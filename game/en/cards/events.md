@@ -232,7 +232,6 @@ Status: effects await translation. The title of EV-081, Community Cleanup, is ap
 | EV-229 |  |  |  |
 | EV-230 |  |  |  |
 | EV-231 |  |  |  |
-| EV-232 |  |  |  |
 | EV-233 |  |  |  |
 | EV-234 |  |  |  |
 | EV-235 |  |  |  |

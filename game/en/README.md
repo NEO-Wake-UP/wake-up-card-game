@@ -2,7 +2,7 @@
 
 Status: **work in progress**, not a complete playable English release.
 
-- [Rules](rules.md): current translation of the author-approved Russian A5 rules (2026-09-20, clarified 2026-09-23), prepared by the AI assistant at the author’s request. Translation status: draft pending independent language review; the gameplay meaning has been checked against the Russian source. Source details: [month-boundary update](../../design/reviews/2026-09-23-month-before-dealer.ru.md).
+- [Rules](rules.md): current translation of the author-approved Russian text, updated 2026-09-27 with ordinary draw timing and limits on discarding unplayed events. Prepared by the AI assistant at the author’s request; independent language review is pending. The Russian A5 PDF is still the 2026-09-23 edition and awaits a later update. Source details: [second event review](../../design/reviews/2026-09-27-events-second-pass.ru.md).
 - [Event cards](cards/events.md): IDs provided; titles and effects awaiting translation.
 - [Status cards](cards/statuses.md): IDs provided; titles and effects awaiting translation.
 - [Glossary](glossary.md): terminology used in the current rules translation.

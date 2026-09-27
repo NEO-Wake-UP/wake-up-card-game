@@ -16,13 +16,13 @@ Earn BABLOS, change your social status and navigate absurd events. Play for fun,
 | English | [English edition](game/en/README.md) | [Print pack status](print-and-play/en/README.md) |
 | Other languages / Другие языки | [Translation guide / Как перевести](templates/translation/README.md) | [Blank card layouts / Пустые макеты](templates/cards/README.md) |
 
-**Rules milestone:** The author-approved Russian rules match the [one-page A5 PDF](print-and-play/ru/WAKE_UP_rules_RU_A5.pdf). The [English rules](game/en/rules.md) now translate that same edition; independent language review is pending. The first editorial pass of Russian events is complete; the first status pass is also complete, including the concise Joker wording. The English card catalogue awaits translation. Complete printable sets are not available yet.
+**Rules update (2026-09-27):** The author-approved [Russian rules](game/ru/rules.md) and their [English translation](game/en/rules.md) now include ordinary draw timing for multiple events and limits on discarding unplayed events. The existing [A5 PDF](print-and-play/ru/WAKE_UP_rules_RU_A5.pdf) remains the 2026-09-23 edition: the author asked to defer its update. The second event review is underway; the first pass of events and statuses is complete. English cards await translation, and complete printable sets are not available yet.
 
-**Правила утверждены автором:** русский текст совпадает с [одностраничным PDF A5](print-and-play/ru/WAKE_UP_rules_RU_A5.pdf). [Английские правила](game/en/rules.md) переведены с этой же редакции; независимая языковая вычитка ещё впереди. Первая вычитка русских событий и статусов завершена. [Уточнение от 2026-09-23](design/reviews/2026-09-23-month-before-dealer.ru.md): месяц заканчивается перед очередью хода раздающего, включая первую и пропущенные ходы; EV-061, EV-141 и «Джокер» обновлены. Английский каталог ждёт перевода. Полных готовых наборов для печати пока нет.
+**Уточнение правил от 2026-09-27:** в [русский текст](game/ru/rules.md) и [английский перевод](game/en/rules.md) добавлены общий порядок добора нескольких событий и ограничение сброса без розыгрыша. [PDF A5](print-and-play/ru/WAKE_UP_rules_RU_A5.pdf) пока содержит редакцию 2026-09-23: автор попросил отложить его обновление. Идёт [вторая вычитка событий](design/reviews/2026-09-27-events-second-pass.ru.md); первая вычитка событий и статусов завершена. Независимая языковая вычитка английских правил, перевод карт и полный печатный набор ещё впереди.
 
 ## Иллюстрации событий и статусов
 
-[Идеи рисунков для 305 событий](design/event-illustration-ideas.ru.md) · [Как собрать карту в Affinity](design/affinity-event-card-guide.ru.md) · [Редактируемые рамки 63 × 88 мм](templates/cards/README.md).
+[Идеи рисунков для 304 событий](design/event-illustration-ideas.ru.md) · [Как собрать карту в Affinity](design/affinity-event-card-guide.ru.md) · [Редактируемые рамки 63 × 88 мм](templates/cards/README.md).
 
 [Идеи рисунков для статусов: по два варианта для каждого из 32 персонажей](design/status-illustration-ideas.ru.md).
 
