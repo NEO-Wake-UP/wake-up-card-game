@@ -38,7 +38,7 @@ Names and effects live in the language folders. This table owns copy counts for 
 | ST-015 | status | 1 | draft: one per listed status |
 | ST-016 | status | 1 | draft: one per listed status |
 | ST-017 | status | 1 | draft: one per listed status |
-| ST-018 | status | 1 | draft: one per listed status |
+| ST-018 | status | 1 | author-approved: Collector replaces NPC, 2026-09-28 |
 | ST-019 | status | 1 | draft: one per listed status |
 | ST-020 | status | 1 | draft: one per listed status |
 | ST-021 | status | 1 | draft: one per listed status |
@@ -48,7 +48,7 @@ Names and effects live in the language folders. This table owns copy counts for 
 | ST-025 | status | 1 | draft: one per listed status |
 | ST-026 | status | 1 | draft: one per listed status |
 | ST-027 | status | 1 | draft: one per listed status |
-| ST-028 | status | 1 | draft: one per listed status |
+| ST-028 | status | 1 | author-approved: Vampire replaces Banker, 2026-09-28 |
 | ST-029 | status | 1 | draft: one per listed status |
 | ST-030 | status | 1 | author-approved: Insurance Agent replaces Commentator, 2026-09-27 |
 | ST-031 | status | 1 | draft: one per listed status |

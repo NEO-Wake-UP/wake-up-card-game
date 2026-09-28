@@ -21,7 +21,7 @@ Status: untranslated. Author update 2026-09-27: ST-005 is now Minimalist, ST-030
 | ST-015 |  |  |  |
 | ST-016 |  |  |  |
 | ST-017 |  |  |  |
-| ST-018 |  |  |  |
+| ST-018 |  |  | Source replaced on 2026-09-28: «Коллекционер» (Collector), formerly NPC. Instead of salary, receive 100B from the Bank at month end for every two events in hand. Translation pending. |
 | ST-019 |  |  |  |
 | ST-020 |  |  |  |
 | ST-021 |  |  |  |
@@ -31,7 +31,7 @@ Status: untranslated. Author update 2026-09-27: ST-005 is now Minimalist, ST-030
 | ST-025 |  |  |  |
 | ST-026 |  |  |  |
 | ST-027 |  |  |  |
-| ST-028 |  |  |  |
+| ST-028 |  |  | Final author revision 2026-09-28: «Вампир» (Vampire). May forgo each individual ordinary event draw and take 200B from any player for each refusal. No monthly cap or month-long draw ban; effect draws remain available. Translation pending. |
 | ST-029 |  |  |  |
 | ST-030 |  |  |  |
 | ST-031 |  |  |  |

@@ -24,7 +24,7 @@ Status: effects await translation. The title of EV-081, Community Cleanup, is ap
 | EV-018 |  |  |  |
 | EV-019 |  |  |  |
 | EV-020 |  |  |  |
-| EV-021 |  |  |  |
+| EV-021 |  |  | Renamed «Мультизайм» on 2026-09-28: pun on a microloan from multiple lenders. Take 100B from each of two players; the word “other” was deliberately removed. Translation pending. |
 | EV-022 |  |  |  |
 | EV-023 |  |  |  |
 | EV-024 |  |  |  |
@@ -34,7 +34,7 @@ Status: effects await translation. The title of EV-081, Community Cleanup, is ap
 | EV-028 |  |  |  |
 | EV-029 |  |  |  |
 | EV-030 |  |  |  |
-| EV-031 |  |  |  |
+| EV-031 |  |  | Author removed “other” on 2026-09-28; the chosen player may be the owner. Payment 200B and event transfer unchanged. Translation pending. |
 | EV-032 |  |  |  |
 | EV-033 |  |  |  |
 | EV-034 |  |  |  |
@@ -279,7 +279,7 @@ Status: effects await translation. The title of EV-081, Community Cleanup, is ap
 | EV-279 |  |  |  |
 | EV-280 |  |  |  |
 | EV-281 |  |  |  |
-| EV-282 |  |  |  |
+| EV-282 |  |  | Author wording revised 2026-09-28: take one random event from each of two players. “Other” and explicit “from their hands” removed from card wording. Translation pending. |
 | EV-283 |  |  |  |
 | EV-284 |  |  |  |
 | EV-285 |  |  |  |
@@ -302,7 +302,7 @@ Status: effects await translation. The title of EV-081, Community Cleanup, is ap
 | EV-303 |  |  |  |
 | EV-304 |  |  |  |
 | EV-307 |  |  |  |
-| EV-308 |  |  |  |
+| EV-308 |  |  | Author wording revised 2026-09-28: take 100B from every player. No explicit exclusion of the owner. Translation pending. |
 | EV-309 |  |  |  |
 | EV-310 |  |  |  |
 | EV-311 |  |  |  |
