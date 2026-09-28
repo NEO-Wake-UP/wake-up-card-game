@@ -48,7 +48,7 @@ Names and effects live in the language folders. This table owns copy counts for 
 | ST-025 | status | 1 | draft: one per listed status |
 | ST-026 | status | 1 | draft: one per listed status |
 | ST-027 | status | 1 | draft: one per listed status |
-| ST-028 | status | 1 | draft: one per listed status |
+| ST-028 | status | 1 | author-approved: Vampire replaces Banker, 2026-09-28 |
 | ST-029 | status | 1 | draft: one per listed status |
 | ST-030 | status | 1 | author-approved: Insurance Agent replaces Commentator, 2026-09-27 |
 | ST-031 | status | 1 | draft: one per listed status |

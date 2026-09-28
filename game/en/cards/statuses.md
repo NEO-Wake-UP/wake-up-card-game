@@ -31,7 +31,7 @@ Status: untranslated. Author update 2026-09-27: ST-005 is now Minimalist, ST-030
 | ST-025 |  |  |  |
 | ST-026 |  |  |  |
 | ST-027 |  |  |  |
-| ST-028 |  |  |  |
+| ST-028 |  |  | Source replaced on 2026-09-28: «Вампир» (Vampire), formerly Banker. Once per month, may forgo one event from the ordinary draw to take 200B from any player. Translation pending. |
 | ST-029 |  |  |  |
 | ST-030 |  |  |  |
 | ST-031 |  |  |  |
