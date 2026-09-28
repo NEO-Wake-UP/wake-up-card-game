@@ -31,7 +31,7 @@ Status: untranslated. Author update 2026-09-27: ST-005 is now Minimalist, ST-030
 | ST-025 |  |  |  |
 | ST-026 |  |  |  |
 | ST-027 |  |  |  |
-| ST-028 |  |  | Source replaced on 2026-09-28: «Вампир» (Vampire), formerly Banker. Once per month, may forgo one event from the ordinary draw to take 200B from any player. Translation pending. |
+| ST-028 |  |  | Source revised later on 2026-09-28: «Вампир» (Vampire), formerly Banker. Author intends giving up drawing for the month, not one ordinary draw, for 200B from any player. Whether this also blocks event-effect draws is awaiting clarification. Translate the current Russian source; translation pending. |
 | ST-029 |  |  |  |
 | ST-030 |  |  |  |
 | ST-031 |  |  |  |
