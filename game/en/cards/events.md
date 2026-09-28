@@ -24,7 +24,7 @@ Status: effects await translation. The title of EV-081, Community Cleanup, is ap
 | EV-018 |  |  |  |
 | EV-019 |  |  |  |
 | EV-020 |  |  |  |
-| EV-021 |  |  |  |
+| EV-021 |  |  | Renamed «Мультизайм» on 2026-09-28: pun on a microloan from multiple lenders. Take 100B from each of two players; the word “other” was deliberately removed. Translation pending. |
 | EV-022 |  |  |  |
 | EV-023 |  |  |  |
 | EV-024 |  |  |  |
