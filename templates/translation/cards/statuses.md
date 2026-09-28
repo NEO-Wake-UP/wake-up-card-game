@@ -10,7 +10,7 @@ Status: untranslated. Author update 2026-09-27: ST-005 is now Minimalist, ST-030
 | ST-004 |  |  |  |
 | ST-005 |  |  |  |
 | ST-006 |  |  |  |
-| ST-007 |  |  |  |
+| ST-007 |  |  | Source replaced 2026-09-29: «Юрист» (Lawyer), formerly Corrupt Official. May cancel the effect of an event personally directed against the owner by discarding 3 events from their own hand. No monthly cap stated. Multi-target scope awaits clarification; translation pending. |
 | ST-008 |  |  |  |
 | ST-009 |  |  |  |
 | ST-010 |  |  |  |
