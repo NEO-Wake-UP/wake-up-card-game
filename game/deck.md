@@ -38,7 +38,7 @@ Names and effects live in the language folders. This table owns copy counts for 
 | ST-015 | status | 1 | draft: one per listed status |
 | ST-016 | status | 1 | draft: one per listed status |
 | ST-017 | status | 1 | draft: one per listed status |
-| ST-018 | status | 1 | draft: one per listed status |
+| ST-018 | status | 1 | author-approved: Collector replaces NPC, 2026-09-28 |
 | ST-019 | status | 1 | draft: one per listed status |
 | ST-020 | status | 1 | draft: one per listed status |
 | ST-021 | status | 1 | draft: one per listed status |
