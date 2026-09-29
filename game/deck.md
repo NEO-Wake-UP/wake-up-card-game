@@ -27,7 +27,7 @@ Names and effects live in the language folders. This table owns copy counts for 
 | ST-004 | status | 1 | draft: one per listed status |
 | ST-005 | status | 1 | author-approved: Minimalist, replaces blank slot, 2026-09-27 |
 | ST-006 | status | 1 | draft: one per listed status |
-| ST-007 | status | 1 | draft: one per listed status |
+| ST-007 | status | 1 | author-approved: Lawyer replaces Corrupt Official, 2026-09-29 |
 | ST-008 | status | 1 | draft: one per listed status |
 | ST-009 | status | 1 | draft: one per listed status |
 | ST-010 | status | 1 | draft: one per listed status |
