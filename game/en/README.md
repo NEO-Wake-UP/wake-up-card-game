@@ -1,10 +1,12 @@
 # English edition
 
+**Source update, 2026-09-29:** [approved status and draw revision](../../design/reviews/2026-09-29-statuses-final-and-draw.ru.md). ST-007 is «Адвокат», ST-010 «Трудоголик», ST-031 «Инсайдер». Agony permits event gains through effects but provides no replacement draws and only requires the original hand. RU/EN rules remove the ordinary qualifier; a concise new definition has not yet been chosen by the author. Card translation fields remain pending.
+
 Status: **work in progress**, not a complete playable English release.
 
-- [Rules](rules.md): current translation of the author-approved Russian text, updated 2026-09-27 with ordinary draw timing, limits on discarding unplayed events and revised target quantities (34 statuses and 331 events); on 2026-09-28, status transfers were also limited to card effects. Prepared by the AI assistant at the author’s request; independent language review is pending. The Russian A5 PDF is still the 2026-09-23 edition and awaits a later update. Source details: [second event review](../../design/reviews/2026-09-27-events-second-pass.ru.md), [latest status and rules decisions](../../design/reviews/2026-09-28-st-028-vampire.ru.md).
+- [Rules](rules.md): current translation of the author-approved Russian text, updated 2026-09-27 with replacement draw timing, limits on discarding unplayed events and revised target quantities (34 statuses and 331 events); on 2026-09-28, status transfers were also limited to card effects. Prepared by the AI assistant at the author’s request; independent language review is pending. The Russian A5 PDF is still the 2026-09-23 edition and awaits a later update. Source details: [second event review](../../design/reviews/2026-09-27-events-second-pass.ru.md), [latest status and rules decisions](../../design/reviews/2026-09-28-st-028-vampire.ru.md).
 - [Event cards](cards/events.md): IDs provided; titles and effects awaiting translation.
-- [Status cards](cards/statuses.md): IDs provided; titles and effects awaiting translation. The updated catalogue has 33 named statuses and blank ST-034; ST-005, ST-007, ST-018, ST-028 and ST-030 have new effects. ST-007 is now Lawyer; the author confirmed that it cannot cancel multi-target or global effects. ST-018 is now Collector; ST-028 now rewards each declined ordinary event draw, with no monthly cap.
+- [Status cards](cards/statuses.md): IDs provided; titles and effects awaiting translation. The updated catalogue has 33 named statuses and blank ST-034; ST-005, ST-007, ST-018, ST-028 and ST-030 have new effects. ST-007 is now «Адвокат»; the author confirmed that it cannot cancel multi-target or global effects. ST-018 is now Collector; ST-028 now rewards each declined replacement draw for a played event, with no monthly cap.
 - [Glossary](glossary.md): terminology used in the current rules translation.
 - [Shared deck composition](../deck.md)
 - [Print pack status](../../print-and-play/en/README.md)

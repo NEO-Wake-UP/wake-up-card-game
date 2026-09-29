@@ -13,6 +13,9 @@ Use BABLOS for the currency name and Latin B immediately after amounts: 100B. On
 | event-card | Событие | Event card |
 | status-card | Карта статуса | Status card |
 | discard | Сброс | Discard pile |
+| draw | Добор — получение события за розыгрыш | Replacement draw for playing an event |
 | coin-up | UP | UP |
 | coin-wake | WAKE / W | WAKE / W |
 | final-card | WAKE UP | WAKE UP |
+
+Уточнение для перевода, 2026-09-29: получение событий по эффектам не называется добором. Короткое определение для текста общих правил автор ещё выбирает. / Translation note: gaining events through effects is separate from replacement draws. The concise definition for the rules is still pending the author’s wording.
