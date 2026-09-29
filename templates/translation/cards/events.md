@@ -1,5 +1,7 @@
 # Blank translation worksheet: events
 
+**Source revision 2026-09-29:** consult the current Russian catalogue and translation notes for the approved status changes, the distinction between replacement draws and effect-based event gains, and Agony’s original-hand rule. Titles and effects in this worksheet still await translation.
+
 Status: untranslated. Empty title/effect cells are fields to fill, not approved blank effects. Preserve IDs. Look up source text by ID in the [Russian events](../../../game/ru/cards/events.md). For ST-034 and EV-BLANK, translate only a label if needed; leave their custom effect empty.
 
 | ID | Title | Effect | Translation notes |
@@ -58,7 +60,7 @@ Status: untranslated. Empty title/effect cells are fields to fill, not approved 
 | EV-053 |  |  |  |
 | EV-054 |  |  |  |
 | EV-055 |  |  |  |
-| EV-056 |  |  |  |
+| EV-056 |  |  | Source approved 2026-09-29: The next played event gives no replacement draw. Effect-based event gains are a separate action. Translation pending. |
 | EV-057 |  |  |  |
 | EV-058 |  |  |  |
 | EV-059 |  |  |  |
@@ -107,7 +109,7 @@ Status: untranslated. Empty title/effect cells are fields to fill, not approved 
 | EV-102 |  |  |  |
 | EV-103 |  |  |  |
 | EV-104 |  |  |  |
-| EV-105 |  |  |  |
+| EV-105 |  |  | Source approved 2026-09-29: Replacement draw after playing remains allowed; the old ordinary qualifier is removed. Translation pending. |
 | EV-106 |  |  |  |
 | EV-107 |  |  |  |
 | EV-108 |  |  |  |
@@ -115,14 +117,14 @@ Status: untranslated. Empty title/effect cells are fields to fill, not approved 
 | EV-112 |  |  |  |
 | EV-113 |  |  |  |
 | EV-114 |  |  |  |
-| EV-115 |  |  |  |
-| EV-116 |  |  |  |
+| EV-115 |  |  | Source approved 2026-09-29: Source renamed «Сверхурочные»; effect unchanged: one additional event now and two events on next own turn. Translation pending. |
+| EV-116 |  |  | Source approved 2026-09-29: Inspect five and choose one INSTEAD OF the replacement draw for this event; not an additional card plus a draw. Translation pending. |
 | EV-117 |  |  |  |
 | EV-118 |  |  |  |
-| EV-119 |  |  |  |
+| EV-119 |  |  | Source approved 2026-09-29: Gain one random discarded event through the effect; no replacement draw for this event. Translation pending. |
 | EV-120 |  |  |  |
 | EV-121 |  |  |  |
-| EV-122 |  |  |  |
+| EV-122 |  |  | Source approved 2026-09-29: Keep a replacement draw after playing; discarding the hand does not grant draws for the discarded events. Translation pending. |
 | EV-123 |  |  |  |
 | EV-124 |  |  |  |
 | EV-125 |  |  |  |
@@ -194,7 +196,7 @@ Status: untranslated. Empty title/effect cells are fields to fill, not approved 
 | EV-191 |  |  |  |
 | EV-192 |  |  |  |
 | EV-193 |  |  |  |
-| EV-194 |  |  |  |
+| EV-194 |  |  | Source approved 2026-09-29: No replacement draws for played events next month; event gains through effects remain available. Translation pending. |
 | EV-195 |  |  |  |
 | EV-196 |  |  |  |
 | EV-197 |  |  |  |
@@ -250,7 +252,7 @@ Status: untranslated. Empty title/effect cells are fields to fill, not approved 
 | EV-248 |  |  |  |
 | EV-249 |  |  |  |
 | EV-250 |  |  |  |
-| EV-251 |  |  |  |
+| EV-251 |  |  | Source approved 2026-09-29: Play the events in the original hand. No replacement draws for the entire sequence, including Agony. Event gains through effects ARE allowed; new/returned events do not automatically join the required set. Separate play instructions (such as EV-206) still apply. Old ban on effect gains cancelled. Translation pending. |
 | EV-252 |  |  |  |
 | EV-253 |  |  |  |
 | EV-254 |  |  |  |

@@ -27,17 +27,17 @@ Names and effects live in the language folders. This table owns copy counts for 
 | ST-004 | status | 1 | draft: one per listed status |
 | ST-005 | status | 1 | author-approved: Minimalist, replaces blank slot, 2026-09-27 |
 | ST-006 | status | 1 | draft: one per listed status |
-| ST-007 | status | 1 | author-approved: Lawyer replaces Corrupt Official, 2026-09-29 |
+| ST-007 | status | 1 | author-approved: «Адвокат» (renamed from «Юрист»), 2026-09-29 |
 | ST-008 | status | 1 | draft: one per listed status |
-| ST-009 | status | 1 | draft: one per listed status |
-| ST-010 | status | 1 | draft: one per listed status |
+| ST-009 | status | 1 | author-approved: two Transformer forms, 2026-09-29 |
+| ST-010 | status | 1 | author-approved: «Трудоголик» replaces Worker, 2026-09-29 |
 | ST-011 | status | 1 | draft: one per listed status |
 | ST-012 | status | 1 | draft: one per listed status |
 | ST-013 | status | 1 | draft: one per listed status |
 | ST-014 | status | 1 | draft: one per listed status |
 | ST-015 | status | 1 | draft: one per listed status |
 | ST-016 | status | 1 | draft: one per listed status |
-| ST-017 | status | 1 | draft: one per listed status |
+| ST-017 | status | 1 | author-approved: UP reward 200B, 2026-09-29 |
 | ST-018 | status | 1 | author-approved: Collector replaces NPC, 2026-09-28 |
 | ST-019 | status | 1 | draft: one per listed status |
 | ST-020 | status | 1 | draft: one per listed status |
@@ -51,7 +51,7 @@ Names and effects live in the language folders. This table owns copy counts for 
 | ST-028 | status | 1 | author-approved: Vampire replaces Banker, 2026-09-28 |
 | ST-029 | status | 1 | draft: one per listed status |
 | ST-030 | status | 1 | author-approved: Insurance Agent replaces Commentator, 2026-09-27 |
-| ST-031 | status | 1 | draft: one per listed status |
+| ST-031 | status | 1 | author-approved: «Инсайдер» replaces Philosopher, 2026-09-29 |
 | ST-032 | status | 1 | draft: one per listed status |
 | ST-033 | status | 1 | draft: one per listed status |
 | ST-034 | blank-status | 1 | author-approved: blank moved from ST-005, 2026-09-27 |
@@ -166,7 +166,7 @@ Names and effects live in the language folders. This table owns copy counts for 
 | EV-112 | event | 1 | draft: one per source row |
 | EV-113 | event | 1 | draft: one per source row |
 | EV-114 | event | 1 | draft: one per source row |
-| EV-115 | event | 1 | draft: one per source row |
+| EV-115 | event | 1 | author-approved: renamed «Сверхурочные», effect unchanged, 2026-09-29 |
 | EV-116 | event | 1 | draft: one per source row |
 | EV-117 | event | 1 | draft: one per source row |
 | EV-118 | event | 1 | draft: one per source row |

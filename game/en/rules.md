@@ -23,7 +23,7 @@ The game is divided into **months**. At the end of each month, all players recei
 
 On your turn, play **one event**, resolve its effect, put the event in the **discard pile** and draw a new one **from the deck**. Alternatively, say “pass” — voluntarily skip your turn without drawing.
 
-If you play several events in one turn, take the ordinary draws for all of them after resolving the last one. Discarding an event without playing it does not give you a draw.
+If you play several events in one turn, take the draws for all of them after resolving the last one. Discarding an event without playing it does not give you a draw.
 
 When your status changes, discard the old one; you may use the new effect immediately. **BABLOS belong to individual players.** You may transfer BABLOS, your status and events, or discard events without playing them, only through card effects.
 
