@@ -1,8 +1,8 @@
 # WAKE UP
 
-**Обновление 2026-09-29:** [утверждённые статусы и уточнение добора](design/reviews/2026-09-29-statuses-final-and-draw.ru.md) внесены в каталоги. «Адвокат», «Трудоголик» и «Инсайдер» занимают ST-007, ST-010 и ST-031; у «Трансформера» две формы. «Агония» позволяет получать события по эффектам, но разыгрывает исходную руку без добора. Новое короткое определение добора в правилах автор ещё выбирает. PDF A5 пока остаётся прежней редакцией 2026-09-23.
+**Обновление 2026-09-30:** [утверждена новая редакция правил](design/reviews/2026-09-30-final-rules.ru.md): Бывалый, определение добора, пас без обязательной речи, ограничения сброса карт, явное завершение банкротства и число игроков для каждого режима. [Русские правила](game/ru/rules.md) и [английский перевод](game/en/rules.md) синхронизированы; финал EV-311 соответствует новой редакции. Ранее утверждённые статусы и остальные эффекты сохранены. PDF A5 пока остаётся прежней редакцией 2026-09-23.
 
-**Update, 2026-09-29:** see the approved source revision linked above. Russian cards and RU/EN rules terminology are updated; English card translations and the next A5 PDF revision are still pending.
+**Update, 2026-09-30:** RU/EN rules now define the Veteran, replacement draws and the end of bankruptcy, with nonverbal passing and player counts for each mode. English card translations, independent language review and the next A5 PDF revision are still pending.
 
 **A satirical card game about money, status and the choices we make.**  
 **Сатирическая карточная игра о деньгах, статусе и наших жизненных выборах.**
