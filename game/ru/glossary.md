@@ -8,14 +8,17 @@ Use BABLOS for the currency name and Latin B immediately after amounts: 100B. On
 | --- | --- | --- |
 | currency | BABLOS / B | BABLOS / B |
 | bank | Банк | Bank |
-| month | Месяц | Month |
-| salary | Зарплата | Salary |
+| month | месяц | month |
+| veteran | Бывалый — игрок, подготовивший игру | Veteran — the player who prepared the game |
+| bankruptcy | банкротство — завершается после расчёта по данному платежу | bankruptcy — ends after settling that payment |
+| pass | пас — добровольный пропуск хода без добора | pass — voluntarily skip your turn without a draw |
+| salary | зарплата | salary |
 | event-card | Событие | Event card |
 | status-card | Карта статуса | Status card |
 | discard | Сброс | Discard pile |
-| draw | Добор — получение события за розыгрыш | Replacement draw for playing an event |
+| draw | добор — новое событие из колоды за розыгрыш события | draw — a replacement event from the deck for playing an event |
 | coin-up | UP | UP |
 | coin-wake | WAKE / W | WAKE / W |
 | final-card | WAKE UP | WAKE UP |
 
-Уточнение для перевода, 2026-09-29: получение событий по эффектам не называется добором. Короткое определение для текста общих правил автор ещё выбирает. / Translation note: gaining events through effects is separate from replacement draws. The concise definition for the rules is still pending the author’s wording.
+Уточнение для перевода, 2026-09-30: определение добора внесено в правила; получение событий по эффектам не называется добором. Пас не требует речи. Банкротство завершается после расчёта по данному платежу и не является постоянным статусом. / Translation note: the rules now define draw; gaining events through effects is separate. Passing does not require speech. Bankruptcy ends after settling that payment and is not a permanent status.

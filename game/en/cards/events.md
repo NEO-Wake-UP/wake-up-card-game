@@ -307,7 +307,7 @@ Status: effects await translation. The title of EV-081, Community Cleanup, is ap
 | EV-308 |  |  | Author wording revised 2026-09-28: take 100B from every player. No explicit exclusion of the owner. Translation pending. |
 | EV-309 |  |  |  |
 | EV-310 |  |  |  |
-| EV-311 |  |  |  |
+| EV-311 |  |  | Source ending revised 2026-09-30: W distributes BABLOS to the losing players; UP adds «это был сон». Translate from current RU; outcome unchanged. |
 | EV-312 |  |  |  |
 | EV-314 |  |  |  |
 | EV-BLANK |  |  |  |

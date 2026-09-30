@@ -2,50 +2,48 @@
 
 **3–6 players / 33–99 minutes / ages 9–99**
 
-## Contents
+## CONTENTS
 
-**BABLOS** — 300 green banknotes worth 100B each; **STATUS** — 34 cards with purple backs; **EVENT** — 331 cards with light blue backs. And one **GOLD COIN**.
+**BABLOS** — 300 banknotes worth 100B each; **STATUS** — 34 purple cards; **EVENT** — 331 light blue cards; **COIN** — 1 (gold).
 
-## Setup
+## SETUP
 
-1. Shuffle the status cards. Deal one face up to each player.
-2. Place the **“WAKE UP”** event at the bottom of the shuffled event deck.
-3. Deal **5 events** face down to each player.
-4. Place the BABLOS in the centre of the table — this is the **Bank**.
+Shuffle the status cards and deal one face up to each player. Place the **“WAKE UP”** event at the bottom of the shuffled event deck. Deal **5 events** face down to each player. Place the BABLOS in the centre of the table — this is the **Bank**.
 
-## Playing the game
+## PLAYING THE GAME
 
-Status and event effects take priority over the rules.
+Status and event effects take priority over the rules. The player who prepared the game is the **Veteran**. They go first, then play proceeds clockwise.
 
-The player who completed setup is the **dealer**. They go first, then play proceeds clockwise.
+The game is divided into **months**. At the end of each month, players receive a **100B salary** from the Bank. Just before each of the **Veteran’s** turns, **including the first**, a month ends and a new one begins — even if that turn is skipped.
 
-The game is divided into **months**. At the end of each month, all players receive a **100B salary** from the Bank. A month ends just before the dealer’s turn comes around, **including the first**, even if that turn is skipped.
+On your turn, choose one action:
 
-On your turn, play **one event**, resolve its effect, put the event in the **discard pile** and draw a new one **from the deck**. Alternatively, say “pass” — voluntarily skip your turn without drawing.
+- **Play one event:** put it on the table, resolve its effect and discard it. Then take a new event from the deck — this is a **draw**. (If you play several events in one turn through effects, take the draw for each after resolving the last one.)
+- **“PASS”:** voluntarily skip your turn without drawing.
 
-If you play several events in one turn, take the draws for all of them after resolving the last one. Discarding an event without playing it does not give you a draw.
+**Important:**
 
-When your status changes, discard the old one; you may use the new effect immediately. **BABLOS belong to individual players.** You may transfer BABLOS, your status and events, or discard events without playing them, only through card effects.
+- Discarding an event without playing it does not give you a draw.
+- When your status changes, discard the old one; you may use the new effect immediately.
+- BABLOS, statuses and events **belong to individual players**. You may transfer them or **discard cards without playing them** only through effects.
+- If applying an effect requires payment, you need the **full amount**. If you do not have enough BABLOS for a mandatory payment, you are **bankrupt**. Pay **all your BABLOS**: the remainder of that payment is written off, and **your bankruptcy ends**.
+- Fill the two blank cards with your own ideas or leave them out of the game.
 
-If you do not have enough BABLOS for a mandatory payment, pay the BABLOS you have and keep playing. You are bankrupt; the remainder of that payment is written off. **Paying for an event effect requires the full amount.**
+## STANDARD VICTORY (choose your mode before the game)
 
-There are two blank cards — fill them in or leave them out of the game.
+**At the end of any turn**, show that you have the stated amount or more:
 
-## Standard victory
-
-To win, show that you have the stated amount or more **at the end of any turn**:
-
-- **Free-for-all:** 4400B — “I am an oligarch!”
-- **Two against two:** 8000B per team — “We are millionaires!”
-- **Three against three:** 10800B per team — “We are billionaires!”
+- **Free-for-all (3–6 players):** 4400B — “I am an oligarch!”
+- **Two against two (4 players):** 8000B per team — “We are millionaires!”
+- **Three against three (6 players):** 10800B per team — “We are billionaires!”
 
 (You may agree on a different winning amount before the game begins.)
 
-## Legendary victory
+## LEGENDARY VICTORY
 
 Play the **“WAKE UP”** event on your turn and flip the coin:
 
-- **WAKE:** you have awakened and won! Distribute your BABLOS among the other players.
-- **UP:** start a new game!
+- **WAKE:** you have awakened and won! Distribute your BABLOS among the losing players.
+- **UP:** it was a dream. Start a new game!
 
 **If anything is unclear, decide for yourselves.** Blah, blah, blah… Let’s play!
