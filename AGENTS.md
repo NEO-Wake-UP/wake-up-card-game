@@ -1,5 +1,13 @@
 # Working on WAKE UP
 
+- Current update (2026-10-01): start with START_HERE.ru.md, then current rules/cards and design/reviews/2026-10-01-rules-a5-and-continuity.ru.md. It is the concise handoff for a new chat; historical notes below do not override current files or newer author instructions.
+- The author explicitly requests applying this batch, rebuilding the Russian A5 PDF and MERGING it into main. This supersedes previous PDF deferrals and the omitted continuation sentence. Append «Продолжайте играть.» after bankruptcy ends; match with «Continue playing.» in EN. Bold only «центр» inside «центре» in RU setup as a Central Bank joke; this is not a new term or rule.
+- EV-285 now reads «В конце месяца возьмите из Банка 300B, если монета не была задействована весь месяц.» EV-084/139 use «лицом вниз» instead of «рубашкой вверх». No other card effects, quantities or status identities change.
+- Generate print-and-play/ru/WAKE_UP_rules_RU_A5.pdf from game/ru/rules.md using scripts/build_rules_a5.py. One A5 page, prominent upper-left title, small red square upper-right with player/time/age icons; keep every rule word and all bold emphasis. Inspect the rendered PDF and compare extracted text with the source. The new PDF replaces only the rules export; original artwork/prototype binaries remain unchanged.
+- Maintain START_HERE.ru.md when important approved decisions or the continuation point change. Separate author decisions, unapproved ideas and simulation assumptions. Simulations in the chat are individual modelled games, not physical playtests or proof of balance; visible money and richest-opponent targeting were TEST conditions, not new rules.
+
+## Historical instructions (newer entries and current files take precedence)
+
 - Latest author instruction (2026-09-30): apply ALL newly approved rules and MERGE into main. PR #24 is merged at 0779919def56b071c03106c8c138e06f28671c22. This batch is rules-final-2026-09-30; read design/reviews/2026-09-30-final-rules.ru.md. The current user authorization supersedes older merge holds and the old prohibition on adding the draw definition.
 - The setup player is now «Бывалый» (Veteran in the current English translation). A month ends and a new one starts BEFORE every turn opportunity of that player, including the first and skipped turns. EV-061/141 keep their approved wording. The first salary remains before the first turn.
 - The rules now explicitly define draw as the replacement event from the deck for playing an event. Exact chain wording: «Если по эффектам разыгрываете несколько событий за ход, добор за каждое — после розыгрыша последнего.» Effect gains remain separate, including during Agony. Pass no longer requires spoken words, so Mute can indicate a pass nonverbally.

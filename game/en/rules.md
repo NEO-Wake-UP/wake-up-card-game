@@ -8,7 +8,7 @@
 
 ## SETUP
 
-Shuffle the status cards and deal one face up to each player. Place the **“WAKE UP”** event at the bottom of the shuffled event deck. Deal **5 events** face down to each player. Place the BABLOS in the centre of the table — this is the **Bank**.
+Shuffle the status cards and deal one face up to each player. Place the **“WAKE UP”** event at the bottom of the shuffled event deck. Deal **5 events** face down to each player. Place the BABLOS in the **centre** of the table — this is the **Bank**.
 
 ## PLAYING THE GAME
 
@@ -26,7 +26,7 @@ On your turn, choose one action:
 - Discarding an event without playing it does not give you a draw.
 - When your status changes, discard the old one; you may use the new effect immediately.
 - BABLOS, statuses and events **belong to individual players**. You may transfer them or **discard cards without playing them** only through effects.
-- If applying an effect requires payment, you need the **full amount**. If you do not have enough BABLOS for a mandatory payment, you are **bankrupt**. Pay **all your BABLOS**: the remainder of that payment is written off, and **your bankruptcy ends**.
+- If applying an effect requires payment, you need the **full amount**. If you do not have enough BABLOS for a mandatory payment, you are **bankrupt**. Pay **all your BABLOS**: the remainder of that payment is written off, and **your bankruptcy ends**. Continue playing.
 - Fill the two blank cards with your own ideas or leave them out of the game.
 
 ## STANDARD VICTORY (choose your mode before the game)
