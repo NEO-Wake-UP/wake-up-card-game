@@ -1,8 +1,8 @@
 # WAKE UP
 
-**Обновление 2026-09-30:** [утверждена новая редакция правил](design/reviews/2026-09-30-final-rules.ru.md): Бывалый, определение добора, пас без обязательной речи, ограничения сброса карт, явное завершение банкротства и число игроков для каждого режима. [Русские правила](game/ru/rules.md) и [английский перевод](game/en/rules.md) синхронизированы; финал EV-311 соответствует новой редакции. Ранее утверждённые статусы и остальные эффекты сохранены. PDF A5 пока остаётся прежней редакцией 2026-09-23.
+**Обновление 2026-10-01:** добавлено «Продолжайте играть.», выделено «центр» в подготовке, уточнены EV-285 и «лицом вниз» у EV-084/139. [Новый PDF A5](print-and-play/ru/WAKE_UP_rules_RU_A5.pdf) совпадает с [русскими правилами](game/ru/rules.md): одна страница, основной шрифт 10 пт, красная рамка с пиктограммами. [Все изменения](design/reviews/2026-10-01-rules-a5-and-continuity.ru.md).
 
-**Update, 2026-09-30:** RU/EN rules now define the Veteran, replacement draws and the end of bankruptcy, with nonverbal passing and player counts for each mode. English card translations, independent language review and the next A5 PDF revision are still pending.
+**Update, 2026-10-01:** RU/EN rules now explicitly say to continue playing after bankruptcy ends. The Russian A5 PDF has been rebuilt from the current rules. EV-285 now states its month-end reward timing; EV-084/139 use “face down” in Russian. English card translation and independent language review remain pending.
 
 **A satirical card game about money, status and the choices we make.**  
 **Сатирическая карточная игра о деньгах, статусе и наших жизненных выборах.**
@@ -20,9 +20,11 @@ Earn BABLOS, change your social status and navigate absurd events. Play for fun,
 | English | [English edition](game/en/README.md) | [Print pack status](print-and-play/en/README.md) |
 | Other languages / Другие языки | [Translation guide / Как перевести](templates/translation/README.md) | [Blank card layouts / Пустые макеты](templates/cards/README.md) |
 
-**Rules update (2026-09-27):** The author-approved [Russian rules](game/ru/rules.md) and their [English translation](game/en/rules.md) now include replacement draw timing for multiple events and limits on discarding unplayed events. The existing [A5 PDF](print-and-play/ru/WAKE_UP_rules_RU_A5.pdf) remains the 2026-09-23 edition: the author asked to defer its update. The latest [approved update](design/reviews/2026-09-27-statuses-and-insurance.ru.md) adds Minimalist, replaces Commentator with Insurance Agent and moves the blank status to ST-034. The target set is 34 status cards and 331 event cards, maintaining 666 components overall. The second event review is underway; the first pass of events and statuses is complete. English cards await translation, and complete printable sets are not available yet.
+**Current edition:** the target set is 34 status cards and 331 event cards, maintaining 666 components overall; three reserve event copies still await selection. The first editorial pass is complete. English cards and complete print packs are not yet available. The current [A5 rules](print-and-play/ru/WAKE_UP_rules_RU_A5.pdf) are dated 2026-10-01.
 
-**Уточнение правил от 2026-09-27:** в [русский текст](game/ru/rules.md) и [английский перевод](game/en/rules.md) добавлены общий порядок добора нескольких событий и ограничение сброса без розыгрыша. [PDF A5](print-and-play/ru/WAKE_UP_rules_RU_A5.pdf) пока содержит редакцию 2026-09-23: автор попросил отложить его обновление. [Утверждены новые статусы](design/reviews/2026-09-27-statuses-and-insurance.ru.md): ST-005 «Минималист», ST-030 «Страховой агент» и пустая ST-034. Целевой комплект теперь содержит 34 статуса и 331 событие, всего по-прежнему 666 компонентов. Идёт [вторая вычитка событий](design/reviews/2026-09-27-events-second-pass.ru.md); первая вычитка событий и статусов завершена. Независимая языковая вычитка английских правил, перевод карт и полный печатный набор ещё впереди.
+**Текущая редакция:** цель — 34 статуса и 331 событие, всего 666 компонентов; из предварительной описи ещё предстоит отобрать три резервных экземпляра событий. Первая вычитка завершена, утверждённые правки второй внесены. Перевод карточек, независимая английская вычитка и полный печатный набор ещё впереди.
+
+**Продолжение в новом чате:** начните с [START_HERE.ru.md — памятки Димы и Лиса](START_HERE.ru.md). Здесь собраны действующие решения, отменённые варианты, важные сочетания карт и результаты первых модельных партий.
 
 ## Иллюстрации событий и статусов
 
