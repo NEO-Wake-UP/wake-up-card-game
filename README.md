@@ -1,5 +1,9 @@
 # WAKE UP
 
+**Обновление 2026-10-05:** оформленные правила — [русский PNG](print-and-play/ru/WAKE_UP_rules_RU.png) и [английский PNG](print-and-play/en/WAKE_UP_rules_EN.png); [пустой шаблон](templates/rules/README.md) — для других языков. Добавлен [предфинальный BABLOS](assets/prototypes/currency/README.md). Новые изображения можно загружать в [assets/inbox](assets/inbox/README.md). Утверждены окончательная формулировка Фрилансера и уточнения статусов; [обзор изменений](design/reviews/2026-10-05-assets-and-freelancer-final.ru.md).
+
+**Update, 2026-10-05:** illustrated RU/EN rules, a blank rules background and a prefinal BABLOS note are available. Use the image inbox for future uploads. The latest approved status wording is recorded in the linked review; English card translations remain unfinished.
+
 **Обновление 2026-10-01:** добавлено «Продолжайте играть.», выделено «центр» в подготовке, уточнены EV-285 и «лицом вниз» у EV-084/139. [Новый PDF A5](print-and-play/ru/WAKE_UP_rules_RU_A5.pdf) совпадает с [русскими правилами](game/ru/rules.md): одна страница, основной шрифт 10 пт, красная рамка с пиктограммами. [Все изменения](design/reviews/2026-10-01-rules-a5-and-continuity.ru.md).
 
 **Update, 2026-10-01:** RU/EN rules now explicitly say to continue playing after bankruptcy ends. The Russian A5 PDF has been rebuilt from the current rules. EV-285 now states its month-end reward timing; EV-084/139 use “face down” in Russian. English card translation and independent language review remain pending.
@@ -18,7 +22,7 @@ Earn BABLOS, change your social status and navigate absurd events. Play for fun,
 | --- | --- | --- |
 | Русский | [Русская версия](game/ru/README.md) | [Статус печатного набора](print-and-play/ru/README.md) |
 | English | [English edition](game/en/README.md) | [Print pack status](print-and-play/en/README.md) |
-| Other languages / Другие языки | [Translation guide / Как перевести](templates/translation/README.md) | [Blank card layouts / Пустые макеты](templates/cards/README.md) |
+| Other languages / Другие языки | [Translation guide / Как перевести](templates/translation/README.md) | [Rules background / Фон правил](templates/rules/README.md) · [Blank cards / Пустые карты](templates/cards/README.md) |
 
 **Current edition (2026-10-04):** 28 new events are added and ST-024 is now Спекулянт. The provisional inventory has 361 filled event copies plus a blank, leaving 31 reserve copies above the target of 331 events. The target remains 34 statuses and 666 components overall. English cards and complete print packs are not yet available. The current [A5 rules](print-and-play/ru/WAKE_UP_rules_RU_A5.pdf) are dated 2026-10-01.
 
@@ -46,6 +50,7 @@ Earn BABLOS, change your social status and navigate absurd events. Play for fun,
 | --- | --- |
 | [game](game/README.md) | Rules, card texts and shared deck composition / Правила, тексты карт и общий состав колоды |
 | [assets](assets/README.md) | Artwork, prototypes and coin sources / Графика, прототипы и исходники монеты |
+| [assets/inbox](assets/inbox/README.md) | Upload new images for later sorting / Загрузить новые картинки для последующего распределения |
 | [design](design/README.md) | Author's vision, illustration briefs and open questions / Авторский замысел, задания художнику и вопросы доработки |
 | [templates](templates/README.md) | Translation worksheets and blank card layouts / Заготовки перевода и пустые макеты карт |
 | [print-and-play](print-and-play/README.md) | Finished print packs, when ready / Готовые печатные наборы, когда они будут готовы |

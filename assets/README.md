@@ -2,12 +2,15 @@
 
 All 13 original visual files (11 raster images and 2 vector sources) have been preserved byte for byte. / Все 13 исходных визуальных файлов (11 растровых и 2 векторных) сохранены без изменения содержимого.
 
+**2026-10-05:** добавлены авторские [правила RU](../print-and-play/ru/WAKE_UP_rules_RU.png), [правила EN](../print-and-play/en/WAKE_UP_rules_EN.png), [пустой шаблон правил](../templates/rules/WAKE_UP_rules_blank.png) и [предфинальная банкнота](prototypes/currency/bablos-100-prefinal.png). Все четыре PNG перенесены без изменения содержимого. Для новых файлов используйте [папку загрузок](inbox/README.md).
+
 | Location / Путь | Contents / Содержимое |
 | --- | --- |
 | [coin](coin) | Original CDR/EPS, image references and manufacturing brief / CDR/EPS, изображения и ТЗ монеты |
 | [prototypes/cards](prototypes/cards) | Three sample card fronts and two backs / Три примера лицевых сторон и две рубашки |
-| [prototypes/currency](prototypes/currency) | 100 BABLOS note concept / Эскиз банкноты |
+| [prototypes/currency](prototypes/currency/README.md) | Earlier concept and current prefinal 100 BABLOS note / Прежний эскиз и предфинальная банкнота |
 | [prototypes/box](prototypes/box) | Cover, mockup and layout concept / Обложка, визуализация и концепт развёртки |
+| [inbox](inbox/README.md) | New uploads awaiting sorting / Новые загрузки до переименования и распределения |
 
 ## Future assets / Следующие изображения
 
