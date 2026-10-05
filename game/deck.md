@@ -1,18 +1,23 @@
 # Deck composition / Состав колод
 
+**Updated 2026-10-04 / Обновлено 2026-10-04:** [28 approved new events](../design/reviews/2026-10-04-event-refresh.ru.md) are included as EV-315–EV-342, one provisional copy each. Existing IDs are preserved; ST-024 and five earlier events have updated source texts.
+
 **Provisional inventory, not an approved print manifest. / Предварительная опись, не утверждённый состав для печати.**
 
-The author confirmed the final target: **330 event/final cards + 1 blank event card**. The current catalogue deliberately contains reserve ideas for later selection. With 30 copies of Coffee, the remaining 302 source rows and newly added EV-312 and EV-314 give **333 + 1 blank**. EV-035, EV-109, EV-111, EV-232, EV-263, EV-275, EV-287, EV-305, EV-306 and EV-313 are removed; EV-232 was removed in favour of EV-061, EV-306 duplicated EV-278, and EV-313 duplicated EV-188. The final selection is still pending.
+The final target remains **330 event/final cards + 1 blank event**, within **666 components: 300 BABLOS banknotes + 34 statuses + 331 events + 1 coin**. The current catalogue contains **332 filled event/final records**. With 30 copies of Coffee, that is **361 filled copies + 1 blank**. There are **31 reserve copies above the target**; final selection is pending. No earlier removal suggestions have been applied automatically.
 
-Автор подтвердил конечную цель: **330 событий (включая финальное) + 1 пустое**. Избыток намеренный: идеи записаны с запасом для отбора. С новыми EV-312 и EV-314, 302 оставшимися исходными записями и 30 экземплярами «Кофе» получается **333 + 1 пустая**. EV-035, EV-109, EV-111, EV-232, EV-263, EV-275, EV-287, EV-305, EV-306 и EV-313 удалены; EV-232 удалена в пользу EV-061, EV-306 повторяла EV-278, EV-313 повторяла EV-188. Отбор ещё предстоит. Статусов — **33 + 1 пустой**. Для целевой колоды нужно отобрать ещё три события из предварительной описи, не меняя 30 экземпляров «Кофе».
+Конечная цель сохраняется: **330 заполненных событий (включая финальное) + 1 пустое**, всего **666 компонентов: 300 банкнот BABLOS + 34 статуса + 331 событие + 1 монета**. Сейчас в каталоге **332 заполненные записи событий/финальных карт**. С 30 экземплярами «Кофе» это **361 заполненный экземпляр + 1 пустая карта**. Сверх целевого состава остаётся **31 резервный экземпляр**; окончательный отбор впереди. Ранее предложенные удаления автоматически не применялись.
 
-The author added «Минималист» at ST-005, moved the blank status to ST-034 and replaced ST-030 with «Страховой агент» on 2026-09-27. The target set remains **666 components: 300 BABLOS banknotes + 34 status cards + 331 event cards + 1 coin**. The provisional event inventory still contains three reserve copies above that target; final selection is pending. / Автор добавил «Минималиста» на ST-005, перенёс пустой статус на ST-034 и заменил ST-030 на «Страхового агента». Целевой комплект — **666 компонентов: 300 банкнот BABLOS + 34 статуса + 331 событие + 1 монета**. В предварительной описи ещё три резервных экземпляра событий сверх цели; их отбор впереди.
+EV-035, EV-109, EV-111, EV-232, EV-263, EV-275, EV-287, EV-305, EV-306 and EV-313 remain retired; their IDs are not reused. EV-306 duplicated the effect retained at EV-278, now titled «Захват». The rejected new proposals named «Перегруппировка» and «Делегирование» do not remove existing EV-033 and EV-025.
+
+Статусов **33 + пустая ST-034**. С 4 октября ST-024 — «Спекулянт»; «Немой» перенесён в события как EV-342. Количество статусов и 30 экземпляров «Кофе» не меняются.
 
 ## ID convention / Постоянные номера
 
 - `ST-001` … `ST-033`: original positions. By explicit author instruction on 2026-09-27, ST-005 is now Minimalist, ST-030 is Insurance Agent, and the blank status has moved to the new ST-034. This documented reassignment supersedes the former blank-ID mapping; other IDs are unchanged.
 - `EV-001` … `EV-311`: original event row order, not alphabetical order.
 - `EV-312` and `EV-314`: active events added during review. `EV-313` was removed as a duplicate; do not reuse this ID. Numbering does not set physical deck order; WAKE UP remains last during setup.
+- `EV-315` … `EV-342`: 28 new events approved on 2026-10-04, including Mute at EV-342.
 - `EV-BLANK`: blank event card named in the original component list.
 - Never recycle IDs. Add new IDs after the largest existing number. Translation and illustration filenames retain the same ID.
 - `final` identifies WAKE UP. During setup it goes at the bottom of the deck. Under the latest [short-rules decisions](../design/reviews/2026-09-20-short-rules.ru.md), receiving it puts it in hand; the player plays it on their own turn to trigger the ending. Revealing or receiving it does not trigger the ending. EV-172 may discard it; the author's intended winnerless outcome is kept in design notes and deliberately unstated on the card. Other unusual reveal/discard interactions still need clarification.
@@ -44,7 +49,7 @@ Names and effects live in the language folders. This table owns copy counts for 
 | ST-021 | status | 1 | draft: one per listed status |
 | ST-022 | status | 1 | draft: one per listed status |
 | ST-023 | status | 1 | draft: one per listed status |
-| ST-024 | status | 1 | draft: one per listed status |
+| ST-024 | status | 1 | author-approved: Спекулянт replaces Немой, 2026-10-04 |
 | ST-025 | status | 1 | draft: one per listed status |
 | ST-026 | status | 1 | draft: one per listed status |
 | ST-027 | status | 1 | draft: one per listed status |
@@ -359,4 +364,32 @@ Names and effects live in the language folders. This table owns copy counts for 
 | EV-311 | final | 1 | draft: one per source row |
 | EV-312 | event | 1 | author-added: ordinary tablet, 2026-09-14 |
 | EV-314 | event | 1 | author-added: holiday, 2026-09-15 |
+| EV-315 | event | 1 | author-added: Кэшбэк, 2026-10-04 |
+| EV-316 | event | 1 | author-added: Коллектор, 2026-10-04 |
+| EV-317 | event | 1 | author-added: Договор, 2026-10-04 |
+| EV-318 | event | 1 | author-added: Дежавю, 2026-10-04 |
+| EV-319 | event | 1 | author-added: Сухой закон, 2026-10-04 |
+| EV-320 | event | 1 | author-added: Золотой парашют, 2026-10-04 |
+| EV-321 | event | 1 | author-added: Невидимый налог, 2026-10-04 |
+| EV-322 | event | 1 | author-added: Отстранение, 2026-10-04 |
+| EV-323 | event | 1 | author-added: Добрый излучатель, 2026-10-04 |
+| EV-324 | event | 1 | author-added: Кредитная история, 2026-10-04 |
+| EV-325 | event | 1 | author-added: Налоговые каникулы, 2026-10-04 |
+| EV-326 | event | 1 | author-added: Дотация, 2026-10-04 |
+| EV-327 | event | 1 | author-added: Финансовый лимит, 2026-10-04 |
+| EV-328 | event | 1 | author-added: Обмен, 2026-10-04 |
+| EV-329 | event | 1 | author-added: Второй шанс, 2026-10-04 |
+| EV-330 | event | 1 | author-added: Обмен мнениями, 2026-10-04 |
+| EV-331 | event | 1 | author-added: Когти орла, 2026-10-04 |
+| EV-332 | event | 1 | author-added: Перезагрузка, 2026-10-04 |
+| EV-333 | event | 1 | author-added: Карантин, 2026-10-04 |
+| EV-334 | event | 1 | author-added: Мораторий, 2026-10-04 |
+| EV-335 | event | 1 | author-added: Подражание, 2026-10-04 |
+| EV-336 | event | 1 | author-added: Вторая попытка, 2026-10-04 |
+| EV-337 | event | 1 | author-added: Перемена, 2026-10-04 |
+| EV-338 | event | 1 | author-added: Больничный, 2026-10-04 |
+| EV-339 | event | 1 | author-added: Конфискация, 2026-10-04 |
+| EV-340 | event | 1 | author-added: Рокировка, 2026-10-04 |
+| EV-341 | event | 1 | author-added: Наследство, 2026-10-04 |
+| EV-342 | event | 1 | author-added: Немой, 2026-10-04 |
 | EV-BLANK | blank-event | 1 | explicit blank component |

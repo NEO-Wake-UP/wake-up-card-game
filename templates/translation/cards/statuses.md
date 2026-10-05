@@ -1,5 +1,7 @@
 # Blank translation worksheet: statuses
 
+**Source approved 2026-10-04:** ST-024 is Спекулянт, replacing the former Mute status and its salary bonus. Mute is now event EV-342 and has NO aloud-reading exception. Earlier ST-024 notes are historical.
+
 **Source revision 2026-09-29:** consult the current Russian catalogue and translation notes for the approved status changes, the distinction between replacement draws and effect-based event gains, and Agony’s original-hand rule. Titles and effects in this worksheet still await translation.
 
 Status: untranslated. Author update 2026-09-27: ST-005 is now Minimalist, ST-030 is Insurance Agent, and the custom blank status is ST-034. These English names identify the Russian source, not an approved translation. Empty title/effect cells are fields to fill, not approved blank effects. Preserve IDs. Look up source text by ID in the [Russian statuses](../../../game/ru/cards/statuses.md). For ST-034 and EV-BLANK, translate only a label if needed; leave their custom effect empty.
@@ -29,7 +31,7 @@ Status: untranslated. Author update 2026-09-27: ST-005 is now Minimalist, ST-030
 | ST-021 |  |  |  |
 | ST-022 |  |  | Source approved 2026-09-29: Receive a new event instead of salary. Translation pending. |
 | ST-023 |  |  |  |
-| ST-024 |  |  | Source approved 2026-09-29: Communicate through gestures and nonverbal sounds; ONLY reading event effects aloud is exempt. Other spoken event tasks break the bonus condition. Keep 100B extra salary once per month for compliance. Translation pending. |
+| ST-024 |  |  | Source approved 2026-10-04: at month start offer players the unseen top event for 200B paid to you. One offer and at most one sale; purchase is voluntary and you choose among willing buyers. Keep the author-approved short source wording. Translation pending. |
 | ST-025 |  |  | Source approved 2026-09-29: At month start give another player 100B and take 200B from Bank. Mid-month acquisition waits for the relevant month-start timing. Translation pending. |
 | ST-026 |  |  | Source approved 2026-09-29: Choose one of the top three statuses. Put this status card into the chosen card’s place in the deck. The other two remain in the deck. Translation pending. |
 | ST-027 |  |  |  |

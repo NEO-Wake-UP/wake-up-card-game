@@ -1,5 +1,7 @@
 # Translate WAKE UP / Перевести WAKE UP
 
+**Source approved 2026-10-04:** [latest revision](../../design/reviews/2026-10-04-event-refresh.ru.md) adds EV-315–EV-342, replaces ST-024 with Спекулянт and updates EV-034/098/143/234/278. New event EV-342 Mute prohibits all speech, including reading effects aloud. EV-335 copying does not state a mandatory expiry on status change; that case is left to players. Follow the current Russian catalogue and row notes.
+
 **Rules update, 2026-09-30:** follow the [new Russian rules](../../game/ru/rules.md) and [decision record](../../design/reviews/2026-09-30-final-rules.ru.md). The setup player is Бывалый (Veteran in English). Use draw only for the replacement event received for playing an event; use take/gain for effect-based acquisition. Passing does not require speech. The discard restriction covers status and event cards. Bankruptcy ends when all available BABLOS are paid and the remainder of that payment is written off; do not turn it into a lasting role. Preserve the revised mode counts and EV-311 ending. The latest glossary defines these terms.
 
 **Source update, 2026-09-29:** [latest approved decisions](../../design/reviews/2026-09-29-statuses-final-and-draw.ru.md) supersede older source notes. Recheck status timing, ST-009’s two forms, ST-017’s 200B UP payout, ST-024’s reading-only exception, ST-026’s return to the deck, and Agony’s original-hand scope with effect-based gains allowed. Do not use ordinary draw as a separate type of draw.
