@@ -30,7 +30,7 @@ Status: untranslated. Author update 2026-09-27: ST-005 is now Minimalist, ST-030
 | ST-020 |  |  | Source approved 2026-09-29: No taxes. Take 100B from anyone addressing the owner without the required royal title. No monthly cap; passive-skill label removed. Translation pending. |
 | ST-021 |  |  |  |
 | ST-022 |  |  | Source approved 2026-09-29: Receive a new event instead of salary. Translation pending. |
-| ST-023 |  |  |  |
+| ST-023 |  |  | Source approved 2026-10-05: At the beginning of the month, exchange an event from your own hand for a random event from another player's hand. This replaces the previous once-per-month timing; a status gained mid-month waits for the next month start. Translation pending. |
 | ST-024 |  |  | Source approved 2026-10-04: at month start offer players the unseen top event for 200B paid to you. One offer and at most one sale; purchase is voluntary and you choose among willing buyers. Keep the author-approved short source wording. Translation pending. |
 | ST-025 |  |  | Source approved 2026-09-29: At month start give another player 100B and take 200B from Bank. Mid-month acquisition waits for the relevant month-start timing. Translation pending. |
 | ST-026 |  |  | Source approved 2026-09-29: Choose one of the top three statuses. Put this status card into the chosen card’s place in the deck. The other two remain in the deck. Translation pending. |
@@ -39,6 +39,6 @@ Status: untranslated. Author update 2026-09-27: ST-005 is now Minimalist, ST-030
 | ST-029 |  |  | Source approved 2026-09-29: At the beginning of every second month take a random event from the discard pile. Translation pending. |
 | ST-030 |  |  | Source approved 2026-09-29: After the owner’s own bankruptcy, take 1100B from Bank. No new frequency limit. Translation pending. |
 | ST-031 |  |  | Source approved 2026-09-29: Source title «Инсайдер», replacing «Философ». At MONTH start may inspect the top three events and return them in any order. Not at the beginning of own turn. Translation pending. |
-| ST-032 |  |  | Source approved 2026-09-29: Once per month may receive 300B from Bank for discarding one event from own hand. Translation pending. |
+| ST-032 |  |  | Source approved 2026-10-05: At the beginning of the month, may receive 300B from the Bank for discarding one event from your own hand. This replaces the previous once-per-month timing; a status gained mid-month waits for the next month start. Translation pending. |
 | ST-033 |  |  |  |
 | ST-034 |  |  |  |
