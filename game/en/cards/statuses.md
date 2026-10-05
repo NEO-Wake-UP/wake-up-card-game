@@ -1,5 +1,7 @@
 # English card translation worksheet: statuses
 
+**Latest source approval 2026-10-05:** ST-029 is now Фрилансер: no salary, 100B from the Bank for each event played by the owner. The previous discard-retrieval ability is retired. The author's approved amount is 100B, not the earlier 200B proposal. Translation pending.
+
 **Source approved 2026-10-04:** ST-024 is Спекулянт, replacing the former Mute status and its salary bonus. Mute is now event EV-342 and has NO aloud-reading exception. Earlier ST-024 notes are historical.
 
 **Source revision 2026-09-29:** consult the current Russian catalogue and translation notes for the approved status changes, the distinction between replacement draws and effect-based event gains, and Agony’s original-hand rule. Titles and effects in this worksheet still await translation.
@@ -36,7 +38,7 @@ Status: untranslated. Author update 2026-09-27: ST-005 is now Minimalist, ST-030
 | ST-026 |  |  | Source approved 2026-09-29: Choose one of the top three statuses. Put this status card into the chosen card’s place in the deck. The other two remain in the deck. Translation pending. |
 | ST-027 |  |  |  |
 | ST-028 |  |  | Source approved 2026-09-29: May decline each replacement draw for a played event and take 200B from any player. Each refusal is rewarded; no monthly cap. Gaining events through effects is separate. Translation pending. |
-| ST-029 |  |  | Source approved 2026-09-29: At the beginning of every second month take a random event from the discard pile. Translation pending. |
+| ST-029 |  |  | Source approved 2026-10-05: Фрилансер replaces Барахольщик. No salary; receive 100B from the Bank for each event played by the owner. This is income for playing, independent of replacement draws. No monthly limit was added. The earlier 200B proposal is not approved. Translation pending. |
 | ST-030 |  |  | Source approved 2026-09-29: After the owner’s own bankruptcy, take 1100B from Bank. No new frequency limit. Translation pending. |
 | ST-031 |  |  | Source approved 2026-09-29: Source title «Инсайдер», replacing «Философ». At MONTH start may inspect the top three events and return them in any order. Not at the beginning of own turn. Translation pending. |
 | ST-032 |  |  | Source approved 2026-10-05: At the beginning of the month, may receive 300B from the Bank for discarding one event from your own hand. This replaces the previous once-per-month timing; a status gained mid-month waits for the next month start. Translation pending. |

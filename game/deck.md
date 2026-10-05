@@ -10,7 +10,7 @@ The final target remains **330 event/final cards + 1 blank event**, within **666
 
 EV-035, EV-109, EV-111, EV-232, EV-263, EV-275, EV-287, EV-305, EV-306 and EV-313 remain retired; their IDs are not reused. EV-306 duplicated the effect retained at EV-278, now titled «Захват». The rejected new proposals named «Перегруппировка» and «Делегирование» do not remove existing EV-033 and EV-025.
 
-Статусов **33 + пустая ST-034**. С 4 октября ST-024 — «Спекулянт»; «Немой» перенесён в события как EV-342. Количество статусов и 30 экземпляров «Кофе» не меняются.
+Статусов **33 + пустая ST-034**. С 4 октября ST-024 — «Спекулянт»; «Немой» перенесён в события как EV-342. С 5 октября ST-029 — «Фрилансер» вместо «Барахольщика», без зарплаты и со 100B за каждое разыгранное событие. Количество статусов и 30 экземпляров «Кофе» не меняются.
 
 ## ID convention / Постоянные номера
 
@@ -54,7 +54,7 @@ Names and effects live in the language folders. This table owns copy counts for 
 | ST-026 | status | 1 | draft: one per listed status |
 | ST-027 | status | 1 | draft: one per listed status |
 | ST-028 | status | 1 | author-approved: Vampire replaces Banker, 2026-09-28 |
-| ST-029 | status | 1 | draft: one per listed status |
+| ST-029 | status | 1 | author-approved: Фрилансер replaces Барахольщик; no salary, 100B per played event, 2026-10-05 |
 | ST-030 | status | 1 | author-approved: Insurance Agent replaces Commentator, 2026-09-27 |
 | ST-031 | status | 1 | author-approved: «Инсайдер» replaces Philosopher, 2026-09-29 |
 | ST-032 | status | 1 | draft: one per listed status |
