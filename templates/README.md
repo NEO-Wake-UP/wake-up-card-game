@@ -4,5 +4,6 @@
 | --- | --- | --- |
 | [Translation worksheets / Таблицы перевода](translation/README.md) | Fill names and effects for the same card IDs / Вписать названия и эффекты для тех же ID | All current IDs included / Все текущие ID включены |
 | [Blank cards / Пустые карты](cards/README.md) | Draft custom cards or future layouts / Создать свою карту или начать вёрстку | Basic SVG frames, no artwork / Простые SVG-рамки, без иллюстраций |
+| [Blank rules background / Пустой фон правил](rules/README.md) | Add rules in another language / Добавить правила на любом языке | Author-supplied PNG, 1051 × 1496 pixels / PNG автора, 1051 × 1496 пикселей |
 
 These serve different purposes: a blank custom card permits a player-created effect; a translation preserves the effect of an existing card. / Пустая авторская карта позволяет придумать свой эффект; перевод сохраняет эффект существующей карты.

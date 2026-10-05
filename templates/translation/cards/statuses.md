@@ -1,5 +1,7 @@
 # Blank translation worksheet: statuses
 
+**Final source approval 2026-10-05:** Freelancer now explicitly receives 100B when BEGINNING to play an event, before resolving its effect. The earlier proposed timing phrase is approved. All status names are retained. Translation fields remain worksheets.
+
 **Further source approval 2026-10-05:** ST-005/015/025/031 wording approved; ST-027 returns the unchosen event to the TOP of the event deck. All current status names are retained. Freelancer eligibility is determined when the event starts: losing that status through the event keeps its 100B reward; acquiring it through the event does not grant that event's reward. The short Russian Freelancer wording is unchanged pending discussion of a possible timing phrase. Translation pending.
 
 **Latest source approval 2026-10-05:** ST-029 is now Фрилансер: no salary, 100B from the Bank for each event played by the owner. The previous discard-retrieval ability is retired. The author's approved amount is 100B, not the earlier 200B proposal. Translation pending.
@@ -40,7 +42,7 @@ Status: untranslated. Author update 2026-09-27: ST-005 is now Minimalist, ST-030
 | ST-026 |  |  | Source approved 2026-09-29: Choose one of the top three statuses. Put this status card into the chosen card’s place in the deck. The other two remain in the deck. Translation pending. |
 | ST-027 |  |  | Source approved 2026-10-05: When receiving a new event, choose one of the top two. Return the other to the TOP of the event deck, not an arbitrary position. Translation pending. |
 | ST-028 |  |  | Source approved 2026-09-29: May decline each replacement draw for a played event and take 200B from any player. Each refusal is rewarded; no monthly cap. Gaining events through effects is separate. Translation pending. |
-| ST-029 |  |  | Source approved 2026-10-05: Фрилансер replaces Барахольщик. No salary; receive 100B from the Bank for each event played by the owner. Check eligibility when the event starts: a status-changing event still rewards its initial Freelancer, but becoming Freelancer through that event does not reward it. This clarification does not set a new cash-transfer timing. Income is independent of replacement draws. No monthly cap; the earlier 200B proposal is not approved. Translation pending. |
+| ST-029 |  |  | Final source approved 2026-10-05: Фрилансер replaces Барахольщик. No salary; receive 100B from the Bank when BEGINNING to play an event, before resolving its effect. A status-changing event rewards its initial Freelancer; becoming Freelancer through that event does not reward it. Income is independent of replacement draws. No monthly cap; the earlier 200B proposal is not approved. Translation pending. |
 | ST-030 |  |  | Source approved 2026-09-29: After the owner’s own bankruptcy, take 1100B from Bank. No new frequency limit. Translation pending. |
 | ST-031 |  |  | Source approved 2026-10-05: At MONTH start may inspect the top three events and return them to the TOP of the event deck in any order. Not at the beginning of own turn. Translation pending. |
 | ST-032 |  |  | Source approved 2026-10-05: At the beginning of the month, may receive 300B from the Bank for discarding one event from your own hand. This replaces the previous once-per-month timing; a status gained mid-month waits for the next month start. Translation pending. |
