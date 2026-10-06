@@ -1,5 +1,9 @@
 # WAKE UP
 
+**Обновление 2026-10-06:** утверждены [23 новых события и шесть изменений существующих карт](design/reviews/2026-10-06-event-refresh.ru.md). Тексты находятся в [русском каталоге](game/ru/cards/events.md); ID новых карт — EV-343–EV-365.
+
+**Update, 2026-10-06:** 23 approved events and six existing-card edits are recorded in the current Russian catalogue. English card translation remains pending.
+
 **Обновление 2026-10-05:** оформленные правила — [русский PNG](print-and-play/ru/WAKE_UP_rules_RU.png) и [английский PNG](print-and-play/en/WAKE_UP_rules_EN.png); [пустой шаблон](templates/rules/README.md) — для других языков. Добавлен [предфинальный BABLOS](assets/prototypes/currency/README.md). Новые изображения можно загружать в [assets/inbox](assets/inbox/README.md). Утверждены окончательная формулировка Фрилансера и уточнения статусов; [обзор изменений](design/reviews/2026-10-05-assets-and-freelancer-final.ru.md).
 
 **Update, 2026-10-05:** illustrated RU/EN rules, a blank rules background and a prefinal BABLOS note are available. Use the image inbox for future uploads. The latest approved status wording is recorded in the linked review; English card translations remain unfinished.
@@ -24,9 +28,9 @@ Earn BABLOS, change your social status and navigate absurd events. Play for fun,
 | English | [English edition](game/en/README.md) | [Print pack status](print-and-play/en/README.md) |
 | Other languages / Другие языки | [Translation guide / Как перевести](templates/translation/README.md) | [Rules background / Фон правил](templates/rules/README.md) · [Blank cards / Пустые карты](templates/cards/README.md) |
 
-**Current edition (2026-10-04):** 28 new events are added and ST-024 is now Спекулянт. The provisional inventory has 361 filled event copies plus a blank, leaving 31 reserve copies above the target of 331 events. The target remains 34 statuses and 666 components overall. English cards and complete print packs are not yet available. The current [A5 rules](print-and-play/ru/WAKE_UP_rules_RU_A5.pdf) are dated 2026-10-01.
+**Current edition (2026-10-06):** 355 filled event records; 384 provisional filled copies plus one blank, leaving 54 reserve copies above the target of 331 events. The target remains 34 statuses and 666 components overall. English cards and complete print packs are not yet available. The current [A5 rules](print-and-play/ru/WAKE_UP_rules_RU_A5.pdf) are dated 2026-10-01.
 
-**Текущая редакция (2026-10-04):** добавлены 28 событий, ST-024 теперь «Спекулянт». В предварительной описи 361 заполненный экземпляр событий и пустая карта — на 31 больше целевых 331. Цель сохраняется: 34 статуса и 666 компонентов. [Все утверждённые изменения](design/reviews/2026-10-04-event-refresh.ru.md). Перевод карточек, окончательный отбор и полный печатный набор ещё впереди.
+**Текущая редакция (2026-10-06):** 355 заполненных записей событий; в предварительной описи 384 заполненных экземпляра и пустая карта — на 54 больше целевых 331. Цель сохраняется: 34 статуса и 666 компонентов. [Последние утверждённые изменения](design/reviews/2026-10-06-event-refresh.ru.md). Перевод карточек, окончательный отбор и полный печатный набор ещё впереди.
 
 **Продолжение в новом чате:** начните с [START_HERE.ru.md — памятки Димы и Лиса](START_HERE.ru.md). Здесь собраны действующие решения, отменённые варианты, важные сочетания карт и результаты первых модельных партий.
 

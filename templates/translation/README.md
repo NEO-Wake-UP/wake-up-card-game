@@ -1,5 +1,7 @@
 # Translate WAKE UP / Перевести WAKE UP
 
+**Source approved 2026-10-06:** [23 new events and six existing-card edits](../../design/reviews/2026-10-06-event-refresh.ru.md) are reflected in the worksheets. Follow current RU sources and the row notes, especially the 300B prediction, mass-mail hand requirement, extra Veteran turn and turn-order jump. Card translation is still pending.
+
 **Rules artwork, 2026-10-05:** [blank rules background](../rules/README.md) is available for any language, with [Russian](../../print-and-play/ru/WAKE_UP_rules_RU.png) and [English](../../print-and-play/en/WAKE_UP_rules_EN.png) filled examples. / Для оформления перевода готов пустой фон правил и два примера заполнения. Current card texts remain in the language catalogues; the latest status approvals are recorded in [the 5 October review](../../design/reviews/2026-10-05-assets-and-freelancer-final.ru.md).
 
 **Source approved 2026-10-04:** [latest revision](../../design/reviews/2026-10-04-event-refresh.ru.md) adds EV-315–EV-342, replaces ST-024 with Спекулянт and updates EV-034/098/143/234/278. New event EV-342 Mute prohibits all speech, including reading effects aloud. EV-335 copying does not state a mandatory expiry on status change; that case is left to players. Follow the current Russian catalogue and row notes.
