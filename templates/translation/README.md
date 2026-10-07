@@ -1,5 +1,7 @@
 # Translate WAKE UP / Перевести WAKE UP
 
+**Source approved 2026-10-07:** [13 events and the latest event/status edits](../../design/reviews/2026-10-07-event-refresh.ru.md) are reflected in both card worksheets. Preserve the one-round/one-purchase restrictions, monetary-only status doubling, salary-only tablet, tax exemptions and effect-gain versus replacement-draw distinction. Card translation remains pending.
+
 **Source approved 2026-10-06:** [23 new events and six existing-card edits](../../design/reviews/2026-10-06-event-refresh.ru.md) are reflected in the worksheets. Follow current RU sources and the row notes, especially the 300B prediction, mass-mail hand requirement, extra Veteran turn and turn-order jump. Card translation is still pending.
 
 **Rules artwork, 2026-10-05:** [blank rules background](../rules/README.md) is available for any language, with [Russian](../../print-and-play/ru/WAKE_UP_rules_RU.png) and [English](../../print-and-play/en/WAKE_UP_rules_EN.png) filled examples. / Для оформления перевода готов пустой фон правил и два примера заполнения. Current card texts remain in the language catalogues; the latest status approvals are recorded in [the 5 October review](../../design/reviews/2026-10-05-assets-and-freelancer-final.ru.md).
