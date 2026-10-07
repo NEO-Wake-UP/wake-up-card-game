@@ -1,5 +1,7 @@
 # Blank translation worksheet: statuses
 
+**Source approved 2026-10-07:** ST-004/008/020 tax protection also covers the non-monetary EV-366. Homeless allowance remains available after salary restoration by EV-312; Donor reward is now 200B. Current row notes override earlier summaries. Translation fields remain pending.
+
 **Final source approval 2026-10-05:** Freelancer now explicitly receives 100B when BEGINNING to play an event, before resolving its effect. The earlier proposed timing phrase is approved. All status names are retained. Translation fields remain worksheets.
 
 **Further source approval 2026-10-05:** ST-005/015/025/031 wording approved; ST-027 returns the unchosen event to the TOP of the event deck. All current status names are retained. Freelancer eligibility is determined when the event starts: losing that status through the event keeps its 100B reward; acquiring it through the event does not grant that event's reward. The short Russian Freelancer wording is unchanged pending discussion of a possible timing phrase. Translation pending.
@@ -17,11 +19,11 @@ Status: untranslated. Author update 2026-09-27: ST-005 is now Minimalist, ST-030
 | ST-001 |  |  |  |
 | ST-002 |  |  | Source approved 2026-09-29: Always receives double salary; this is a continuing property, not a one-time payout. Translation pending. |
 | ST-003 |  |  | Source approved 2026-09-29: At the beginning of the month may take 100B from any player. If acquired mid-month, wait for the next month start. Translation pending. |
-| ST-004 |  |  | Source approved 2026-09-29: No salary and no taxes. Bark once per month; if another player laughs, take 100B from the Bank. Passive-skill joke removed. Translation pending. |
+| ST-004 |  |  | Source approved 2026-10-07: Собака. No salary. Taxes do not affect this player, including the event discard of EV-366. Bark once per month: another player laughs, receive 100B from the Bank. Translation pending. |
 | ST-005 |  |  | Source approved 2026-10-05: May decline replacement draws for played events, not event gains through effects. Check the hand AT month end: at most three events gives 100B extra salary. Translation pending. |
 | ST-006 |  |  | Source approved 2026-09-29: At month start hide the coin in one hand; another player guesses. Correct: guesser takes 100B from Bank; incorrect: owner takes it. Mid-month acquisition waits for next month start. Translation pending. |
 | ST-007 |  |  | Source approved 2026-09-29: Source name is now «Адвокат», replacing «Юрист». May discard three events from own hand to cancel an event effect personally directed against the owner. No monthly cap; cannot cancel multi-target/global effects (including Bandit), even partially. Translation pending. |
-| ST-008 |  |  | Source approved 2026-09-29: No taxes and no salary. Instead of salary, receive a 100B Bank allowance once every two months, at salary time. Translation pending. |
+| ST-008 |  |  | Source approved 2026-10-07: Бездомный. Taxes do not affect this player, including EV-366. No salary. At the end of every second month receive a 100B Bank allowance. The allowance is independent, so after EV-312 the owner receives both salary and allowance. Translation pending. |
 | ST-009 |  |  | Source approved 2026-09-29: Choose ONE of TWO effects upon receiving this status: gain a new event for each own skipped turn, or receive 100B extra salary until status change. Old 600B and coin forms removed. Translation pending. |
 | ST-010 |  |  | Source approved 2026-09-29: Source title «Трудоголик», replacing «Рабочий». At the beginning of own turn may pay Bank 100B to play two events instead of one. Translation pending. |
 | ST-011 |  |  | Source approved 2026-09-29: Once every three months, AFTER own turn, may exchange seats with a chosen player. Translation pending. |
@@ -33,7 +35,7 @@ Status: untranslated. Author update 2026-09-27: ST-005 is now Minimalist, ST-030
 | ST-017 |  |  | Source approved 2026-09-29: UP payout deliberately reduced to 200B from Bank; W payment remains 100B to Bank. Salary remains available. Translation pending. |
 | ST-018 |  |  | Source approved 2026-09-29: At month end, instead of salary, receive 100B from Bank for each pair of events in own hand. Translation pending. |
 | ST-019 |  |  | Source approved 2026-09-29: Monthly theory about the game resembling life remains mandatory, not an optional suggestion. Translation pending. |
-| ST-020 |  |  | Source approved 2026-09-29: No taxes. Take 100B from anyone addressing the owner without the required royal title. No monthly cap; passive-skill label removed. Translation pending. |
+| ST-020 |  |  | Source approved 2026-10-07: Король. Taxes do not affect this player, including EV-366. Take 100B from anyone addressing the owner without the required royal title; no monthly cap. Translation pending. |
 | ST-021 |  |  |  |
 | ST-022 |  |  | Source approved 2026-09-29: Receive a new event instead of salary. Translation pending. |
 | ST-023 |  |  | Source approved 2026-10-05: At the beginning of the month, exchange an event from your own hand for a random event from another player's hand. This replaces the previous once-per-month timing; a status gained mid-month waits for the next month start. Translation pending. |
@@ -45,6 +47,6 @@ Status: untranslated. Author update 2026-09-27: ST-005 is now Minimalist, ST-030
 | ST-029 |  |  | Final source approved 2026-10-05: Фрилансер replaces Барахольщик. No salary; receive 100B from the Bank when BEGINNING to play an event, before resolving its effect. A status-changing event rewards its initial Freelancer; becoming Freelancer through that event does not reward it. Income is independent of replacement draws. No monthly cap; the earlier 200B proposal is not approved. Translation pending. |
 | ST-030 |  |  | Source approved 2026-09-29: After the owner’s own bankruptcy, take 1100B from Bank. No new frequency limit. Translation pending. |
 | ST-031 |  |  | Source approved 2026-10-05: At MONTH start may inspect the top three events and return them to the TOP of the event deck in any order. Not at the beginning of own turn. Translation pending. |
-| ST-032 |  |  | Source approved 2026-10-05: At the beginning of the month, may receive 300B from the Bank for discarding one event from your own hand. This replaces the previous once-per-month timing; a status gained mid-month waits for the next month start. Translation pending. |
+| ST-032 |  |  | Source approved 2026-10-07: Донор. At the beginning of the month, may receive 200B (not 300B) from the Bank for discarding one event from own hand. No timing change. Translation pending. |
 | ST-033 |  |  |  |
 | ST-034 |  |  |  |

@@ -1,5 +1,7 @@
 # English card translation worksheet: events
 
+**Source approved 2026-10-07:** EV-366–EV-378 added; 25 existing effects changed and EV-071 reconfirmed. EV-168/179 exchange effects intentionally. EV-167 is replaced in place, EV-307 unchanged, EV-312 no longer removes skips, and EV-291 supersedes its 6 October version. The RU catalogue contains 368 filled records plus the blank. Current source and row notes override older dated summaries. Titles/effects remain translation worksheets.
+
 **Source approved 2026-10-06:** EV-343–EV-365 added; EV-029/036/094/253/280/291 updated. The current Russian catalogue contains 355 filled records plus the blank. «Лимит» and the separate «Дебит с кредит» proposal are cancelled. Follow the current Russian table and row notes; earlier dated summaries below are historical. Titles/effects remain untranslated worksheets.
 
 **Source approved 2026-10-04:** EV-315–EV-342 added; EV-034/098 effects changed, EV-143 pays 200B, EV-234/278 renamed. The Russian catalogue now has 332 filled records plus the blank. Titles and effects here remain translation worksheets. Follow the latest source and row notes.
@@ -19,7 +21,7 @@ Status: effects await translation. The title of EV-081, Community Cleanup, is ap
 | EV-007 |  |  |  |
 | EV-008 |  |  |  |
 | EV-009 |  |  |  |
-| EV-010 |  |  |  |
+| EV-010 |  |  | Source approved 2026-10-07: Революция. Collect all player statuses, shuffle and deal one to each player. Translation pending. |
 | EV-011 |  |  |  |
 | EV-012 |  |  |  |
 | EV-013 |  |  |  |
@@ -34,8 +36,8 @@ Status: effects await translation. The title of EV-081, Community Cleanup, is ap
 | EV-022 |  |  |  |
 | EV-023 |  |  |  |
 | EV-024 |  |  |  |
-| EV-025 |  |  |  |
-| EV-026 |  |  |  |
+| EV-025 |  |  | Source approved 2026-10-07: Делегирование. Take a new status and transfer the old one to a chosen other player. Translation pending. |
+| EV-026 |  |  | Source approved 2026-10-07: Налог на карты. Each player pays a 100B TAX per three events in hand; tax exemptions apply. Translation pending. |
 | EV-027 |  |  |  |
 | EV-028 |  |  |  |
 | EV-029 |  |  | Source approved 2026-10-06: Кошелёк или жизнь. Renamed from Дилемма; the chosen player chooses the Bank payment or an event discard. Translation pending. |
@@ -47,8 +49,8 @@ Status: effects await translation. The title of EV-081, Community Cleanup, is ap
 | EV-036 |  |  | Source approved 2026-10-06: Взятка. Pay another player 100B to obtain a new event. Replaces the former paid turn-skip attack. Translation pending. |
 | EV-037 |  |  |  |
 | EV-038 |  |  |  |
-| EV-039 |  |  |  |
-| EV-040 |  |  |  |
+| EV-039 |  |  | Source approved 2026-10-07: Круговорот BABLOS. All players simultaneously pass half their BABLOS to the right; with an odd banknote count, the owner keeps the extra note. Translation pending. |
+| EV-040 |  |  | Source approved 2026-10-07: Коммунизм. Pool all players' BABLOS and divide equally; indivisible banknotes go to the Bank. Translation pending. |
 | EV-041 |  |  |  |
 | EV-042 |  |  |  |
 | EV-043 |  |  |  |
@@ -58,7 +60,7 @@ Status: effects await translation. The title of EV-081, Community Cleanup, is ap
 | EV-047 |  |  |  |
 | EV-048 |  |  |  |
 | EV-049 |  |  |  |
-| EV-050 |  |  |  |
+| EV-050 |  |  | Source approved 2026-10-07: Обмен ролями. Exchange statuses with the chosen player. Translation pending. |
 | EV-051 |  |  |  |
 | EV-052 |  |  |  |
 | EV-053 |  |  |  |
@@ -79,10 +81,10 @@ Status: effects await translation. The title of EV-081, Community Cleanup, is ap
 | EV-068 |  |  |  |
 | EV-069 |  |  |  |
 | EV-070 |  |  |  |
-| EV-071 |  |  |  |
+| EV-071 |  |  | Source approved 2026-10-07: Цугцванг. Chosen player pays you 200B or skips their own next turn; existing short text reconfirmed. Translation pending. |
 | EV-072 |  |  |  |
 | EV-073 |  |  |  |
-| EV-074 |  |  |  |
+| EV-074 |  |  | Source approved 2026-10-07: Симулянт. At your next turn opportunity, may skip the turn and receive 300B from the Bank. Translation pending. |
 | EV-075 |  |  |  |
 | EV-076 |  |  |  |
 | EV-077 |  |  |  |
@@ -99,14 +101,14 @@ Status: effects await translation. The title of EV-081, Community Cleanup, is ap
 | EV-088 |  |  |  |
 | EV-089 |  |  |  |
 | EV-090 |  |  |  |
-| EV-091 |  |  |  |
+| EV-091 |  |  | Source approved 2026-10-07: 13-я зарплата. Everyone receives an extra salary from the Bank; this does not advance the month. Translation pending. |
 | EV-092 |  |  |  |
 | EV-093 |  |  |  |
 | EV-094 |  |  | Source approved 2026-10-06: Инвестиция. UP pays 100B per event currently in hand; W discards every second event in hand. Replaces fixed 900B/300B outcomes. Translation pending. |
 | EV-095 |  |  |  |
 | EV-096 |  |  |  |
 | EV-097 |  |  |  |
-| EV-098 |  |  | Source updated 2026-10-04: title is Колесо сансары. All players simultaneously pass their status to the neighbour on the right. No discard or new statuses from the deck. Translation pending. |
+| EV-098 |  |  | Source approved 2026-10-07: Колесо сансары. Simultaneous status transfer is now to the LEFT, not right. Title remains Колесо сансары. Translation pending. |
 | EV-099 |  |  |  |
 | EV-100 |  |  |  |
 | EV-101 |  |  |  |
@@ -127,8 +129,8 @@ Status: effects await translation. The title of EV-081, Community Cleanup, is ap
 | EV-118 |  |  |  |
 | EV-119 |  |  | Source approved 2026-09-29: Gain one random discarded event through the effect; no replacement draw for this event. Translation pending. |
 | EV-120 |  |  |  |
-| EV-121 |  |  |  |
-| EV-122 |  |  | Source approved 2026-09-29: Keep a replacement draw after playing; discarding the hand does not grant draws for the discarded events. Translation pending. |
+| EV-121 |  |  | Source approved 2026-10-07: Пассивный доход. Take 100B from the Bank per two events in your hand. Translation pending. |
+| EV-122 |  |  | Source approved 2026-10-07: Распродажа имущества. Discard the entire remaining hand, receive 100B per discarded event, then gain the same number of new events. These gains are NOT replacement draws; the draw for playing this event follows the general rules. Translation pending. |
 | EV-123 |  |  |  |
 | EV-124 |  |  |  |
 | EV-125 |  |  |  |
@@ -140,7 +142,7 @@ Status: effects await translation. The title of EV-081, Community Cleanup, is ap
 | EV-131 |  |  |  |
 | EV-132 |  |  |  |
 | EV-133 |  |  |  |
-| EV-134 |  |  |  |
+| EV-134 |  |  | Source approved 2026-10-07: Бюрократия. Next month, every player pays 100B to the Bank before EACH of their event plays, including multiple-event sequences. Translation pending. |
 | EV-135 |  |  |  |
 | EV-136 |  |  |  |
 | EV-137 |  |  |  |
@@ -156,7 +158,7 @@ Status: effects await translation. The title of EV-081, Community Cleanup, is ap
 | EV-147 |  |  |  |
 | EV-148 |  |  |  |
 | EV-149 |  |  |  |
-| EV-150 |  |  |  |
+| EV-150 |  |  | Source approved 2026-10-07: Голосование. Each player votes for another player. Most votes awards 600B from the Bank; a tie awards nothing and ends the turn. Translation pending. |
 | EV-151 |  |  |  |
 | EV-152 |  |  |  |
 | EV-153 |  |  |  |
@@ -173,8 +175,8 @@ Status: effects await translation. The title of EV-081, Community Cleanup, is ap
 | EV-164 |  |  |  |
 | EV-165 |  |  |  |
 | EV-166 |  |  |  |
-| EV-167 |  |  |  |
-| EV-168 |  |  |  |
+| EV-167 |  |  | Source approved 2026-10-07: Выгорание. Replaces the former paid help for the smallest hand: next own turn may play two events in succession without replacement draws. Keep this ID and title; no new Burnout record. Translation pending. |
+| EV-168 |  |  | Source approved 2026-10-07: Микроконтроль. Intentional exchange with EV-179: set aside three selected events from hand, gain three new ones, put the selected originals on top in any order. Names and IDs unchanged. Translation pending. |
 | EV-169 |  |  |  |
 | EV-170 |  |  |  |
 | EV-171 |  |  |  |
@@ -185,7 +187,7 @@ Status: effects await translation. The title of EV-081, Community Cleanup, is ap
 | EV-176 |  |  |  |
 | EV-177 |  |  |  |
 | EV-178 |  |  |  |
-| EV-179 |  |  |  |
+| EV-179 |  |  | Source approved 2026-10-07: Менеджмент. Intentional exchange with EV-168: gain two new events, then discard two from hand. Names and IDs unchanged. Translation pending. |
 | EV-180 |  |  |  |
 | EV-181 |  |  |  |
 | EV-182 |  |  |  |
@@ -205,7 +207,7 @@ Status: effects await translation. The title of EV-081, Community Cleanup, is ap
 | EV-196 |  |  |  |
 | EV-197 |  |  |  |
 | EV-198 |  |  |  |
-| EV-199 |  |  |  |
+| EV-199 |  |  | Source approved 2026-10-07: Мультиход. May play up to two additional events, paying 100B (not 200B) to the Bank before EACH. Translation pending. |
 | EV-200 |  |  |  |
 | EV-201 |  |  |  |
 | EV-202 |  |  |  |
@@ -230,7 +232,7 @@ Status: effects await translation. The title of EV-081, Community Cleanup, is ap
 | EV-221 |  |  |  |
 | EV-222 |  |  |  |
 | EV-223 |  |  |  |
-| EV-224 |  |  |  |
+| EV-224 |  |  | Source approved 2026-10-07: Джекпот. Push your luck: first UP creates a 200B prize; after each UP cash out and stop or toss again. Later UP doubles the accumulated prize; W wipes it out. One cash-out, not a Bank payout at each UP. Translation pending. |
 | EV-225 |  |  |  |
 | EV-226 |  |  |  |
 | EV-227 |  |  |  |
@@ -240,10 +242,10 @@ Status: effects await translation. The title of EV-081, Community Cleanup, is ap
 | EV-231 |  |  |  |
 | EV-233 |  |  |  |
 | EV-234 |  |  | Source updated 2026-10-04: title is Сетевой маркетинг. Take 100B from the Bank for each other player. Translation pending. |
-| EV-235 |  |  |  |
+| EV-235 |  |  | Source approved 2026-10-07: Аукцион. Reveal the top event; highest bidder pays their bid to the Bank and takes it. If no bids, the owner takes it. Translation pending. |
 | EV-236 |  |  |  |
 | EV-237 |  |  |  |
-| EV-238 |  |  |  |
+| EV-238 |  |  | Source approved 2026-10-07: Бартер. Each participant may exchange one event with another player ONCE by agreement. Translation pending. |
 | EV-239 |  |  |  |
 | EV-240 |  |  |  |
 | EV-241 |  |  |  |
@@ -255,9 +257,9 @@ Status: effects await translation. The title of EV-081, Community Cleanup, is ap
 | EV-247 |  |  |  |
 | EV-248 |  |  |  |
 | EV-249 |  |  |  |
-| EV-250 |  |  |  |
+| EV-250 |  |  | Source approved 2026-10-07: Паника. On the chosen player's next turn, shuffle their hand and play one random event. Existing first-event-only interpretation is retained. Translation pending. |
 | EV-251 |  |  | Source approved 2026-09-29: Play the events in the original hand. No replacement draws for the entire sequence, including Agony. Event gains through effects ARE allowed; new/returned events do not automatically join the required set. Separate play instructions (such as EV-206) still apply. Old ban on effect gains cancelled. Translation pending. |
-| EV-252 |  |  |  |
+| EV-252 |  |  | Source approved 2026-10-07: Медитация. At the end of this month, receive two new events instead of salary. Translation pending. |
 | EV-253 |  |  | Source approved 2026-10-06: Скидка. Every payment by the owner to the Bank is reduced by 100B through the end of next month. Replaces the one-event purchase. Translation pending. |
 | EV-254 |  |  |  |
 | EV-255 |  |  |  |
@@ -288,12 +290,12 @@ Status: effects await translation. The title of EV-081, Community Cleanup, is ap
 | EV-282 |  |  | Author wording revised 2026-09-28: take one random event from each of two players. “Other” and explicit “from their hands” removed from card wording. Translation pending. |
 | EV-283 |  |  |  |
 | EV-284 |  |  |  |
-| EV-285 |  |  |  |
+| EV-285 |  |  | Source approved 2026-10-07: Монета устала. Receive 300B at month end only if the coin was never used during that ENTIRE month, including before this event was played. Translation pending. |
 | EV-286 |  |  |  |
 | EV-288 |  |  |  |
 | EV-289 |  |  |  |
 | EV-290 |  |  |  |
-| EV-291 |  |  | Source approved 2026-10-06: Налоговый инспектор. Keep the title Налоговый инспектор. Everyone with more than 1000B pays the Bank 100B, including the owner if eligible; the owner then receives 200B. Translation pending. |
+| EV-291 |  |  | Source approved 2026-10-07: Налоговый инспектор. Supersedes 6 October: OTHER players pay a 100B TAX; owner takes a 200B bonus. Remove the more-than-1000B threshold. Translation pending. |
 | EV-292 |  |  |  |
 | EV-293 |  |  |  |
 | EV-294 |  |  |  |
@@ -312,7 +314,7 @@ Status: effects await translation. The title of EV-081, Community Cleanup, is ap
 | EV-309 |  |  |  |
 | EV-310 |  |  |  |
 | EV-311 |  |  | Source ending revised 2026-09-30: W distributes BABLOS to the losing players; UP adds «это был сон». Translate from current RU; outcome unchanged. |
-| EV-312 |  |  |  |
+| EV-312 |  |  | Source approved 2026-10-07: Обычная таблетка. Remove the chosen player's salary bans until their status changes, including the status's salary ban. NO longer removes skipped turns. Homeless keeps the two-month allowance as well as the restored salary. Translation pending. |
 | EV-314 |  |  |  |
 | EV-315 |  |  | Source approved 2026-10-04: Кэшбэк. See the current Russian source and the approved 2026-10-04 review. Translation pending. |
 | EV-316 |  |  | Source approved 2026-10-04: Коллектор. 100B paid to the owner by the player who skips, for every skipped turn during the next month; not a payment by all players when one skips. Translation pending. |
@@ -365,4 +367,17 @@ Status: effects await translation. The title of EV-081, Community Cleanup, is ap
 | EV-363 |  |  | Source approved 2026-10-06: Стрелочник. Turn order jumps to the selected player after the owner's turn, then continues from that player in the current direction. Not an extra turn followed by a return to the old queue. Translation pending. |
 | EV-364 |  |  | Source approved 2026-10-06: Муки выбора. Obtain two new events, keep one and discard the other; replacement draw remains governed by general rules. Translation pending. |
 | EV-365 |  |  | Source approved 2026-10-06: Прожиточный минимум. Give all own BABLOS to the Bank and obtain 500B. Paying all available money as required is not by itself bankruptcy. Translation pending. |
+| EV-366 |  |  | Source approved 2026-10-07: Налог на суету. Players with at least six events discard one. This is a tax: Dog, Homeless and King are exempt, including from this non-monetary tax. Translation pending. |
+| EV-367 |  |  | Source approved 2026-10-07: Мультипликатор. Double your next receipt of BABLOS from the Bank. No bonus to receipts from other players. Translation pending. |
+| EV-368 |  |  | Source approved 2026-10-07: Ctrl+C, Ctrl+V. Resolve the next event you play twice, paying each paid application separately. If the second payment is unavailable, do not apply it a second time. One event play, hence one replacement draw. Translation pending. |
+| EV-369 |  |  | Source approved 2026-10-07: Заморозка счёта. Until the end of next month, chosen player cannot activate paid event effects. Does not waive mandatory payments imposed by other players' events. Translation pending. |
+| EV-370 |  |  | Source approved 2026-10-07: Пользовательское соглашение. Each player chooses to pay the Bank 100B or discard an event from hand. Translation pending. |
+| EV-371 |  |  | Source approved 2026-10-07: Калибровка. Former draft name Автозаполнение. Chosen player gains new events or discards excess to have five in hand; if choosing yourself, the later replacement draw for this event can make six. Translation pending. |
+| EV-372 |  |  | Source approved 2026-10-07: Перестановка. Exchange the statuses of two OTHER players. Translation pending. |
+| EV-373 |  |  | Source approved 2026-10-07: Раздвоение личности. Until the end of next month, double monetary rewards received through your status. Not a repeat of the whole ability and not a doubling of costs or non-monetary actions. Translation pending. |
+| EV-374 |  |  | Source approved 2026-10-07: Буржуй. Receive 300B if you have more BABLOS than EACH neighbour separately, not their combined wealth. Translation pending. |
+| EV-375 |  |  | Source approved 2026-10-07: Субсидия. Until the end of next month, every receipt of BABLOS FROM THE BANK by the chosen player is increased by 100B; receipts from players do not qualify. Translation pending. |
+| EV-376 |  |  | Source approved 2026-10-07: Принцип домино. One round to the right starting with the owner: each participant discards one random event from the right neighbour's hand. Stop after each has acted once; the last discard comes from the owner's hand. Translation pending. |
+| EV-377 |  |  | Source approved 2026-10-07: Парадокс выбора. A chosen other player chooses 300B from the Bank or two new events; the owner receives the unchosen option. Translation pending. |
+| EV-378 |  |  | Source approved 2026-10-07: Краудфандинг. Each other player may buy one new event by paying the owner 100B, at most ONCE per resolution. No repeat purchases of two for 200B. Translation pending. |
 | EV-BLANK |  |  |  |
