@@ -1,14 +1,14 @@
 # Deck composition / Состав колод
 
-**Updated 2026-10-07 / Обновлено 2026-10-07:** [13 approved new events](../design/reviews/2026-10-07-event-refresh.ru.md) are included as EV-366–EV-378, one provisional copy each. Twenty-five existing event effects and ST-004/008/020/032 are updated; EV-071 is reconfirmed. Existing IDs and copy counts are preserved; EV-168/179 intentionally exchange mechanics, not IDs or names.
+**Updated 2026-10-08 / Обновлено 2026-10-08:** [80 author-selected events are retired](../design/reviews/2026-10-08-event-cull-and-statuses.ru.md); ST-024 now sells for 100B and ST-020 collects a tax. The earlier 14 new events EV-379–EV-392 and EV-064/ST-028 changes remain approved. The author has requested merging all accumulated changes into main.
 
 **Provisional inventory, not an approved print manifest. / Предварительная опись, не утверждённый состав для печати.**
 
-The final target remains **330 event/final cards + 1 blank event**, within **666 components: 300 BABLOS banknotes + 34 statuses + 331 events + 1 coin**. The current catalogue contains **368 filled event/final records**. With 30 copies of Coffee, that is **397 filled copies + 1 blank**. There are **67 reserve copies above the target**; final selection is pending. No earlier removal suggestions have been applied automatically.
+The final target remains **330 event/final cards + 1 blank event**, within **666 components: 300 BABLOS banknotes + 34 statuses + 331 events + 1 coin**. The current catalogue contains **302 filled event/final records**. With 30 copies of Coffee, that is **331 filled copies + 1 blank = 332 events**. There is **1 reserve copy above the target**; its selection requires a further author decision. Exactly the 80 author-selected events were removed, with no additional culling.
 
-Конечная цель сохраняется: **330 заполненных событий (включая финальное) + 1 пустое**, всего **666 компонентов: 300 банкнот BABLOS + 34 статуса + 331 событие + 1 монета**. Сейчас в каталоге **368 заполненных записей событий/финальных карт**. С 30 экземплярами «Кофе» это **397 заполненных экземпляров + 1 пустая карта**. Сверх целевого состава остаётся **67 резервных экземпляров**; окончательный отбор впереди. Ранее предложенные удаления автоматически не применялись.
+Конечная цель сохраняется: **330 заполненных событий (включая финальное) + 1 пустое**, всего **666 компонентов: 300 банкнот BABLOS + 34 статуса + 331 событие + 1 монета**. Сейчас в каталоге **302 заполненные записи событий/финальных карт**. С 30 экземплярами «Кофе» это **331 заполненный экземпляр + 1 пустая карта = 332 события**. Сверх целевого состава остаётся **1 резервный экземпляр**; его исключение требует нового решения автора. Удалены ровно 80 выбранных автором событий, без дополнительного отбора.
 
-EV-035, EV-109, EV-111, EV-232, EV-263, EV-275, EV-287, EV-305, EV-306 and EV-313 remain retired; their IDs are not reused. EV-306 duplicated the effect retained at EV-278, now titled «Захват». The rejected new proposals named «Перегруппировка» and «Делегирование» do not remove existing EV-033 and EV-025.
+The [80 events retired on 2026-10-08](../design/reviews/2026-10-08-event-cull-and-statuses.ru.md) are also excluded; their IDs must never be reused. EV-035, EV-109, EV-111, EV-232, EV-263, EV-275, EV-287, EV-305, EV-306 and EV-313 remain retired; their IDs are not reused. EV-306 duplicated the effect retained at EV-278, now titled «Захват». The rejected new proposals named «Перегруппировка» and «Делегирование» do not remove existing EV-033 and EV-025.
 
 Статусов **33 + пустая ST-034**. С 4 октября ST-024 — «Спекулянт»; «Немой» перенесён в события как EV-342. С 5 октября ST-029 — «Фрилансер» вместо «Барахольщика», без зарплаты и со 100B за каждое разыгранное событие. Количество статусов и 30 экземпляров «Кофе» не меняются.
 
@@ -20,6 +20,7 @@ EV-035, EV-109, EV-111, EV-232, EV-263, EV-275, EV-287, EV-305, EV-306 and EV-31
 - `EV-315` … `EV-342`: 28 new events approved on 2026-10-04, including Mute at EV-342.
 - `EV-343` … `EV-365`: 23 new events approved on 2026-10-06. Rejected proposals receive no IDs.
 - `EV-366` … `EV-378`: 13 new events approved on 2026-10-07. The revised Burnout retains EV-167; Coin Decider retains EV-307 unchanged.
+- `EV-379` … `EV-392`: 14 new events approved on 2026-10-08. Equation was rejected; Big Exchange remains EV-064 with a revised effect.
 - `EV-BLANK`: blank event card named in the original component list.
 - Never recycle IDs. Add new IDs after the largest existing number. Translation and illustration filenames retain the same ID.
 - `final` identifies WAKE UP. During setup it goes at the bottom of the deck. Under the latest [short-rules decisions](../design/reviews/2026-09-20-short-rules.ru.md), receiving it puts it in hand; the player plays it on their own turn to trigger the ending. Revealing or receiving it does not trigger the ending. EV-172 may discard it; the author's intended winnerless outcome is kept in design notes and deliberately unstated on the card. Other unusual reveal/discard interactions still need clarification.
@@ -63,70 +64,48 @@ Names and effects live in the language folders. This table owns copy counts for 
 | ST-033 | status | 1 | draft: one per listed status |
 | ST-034 | blank-status | 1 | author-approved: blank moved from ST-005, 2026-09-27 |
 | EV-001 | event | 1 | draft: one per source row |
-| EV-002 | event | 1 | draft: one per source row |
 | EV-003 | event | 1 | draft: one per source row |
 | EV-004 | event | 1 | draft: one per source row |
 | EV-005 | event | 1 | draft: one per source row |
-| EV-006 | event | 1 | draft: one per source row |
-| EV-007 | event | 1 | draft: one per source row |
 | EV-008 | event | 1 | draft: one per source row |
 | EV-009 | event | 1 | draft: one per source row |
 | EV-010 | event | 1 | draft: one per source row |
 | EV-011 | event | 1 | draft: one per source row |
 | EV-012 | event | 1 | draft: one per source row |
-| EV-013 | event | 1 | draft: one per source row |
 | EV-014 | event | 1 | draft: one per source row |
 | EV-015 | event | 1 | draft: one per source row |
 | EV-016 | event | 1 | draft: one per source row |
 | EV-017 | event | 1 | draft: one per source row |
 | EV-018 | event | 1 | draft: one per source row |
 | EV-019 | event | 1 | draft: one per source row |
-| EV-020 | event | 1 | draft: one per source row |
 | EV-021 | event | 1 | draft: one per source row |
-| EV-022 | event | 1 | draft: one per source row |
 | EV-023 | event | 1 | draft: one per source row |
-| EV-024 | event | 1 | draft: one per source row |
 | EV-025 | event | 1 | draft: one per source row |
 | EV-026 | event | 1 | draft: one per source row |
-| EV-027 | event | 1 | draft: one per source row |
 | EV-028 | event | 1 | draft: one per source row |
 | EV-029 | event | 1 | draft: one per source row |
 | EV-030 | event | 1 | draft: one per source row |
 | EV-031 | event | 1 | draft: one per source row |
-| EV-032 | event | 1 | draft: one per source row |
 | EV-033 | event | 1 | draft: one per source row |
 | EV-034 | event | 1 | draft: one per source row |
 | EV-036 | event | 1 | draft: one per source row |
 | EV-037 | event | 1 | draft: one per source row |
-| EV-038 | event | 1 | draft: one per source row |
 | EV-039 | event | 1 | draft: one per source row |
 | EV-040 | event | 1 | draft: one per source row |
 | EV-041 | event | 1 | draft: one per source row |
 | EV-042 | event | 1 | draft: one per source row |
-| EV-043 | event | 1 | draft: one per source row |
-| EV-044 | event | 1 | draft: one per source row |
 | EV-045 | event | 1 | draft: one per source row |
-| EV-046 | event | 1 | draft: one per source row |
-| EV-047 | event | 1 | draft: one per source row |
 | EV-048 | event | 1 | draft: one per source row |
-| EV-049 | event | 1 | draft: one per source row |
 | EV-050 | event | 1 | draft: one per source row |
 | EV-051 | event | 1 | draft: one per source row |
 | EV-052 | event | 1 | draft: one per source row |
 | EV-053 | event | 1 | draft: one per source row |
-| EV-054 | event | 1 | draft: one per source row |
 | EV-055 | event | 1 | draft: one per source row |
-| EV-056 | event | 1 | draft: one per source row |
-| EV-057 | event | 1 | draft: one per source row |
-| EV-058 | event | 1 | draft: one per source row |
-| EV-059 | event | 1 | draft: one per source row |
 | EV-060 | event | 1 | draft: one per source row |
 | EV-061 | event | 1 | draft: one per source row |
-| EV-062 | event | 1 | draft: one per source row |
 | EV-063 | event | 1 | draft: one per source row |
 | EV-064 | event | 1 | draft: one per source row |
 | EV-065 | event | 1 | draft: one per source row |
-| EV-066 | event | 1 | draft: one per source row |
 | EV-067 | event | 1 | draft: one per source row |
 | EV-068 | event | 1 | draft: one per source row |
 | EV-069 | event | 1 | draft: one per source row |
@@ -135,27 +114,19 @@ Names and effects live in the language folders. This table owns copy counts for 
 | EV-072 | event | 1 | draft: one per source row |
 | EV-073 | event | 1 | draft: one per source row |
 | EV-074 | event | 1 | draft: one per source row |
-| EV-075 | event | 1 | draft: one per source row |
-| EV-076 | event | 1 | draft: one per source row |
 | EV-077 | event | 1 | draft: one per source row |
-| EV-078 | event | 1 | draft: one per source row |
 | EV-079 | event | 1 | draft: one per source row |
 | EV-080 | event | 1 | draft: one per source row |
-| EV-081 | event | 1 | draft: one per source row |
 | EV-082 | event | 1 | draft: one per source row |
-| EV-083 | event | 1 | draft: one per source row |
 | EV-084 | event | 1 | draft: one per source row |
 | EV-085 | event | 1 | draft: one per source row |
 | EV-086 | event | 1 | draft: one per source row |
 | EV-087 | event | 1 | draft: one per source row |
 | EV-088 | event | 1 | draft: one per source row |
-| EV-089 | event | 1 | draft: one per source row |
-| EV-090 | event | 1 | draft: one per source row |
 | EV-091 | event | 1 | draft: one per source row |
 | EV-092 | event | 1 | draft: one per source row |
 | EV-093 | event | 1 | draft: one per source row |
 | EV-094 | event | 1 | draft: one per source row |
-| EV-095 | event | 1 | draft: one per source row |
 | EV-096 | event | 1 | draft: one per source row |
 | EV-097 | event | 1 | draft: one per source row |
 | EV-098 | event | 1 | draft: one per source row |
@@ -166,13 +137,10 @@ Names and effects live in the language folders. This table owns copy counts for 
 | EV-103 | event | 1 | draft: one per source row |
 | EV-104 | event | 1 | draft: one per source row |
 | EV-105 | event | 1 | draft: one per source row |
-| EV-106 | event | 1 | draft: one per source row |
 | EV-107 | event | 1 | draft: one per source row |
 | EV-108 | event | 1 | draft: one per source row |
 | EV-110 | event | 1 | draft: one per source row |
-| EV-112 | event | 1 | draft: one per source row |
 | EV-113 | event | 1 | draft: one per source row |
-| EV-114 | event | 1 | draft: one per source row |
 | EV-115 | event | 1 | author-approved: renamed «Сверхурочные», effect unchanged, 2026-09-29 |
 | EV-116 | event | 1 | draft: one per source row |
 | EV-117 | event | 1 | draft: one per source row |
@@ -185,7 +153,6 @@ Names and effects live in the language folders. This table owns copy counts for 
 | EV-124 | event | 1 | draft: one per source row |
 | EV-125 | event | 1 | draft: one per source row |
 | EV-126 | event | 1 | draft: one per source row |
-| EV-127 | event | 1 | draft: one per source row |
 | EV-128 | event | 1 | draft: one per source row |
 | EV-129 | event | 1 | draft: one per source row |
 | EV-130 | event | 1 | draft: one per source row |
@@ -195,8 +162,6 @@ Names and effects live in the language folders. This table owns copy counts for 
 | EV-134 | event | 1 | draft: one per source row |
 | EV-135 | event | 1 | draft: one per source row |
 | EV-136 | event | 1 | draft: one per source row |
-| EV-137 | event | 1 | draft: one per source row |
-| EV-138 | event | 1 | draft: one per source row |
 | EV-139 | event | 1 | draft: one per source row |
 | EV-140 | event | 1 | draft: one per source row |
 | EV-141 | event | 1 | draft: one per source row |
@@ -209,102 +174,68 @@ Names and effects live in the language folders. This table owns copy counts for 
 | EV-148 | event | 1 | draft: one per source row |
 | EV-149 | event | 1 | draft: one per source row |
 | EV-150 | event | 1 | draft: one per source row |
-| EV-151 | event | 1 | draft: one per source row |
 | EV-152 | event | 1 | draft: one per source row |
 | EV-153 | event | 1 | draft: one per source row |
 | EV-154 | event | 1 | draft: one per source row |
-| EV-155 | event | 1 | draft: one per source row |
 | EV-156 | event | 1 | draft: one per source row |
 | EV-157 | event | 1 | draft: one per source row |
 | EV-158 | event | 1 | draft: one per source row |
-| EV-159 | event | 1 | draft: one per source row |
 | EV-160 | event | 1 | draft: one per source row |
 | EV-161 | event | 1 | draft: one per source row |
 | EV-162 | event | 1 | draft: one per source row |
-| EV-163 | event | 1 | draft: one per source row |
 | EV-164 | event | 1 | draft: one per source row |
 | EV-165 | event | 1 | draft: one per source row |
-| EV-166 | event | 1 | draft: one per source row |
 | EV-167 | event | 1 | draft: one per source row |
 | EV-168 | event | 1 | draft: one per source row |
 | EV-169 | event | 1 | draft: one per source row |
-| EV-170 | event | 1 | draft: one per source row |
-| EV-171 | event | 1 | draft: one per source row |
 | EV-172 | event | 1 | draft: one per source row |
-| EV-173 | event | 1 | draft: one per source row |
-| EV-174 | event | 1 | draft: one per source row |
 | EV-175 | event | 1 | draft: one per source row |
 | EV-176 | event | 1 | draft: one per source row |
-| EV-177 | event | 1 | draft: one per source row |
 | EV-178 | event | 1 | draft: one per source row |
 | EV-179 | event | 1 | draft: one per source row |
-| EV-180 | event | 1 | draft: one per source row |
-| EV-181 | event | 1 | draft: one per source row |
-| EV-182 | event | 1 | draft: one per source row |
 | EV-183 | event | 1 | draft: one per source row |
 | EV-184 | event | 1 | draft: one per source row |
 | EV-185 | event | 1 | draft: one per source row |
 | EV-186 | event | 1 | draft: one per source row |
 | EV-187 | event | 1 | draft: one per source row |
 | EV-188 | event | 1 | draft: one per source row |
-| EV-189 | event | 1 | draft: one per source row |
-| EV-190 | event | 1 | draft: one per source row |
-| EV-191 | event | 1 | draft: one per source row |
-| EV-192 | event | 1 | draft: one per source row |
 | EV-193 | event | 1 | draft: one per source row |
 | EV-194 | event | 1 | draft: one per source row |
 | EV-195 | event | 1 | draft: one per source row |
 | EV-196 | event | 1 | draft: one per source row |
 | EV-197 | event | 1 | draft: one per source row |
-| EV-198 | event | 1 | draft: one per source row |
 | EV-199 | event | 1 | draft: one per source row |
 | EV-200 | event | 1 | draft: one per source row |
-| EV-201 | event | 1 | draft: one per source row |
 | EV-202 | event | 1 | draft: one per source row |
 | EV-203 | event | 1 | draft: one per source row |
 | EV-204 | event | 1 | draft: one per source row |
-| EV-205 | event | 1 | draft: one per source row |
 | EV-206 | event | 1 | draft: one per source row |
 | EV-207 | event | 1 | draft: one per source row |
 | EV-208 | event | 1 | draft: one per source row |
-| EV-209 | event | 1 | draft: one per source row |
-| EV-210 | event | 1 | draft: one per source row |
 | EV-211 | event | 1 | draft: one per source row |
 | EV-212 | event | 1 | draft: one per source row |
-| EV-213 | event | 1 | draft: one per source row |
 | EV-214 | event | 1 | draft: one per source row |
-| EV-215 | event | 1 | draft: one per source row |
-| EV-216 | event | 1 | draft: one per source row |
 | EV-217 | event | 1 | draft: one per source row |
 | EV-218 | event | 1 | draft: one per source row |
-| EV-219 | event | 1 | draft: one per source row |
 | EV-220 | event | 1 | draft: one per source row |
 | EV-221 | event | 1 | draft: one per source row |
-| EV-222 | event | 1 | draft: one per source row |
 | EV-223 | event | 1 | draft: one per source row |
 | EV-224 | event | 1 | draft: one per source row |
 | EV-225 | event | 1 | draft: one per source row |
 | EV-226 | event | 1 | draft: one per source row |
 | EV-227 | event | 1 | draft: one per source row |
-| EV-228 | event | 1 | draft: one per source row |
 | EV-229 | event | 1 | draft: one per source row |
 | EV-230 | event | 1 | draft: one per source row |
 | EV-231 | event | 1 | draft: one per source row |
 | EV-233 | event | 1 | draft: one per source row |
 | EV-234 | event | 1 | draft: one per source row |
 | EV-235 | event | 1 | draft: one per source row |
-| EV-236 | event | 1 | draft: one per source row |
 | EV-237 | event | 1 | draft: one per source row |
 | EV-238 | event | 1 | draft: one per source row |
 | EV-239 | event | 1 | draft: one per source row |
-| EV-240 | event | 1 | draft: one per source row |
-| EV-241 | event | 1 | draft: one per source row |
 | EV-242 | event | 1 | draft: one per source row |
-| EV-243 | event | 1 | draft: one per source row |
 | EV-244 | event | 1 | draft: one per source row |
-| EV-245 | event | 1 | draft: one per source row |
 | EV-246 | event | 1 | draft: one per source row |
-| EV-247 | event | 1 | draft: one per source row |
 | EV-248 | event | 1 | draft: one per source row |
 | EV-249 | event | 1 | draft: one per source row |
 | EV-250 | event | 1 | draft: one per source row |
@@ -314,44 +245,34 @@ Names and effects live in the language folders. This table owns copy counts for 
 | EV-254 | event | 1 | draft: one per source row |
 | EV-255 | event | 1 | draft: one per source row |
 | EV-256 | event | 1 | draft: one per source row |
-| EV-257 | event | 1 | draft: one per source row |
 | EV-258 | event | 1 | draft: one per source row |
-| EV-259 | event | 1 | draft: one per source row |
 | EV-260 | event | 1 | draft: one per source row |
 | EV-261 | event | 1 | draft: one per source row |
 | EV-262 | event | 1 | draft: one per source row |
 | EV-264 | event | 1 | draft: one per source row |
 | EV-265 | event | 1 | draft: one per source row |
-| EV-266 | event | 1 | draft: one per source row |
 | EV-267 | event | 1 | draft: one per source row |
-| EV-268 | event | 1 | draft: one per source row |
 | EV-269 | event | 1 | draft: one per source row |
 | EV-270 | event | 1 | draft: one per source row |
 | EV-271 | event | 1 | draft: one per source row |
 | EV-272 | event | 1 | draft: one per source row |
 | EV-273 | event | 1 | draft: one per source row |
-| EV-274 | event | 1 | draft: one per source row |
 | EV-276 | event | 1 | draft: one per source row |
 | EV-277 | event | 1 | draft: one per source row |
 | EV-278 | event | 1 | draft: one per source row |
 | EV-279 | event | 1 | draft: one per source row |
 | EV-280 | event | 1 | draft: one per source row |
-| EV-281 | event | 1 | draft: one per source row |
 | EV-282 | event | 1 | draft: one per source row |
 | EV-283 | event | 1 | draft: one per source row |
 | EV-284 | event | 1 | draft: one per source row |
 | EV-285 | event | 1 | draft: one per source row |
 | EV-286 | event | 1 | draft: one per source row |
 | EV-288 | event | 1 | draft: one per source row |
-| EV-289 | event | 1 | draft: one per source row |
 | EV-290 | event | 1 | draft: one per source row |
 | EV-291 | event | 1 | draft: one per source row |
 | EV-292 | event | 1 | draft: one per source row |
-| EV-293 | event | 1 | draft: one per source row |
-| EV-294 | event | 1 | draft: one per source row |
 | EV-295 | event | 1 | draft: one per source row |
 | EV-296 | event | 1 | draft: one per source row |
-| EV-297 | event | 1 | draft: one per source row |
 | EV-298 | event | 1 | draft: one per source row |
 | EV-299 | event | 1 | draft: one per source row |
 | EV-300 | event | 1 | draft: one per source row |
@@ -430,4 +351,18 @@ Names and effects live in the language folders. This table owns copy counts for 
 | EV-376 | event | 1 | author-added: Принцип домино, 2026-10-07 |
 | EV-377 | event | 1 | author-added: Парадокс выбора, 2026-10-07 |
 | EV-378 | event | 1 | author-added: Краудфандинг, 2026-10-07 |
+| EV-379 | event | 1 | author-added: Задом наперёд, 2026-10-08 |
+| EV-380 | event | 1 | author-added: 100 BABLOS, 2026-10-08 |
+| EV-381 | event | 1 | author-added: Делёжка, 2026-10-08 |
+| EV-382 | event | 1 | author-added: Сейф, 2026-10-08 |
+| EV-383 | event | 1 | author-added: Ремейк события, 2026-10-08 |
+| EV-384 | event | 1 | author-added: Удалёнка, 2026-10-08 |
+| EV-385 | event | 1 | author-added: Однозадачность, 2026-10-08 |
+| EV-386 | event | 1 | author-added: Мониторинг активности, 2026-10-08 |
+| EV-387 | event | 1 | author-added: Спонсор, 2026-10-08 |
+| EV-388 | event | 1 | author-added: Весомый аргумент, 2026-10-08 |
+| EV-389 | event | 1 | author-added: Реферальная программа, 2026-10-08 |
+| EV-390 | event | 1 | author-added: Двойной добор, 2026-10-08 |
+| EV-391 | event | 1 | author-added: Бесплатный сыр, 2026-10-08 |
+| EV-392 | event | 1 | author-added: Тотальный фриланс, 2026-10-08 |
 | EV-BLANK | blank-event | 1 | explicit blank component |

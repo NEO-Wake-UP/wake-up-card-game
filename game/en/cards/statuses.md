@@ -1,5 +1,9 @@
 # English card translation worksheet: statuses
 
+**Latest source approval, 2026-10-08:** [Speculator and King](../../../design/reviews/2026-10-08-event-cull-and-statuses.ru.md). ST-024 price is now 100B. The ST-020 charge is explicitly a tax, so tax immunity applies. Other conditions and translation fields are unchanged; older dated notes are historical.
+
+**Source approved 2026-10-08:** ST-028 now explicitly replaces each individual event during a replacement draw with 200B from a chosen player. See [the approved source decision](../../../design/reviews/2026-10-08-event-refresh.ru.md); translation fields remain pending.
+
 **Source approved 2026-10-07:** ST-004/008/020 tax protection also covers the non-monetary EV-366. Homeless allowance remains available after salary restoration by EV-312; Donor reward is now 200B. Current row notes override earlier summaries. Translation fields remain pending.
 
 **Final source approval 2026-10-05:** Freelancer now explicitly receives 100B when BEGINNING to play an event, before resolving its effect. The earlier proposed timing phrase is approved. All status names are retained. Translation fields remain worksheets.
@@ -35,15 +39,15 @@ Status: untranslated. Author update 2026-09-27: ST-005 is now Minimalist, ST-030
 | ST-017 |  |  | Source approved 2026-09-29: UP payout deliberately reduced to 200B from Bank; W payment remains 100B to Bank. Salary remains available. Translation pending. |
 | ST-018 |  |  | Source approved 2026-09-29: At month end, instead of salary, receive 100B from Bank for each pair of events in own hand. Translation pending. |
 | ST-019 |  |  | Source approved 2026-09-29: Monthly theory about the game resembling life remains mandatory, not an optional suggestion. Translation pending. |
-| ST-020 |  |  | Source approved 2026-10-07: Король. Taxes do not affect this player, including EV-366. Take 100B from anyone addressing the owner without the required royal title; no monthly cap. Translation pending. |
+| ST-020 |  |  | Source approved 2026-10-08: Король. Taxes do not affect you. Take a 100B TAX from a player addressing you without the royal title; tax immunity (including Dog and Homeless) prevents it. The King receives the tax, not the Bank. No monthly cap. Translation pending. |
 | ST-021 |  |  |  |
 | ST-022 |  |  | Source approved 2026-09-29: Receive a new event instead of salary. Translation pending. |
 | ST-023 |  |  | Source approved 2026-10-05: At the beginning of the month, exchange an event from your own hand for a random event from another player's hand. This replaces the previous once-per-month timing; a status gained mid-month waits for the next month start. Translation pending. |
-| ST-024 |  |  | Source approved 2026-10-04: at month start offer players the unseen top event for 200B paid to you. One offer and at most one sale; purchase is voluntary and you choose among willing buyers. Keep the author-approved short source wording. Translation pending. |
+| ST-024 |  |  | Source approved 2026-10-08: at month start offer players the unseen top event for 100B paid to you (previously 200B). One offer and at most one sale; purchase is voluntary and you choose among willing buyers. Translation pending. |
 | ST-025 |  |  | Source approved 2026-10-05: At month start give another player 100B TO receive 200B from Bank; the first transfer is the condition for the reward. Mid-month acquisition waits for the relevant month-start timing. Translation pending. |
 | ST-026 |  |  | Source approved 2026-09-29: Choose one of the top three statuses. Put this status card into the chosen card’s place in the deck. The other two remain in the deck. Translation pending. |
 | ST-027 |  |  | Source approved 2026-10-05: When receiving a new event, choose one of the top two. Return the other to the TOP of the event deck, not an arbitrary position. Translation pending. |
-| ST-028 |  |  | Source approved 2026-09-29: May decline each replacement draw for a played event and take 200B from any player. Each refusal is rewarded; no monthly cap. Gaining events through effects is separate. Translation pending. |
+| ST-028 |  |  | Source approved 2026-10-08: Вампир. May take 200B from any player instead of EACH event due as a replacement draw. For a two-event draw may keep both, replace one with 200B or both with 400B. Effect-based event gains are not draws. No monthly cap. Translation pending. |
 | ST-029 |  |  | Final source approved 2026-10-05: Фрилансер replaces Барахольщик. No salary; receive 100B from the Bank when BEGINNING to play an event, before resolving its effect. A status-changing event rewards its initial Freelancer; becoming Freelancer through that event does not reward it. Income is independent of replacement draws. No monthly cap; the earlier 200B proposal is not approved. Translation pending. |
 | ST-030 |  |  | Source approved 2026-09-29: After the owner’s own bankruptcy, take 1100B from Bank. No new frequency limit. Translation pending. |
 | ST-031 |  |  | Source approved 2026-10-05: At MONTH start may inspect the top three events and return them to the TOP of the event deck in any order. Not at the beginning of own turn. Translation pending. |
