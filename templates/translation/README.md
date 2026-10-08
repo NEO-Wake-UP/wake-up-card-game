@@ -1,5 +1,7 @@
 # Translate WAKE UP / Перевести WAKE UP
 
+**Latest source approval, 2026-10-08:** [80 events retired; Speculator and King updated](../../design/reviews/2026-10-08-event-cull-and-statuses.ru.md). Use the remaining IDs without renumbering. ST-024 sells for 100B; ST-020 collects a tax, with tax exemptions applying. Both worksheets match the active source; older dated notes are historical.
+
 **Source approved 2026-10-08:** [14 new events, EV-064 and ST-028](../../design/reviews/2026-10-08-event-refresh.ru.md) are reflected in both worksheets. Safe events stay in hand and face other players; Vampire applies to each replacement event. Copying an effect, out-of-turn event play and an extra full turn remain distinct. Card translation remains pending.
 
 **Source approved 2026-10-07:** [13 events and the latest event/status edits](../../design/reviews/2026-10-07-event-refresh.ru.md) are reflected in both card worksheets. Preserve the one-round/one-purchase restrictions, monetary-only status doubling, salary-only tablet, tax exemptions and effect-gain versus replacement-draw distinction. Card translation remains pending.
