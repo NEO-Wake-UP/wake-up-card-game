@@ -1,5 +1,7 @@
 # Blank translation worksheet: events
 
+**Source approved 2026-10-08:** EV-379–EV-392 added and EV-064 updated. The RU catalogue contains 382 filled event records plus the blank. Current source and notes override historical summaries; title/effect fields remain translation worksheets.
+
 **Source approved 2026-10-07:** EV-366–EV-378 added; 25 existing effects changed and EV-071 reconfirmed. EV-168/179 exchange effects intentionally. EV-167 is replaced in place, EV-307 unchanged, EV-312 no longer removes skips, and EV-291 supersedes its 6 October version. The RU catalogue contains 368 filled records plus the blank. Current source and row notes override older dated summaries. Titles/effects remain translation worksheets.
 
 **Source approved 2026-10-06:** EV-343–EV-365 added; EV-029/036/094/253/280/291 updated. The current Russian catalogue contains 355 filled records plus the blank. «Лимит» and the separate «Дебит с кредит» proposal are cancelled. Follow the current Russian table and row notes; earlier dated summaries below are historical. Titles/effects remain untranslated worksheets.
@@ -74,7 +76,7 @@ Status: untranslated. Empty title/effect cells are fields to fill, not approved 
 | EV-061 |  |  |  |
 | EV-062 |  |  |  |
 | EV-063 |  |  |  |
-| EV-064 |  |  |  |
+| EV-064 |  |  | Source approved 2026-10-08: Большой обмен. All players simultaneously pass one event from their own hand to the right. Replaces sequential transfer in the current turn direction. Same ID and title. Translation pending. |
 | EV-065 |  |  |  |
 | EV-066 |  |  |  |
 | EV-067 |  |  |  |
@@ -380,4 +382,18 @@ Status: untranslated. Empty title/effect cells are fields to fill, not approved 
 | EV-376 |  |  | Source approved 2026-10-07: Принцип домино. One round to the right starting with the owner: each participant discards one random event from the right neighbour's hand. Stop after each has acted once; the last discard comes from the owner's hand. Translation pending. |
 | EV-377 |  |  | Source approved 2026-10-07: Парадокс выбора. A chosen other player chooses 300B from the Bank or two new events; the owner receives the unchosen option. Translation pending. |
 | EV-378 |  |  | Source approved 2026-10-07: Краудфандинг. Each other player may buy one new event by paying the owner 100B, at most ONCE per resolution. No repeat purchases of two for 200B. Translation pending. |
+| EV-379 |  |  | Source approved 2026-10-08: Задом наперёд. Place three events from hand on top of the event deck and take the top two from discard into hand. The author accepts that the later replacement draw normally returns one of the three placed events. Translation pending. |
+| EV-380 |  |  | Source approved 2026-10-08: 100 BABLOS. If the owner has exactly 100B, take 500B from the Bank. Approved title is 100 BABLOS, not False Start. Translation pending. |
+| EV-381 |  |  | Source approved 2026-10-08: Делёжка. Look at the top two events, keep one and give the other to a chosen OTHER player. Translation pending. |
+| EV-382 |  |  | Source approved 2026-10-08: Сейф. Choose two events IN HAND and keep their faces visible to the other players. Other players' effects do not affect them. They remain part of hand counts and can be played normally; this is not a separate storage zone or merely anti-theft protection. Translation pending. |
+| EV-383 |  |  | Source approved 2026-10-08: Ремейк события. Resolve the effect of the top discarded event. Copying an effect alone is not playing a second event; paid effects still require payment. Translation pending. |
+| EV-384 |  |  | Source approved 2026-10-08: Удалёнка. A chosen player plays one event from hand out of sequence. The regular turn order stays unchanged; do not convert this to an extra full turn or a queue jump. Translation pending. |
+| EV-385 |  |  | Source approved 2026-10-08: Однозадачность. Next month, no more than one event may be played per turn, even through effects. Translation pending. |
+| EV-386 |  |  | Source approved 2026-10-08: Мониторинг активности. Take 100B from the Bank per player who has played an event this month; count players, not the number of events. Translation pending. |
+| EV-387 |  |  | Source approved 2026-10-08: Спонсор. Pay 100B to the Bank and gain a new event through the effect; all other players receive 100B each from the Bank. Normal replacement draw for this event remains. Translation pending. |
+| EV-388 |  |  | Source approved 2026-10-08: Весомый аргумент. The chosen player pays the Bank 100B per event in the OWNER'S hand, not the target's. Translation pending. |
+| EV-389 |  |  | Source approved 2026-10-08: Реферальная программа. Each player, including the owner, may take 100B from the Bank; owner then takes 100B per participant. If all six take money, owner receives 700B total. Translation pending. |
+| EV-390 |  |  | Source approved 2026-10-08: Двойной добор. Next month each played event gives two replacement events instead of one. Vampire can substitute 200B for each event individually; declining both gives 400B, without adding a monthly cap. Translation pending. |
+| EV-391 |  |  | Source approved 2026-10-08: Бесплатный сыр. Take and immediately play the top event. No replacement draw for that revealed event; waive only its paid activation cost. Taxes, fines and losing money still apply. Normal draw for Free Cheese itself remains. Translation pending. |
+| EV-392 |  |  | Source approved 2026-10-08: Тотальный фриланс. Next month replace salaries with 100B from the Bank at the START of each own event play. Freelancer status still adds its own 100B, making 200B at event start. Translation pending. |
 | EV-BLANK |  |  |  |

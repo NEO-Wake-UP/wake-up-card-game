@@ -1,5 +1,7 @@
 # Translate WAKE UP / Перевести WAKE UP
 
+**Source approved 2026-10-08:** [14 new events, EV-064 and ST-028](../../design/reviews/2026-10-08-event-refresh.ru.md) are reflected in both worksheets. Safe events stay in hand and face other players; Vampire applies to each replacement event. Copying an effect, out-of-turn event play and an extra full turn remain distinct. Card translation remains pending.
+
 **Source approved 2026-10-07:** [13 events and the latest event/status edits](../../design/reviews/2026-10-07-event-refresh.ru.md) are reflected in both card worksheets. Preserve the one-round/one-purchase restrictions, monetary-only status doubling, salary-only tablet, tax exemptions and effect-gain versus replacement-draw distinction. Card translation remains pending.
 
 **Source approved 2026-10-06:** [23 new events and six existing-card edits](../../design/reviews/2026-10-06-event-refresh.ru.md) are reflected in the worksheets. Follow current RU sources and the row notes, especially the 300B prediction, mass-mail hand requirement, extra Veteran turn and turn-order jump. Card translation is still pending.
