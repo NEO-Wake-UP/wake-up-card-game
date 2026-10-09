@@ -1,16 +1,16 @@
 # Deck composition / Состав колод
 
-**Updated 2026-10-08 / Обновлено 2026-10-08:** [80 author-selected events are retired](../design/reviews/2026-10-08-event-cull-and-statuses.ru.md); ST-024 now sells for 100B and ST-020 collects a tax. The earlier 14 new events EV-379–EV-392 and EV-064/ST-028 changes remain approved. The author has requested merging all accumulated changes into main.
+**Updated 2026-10-09 / Обновлено 2026-10-09:** [95 approved event effects and retirement of EV-133](../design/reviews/2026-10-09-events-wording-approved.ru.md). Stable IDs, other copy counts and all statuses are preserved. The author requested merging both parts of this wording review into main.
 
-**Provisional inventory, not an approved print manifest. / Предварительная опись, не утверждённый состав для печати.**
+**The inventory now matches the target; this is not a finished print pack. / Опись соответствует целевому комплекту; готовый печатный набор ещё не собран.**
 
-The final target remains **330 event/final cards + 1 blank event**, within **666 components: 300 BABLOS banknotes + 34 statuses + 331 events + 1 coin**. The current catalogue contains **302 filled event/final records**. With 30 copies of Coffee, that is **331 filled copies + 1 blank = 332 events**. There is **1 reserve copy above the target**; its selection requires a further author decision. Exactly the 80 author-selected events were removed, with no additional culling.
+The catalogue contains **301 filled event/final records**. With **30 copies of Coffee**, this is **330 filled copies + 1 blank = 331 events**. The total is **666 components: 300 BABLOS banknotes + 34 statuses + 331 events + 1 coin**. No excess event copies remain.
 
-Конечная цель сохраняется: **330 заполненных событий (включая финальное) + 1 пустое**, всего **666 компонентов: 300 банкнот BABLOS + 34 статуса + 331 событие + 1 монета**. Сейчас в каталоге **302 заполненные записи событий/финальных карт**. С 30 экземплярами «Кофе» это **331 заполненный экземпляр + 1 пустая карта = 332 события**. Сверх целевого состава остаётся **1 резервный экземпляр**; его исключение требует нового решения автора. Удалены ровно 80 выбранных автором событий, без дополнительного отбора.
+В каталоге **301 заполненная запись событий/финальных карт**. С **30 экземплярами «Кофе»** это **330 заполненных экземпляров + 1 пустая карта = 331 событие**. Общий комплект: **666 компонентов — 300 банкнот BABLOS + 34 статуса + 331 событие + 1 монета**. Лишних экземпляров событий больше нет.
 
-The [80 events retired on 2026-10-08](../design/reviews/2026-10-08-event-cull-and-statuses.ru.md) are also excluded; their IDs must never be reused. EV-035, EV-109, EV-111, EV-232, EV-263, EV-275, EV-287, EV-305, EV-306 and EV-313 remain retired; their IDs are not reused. EV-306 duplicated the effect retained at EV-278, now titled «Захват». The rejected new proposals named «Перегруппировка» and «Делегирование» do not remove existing EV-033 and EV-025.
+**EV-133 «Алкоголизм» исключена по решению автора 9 октября.** Её текст и прежняя идея рисунка сохранены в [обзоре](../design/reviews/2026-10-09-events-wording-approved.ru.md). The [80 events retired on 2026-10-08](../design/reviews/2026-10-08-event-cull-and-statuses.ru.md) and EV-035, EV-109, EV-111, EV-232, EV-263, EV-275, EV-287, EV-305, EV-306 and EV-313 also remain retired. Never reuse their IDs. EV-306 duplicated the effect retained at EV-278, now titled «Захват». The rejected new proposals named «Перегруппировка» and «Делегирование» do not remove existing EV-033 and EV-025.
 
-Статусов **33 + пустая ST-034**. С 4 октября ST-024 — «Спекулянт»; «Немой» перенесён в события как EV-342. С 5 октября ST-029 — «Фрилансер» вместо «Барахольщика», без зарплаты и со 100B за каждое разыгранное событие. Количество статусов и 30 экземпляров «Кофе» не меняются.
+Статусов **33 + пустая ST-034**. С 4 октября ST-024 — «Спекулянт»; «Немой» перенесён в события как EV-342. С 5 октября ST-029 — «Фрилансер» вместо «Барахольщика», без зарплаты и со 100B **в начале розыгрыша** каждого своего события. Количество статусов и 30 экземпляров «Кофе» не меняются.
 
 ## ID convention / Постоянные номера
 
@@ -158,7 +158,6 @@ Names and effects live in the language folders. This table owns copy counts for 
 | EV-130 | event | 1 | draft: one per source row |
 | EV-131 | event | 1 | draft: one per source row |
 | EV-132 | event | 1 | draft: one per source row |
-| EV-133 | event | 1 | draft: one per source row |
 | EV-134 | event | 1 | draft: one per source row |
 | EV-135 | event | 1 | draft: one per source row |
 | EV-136 | event | 1 | draft: one per source row |
