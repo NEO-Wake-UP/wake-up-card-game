@@ -1,5 +1,7 @@
 # WAKE UP
 
+**Последнее обновление 2026-10-09:** [обе части вычитки — 95 эффектов; EV-133 исключена](design/reviews/2026-10-09-events-wording-approved.ru.md). Теперь **331 событие с пустой картой**, и комплект составляет **666 компонентов**. Уточнены «Обычная таблетка», «Больничный», защиты и другие согласованные эффекты. Более ранние датированные объявления ниже отражают историю.
+
 **Последнее обновление 2026-10-08:** [исключены 80 событий, обновлены Спекулянт и Король](design/reviews/2026-10-08-event-cull-and-statuses.ru.md). Осталось **332 события с пустой картой**, на одно больше цели. Спекулянт продаёт за 100B; взыскание Короля стало налогом. Автор поручил объединить все накопленные изменения с основной веткой.
 
 **Обновление 2026-10-08:** утверждены [14 новых событий, новый эффект Большого обмена и уточнение Вампира](design/reviews/2026-10-08-event-refresh.ru.md). Новые ID — EV-379–EV-392. Последующее поручение автора включает её в слияние вместе с отбором 80 событий и правками статусов.
@@ -36,9 +38,9 @@ Earn BABLOS, change your social status and navigate absurd events. Play for fun,
 | English | [English edition](game/en/README.md) | [Print pack status](print-and-play/en/README.md) |
 | Other languages / Другие языки | [Translation guide / Как перевести](templates/translation/README.md) | [Rules background / Фон правил](templates/rules/README.md) · [Blank cards / Пустые карты](templates/cards/README.md) |
 
-**Current edition (2026-10-08):** 302 filled event records; 331 provisional filled copies plus one blank (332 events), leaving one reserve copy above the target of 331 events. The target remains 34 statuses and 666 components overall. English cards and complete print packs are not yet available. The current [A5 rules](print-and-play/ru/WAKE_UP_rules_RU_A5.pdf) are dated 2026-10-01.
+**Current edition (2026-10-09):** 301 filled event records; 330 filled copies plus one blank = 331 events, including 30 Coffee copies. With 34 statuses, 300 banknotes and one coin, the inventory now totals 666 components. [Approved wording review](design/reviews/2026-10-09-events-wording-approved.ru.md). English card translations and complete print packs remain unfinished. The current [A5 rules](print-and-play/ru/WAKE_UP_rules_RU_A5.pdf) are dated 2026-10-01.
 
-**Текущая редакция (2026-10-08):** 302 заполненные записи событий; в предварительной описи 331 заполненный экземпляр и пустая карта — 332 события, на одно больше целевых 331. Цель сохраняется: 34 статуса и 666 компонентов. [Последние утверждённые изменения](design/reviews/2026-10-08-event-cull-and-statuses.ru.md). Перевод карточек, окончательный отбор и полный печатный набор ещё впереди.
+**Текущая редакция (2026-10-09):** 301 заполненная запись событий; с 30 копиями «Кофе» это 330 заполненных экземпляров и пустая карта — 331 событие. Вместе с 34 статусами, 300 банкнотами и монетой — 666 компонентов. [Последние утверждённые изменения](design/reviews/2026-10-09-events-wording-approved.ru.md). Перевод карточек, проверка баланса и полный печатный набор ещё впереди.
 
 **Продолжение в новом чате:** начните с [START_HERE.ru.md — памятки Димы и Лиса](START_HERE.ru.md). Здесь собраны действующие решения, отменённые варианты, важные сочетания карт и результаты первых модельных партий.
 
