@@ -1,5 +1,7 @@
 # English card translation worksheet: events
 
+**Latest source approval, 2026-10-10:** [10 new events EV-393–EV-402 and 43 renames](../../../design/reviews/2026-10-10-events-and-renames.ru.md). Current inventory: **311 filled records; 340 filled copies plus one blank = 341 events**, including 30 Coffee copies, **10 above target**. Existing effects and IDs are unchanged; historical names in older notes do not override the current RU title. Title/effect fields remain untranslated worksheets.
+
 **Latest source approval, 2026-10-09:** [95 revised effects and EV-133 retired](../../../design/reviews/2026-10-09-events-wording-approved.ru.md). Current inventory: **301 filled event records; 330 filled copies plus one blank = 331 events**, including 30 Coffee copies. Stable IDs are preserved. Row notes follow the latest decisions; titles/effects remain untranslated. Older dated entries below are historical.
 
 **Latest source approval, 2026-10-08:** [80 events retired by the author](../../../design/reviews/2026-10-08-event-cull-and-statuses.ru.md). Their rows are removed, IDs must not be reused. The current source has **302 filled event records plus the blank; 332 physical events including 30 Coffee copies**, one above the target. All other records are preserved; older dated counts below are historical.
@@ -22,16 +24,16 @@ Status: titles and effects await translation. EV-081 and its formerly approved t
 | EV-003 |  |  | Source approved 2026-10-09: Mirror redirects only the owner-targeted part of the next non-global event. Played and discarded normally, with the usual replacement draw; remember the pending protection. No face-up waiting card or extra event gain on activation. Translation pending. |
 | EV-004 |  |  | Source approved 2026-10-09: Ignore cancels the whole next non-global event directed against the owner, including other targets. Played and discarded normally, with the usual replacement draw; no extra event gain on activation. Translation pending. |
 | EV-005 |  |  |  |
-| EV-008 |  |  |  |
+| EV-008 |  |  | RU title renamed 2026-10-10: «Ограбление банка» (formerly «Совместный грабёж»).  |
 | EV-009 |  |  |  |
 | EV-010 |  |  | Source approved 2026-10-07: Революция. Collect all player statuses, shuffle and deal one to each player. Translation pending. |
-| EV-011 |  |  | Source wording approved 2026-10-09; see the current RU source and the approved review. Translation pending. |
+| EV-011 |  |  | RU title renamed 2026-10-10: «Индексация зарплат» (formerly «Денежный поток»). Source wording approved 2026-10-09; see the current RU source and the approved review. Translation pending. |
 | EV-012 |  |  | Source wording approved 2026-10-09; see the current RU source and the approved review. Translation pending. |
-| EV-014 |  |  | Source wording approved 2026-10-09; see the current RU source and the approved review. Translation pending. |
+| EV-014 |  |  | RU title renamed 2026-10-10: «Собеседование» (formerly «Уникальная возможность»). Source wording approved 2026-10-09; see the current RU source and the approved review. Translation pending. |
 | EV-015 |  |  | Source wording approved 2026-10-09; see the current RU source and the approved review. Translation pending. |
 | EV-016 |  |  |  |
 | EV-017 |  |  | Source wording approved 2026-10-09; see the current RU source and the approved review. Translation pending. |
-| EV-018 |  |  | Source wording approved 2026-10-09; see the current RU source and the approved review. Translation pending. |
+| EV-018 |  |  | RU title renamed 2026-10-10: «Аирдроп» (formerly «Окно возможностей»). Source wording approved 2026-10-09; see the current RU source and the approved review. Translation pending. |
 | EV-019 |  |  |  |
 | EV-021 |  |  | Renamed «Мультизайм» on 2026-09-28: pun on a microloan from multiple lenders. Take 100B from each of two players; the word “other” was deliberately removed. Translation pending. |
 | EV-023 |  |  |  |
@@ -50,7 +52,7 @@ Status: titles and effects await translation. EV-081 and its formerly approved t
 | EV-041 |  |  |  |
 | EV-042 |  |  | Source approved 2026-10-09: One round in turn direction starting with the owner: each player initiates one status swap with a chosen player. Being chosen does not consume that player's own opportunity. Translation pending. |
 | EV-045 |  |  |  |
-| EV-048 |  |  |  |
+| EV-048 |  |  | RU title renamed 2026-10-10: «Аврал» (formerly «Производительность труда X2»).  |
 | EV-050 |  |  | Source approved 2026-10-07: Обмен ролями. Exchange statuses with the chosen player. Translation pending. |
 | EV-051 |  |  | Source wording approved 2026-10-09; see the current RU source and the approved review. Translation pending. |
 | EV-052 |  |  | Source wording approved 2026-10-09; see the current RU source and the approved review. Translation pending. |
@@ -72,10 +74,10 @@ Status: titles and effects await translation. EV-081 and its formerly approved t
 | EV-077 |  |  |  |
 | EV-079 |  |  |  |
 | EV-080 |  |  | Source wording approved 2026-10-09; see the current RU source and the approved review. Translation pending. |
-| EV-082 |  |  | Source wording approved 2026-10-09; see the current RU source and the approved review. Translation pending. |
+| EV-082 |  |  | RU title renamed 2026-10-10: «Ярмарка вакансий» (formerly «ИИ-ассистент»). Source wording approved 2026-10-09; see the current RU source and the approved review. Translation pending. |
 | EV-084 |  |  |  |
 | EV-085 |  |  |  |
-| EV-086 |  |  | Source wording approved 2026-10-09; see the current RU source and the approved review. Translation pending. |
+| EV-086 |  |  | RU title renamed 2026-10-10: «Покупка диплома» (formerly «Платное образование»). Source wording approved 2026-10-09; see the current RU source and the approved review. Translation pending. |
 | EV-087 |  |  | Source approved 2026-10-09: Gain five new events; pay the Bank 100B at the beginning of every second month until game end. The former month-end timing is superseded; do not add starting-next-month wording. Translation pending. |
 | EV-088 |  |  |  |
 | EV-091 |  |  | Source approved 2026-10-07: 13-я зарплата. Everyone receives an extra salary from the Bank; this does not advance the month. Translation pending. |
@@ -101,10 +103,10 @@ Status: titles and effects await translation. EV-081 and its formerly approved t
 | EV-117 |  |  |  |
 | EV-118 |  |  | Source wording approved 2026-10-09; see the current RU source and the approved review. Translation pending. |
 | EV-119 |  |  | Wording updated 2026-10-09; use the current RU source. Source approved 2026-09-29: Gain one random discarded event through the effect; no replacement draw for this event. Translation pending. |
-| EV-120 |  |  |  |
+| EV-120 |  |  | RU title renamed 2026-10-10: «Платный багаж» (formerly «Счёт»).  |
 | EV-121 |  |  | Source approved 2026-10-07: Пассивный доход. Take 100B from the Bank per two events in your hand. Translation pending. |
-| EV-122 |  |  | Source approved 2026-10-07: Распродажа имущества. Discard the entire remaining hand, receive 100B per discarded event, then gain the same number of new events. These gains are NOT replacement draws; the draw for playing this event follows the general rules. Translation pending. |
-| EV-123 |  |  |  |
+| EV-122 |  |  | RU title renamed 2026-10-10: «Реновация» (formerly «Распродажа имущества»). Source approved 2026-10-07: Распродажа имущества. Discard the entire remaining hand, receive 100B per discarded event, then gain the same number of new events. These gains are NOT replacement draws; the draw for playing this event follows the general rules. Translation pending. |
+| EV-123 |  |  | RU title renamed 2026-10-10: «Как у соседа» (formerly «Копия»).  |
 | EV-124 |  |  |  |
 | EV-125 |  |  |  |
 | EV-126 |  |  |  |
@@ -112,38 +114,38 @@ Status: titles and effects await translation. EV-081 and its formerly approved t
 | EV-129 |  |  |  |
 | EV-130 |  |  |  |
 | EV-131 |  |  |  |
-| EV-132 |  |  |  |
+| EV-132 |  |  | RU title renamed 2026-10-10: «Магия чисел» (formerly «Судьба»).  |
 | EV-134 |  |  | Source approved 2026-10-07: Бюрократия. Next month, every player pays 100B to the Bank before EACH of their event plays, including multiple-event sequences. Translation pending. |
 | EV-135 |  |  |  |
 | EV-136 |  |  | Source approved 2026-10-09: Full activation price is now 300B to receive a new status from the status deck. Translation pending. |
 | EV-139 |  |  |  |
-| EV-140 |  |  | Source wording approved 2026-10-09; see the current RU source and the approved review. Translation pending. |
+| EV-140 |  |  | RU title renamed 2026-10-10: «Рента» (formerly «Депозит»). Source wording approved 2026-10-09; see the current RU source and the approved review. Translation pending. |
 | EV-141 |  |  |  |
 | EV-142 |  |  |  |
 | EV-143 |  |  | Source updated 2026-10-04: take 200B from the Bank OR play one more event. Amount deliberately increased from 100B; keep 30 physical copies. Translation pending. |
 | EV-144 |  |  |  |
 | EV-145 |  |  | Source wording approved 2026-10-09; see the current RU source and the approved review. Translation pending. |
 | EV-146 |  |  |  |
-| EV-147 |  |  |  |
-| EV-148 |  |  | Source wording approved 2026-10-09; see the current RU source and the approved review. Translation pending. |
+| EV-147 |  |  | RU title renamed 2026-10-10: «Деньги к деньгам» (formerly «Стартовый капитал»).  |
+| EV-148 |  |  | RU title renamed 2026-10-10: «Саботаж» (formerly «Устранение конкурента»). Source wording approved 2026-10-09; see the current RU source and the approved review. Translation pending. |
 | EV-149 |  |  |  |
 | EV-150 |  |  | Source approved 2026-10-07: Голосование. Each player votes for another player. Most votes awards 600B from the Bank; a tie awards nothing and ends the turn. Translation pending. |
 | EV-152 |  |  | Source wording approved 2026-10-09; see the current RU source and the approved review. Translation pending. |
 | EV-153 |  |  | Source wording approved 2026-10-09; see the current RU source and the approved review. Translation pending. |
 | EV-154 |  |  |  |
-| EV-156 |  |  | Source wording approved 2026-10-09; see the current RU source and the approved review. Translation pending. |
+| EV-156 |  |  | RU title renamed 2026-10-10: «Смена моды» (formerly «Пандемия»). Source wording approved 2026-10-09; see the current RU source and the approved review. Translation pending. |
 | EV-157 |  |  |  |
 | EV-158 |  |  | Source wording approved 2026-10-09; see the current RU source and the approved review. Translation pending. |
 | EV-160 |  |  |  |
 | EV-161 |  |  | Source wording approved 2026-10-09; see the current RU source and the approved review. Translation pending. |
 | EV-162 |  |  |  |
 | EV-164 |  |  |  |
-| EV-165 |  |  |  |
+| EV-165 |  |  | RU title renamed 2026-10-10: «Ростовщичество» (formerly «Долг»).  |
 | EV-167 |  |  | Source approved 2026-10-07: Выгорание. Replaces the former paid help for the smallest hand: next own turn may play two events in succession without replacement draws. Keep this ID and title; no new Burnout record. Translation pending. |
 | EV-168 |  |  | Source approved 2026-10-07: Микроконтроль. Intentional exchange with EV-179: set aside three selected events from hand, gain three new ones, put the selected originals on top in any order. Names and IDs unchanged. Translation pending. |
 | EV-169 |  |  | Source approved 2026-10-09: The poorest player receives a new status. Normal replacement discards the old status; this is not a player-to-player swap. Translation pending. |
 | EV-172 |  |  |  |
-| EV-175 |  |  | Source wording approved 2026-10-09; see the current RU source and the approved review. Translation pending. |
+| EV-175 |  |  | RU title renamed 2026-10-10: «Рейдерский захват» (formerly «Рок судьбы»). Source wording approved 2026-10-09; see the current RU source and the approved review. Translation pending. |
 | EV-176 |  |  |  |
 | EV-178 |  |  |  |
 | EV-179 |  |  | Source approved 2026-10-07: Менеджмент. Intentional exchange with EV-168: gain two new events, then discard two from hand. Names and IDs unchanged. Translation pending. |
@@ -161,11 +163,11 @@ Status: titles and effects await translation. EV-081 and its formerly approved t
 | EV-199 |  |  | Source approved 2026-10-07: Мультиход. May play up to two additional events, paying 100B (not 200B) to the Bank before EACH. Translation pending. |
 | EV-200 |  |  | Source wording approved 2026-10-09; see the current RU source and the approved review. Translation pending. |
 | EV-202 |  |  |  |
-| EV-203 |  |  |  |
+| EV-203 |  |  | RU title renamed 2026-10-10: «Беспроигрышный билет» (formerly «Большая удача»).  |
 | EV-204 |  |  |  |
 | EV-206 |  |  | Source wording approved 2026-10-09; see the current RU source and the approved review. Translation pending. |
 | EV-207 |  |  |  |
-| EV-208 |  |  |  |
+| EV-208 |  |  | RU title renamed 2026-10-10: «Комиссия» (formerly «Просрочка платежа»).  |
 | EV-211 |  |  |  |
 | EV-212 |  |  | Source wording approved 2026-10-09; see the current RU source and the approved review. Translation pending. |
 | EV-214 |  |  | Source wording approved 2026-10-09; see the current RU source and the approved review. Translation pending. |
@@ -177,20 +179,20 @@ Status: titles and effects await translation. EV-081 and its formerly approved t
 | EV-224 |  |  | Source approved 2026-10-07: Джекпот. Push your luck: first UP creates a 200B prize; after each UP cash out and stop or toss again. Later UP doubles the accumulated prize; W wipes it out. One cash-out, not a Bank payout at each UP. Translation pending. |
 | EV-225 |  |  |  |
 | EV-226 |  |  |  |
-| EV-227 |  |  | Source wording approved 2026-10-09; see the current RU source and the approved review. Translation pending. |
+| EV-227 |  |  | RU title renamed 2026-10-10: «Свежая идея» (formerly «Стресс»). Source wording approved 2026-10-09; see the current RU source and the approved review. Translation pending. |
 | EV-229 |  |  |  |
 | EV-230 |  |  | Source wording approved 2026-10-09; see the current RU source and the approved review. Translation pending. |
 | EV-231 |  |  | Source wording approved 2026-10-09; see the current RU source and the approved review. Translation pending. |
 | EV-233 |  |  |  |
 | EV-234 |  |  | Source updated 2026-10-04: title is Сетевой маркетинг. Take 100B from the Bank for each other player. Translation pending. |
 | EV-235 |  |  | Source approved 2026-10-07: Аукцион. Reveal the top event; highest bidder pays their bid to the Bank and takes it. If no bids, the owner takes it. Translation pending. |
-| EV-237 |  |  |  |
+| EV-237 |  |  | RU title renamed 2026-10-10: «Добрососедство» (formerly «Партнёрская программа»).  |
 | EV-238 |  |  | Source approved 2026-10-07: Бартер. Each participant may exchange one event with another player ONCE by agreement. Translation pending. |
-| EV-239 |  |  | Source approved 2026-10-09: Full price is now 900B to choose any status from the status deck. Translation pending. |
+| EV-239 |  |  | RU title renamed 2026-10-10: «Новая машина» (formerly «Игровой скин»). Source approved 2026-10-09: Full price is now 900B to choose any status from the status deck. Translation pending. |
 | EV-242 |  |  |  |
 | EV-244 |  |  |  |
 | EV-246 |  |  | Source approved 2026-10-09: All players pay 100B to the Bank. Still a tax by its title; tax immunity applies. The joke parenthesis is removed from the effect. Translation pending. |
-| EV-248 |  |  |  |
+| EV-248 |  |  | RU title renamed 2026-10-10: «Выходное пособие» (formerly «Сокращение»).  |
 | EV-249 |  |  | Source wording approved 2026-10-09; see the current RU source and the approved review. Translation pending. |
 | EV-250 |  |  | Source approved 2026-10-07: Паника. On the chosen player's next turn, shuffle their hand and play one random event. Existing first-event-only interpretation is retained. Translation pending. |
 | EV-251 |  |  | Source approved 2026-09-29: Play the events in the original hand. No replacement draws for the entire sequence, including Agony. Event gains through effects ARE allowed; new/returned events do not automatically join the required set. Separate play instructions (such as EV-206) still apply. Old ban on effect gains cancelled. Translation pending. |
@@ -213,12 +215,12 @@ Status: titles and effects await translation. EV-081 and its formerly approved t
 | EV-273 |  |  |  |
 | EV-276 |  |  |  |
 | EV-277 |  |  |  |
-| EV-278 |  |  | Source updated 2026-10-04: title is Захват. Existing effect unchanged: take a random event from the chosen player’s hand. The new Конфискация proposal is a separate candidate. Translation pending. |
+| EV-278 |  |  | RU title renamed 2026-10-10: «Карманная кража» (formerly «Захват»). Source updated 2026-10-04: title is Захват. Existing effect unchanged: take a random event from the chosen player’s hand. The new Конфискация proposal is a separate candidate. Translation pending. |
 | EV-279 |  |  |  |
 | EV-280 |  |  | Source approved 2026-10-06: Семейный подряд. Renamed from Союз; the owner and a chosen other player each receive 200B from the Bank. Translation pending. |
 | EV-282 |  |  | Source approved 2026-10-09: Take one random event from each of two players' hands. The word other remains omitted; source wording now explicitly says from hand. Translation pending. |
 | EV-283 |  |  |  |
-| EV-284 |  |  |  |
+| EV-284 |  |  | RU title renamed 2026-10-10: «Робин Гуд» (formerly «Благотворительность»).  |
 | EV-285 |  |  | Source approved 2026-10-07: Монета устала. Receive 300B at month end only if the coin was never used during that ENTIRE month, including before this event was played. Translation pending. |
 | EV-286 |  |  |  |
 | EV-288 |  |  | Source wording approved 2026-10-09; see the current RU source and the approved review. Translation pending. |
@@ -229,7 +231,7 @@ Status: titles and effects await translation. EV-081 and its formerly approved t
 | EV-296 |  |  | Source wording approved 2026-10-09; see the current RU source and the approved review. Translation pending. |
 | EV-298 |  |  |  |
 | EV-299 |  |  |  |
-| EV-300 |  |  |  |
+| EV-300 |  |  | RU title renamed 2026-10-10: «Генератор событий» (formerly «Крафт карт»).  |
 | EV-301 |  |  |  |
 | EV-302 |  |  | Source wording approved 2026-10-09; see the current RU source and the approved review. Translation pending. |
 | EV-303 |  |  |  |
@@ -243,27 +245,27 @@ Status: titles and effects await translation. EV-081 and its formerly approved t
 | EV-314 |  |  |  |
 | EV-315 |  |  | Source approved 2026-10-04: Кэшбэк. See the current Russian source and the approved 2026-10-04 review. Translation pending. |
 | EV-316 |  |  | Source approved 2026-10-04: Коллектор. 100B paid to the owner by the player who skips, for every skipped turn during the next month; not a payment by all players when one skips. Translation pending. |
-| EV-317 |  |  | Source approved 2026-10-04: Договор. See the current Russian source and the approved 2026-10-04 review. Translation pending. |
+| EV-317 |  |  | RU title renamed 2026-10-10: «Красная цена» (formerly «Договор»). Source approved 2026-10-04: Договор. See the current Russian source and the approved 2026-10-04 review. Translation pending. |
 | EV-318 |  |  | Source approved 2026-10-04: Дежавю. See the current Russian source and the approved 2026-10-04 review. Translation pending. |
-| EV-319 |  |  | Source approved 2026-10-04: Сухой закон. Only BABLOS receipts caused by events are blocked. Other actions in a compound event still resolve. Do not turn this into a ban on playing the whole event. Translation pending. |
+| EV-319 |  |  | RU title renamed 2026-10-10: «Засуха» (formerly «Сухой закон»). Source approved 2026-10-04: Сухой закон. Only BABLOS receipts caused by events are blocked. Other actions in a compound event still resolve. Do not turn this into a ban on playing the whole event. Translation pending. |
 | EV-320 |  |  | Source approved 2026-10-04: Золотой парашют. See the current Russian source and the approved 2026-10-04 review. Translation pending. |
 | EV-321 |  |  | Wording updated 2026-10-09; use the current RU source. Source approved 2026-10-04: Невидимый налог. See the current Russian source and the approved 2026-10-04 review. Translation pending. |
 | EV-322 |  |  | Source approved 2026-10-04: Отстранение. See the current Russian source and the approved 2026-10-04 review. Translation pending. |
 | EV-323 |  |  | Source approved 2026-10-04: Добрый излучатель. See the current Russian source and the approved 2026-10-04 review. Translation pending. |
-| EV-324 |  |  | Source approved 2026-10-04: Кредитная история. Double the next mandatory Bank payment, not an extra 100B. Voluntary activation prices are outside this scope. Translation pending. |
+| EV-324 |  |  | RU title renamed 2026-10-10: «Мелкий шрифт» (formerly «Кредитная история»). Source approved 2026-10-04: Кредитная история. Double the next mandatory Bank payment, not an extra 100B. Voluntary activation prices are outside this scope. Translation pending. |
 | EV-325 |  |  | Source approved 2026-10-09: All tax effects, including non-monetary EV-366 and the King's improper-address tax, do not affect the chosen player until their status changes. Translation pending. |
 | EV-326 |  |  | Source approved 2026-10-04: Дотация. See the current Russian source and the approved 2026-10-04 review. Translation pending. |
-| EV-327 |  |  | Source approved 2026-10-04: Финансовый лимит. See the current Russian source and the approved 2026-10-04 review. Translation pending. |
+| EV-327 |  |  | RU title renamed 2026-10-10: «Стрижка BABLOS» (formerly «Финансовый лимит»). Source approved 2026-10-04: Финансовый лимит. See the current Russian source and the approved 2026-10-04 review. Translation pending. |
 | EV-328 |  |  | Source approved 2026-10-04: Обмен. Each owner chooses the event they give; the author intentionally omits a separate choice sentence. Translation pending. |
-| EV-329 |  |  | Source approved 2026-10-04: Второй шанс. See the current Russian source and the approved 2026-10-04 review. Translation pending. |
+| EV-329 |  |  | RU title renamed 2026-10-10: «Вторая жизнь» (formerly «Второй шанс»). Source approved 2026-10-04: Второй шанс. See the current Russian source and the approved 2026-10-04 review. Translation pending. |
 | EV-330 |  |  | Wording updated 2026-10-09; use the current RU source. Source approved 2026-10-04: Обмен мнениями. The two other players each choose the event they give from their own hand. Translation pending. |
 | EV-331 |  |  | Source approved 2026-10-04: Когти орла. See the current Russian source and the approved 2026-10-04 review. Translation pending. |
 | EV-332 |  |  | Source approved 2026-10-09: Each player may receive a new status. General rules discard the old status; no free swap with another player is introduced. Translation pending. |
 | EV-333 |  |  | Source approved 2026-10-04: Карантин. Replacement draws for played events are unavailable. Event gains from effects remain available. Translation pending. |
-| EV-334 |  |  | Source approved 2026-10-04: Мораторий. See the current Russian source and the approved 2026-10-04 review. Translation pending. |
+| EV-334 |  |  | RU title renamed 2026-10-10: «Сбой системы» (formerly «Мораторий»). Source approved 2026-10-04: Мораторий. See the current Russian source and the approved 2026-10-04 review. Translation pending. |
 | EV-335 |  |  | Source approved 2026-10-04: Подражание. Snapshot the chosen status effect on resolution, replacing the owner’s effect through the end of next month. Do NOT add a mandatory expiry on own status change: author leaves that case to player agreement. Copying is not acquiring a status. Translation pending. |
 | EV-336 |  |  | Wording updated 2026-10-09; use the current RU source. Source approved 2026-10-04: Вторая попытка. The chosen player makes two tosses instead of their next single toss and chooses a result. No final WAKE UP exception is added. Translation pending. |
-| EV-337 |  |  | Source approved 2026-10-04: Перемена. See the current Russian source and the approved 2026-10-04 review. Translation pending. |
+| EV-337 |  |  | RU title renamed 2026-10-10: «Пересадка» (formerly «Перемена»). Source approved 2026-10-04: Перемена. See the current Russian source and the approved 2026-10-04 review. Translation pending. |
 | EV-338 |  |  | Source approved 2026-10-09: The chosen player skips their next turn and receives 100B AT THAT TURN OPPORTUNITY, not when Sick Leave is played. Counts as a skipped turn. Translation pending. |
 | EV-339 |  |  | Source approved 2026-10-04: Конфискация. See the current Russian source and the approved 2026-10-04 review. Translation pending. |
 | EV-340 |  |  | Source approved 2026-10-04: Рокировка. Exchange the two players’ current statuses now and again at the end of the next month; original cards need not return. Translation pending. |
@@ -275,19 +277,19 @@ Status: titles and effects await translation. EV-081 and its formerly approved t
 | EV-346 |  |  | Source approved 2026-10-06: Пробник. Exchange with the top status now and optionally again at the end of next month. The old status goes into the deck; its eventual return is not guaranteed. Translation pending. |
 | EV-347 |  |  | Source approved 2026-10-06: Предчувствие. Predict the very next toss, by any player. Correct prediction pays 300B, not the earlier 200B proposal. Translation pending. |
 | EV-348 |  |  | Wording updated 2026-10-09; use the current RU source. Source approved 2026-10-06: Девальвация удачи. Two physical tosses replace the next toss of the chosen player: two UP give UP; every other combination gives W. Translation pending. |
-| EV-349 |  |  | Source approved 2026-10-06: Тут и там. An extra turn in the following month, after the Veteran's turn opportunity. May target the Veteran if they are not the event owner; the author expressly accepts another month boundary and salary when that extra opportunity is the month boundary. Translation pending. |
+| EV-349 |  |  | RU title renamed 2026-10-10: «Совместительство» (formerly «Тут и там»). Source approved 2026-10-06: Тут и там. An extra turn in the following month, after the Veteran's turn opportunity. May target the Veteran if they are not the event owner; the author expressly accepts another month boundary and salary when that extra opportunity is the month boundary. Translation pending. |
 | EV-350 |  |  | Source approved 2026-10-06: Время перемен. Reverse direction now and again at the end of next month. Does not lock direction or prohibit the Hacker's ability between reversals. Translation pending. |
-| EV-351 |  |  | Source approved 2026-10-06: Пауза. No replacement draws during the target's next turn. Event gains from effects remain available. Translation pending. |
+| EV-351 |  |  | RU title renamed 2026-10-10: «Сбой доставки» (formerly «Пауза»). Source approved 2026-10-06: Пауза. No replacement draws during the target's next turn. Event gains from effects remain available. Translation pending. |
 | EV-352 |  |  | Source approved 2026-10-06: Ускоритель. Optional allowance of up to three events instead of one on the target's next turn. Translation pending. |
 | EV-353 |  |  | Source approved 2026-10-06: Каскадная помощь. Owner transfers 200B to another player; that recipient's left and right neighbours receive 100B and 300B respectively from the Bank. Translation pending. |
 | EV-354 |  |  | Source approved 2026-10-06: Совет директоров. Each player votes receive/pay. A majority for receive gives everyone 100B; otherwise everyone pays 100B, including on a tied vote. Translation pending. |
 | EV-355 |  |  | Wording updated 2026-10-09; use the current RU source. Source approved 2026-10-06: Срочный перевод. Pay the Bank 100B so another chosen player receives 200B from the Bank. Translation pending. |
 | EV-356 |  |  | Source approved 2026-10-06: Назад в будущее. Immediately obtain the top discard in hand; this is an effect gain, not a replacement draw. Translation pending. |
 | EV-357 |  |  | Source approved 2026-10-06: Случайные связи. Two selected players each give the other one random event from hand. Translation pending. |
-| EV-358 |  |  | Source approved 2026-10-06: Два в одно. Choose and discard any number of pairs together, then obtain one new event per pair. Translation pending. |
-| EV-359 |  |  | Source approved 2026-10-06: Проверка связи. Other players each reveal a random event; take one of the revealed events. Translation pending. |
+| EV-358 |  |  | RU title renamed 2026-10-10: «Переплавка» (formerly «Два в одно»). Source approved 2026-10-06: Два в одно. Choose and discard any number of pairs together, then obtain one new event per pair. Translation pending. |
+| EV-359 |  |  | RU title renamed 2026-10-10: «Экспертиза» (formerly «Проверка связи»). Source approved 2026-10-06: Проверка связи. Other players each reveal a random event; take one of the revealed events. Translation pending. |
 | EV-360 |  |  | Source approved 2026-10-06: Кастинг. Other players choose which event to reveal; take one of the revealed events. The distinction from EV-359 is intentional. Translation pending. |
-| EV-361 |  |  | Source approved 2026-10-06: Помощь с уборкой. The selected player discards one event from hand and obtains one new event. Translation pending. |
+| EV-361 |  |  | RU title renamed 2026-10-10: «Гарантийная замена» (formerly «Помощь с уборкой»). Source approved 2026-10-06: Помощь с уборкой. The selected player discards one event from hand and obtains one new event. Translation pending. |
 | EV-362 |  |  | Source approved 2026-10-06: Перерождение. Discard all events remaining in hand and obtain the same number of new events. Translation pending. |
 | EV-363 |  |  | Source approved 2026-10-06: Стрелочник. Turn order jumps to the selected player after the owner's turn, then continues from that player in the current direction. Not an extra turn followed by a return to the old queue. Translation pending. |
 | EV-364 |  |  | Source approved 2026-10-06: Муки выбора. Obtain two new events, keep one and discard the other; replacement draw remains governed by general rules. Translation pending. |
@@ -295,11 +297,11 @@ Status: titles and effects await translation. EV-081 and its formerly approved t
 | EV-366 |  |  | Source approved 2026-10-07: Налог на суету. Players with at least six events discard one. This is a tax: Dog, Homeless and King are exempt, including from this non-monetary tax. Translation pending. |
 | EV-367 |  |  | Source approved 2026-10-07: Мультипликатор. Double your next receipt of BABLOS from the Bank. No bonus to receipts from other players. Translation pending. |
 | EV-368 |  |  | Source approved 2026-10-07: Ctrl+C, Ctrl+V. Resolve the next event you play twice, paying each paid application separately. If the second payment is unavailable, do not apply it a second time. One event play, hence one replacement draw. Translation pending. |
-| EV-369 |  |  | Source approved 2026-10-07: Заморозка счёта. Until the end of next month, chosen player cannot activate paid event effects. Does not waive mandatory payments imposed by other players' events. Translation pending. |
+| EV-369 |  |  | RU title renamed 2026-10-10: «Карта отклонена» (formerly «Заморозка счёта»). Source approved 2026-10-07: Заморозка счёта. Until the end of next month, chosen player cannot activate paid event effects. Does not waive mandatory payments imposed by other players' events. Translation pending. |
 | EV-370 |  |  | Source approved 2026-10-07: Пользовательское соглашение. Each player chooses to pay the Bank 100B or discard an event from hand. Translation pending. |
 | EV-371 |  |  | Wording updated 2026-10-09; use the current RU source. Source approved 2026-10-07: Калибровка. Former draft name Автозаполнение. Chosen player gains new events or discards excess to have five in hand; if choosing yourself, the later replacement draw for this event can make six. Translation pending. |
-| EV-372 |  |  | Source approved 2026-10-07: Перестановка. Exchange the statuses of two OTHER players. Translation pending. |
-| EV-373 |  |  | Source approved 2026-10-07: Раздвоение личности. Until the end of next month, double monetary rewards received through your status. Not a repeat of the whole ability and not a doubling of costs or non-monetary actions. Translation pending. |
+| EV-372 |  |  | RU title renamed 2026-10-10: «Кадровая перестановка» (formerly «Перестановка»). Source approved 2026-10-07: Перестановка. Exchange the statuses of two OTHER players. Translation pending. |
+| EV-373 |  |  | RU title renamed 2026-10-10: «Двойной гонорар» (formerly «Раздвоение личности»). Source approved 2026-10-07: Раздвоение личности. Until the end of next month, double monetary rewards received through your status. Not a repeat of the whole ability and not a doubling of costs or non-monetary actions. Translation pending. |
 | EV-374 |  |  | Source approved 2026-10-07: Буржуй. Receive 300B if you have more BABLOS than EACH neighbour separately, not their combined wealth. Translation pending. |
 | EV-375 |  |  | Source approved 2026-10-07: Субсидия. Until the end of next month, every receipt of BABLOS FROM THE BANK by the chosen player is increased by 100B; receipts from players do not qualify. Translation pending. |
 | EV-376 |  |  | Source approved 2026-10-07: Принцип домино. One round to the right starting with the owner: each participant discards one random event from the right neighbour's hand. Stop after each has acted once; the last discard comes from the owner's hand. Translation pending. |
@@ -309,14 +311,24 @@ Status: titles and effects await translation. EV-081 and its formerly approved t
 | EV-380 |  |  | Source approved 2026-10-08: 100 BABLOS. If the owner has exactly 100B, take 500B from the Bank. Approved title is 100 BABLOS, not False Start. Translation pending. |
 | EV-381 |  |  | Source approved 2026-10-08: Делёжка. Look at the top two events, keep one and give the other to a chosen OTHER player. Translation pending. |
 | EV-382 |  |  | Wording updated 2026-10-09; use the current RU source. Source approved 2026-10-08: Сейф. Choose two events IN HAND and keep their faces visible to the other players. Other players' effects do not affect them. They remain part of hand counts and can be played normally; this is not a separate storage zone or merely anti-theft protection. Translation pending. |
-| EV-383 |  |  | Source approved 2026-10-08: Ремейк события. Resolve the effect of the top discarded event. Copying an effect alone is not playing a second event; paid effects still require payment. Translation pending. |
+| EV-383 |  |  | RU title renamed 2026-10-10: «Ремейк» (formerly «Ремейк события»). Source approved 2026-10-08: Ремейк события. Resolve the effect of the top discarded event. Copying an effect alone is not playing a second event; paid effects still require payment. Translation pending. |
 | EV-384 |  |  | Source approved 2026-10-08: Удалёнка. A chosen player plays one event from hand out of sequence. The regular turn order stays unchanged; do not convert this to an extra full turn or a queue jump. Translation pending. |
 | EV-385 |  |  | Source approved 2026-10-08: Однозадачность. Next month, no more than one event may be played per turn, even through effects. Translation pending. |
-| EV-386 |  |  | Source approved 2026-10-08: Мониторинг активности. Take 100B from the Bank per player who has played an event this month; count players, not the number of events. Translation pending. |
+| EV-386 |  |  | RU title renamed 2026-10-10: «Премия за охват» (formerly «Мониторинг активности»). Source approved 2026-10-08: Мониторинг активности. Take 100B from the Bank per player who has played an event this month; count players, not the number of events. Translation pending. |
 | EV-387 |  |  | Wording updated 2026-10-09; use the current RU source. Source approved 2026-10-08: Спонсор. Pay 100B to the Bank and gain a new event through the effect; all other players receive 100B each from the Bank. Normal replacement draw for this event remains. Translation pending. |
 | EV-388 |  |  | Source approved 2026-10-08: Весомый аргумент. The chosen player pays the Bank 100B per event in the OWNER'S hand, not the target's. Translation pending. |
 | EV-389 |  |  | Source approved 2026-10-08: Реферальная программа. Each player, including the owner, may take 100B from the Bank; owner then takes 100B per participant. If all six take money, owner receives 700B total. Translation pending. |
 | EV-390 |  |  | Source approved 2026-10-08: Двойной добор. Next month each played event gives two replacement events instead of one. Vampire can substitute 200B for each event individually; declining both gives 400B, without adding a monthly cap. Translation pending. |
 | EV-391 |  |  | Source approved 2026-10-08: Бесплатный сыр. Take and immediately play the top event. No replacement draw for that revealed event; waive only its paid activation cost. Taxes, fines and losing money still apply. Normal draw for Free Cheese itself remains. Translation pending. |
 | EV-392 |  |  | Source approved 2026-10-09: Next month no salaries are paid. EVERY player receives 100B from the Bank at the START of each event they play. Freelancer still adds its own 100B, for 200B total at event start. Translation pending. |
+| EV-393 |  |  | Source approved 2026-10-10: Свободная память. Award 100B per event missing from five, only when the hand has fewer than five. Translation pending. |
+| EV-394 |  |  | Source approved 2026-10-10: Излишки производства. The owner gives events to another player, then discards one additional event from the OWNER'S hand for each transferred event; the recipient does not discard. Translation pending. |
+| EV-395 |  |  | Source approved 2026-10-10: Испытательный срок. Pay 400B at the end of next month only if nobody changes status before then. Opponents may deliberately change status to cancel the reward. Translation pending. |
+| EV-396 |  |  | Source approved 2026-10-10: Налог на прибыль. Next month charge a 100B tax after EVERY receipt of BABLOS, including player transfers and Bank receipts; existing tax immunity applies. Translation pending. |
+| EV-397 |  |  | Source approved 2026-10-10: Залог. UP gives 400B; W discards two hand events, or all available if fewer than two (one or zero). No minimum hand of two is imposed to play this event. Translation pending. |
+| EV-398 |  |  | Source approved 2026-10-10: Капкан. Every player, including the owner, may gain one new event and then must skip their next turn if they accepted. The gain is an effect, not a replacement draw. Translation pending. |
+| EV-399 |  |  | Source approved 2026-10-10: Переадресация. Redirect the next personally targeted event effect to a chosen player other than the player who played that attack. Play this protection normally in advance; it does not add an instant reaction from hand or protection against multi-target/global effects. Translation pending. |
+| EV-400 |  |  | Source approved 2026-10-10: Совет соседа. Show the right neighbour ANY two hand events, then play the one they select. Both receive 100B from the Bank. The author declines a requirement that only playable cards may be shown; existing play restrictions still apply. Translation pending. |
+| EV-401 |  |  | Source approved 2026-10-10: Реанимация. A chosen player with no hand events gains three new events; the owner receives 300B. No other-player restriction is added. Translation pending. |
+| EV-402 |  |  | Source approved 2026-10-10: Экстренная помощь. A chosen player with at most three hand events may pay the owner 200B for two new events. Choosing yourself is expressly allowed; do not insert OTHER. The general full-payment rule remains unchanged. Translation pending. |
 | EV-BLANK |  |  |  |
