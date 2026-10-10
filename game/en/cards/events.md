@@ -1,5 +1,7 @@
 # English card translation worksheet: events
 
+**Final source approval, 2026-10-10:** [EV-129/167/343 approved; EV-341 retired](../../../design/reviews/2026-10-10-event-logic-final.ru.md). EV-025 keeps its existing title/effect. Current inventory: **306 filled records; 335 filled copies plus one blank = 336 events**, five above target. The author requests merging all accumulated PR #34 changes. Earlier pending decisions and merge holds below are historical. Title/effect fields remain untranslated.
+
 **Latest source update, 2026-10-10, logic review:** [19 approved effects and four retirements](../../../design/reviews/2026-10-10-event-logic-approved-part.ru.md). EV-139/235/345/383 are retired; never reuse their IDs. Current inventory: **307 filled records; 336 filled copies plus one blank = 337 events**, six above target. EV-129/167/341/343 proposals remain pending; their source text is unchanged. Title/effect fields remain untranslated. Older dated summaries below are historical.
 
 **Latest title approval, 2026-10-10, after PR #33:** EV-380 is now «Сотка»; effect and copy count are unchanged. [Approved source](../../../design/reviews/2026-10-10-statuses-monthly-and-sotka.ru.md). Translation fields remain empty.
@@ -115,7 +117,7 @@ Status: titles and effects await translation. EV-081 and its formerly approved t
 | EV-125 |  |  |  |
 | EV-126 |  |  |  |
 | EV-128 |  |  | Source approved 2026-10-10, logic review: Highest bidder pays their bid to the Bank and receives 100B extra salary until game end, replacing the old 200B. Identical bids are forbidden. No bids means no winner; do not add a minimum bid or require every bid to exceed the previous bid. Translation pending. |
-| EV-129 |  |  |  |
+| EV-129 |  |  | Final source approval 2026-10-10: The author retains the richest / second richest / others wording and adds equal rewards for equal amounts of BABLOS. The clarification covers any number of tied players, not only two; rewards are not split among them. Do not replace the approved RU wording with the earlier proposed distinct-amount phrase. Translation pending. |
 | EV-130 |  |  |  |
 | EV-131 |  |  |  |
 | EV-132 |  |  | RU title renamed 2026-10-10: «Магия чисел» (formerly «Судьба»).  |
@@ -144,7 +146,7 @@ Status: titles and effects await translation. EV-081 and its formerly approved t
 | EV-162 |  |  |  |
 | EV-164 |  |  |  |
 | EV-165 |  |  | RU title renamed 2026-10-10: «Ростовщичество» (formerly «Долг»).  |
-| EV-167 |  |  | Source approved 2026-10-07: Выгорание. Replaces the former paid help for the smallest hand: next own turn may play two events in succession without replacement draws. Keep this ID and title; no new Burnout record. Translation pending. |
+| EV-167 |  |  | Final source approval 2026-10-10: No replacement draw for the two events allowed by Burnout; further plays granted by their effects keep their own draws. With Coffee allowing a third event, draw only for that third event; Double Draw gives two for it. Vampire cannot replace a draw that is not granted. Translation pending. |
 | EV-168 |  |  | Source approved 2026-10-07: Микроконтроль. Intentional exchange with EV-179: set aside three selected events from hand, gain three new ones, put the selected originals on top in any order. Names and IDs unchanged. Translation pending. |
 | EV-169 |  |  | Source approved 2026-10-10, logic review: The owner chooses one of the poorest players to receive a new status. Translation pending. |
 | EV-172 |  |  |  |
@@ -271,9 +273,8 @@ Status: titles and effects await translation. EV-081 and its formerly approved t
 | EV-338 |  |  | Source approved 2026-10-09: The chosen player skips their next turn and receives 100B AT THAT TURN OPPORTUNITY, not when Sick Leave is played. Counts as a skipped turn. Translation pending. |
 | EV-339 |  |  | Source approved 2026-10-04: Конфискация. See the current Russian source and the approved 2026-10-04 review. Translation pending. |
 | EV-340 |  |  | Source approved 2026-10-04: Рокировка. Exchange the two players’ current statuses now and again at the end of the next month; original cards need not return. Translation pending. |
-| EV-341 |  |  | Wording updated 2026-10-09; use the current RU source. Source approved 2026-10-04: Наследство. Choose the recipient now. Transfer the next status that would be discarded when replacing your status. A normal status swap does not cause that discard. Translation pending. |
 | EV-342 |  |  | Source approved 2026-10-04: Немой. No spoken words through the end of next month, including reading effects aloud. Another player may read the event. 400B is the one-time reward for completing the challenge; no salary bonus. Translation pending. |
-| EV-343 |  |  | Source approved 2026-10-06: Фишинг. Intercept the next payment to the Bank by ANY player; no target is selected. Translation pending. |
+| EV-343 |  |  | Final source approval 2026-10-10: Intercept ONE next Bank payment made under an event effect. The approved short text is not the alternative intercepting every payment of a whole event; it grants no right to all future loan instalments. Translation pending. |
 | EV-344 |  |  | Source approved 2026-10-06: Массовая рассылка. Gifts come from the owner's hand. Unplayable without one event for every other player, excluding this event itself. Keep that clarification in development notes, not the short effect. Translation pending. |
 | EV-346 |  |  | Source approved 2026-10-06: Пробник. Exchange with the top status now and optionally again at the end of next month. The old status goes into the deck; its eventual return is not guaranteed. Translation pending. |
 | EV-347 |  |  | Source approved 2026-10-06: Предчувствие. Predict the very next toss, by any player. Correct prediction pays 300B, not the earlier 200B proposal. Translation pending. |
