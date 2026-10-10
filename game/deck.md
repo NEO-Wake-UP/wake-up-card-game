@@ -1,5 +1,7 @@
 # Deck composition / Состав колод
 
+**Later update, 2026-10-10 / Позднее уточнение:** [ST-009/011/013 and EV-380 «Сотка»](../design/reviews/2026-10-10-statuses-monthly-and-sotka.ru.md). IDs and all copy counts remain unchanged: 34 statuses and 341 event copies including the blank, 10 above the target. / Все ID и количества прежние; эта порция не добавляет и не удаляет карт.
+
 **Updated 2026-10-10 / Обновлено 2026-10-10:** [10 new events and 43 approved renames](../design/reviews/2026-10-10-events-and-renames.ru.md). Existing effects, stable IDs, all statuses and earlier copy counts are preserved. The author requested merging this batch into main.
 
 **Provisional inventory; final selection is pending. / Предварительная опись; окончательный отбор ещё впереди.**
@@ -38,11 +40,11 @@ Names and effects live in the language folders. This table owns copy counts for 
 | ST-006 | status | 1 | draft: one per listed status |
 | ST-007 | status | 1 | author-approved: «Адвокат» (renamed from «Юрист»), 2026-09-29 |
 | ST-008 | status | 1 | draft: one per listed status |
-| ST-009 | status | 1 | author-approved: two Transformer forms, 2026-09-29 |
+| ST-009 | status | 1 | author-approved 2026-10-10: Transformer chooses one of two forms only at each month start; mid-month acquisition waits |
 | ST-010 | status | 1 | author-approved: «Трудоголик» replaces Worker, 2026-09-29 |
-| ST-011 | status | 1 | draft: one per listed status |
+| ST-011 | status | 1 | author-approved 2026-10-10: at most three seat swaps after own turns per period of holding the status |
 | ST-012 | status | 1 | draft: one per listed status |
-| ST-013 | status | 1 | draft: one per listed status |
+| ST-013 | status | 1 | author-approved 2026-10-10: Thief has no salary; random opponent-event discard every two months for 300B |
 | ST-014 | status | 1 | draft: one per listed status |
 | ST-015 | status | 1 | draft: one per listed status |
 | ST-016 | status | 1 | draft: one per listed status |
@@ -352,7 +354,7 @@ Names and effects live in the language folders. This table owns copy counts for 
 | EV-377 | event | 1 | author-added: Парадокс выбора, 2026-10-07 |
 | EV-378 | event | 1 | author-added: Краудфандинг, 2026-10-07 |
 | EV-379 | event | 1 | author-added: Задом наперёд, 2026-10-08 |
-| EV-380 | event | 1 | author-added: 100 BABLOS, 2026-10-08 |
+| EV-380 | event | 1 | author-added 2026-10-08; renamed «Сотка», 2026-10-10; effect and copy count unchanged |
 | EV-381 | event | 1 | author-added: Делёжка, 2026-10-08 |
 | EV-382 | event | 1 | author-added: Сейф, 2026-10-08 |
 | EV-383 | event | 1 | author-added: Ремейк события, 2026-10-08; renamed «Ремейк», 2026-10-10 |

@@ -1,5 +1,7 @@
 # Blank translation worksheet: events
 
+**Latest title approval, 2026-10-10, after PR #33:** EV-380 is now «Сотка»; effect and copy count are unchanged. [Approved source](../../../design/reviews/2026-10-10-statuses-monthly-and-sotka.ru.md). Translation fields remain empty.
+
 **Latest source approval, 2026-10-10:** [10 new events EV-393–EV-402 and 43 renames](../../../design/reviews/2026-10-10-events-and-renames.ru.md). Current inventory: **311 filled records; 340 filled copies plus one blank = 341 events**, including 30 Coffee copies, **10 above target**. Existing effects and IDs are unchanged; historical names in older notes do not override the current RU title. Title/effect fields remain untranslated worksheets.
 
 **Latest source approval, 2026-10-09:** [95 revised effects and EV-133 retired](../../../design/reviews/2026-10-09-events-wording-approved.ru.md). Current inventory: **301 filled event records; 330 filled copies plus one blank = 331 events**, including 30 Coffee copies. Stable IDs are preserved. Row notes follow the latest decisions; titles/effects remain untranslated. Older dated entries below are historical.
@@ -308,7 +310,7 @@ Status: untranslated. Empty title/effect cells are fields to fill, not approved 
 | EV-377 |  |  | Wording updated 2026-10-09; use the current RU source. Source approved 2026-10-07: Парадокс выбора. A chosen other player chooses 300B from the Bank or two new events; the owner receives the unchosen option. Translation pending. |
 | EV-378 |  |  | Source approved 2026-10-07: Краудфандинг. Each other player may buy one new event by paying the owner 100B, at most ONCE per resolution. No repeat purchases of two for 200B. Translation pending. |
 | EV-379 |  |  | Wording updated 2026-10-09; use the current RU source. Source approved 2026-10-08: Задом наперёд. Place three events from hand on top of the event deck and take the top two from discard into hand. The author accepts that the later replacement draw normally returns one of the three placed events. Translation pending. |
-| EV-380 |  |  | Source approved 2026-10-08: 100 BABLOS. If the owner has exactly 100B, take 500B from the Bank. Approved title is 100 BABLOS, not False Start. Translation pending. |
+| EV-380 |  |  | RU title approved 2026-10-10: «Сотка», formerly «100 BABLOS». Effect unchanged: if the owner has exactly 100B, take 500B from the Bank. Translation pending. |
 | EV-381 |  |  | Source approved 2026-10-08: Делёжка. Look at the top two events, keep one and give the other to a chosen OTHER player. Translation pending. |
 | EV-382 |  |  | Wording updated 2026-10-09; use the current RU source. Source approved 2026-10-08: Сейф. Choose two events IN HAND and keep their faces visible to the other players. Other players' effects do not affect them. They remain part of hand counts and can be played normally; this is not a separate storage zone or merely anti-theft protection. Translation pending. |
 | EV-383 |  |  | RU title renamed 2026-10-10: «Ремейк» (formerly «Ремейк события»). Source approved 2026-10-08: Ремейк события. Resolve the effect of the top discarded event. Copying an effect alone is not playing a second event; paid effects still require payment. Translation pending. |
