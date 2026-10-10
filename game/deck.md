@@ -1,12 +1,18 @@
 # Deck composition / Состав колод
 
+**Final approval, 2026-10-10 / Итог проверки:** [EV-341 «Наследство» retired; EV-129/167/343 approved](../design/reviews/2026-10-10-event-logic-final.ru.md). Together with the previous four removals, five events are retired in PR #34. / В этой порции дополнительно удалена только EV-341; EV-025 сохранена. Автор поручил объединить все накопленные изменения с main. Устаревшие отметки о запрете слияния ниже отменены; действуют текущая опись и последний обзор.
+
+**Latest update, 2026-10-10 / Проверка логики:** [EV-139/235/345/383 retired; 19 effects revised](../design/reviews/2026-10-10-event-logic-approved-part.ru.md). Удалены только эти четыре события, по одному экземпляру каждого. Остальные количества прежние; ID не перенумерованы. Текущая опись ниже заменяет количества из более ранних датированных объявлений. Слияние этой порции пока не поручено.
+
+**Later update, 2026-10-10 / Позднее уточнение:** [ST-009/011/013 and EV-380 «Сотка»](../design/reviews/2026-10-10-statuses-monthly-and-sotka.ru.md). IDs and all copy counts remain unchanged: 34 statuses and 341 event copies including the blank, 10 above the target. / Все ID и количества прежние; эта порция не добавляет и не удаляет карт.
+
 **Updated 2026-10-10 / Обновлено 2026-10-10:** [10 new events and 43 approved renames](../design/reviews/2026-10-10-events-and-renames.ru.md). Existing effects, stable IDs, all statuses and earlier copy counts are preserved. The author requested merging this batch into main.
 
 **Provisional inventory; final selection is pending. / Предварительная опись; окончательный отбор ещё впереди.**
 
-The catalogue contains **311 filled event/final records**. With **30 copies of Coffee**, this is **340 filled copies + 1 blank = 341 events**. This is **10 event copies above the 331-card target**. With 300 BABLOS banknotes, 34 statuses and one coin, the provisional total is **676 components**; the target remains **666**. Do not remove cards or reduce Coffee copies without the author's decision.
+The catalogue contains **306 filled event/final records**. With **30 copies of Coffee**, this is **335 filled copies + 1 blank = 336 events**. This is **5 event copies above the 331-card target**. With 300 BABLOS banknotes, 34 statuses and one coin, the provisional total is **671 components**; the target remains **666**. Do not remove further cards or reduce Coffee copies without the author's decision.
 
-В каталоге **311 заполненных записей событий/финальных карт**. С **30 экземплярами «Кофе»** это **340 заполненных экземпляров + 1 пустая карта = 341 событие**. Сверх целевых **331 события** остаётся **10 экземпляров для будущего отбора**. Общая предварительная опись — **676 компонентов: 300 банкнот BABLOS + 34 статуса + 341 событие + 1 монета**; цель **666** не меняется. Правила и PDF продолжают описывать целевой комплект; новая порция не означает утверждения увеличенного тиража.
+В каталоге **306 заполненных записей событий/финальных карт**. С **30 экземплярами «Кофе»** это **335 заполненных экземпляров + 1 пустая карта = 336 событий**. Сверх целевых **331 события** остаётся **5 экземпляров для будущего отбора**. Общая предварительная опись — **671 компонент: 300 банкнот BABLOS + 34 статуса + 336 событий + 1 монета**; цель **666** не меняется. Правила и PDF продолжают описывать целевой комплект; эта порция не означает утверждения увеличенного тиража.
 
 **EV-133 «Алкоголизм» исключена по решению автора 9 октября.** Её текст и прежняя идея рисунка сохранены в [обзоре](../design/reviews/2026-10-09-events-wording-approved.ru.md). The [80 events retired on 2026-10-08](../design/reviews/2026-10-08-event-cull-and-statuses.ru.md) and EV-035, EV-109, EV-111, EV-232, EV-263, EV-275, EV-287, EV-305, EV-306 and EV-313 also remain retired. Never reuse their IDs. EV-306 duplicated the effect retained at EV-278, now titled «Карманная кража». The rejected new proposals named «Перегруппировка» and «Делегирование» do not remove existing EV-033 and EV-025.
 
@@ -38,11 +44,11 @@ Names and effects live in the language folders. This table owns copy counts for 
 | ST-006 | status | 1 | draft: one per listed status |
 | ST-007 | status | 1 | author-approved: «Адвокат» (renamed from «Юрист»), 2026-09-29 |
 | ST-008 | status | 1 | draft: one per listed status |
-| ST-009 | status | 1 | author-approved: two Transformer forms, 2026-09-29 |
+| ST-009 | status | 1 | author-approved 2026-10-10: Transformer chooses one of two forms only at each month start; mid-month acquisition waits |
 | ST-010 | status | 1 | author-approved: «Трудоголик» replaces Worker, 2026-09-29 |
-| ST-011 | status | 1 | draft: one per listed status |
+| ST-011 | status | 1 | author-approved 2026-10-10: at most three seat swaps after own turns per period of holding the status |
 | ST-012 | status | 1 | draft: one per listed status |
-| ST-013 | status | 1 | draft: one per listed status |
+| ST-013 | status | 1 | author-approved 2026-10-10: Thief has no salary; random opponent-event discard every two months for 300B |
 | ST-014 | status | 1 | draft: one per listed status |
 | ST-015 | status | 1 | draft: one per listed status |
 | ST-016 | status | 1 | draft: one per listed status |
@@ -162,7 +168,6 @@ Names and effects live in the language folders. This table owns copy counts for 
 | EV-134 | event | 1 | draft: one per source row |
 | EV-135 | event | 1 | draft: one per source row |
 | EV-136 | event | 1 | draft: one per source row |
-| EV-139 | event | 1 | draft: one per source row |
 | EV-140 | event | 1 | draft: one per source row; renamed «Рента», 2026-10-10 |
 | EV-141 | event | 1 | draft: one per source row |
 | EV-142 | event | 1 | draft: one per source row |
@@ -229,7 +234,6 @@ Names and effects live in the language folders. This table owns copy counts for 
 | EV-231 | event | 1 | draft: one per source row |
 | EV-233 | event | 1 | draft: one per source row |
 | EV-234 | event | 1 | draft: one per source row |
-| EV-235 | event | 1 | draft: one per source row |
 | EV-237 | event | 1 | draft: one per source row; renamed «Добрососедство», 2026-10-10 |
 | EV-238 | event | 1 | draft: one per source row |
 | EV-239 | event | 1 | draft: one per source row; renamed «Новая машина», 2026-10-10 |
@@ -313,11 +317,9 @@ Names and effects live in the language folders. This table owns copy counts for 
 | EV-338 | event | 1 | author-added: Больничный, 2026-10-04 |
 | EV-339 | event | 1 | author-added: Конфискация, 2026-10-04 |
 | EV-340 | event | 1 | author-added: Рокировка, 2026-10-04 |
-| EV-341 | event | 1 | author-added: Наследство, 2026-10-04 |
 | EV-342 | event | 1 | author-added: Немой, 2026-10-04 |
 | EV-343 | event | 1 | author-added: Фишинг, 2026-10-06 |
 | EV-344 | event | 1 | author-added: Массовая рассылка, 2026-10-06 |
-| EV-345 | event | 1 | author-added: Срок годности, 2026-10-06 |
 | EV-346 | event | 1 | author-added: Пробник, 2026-10-06 |
 | EV-347 | event | 1 | author-added: Предчувствие, 2026-10-06 |
 | EV-348 | event | 1 | author-added: Девальвация удачи, 2026-10-06 |
@@ -352,10 +354,9 @@ Names and effects live in the language folders. This table owns copy counts for 
 | EV-377 | event | 1 | author-added: Парадокс выбора, 2026-10-07 |
 | EV-378 | event | 1 | author-added: Краудфандинг, 2026-10-07 |
 | EV-379 | event | 1 | author-added: Задом наперёд, 2026-10-08 |
-| EV-380 | event | 1 | author-added: 100 BABLOS, 2026-10-08 |
+| EV-380 | event | 1 | author-added 2026-10-08; renamed «Сотка», 2026-10-10; effect and copy count unchanged |
 | EV-381 | event | 1 | author-added: Делёжка, 2026-10-08 |
 | EV-382 | event | 1 | author-added: Сейф, 2026-10-08 |
-| EV-383 | event | 1 | author-added: Ремейк события, 2026-10-08; renamed «Ремейк», 2026-10-10 |
 | EV-384 | event | 1 | author-added: Удалёнка, 2026-10-08 |
 | EV-385 | event | 1 | author-added: Однозадачность, 2026-10-08 |
 | EV-386 | event | 1 | author-added: Мониторинг активности, 2026-10-08; renamed «Премия за охват», 2026-10-10 |

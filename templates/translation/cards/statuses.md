@@ -1,5 +1,7 @@
 # Blank translation worksheet: statuses
 
+**Latest source approval, 2026-10-10, after PR #33:** [ST-009/011/013 updated](../../../design/reviews/2026-10-10-statuses-monthly-and-sotka.ru.md). Transformer chooses only at month start, Traveller has three seat swaps per continuous ownership, Thief acts every two months for 300B without salary. Names, IDs and untranslated title/effect cells are preserved. Current source and row notes supersede older summaries.
+
 **Latest source approval, 2026-10-08:** [Speculator and King](../../../design/reviews/2026-10-08-event-cull-and-statuses.ru.md). ST-024 price is now 100B. The ST-020 charge is explicitly a tax, so tax immunity applies. Other conditions and translation fields are unchanged; older dated notes are historical.
 
 **Source approved 2026-10-08:** ST-028 now explicitly replaces each individual event during a replacement draw with 200B from a chosen player. See [the approved source decision](../../../design/reviews/2026-10-08-event-refresh.ru.md); translation fields remain pending.
@@ -28,11 +30,11 @@ Status: untranslated. Author update 2026-09-27: ST-005 is now Minimalist, ST-030
 | ST-006 |  |  | Source approved 2026-09-29: At month start hide the coin in one hand; another player guesses. Correct: guesser takes 100B from Bank; incorrect: owner takes it. Mid-month acquisition waits for next month start. Translation pending. |
 | ST-007 |  |  | Source approved 2026-09-29: Source name is now «Адвокат», replacing «Юрист». May discard three events from own hand to cancel an event effect personally directed against the owner. No monthly cap; cannot cancel multi-target/global effects (including Bandit), even partially. Translation pending. |
 | ST-008 |  |  | Source approved 2026-10-07: Бездомный. Taxes do not affect this player, including EV-366. No salary. At the end of every second month receive a 100B Bank allowance. The allowance is independent, so after EV-312 the owner receives both salary and allowance. Translation pending. |
-| ST-009 |  |  | Source approved 2026-09-29: Choose ONE of TWO effects upon receiving this status: gain a new event for each own skipped turn, or receive 100B extra salary until status change. Old 600B and coin forms removed. Translation pending. |
+| ST-009 |  |  | Source approved 2026-10-10: Choose ONE effect ONLY at the beginning of each month, for that month: gain a new event per own skipped turn, OR receive 100B extra salary. Receiving this status mid-month does NOT allow an immediate choice; wait until the next month begins. The same form may be chosen again. This supersedes the old once-on-acquisition choice. Translation pending. |
 | ST-010 |  |  | Source approved 2026-09-29: Source title «Трудоголик», replacing «Рабочий». At the beginning of own turn may pay Bank 100B to play two events instead of one. Translation pending. |
-| ST-011 |  |  | Source approved 2026-09-29: Once every three months, AFTER own turn, may exchange seats with a chosen player. Translation pending. |
+| ST-011 |  |  | Source approved 2026-10-10: After own turn, may swap seats with a chosen player, at most THREE times during this period of holding the status. A newly received instance gives a new allowance of three; the former once-every-three-months limit is removed. Translation pending. |
 | ST-012 |  |  | Source approved 2026-09-29: Receive 100B from Bank for every OWN skipped turn, voluntary or forced. Translation pending. |
-| ST-013 |  |  | Source approved 2026-09-29: No salary. Once every three months discard a random event from another player’s hand and take 400B from Bank. Translation pending. |
+| ST-013 |  |  | Source approved 2026-10-10: No salary. Once every TWO months, discard a random event from another player's hand and take 300B from the Bank. The owner does not keep the discarded event. This replaces every three months/400B; the author prefers the easier alternating-month count. Translation pending. |
 | ST-014 |  |  |  |
 | ST-015 |  |  | Source approved 2026-10-05: Once every two months take 100B from one neighbour. The former loan/no-repayment joke is replaced by direct taking; no consent requirement was added. Translation pending. |
 | ST-016 |  |  |  |
