@@ -1,5 +1,7 @@
 # Deck composition / Состав колод
 
+**Later update, 2026-10-11 / Четыре добавления:** [EV-403–EV-406 approved](../design/reviews/2026-10-11-four-cash-events-and-wording-discussion.ru.md), по одному экземпляру каждой. Прежние шесть удалений сохранены, остальные количества не меняются. Теперь 334 события с пустой картой, три сверх цели. Обсуждаемые правки старых карт не внесены; нового поручения на слияние нет.
+
 **Updated 2026-10-11 / Упрощение колоды:** [EV-335/340/349/373/384/391 retired by the author](../design/reviews/2026-10-11-event-simplification-and-cash-audit.ru.md). Удалено ровно шесть экземпляров; остальные карты и количества прежние. Текущая опись — 330 событий с пустой картой, одно ниже цели. Эта порция сохраняется в рабочей ветке; новое слияние не поручено. Более ранние датированные количества и разрешения слияния ниже исторические.
 
 **Final approval, 2026-10-10 / Итог проверки:** [EV-341 «Наследство» retired; EV-129/167/343 approved](../design/reviews/2026-10-10-event-logic-final.ru.md). Together with the previous four removals, five events are retired in PR #34. / В этой порции дополнительно удалена только EV-341; EV-025 сохранена. Автор поручил объединить все накопленные изменения с main. Устаревшие отметки о запрете слияния ниже отменены; действуют текущая опись и последний обзор.
@@ -12,9 +14,9 @@
 
 **Provisional inventory; final selection is pending. / Предварительная опись; окончательный отбор ещё впереди.**
 
-The catalogue contains **300 filled event/final records**. With **30 copies of Coffee**, this is **329 filled copies + 1 blank = 330 events**, **one below the 331-card target**. With 300 BABLOS banknotes, 34 statuses and one coin, the provisional total is **665 components**; the target remains **666**. Further additions/removals require the author’s decision; the three proposed cash combinations are not part of this inventory.
+The catalogue contains **304 filled event/final records**. With **30 copies of Coffee**, this is **333 filled copies + 1 blank = 334 events**, **three above the 331-card target**. With 300 BABLOS banknotes, 34 statuses and one coin, the provisional total is **669 components**; the target remains **666**. EV-403–EV-406 are now approved additions; further removals require the author’s decision.
 
-В каталоге **300 заполненных записей событий/финальных карт**. С **30 экземплярами «Кофе»** это **329 заполненных экземпляров + 1 пустая карта = 330 событий**. До целевых **331 события не хватает одного**. Общая предварительная опись — **665 компонентов: 300 банкнот BABLOS + 34 статуса + 330 событий + 1 монета**; цель **666** не меняется. Три предложенных денежных события пока не утверждены и в опись не входят. Правила и PDF продолжают описывать целевой комплект.
+В каталоге **304 заполненные записи событий/финальных карт**. С **30 экземплярами «Кофе»** это **333 заполненных экземпляра + 1 пустая карта = 334 события**, на **3 больше целевых 331**. Общая предварительная опись — **669 компонентов: 300 банкнот BABLOS + 34 статуса + 334 события + 1 монета**; цель **666** не меняется. EV-403–EV-406 добавлены по решению автора; следующие удаления пока не выбраны. Правила и PDF продолжают описывать целевой комплект.
 
 **EV-133 «Алкоголизм» исключена по решению автора 9 октября.** Её текст и прежняя идея рисунка сохранены в [обзоре](../design/reviews/2026-10-09-events-wording-approved.ru.md). The [80 events retired on 2026-10-08](../design/reviews/2026-10-08-event-cull-and-statuses.ru.md) and EV-035, EV-109, EV-111, EV-232, EV-263, EV-275, EV-287, EV-305, EV-306 and EV-313 also remain retired. Never reuse their IDs. EV-306 duplicated the effect retained at EV-278, now titled «Карманная кража». The rejected new proposals named «Перегруппировка» and «Делегирование» do not remove existing EV-033 and EV-025.
 
@@ -372,4 +374,8 @@ Names and effects live in the language folders. This table owns copy counts for 
 | EV-400 | event | 1 | author-added: Совет соседа, 2026-10-10; provisional copy pending final selection |
 | EV-401 | event | 1 | author-added: Реанимация, 2026-10-10; provisional copy pending final selection |
 | EV-402 | event | 1 | author-added: Экстренная помощь, 2026-10-10; provisional copy pending final selection |
+| EV-403 | event | 1 | author-added: На чай, 2026-10-11; provisional copy pending final selection |
+| EV-404 | event | 1 | author-added: Чаевые, 2026-10-11; provisional copy pending final selection |
+| EV-405 | event | 1 | author-added: Откат, 2026-10-11; provisional copy pending final selection |
+| EV-406 | event | 1 | author-added: Двойной куш, 2026-10-11; provisional copy pending final selection |
 | EV-BLANK | blank-event | 1 | explicit blank component |

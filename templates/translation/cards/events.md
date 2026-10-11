@@ -1,5 +1,7 @@
 # Blank translation worksheet: events
 
+**Later source update, 2026-10-11:** [Four approved cash events EV-403–EV-406](../../../design/reviews/2026-10-11-four-cash-events-and-wording-discussion.ru.md) added with one copy each. Current inventory: **304 filled records; 333 filled copies plus one blank = 334 events**, three above target. Other effect/title proposals are discussion only; existing source rows stay unchanged. Title/effect translation fields remain empty. PR #35 remains unmerged pending author instruction; older dated notes are historical.
+
 **Source update, 2026-10-11:** [Six author-selected retirements: EV-335/340/349/373/384/391](../../../design/reviews/2026-10-11-event-simplification-and-cash-audit.ru.md). Current inventory: **300 filled records; 329 filled copies plus one blank = 330 events**, one below the target. All other cards/copies remain unchanged. New cash-event ideas are proposals only, not added. This batch stays on a working branch pending a new merge instruction. Title/effect fields remain untranslated; older dated summaries are historical.
 
 **Final source approval, 2026-10-10:** [EV-129/167/343 approved; EV-341 retired](../../../design/reviews/2026-10-10-event-logic-final.ru.md). EV-025 keeps its existing title/effect. Current inventory: **306 filled records; 335 filled copies plus one blank = 336 events**, five above target. The author requests merging all accumulated PR #34 changes. Earlier pending decisions and merge holds below are historical. Title/effect fields remain untranslated.
@@ -328,4 +330,8 @@ Status: untranslated. Empty title/effect cells are fields to fill, not approved 
 | EV-400 |  |  | Source approved 2026-10-10: Совет соседа. Show the right neighbour ANY two hand events, then play the one they select. Both receive 100B from the Bank. The author declines a requirement that only playable cards may be shown; existing play restrictions still apply. Translation pending. |
 | EV-401 |  |  | Source approved 2026-10-10: Реанимация. A chosen player with no hand events gains three new events; the owner receives 300B. No other-player restriction is added. Translation pending. |
 | EV-402 |  |  | Source approved 2026-10-10: Экстренная помощь. A chosen player with at most three hand events may pay the owner 200B for two new events. Choosing yourself is expressly allowed; do not insert OTHER. The general full-payment rule remains unchanged. Translation pending. |
+| EV-403 |  |  | Source approved 2026-10-11: На чай. Take 100B from one chosen player; no Bank payout. Preserve chosen player without adding OTHER. Translation pending. |
+| EV-404 |  |  | Source approved 2026-10-11: Чаевые. Take 100B from the Bank and 100B from one chosen player. Preserve chosen player without adding OTHER. Translation pending. |
+| EV-405 |  |  | Source approved 2026-10-11: Откат. Take 200B from the Bank and 200B from one chosen player. Preserve chosen player without adding OTHER. Translation pending. |
+| EV-406 |  |  | Source approved 2026-10-11: Двойной куш. Take 300B from the Bank and 300B from one chosen player. Preserve chosen player without adding OTHER. Translation pending. |
 | EV-BLANK |  |  |  |
