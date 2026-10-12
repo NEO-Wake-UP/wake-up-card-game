@@ -1,5 +1,7 @@
 # WAKE UP
 
+**Утверждено позднее 2026-10-12:** [упрощены события, исключены шесть карт, добавлена EV-407 «Взаимная выгода», обновлены Джокер и AI-агент](design/reviews/2026-10-12-events-and-statuses-approved.ru.md). Автор поручил **объединить все накопленные правки PR #35 с основной веткой**. В колоде **329 событий с пустой картой**, на два меньше цели; 664 компонента. Старые ожидания согласования и количества ниже — история.
+
 **Обновление 2026-10-12, рабочая ветка:** [подтверждены названия EV-026 «Налог на события», EV-117 «Обычная таблетка» и EV-312 «Волшебная таблетка»](design/reviews/2026-10-12-renames-and-event-simplification-discussion.ru.md). Эффекты прежние. Новая порция упрощений, удалений и статусов пока обсуждается; в описи **334 события с пустой картой**, три сверх цели. PR #35 остаётся без слияния. Старые отметки о неподтверждённых названиях ниже исторические.
 
 **Последующее уточнение 2026-10-11, рабочая ветка:** [отложенный добор, 12 эффектов и EV-364 «ИИ-ассистент»](design/reviews/2026-10-11-delayed-draw-and-ai-assistant.ru.md). Добор за пять специально оставляемых событий перенесён на указанный сброс; у «Ипотеки» добора в игре нет. 334 события с пустой картой, три сверх цели. Правки накапливаются в PR #35, слияние не поручено.
@@ -54,9 +56,9 @@ Earn BABLOS, change your social status and navigate absurd events. Play for fun,
 | English | [English edition](game/en/README.md) | [Print pack status](print-and-play/en/README.md) |
 | Other languages / Другие языки | [Translation guide / Как перевести](templates/translation/README.md) | [Rules background / Фон правил](templates/rules/README.md) · [Blank cards / Пустые карты](templates/cards/README.md) |
 
-**Current edition (2026-10-10):** 311 filled event records; 340 filled copies plus one blank = 341 events, including 30 Coffee copies. This is 10 above the 331-event target: 676 provisional components versus the 666-component target. [Approved events and renames](design/reviews/2026-10-10-events-and-renames.ru.md). Final selection, card translations and complete print packs remain unfinished. The current A5 rules still describe the target set.
+**Current edition (2026-10-12):** 299 filled event records; with 30 Coffee copies, 328 filled copies plus one blank = 329 events. Two below the 331-event target: 664 components versus the 666-component target. [Approved changes](design/reviews/2026-10-12-events-and-statuses-approved.ru.md). Final selection, card translations and complete print packs remain unfinished. The A5 rules describe the target set.
 
-**Текущая редакция (2026-10-10):** 311 заполненных записей событий; с 30 копиями «Кофе» это 340 заполненных экземпляров и пустая карта — 341 событие. Предварительно 676 компонентов, на 10 событий больше целевых 666. [Последние утверждённые изменения](design/reviews/2026-10-10-events-and-renames.ru.md). Финальный отбор, перевод карточек, проверка баланса и полный печатный набор ещё впереди. Правила A5 описывают целевой комплект.
+**Текущая редакция (2026-10-12):** 299 заполненных записей событий; с 30 копиями «Кофе» это 328 заполненных экземпляров и пустая карта — 329 событий. Предварительно 664 компонента, на два события меньше цели 666. [Утверждённые изменения](design/reviews/2026-10-12-events-and-statuses-approved.ru.md). Финальный отбор, перевод карточек, проверка баланса и полный печатный набор ещё впереди. Правила A5 описывают целевой комплект.
 
 **Продолжение в новом чате:** начните с [START_HERE.ru.md — памятки Димы и Лиса](START_HERE.ru.md). Здесь собраны действующие решения, отменённые варианты, важные сочетания карт и результаты первых модельных партий.
 

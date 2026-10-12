@@ -1,5 +1,7 @@
 # English card translation worksheet: statuses
 
+**Source approval, 2026-10-12:** [ST-026 Джокер and ST-033 AI-агент](../../../design/reviews/2026-10-12-events-and-statuses-approved.ru.md). Joker chooses any new status from the deck within one minute on acquisition; no timeout penalty or compulsory fallback. AI-agent keeps the former copying effect. Other statuses and all 34 copies remain unchanged. Translation title/effect fields remain empty.
+
 **Latest source approval, 2026-10-10, after PR #33:** [ST-009/011/013 updated](../../../design/reviews/2026-10-10-statuses-monthly-and-sotka.ru.md). Transformer chooses only at month start, Traveller has three seat swaps per continuous ownership, Thief acts every two months for 300B without salary. Names, IDs and untranslated title/effect cells are preserved. Current source and row notes supersede older summaries.
 
 **Latest source approval, 2026-10-08:** [Speculator and King](../../../design/reviews/2026-10-08-event-cull-and-statuses.ru.md). ST-024 price is now 100B. The ST-020 charge is explicitly a tax, so tax immunity applies. Other conditions and translation fields are unchanged; older dated notes are historical.
@@ -47,12 +49,12 @@ Status: untranslated. Author update 2026-09-27: ST-005 is now Minimalist, ST-030
 | ST-023 |  |  | Source approved 2026-10-05: At the beginning of the month, exchange an event from your own hand for a random event from another player's hand. This replaces the previous once-per-month timing; a status gained mid-month waits for the next month start. Translation pending. |
 | ST-024 |  |  | Source approved 2026-10-08: at month start offer players the unseen top event for 100B paid to you (previously 200B). One offer and at most one sale; purchase is voluntary and you choose among willing buyers. Translation pending. |
 | ST-025 |  |  | Source approved 2026-10-05: At month start give another player 100B TO receive 200B from Bank; the first transfer is the condition for the reward. Mid-month acquisition waits for the relevant month-start timing. Translation pending. |
-| ST-026 |  |  | Source approved 2026-09-29: Choose one of the top three statuses. Put this status card into the chosen card’s place in the deck. The other two remain in the deck. Translation pending. |
+| ST-026 |  |  | Source approved 2026-10-12: Джокер replaces Хозяин судьбы. Upon receiving this status, choose ANY new status from the status deck within one minute. No mandatory fallback or penalty after timeout; the author expressly rejected that addition. Normal status replacement applies; the former top-three selection and deck-position exchange are removed. Translation pending. |
 | ST-027 |  |  | Source approved 2026-10-05: When receiving a new event, choose one of the top two. Return the other to the TOP of the event deck, not an arbitrary position. Translation pending. |
 | ST-028 |  |  | Source approved 2026-10-08: Вампир. May take 200B from any player instead of EACH event due as a replacement draw. For a two-event draw may keep both, replace one with 200B or both with 400B. Effect-based event gains are not draws. No monthly cap. Translation pending. |
 | ST-029 |  |  | Final source approved 2026-10-05: Фрилансер replaces Барахольщик. No salary; receive 100B from the Bank when BEGINNING to play an event, before resolving its effect. A status-changing event rewards its initial Freelancer; becoming Freelancer through that event does not reward it. Income is independent of replacement draws. No monthly cap; the earlier 200B proposal is not approved. Translation pending. |
 | ST-030 |  |  | Source approved 2026-09-29: After the owner’s own bankruptcy, take 1100B from Bank. No new frequency limit. Translation pending. |
 | ST-031 |  |  | Source approved 2026-10-05: At MONTH start may inspect the top three events and return them to the TOP of the event deck in any order. Not at the beginning of own turn. Translation pending. |
 | ST-032 |  |  | Source approved 2026-10-07: Донор. At the beginning of the month, may receive 200B (not 300B) from the Bank for discarding one event from own hand. No timing change. Translation pending. |
-| ST-033 |  |  |  |
+| ST-033 |  |  | Title approved 2026-10-12: AI-агент (Latin AI), formerly Джокер. Effect unchanged: at month start copy one neighbour status effect; copying is not receiving a status. Translation pending. |
 | ST-034 |  |  |  |
