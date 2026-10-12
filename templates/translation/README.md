@@ -1,5 +1,7 @@
 # Translate WAKE UP / Перевести WAKE UP
 
+**Latest source approval, evening 2026-10-12:** [final approved event batch](../../design/reviews/2026-10-12-evening-events-approved.ru.md). EV-321/359 are retired; the original EV-043/266 return under the same IDs. Use current Russian text, including delayed-discard/draw annotations; EV-334 starts immediately, EV-357 exchanges two random events each, EV-402 gains before mandatory payment. Translation worksheets are synchronized but not translated.
+
 **Latest source approval, 2026-10-08:** [80 events retired; Speculator and King updated](../../design/reviews/2026-10-08-event-cull-and-statuses.ru.md). Use the remaining IDs without renumbering. ST-024 sells for 100B; ST-020 collects a tax, with tax exemptions applying. Both worksheets match the active source; older dated notes are historical.
 
 **Source approved 2026-10-08:** [14 new events, EV-064 and ST-028](../../design/reviews/2026-10-08-event-refresh.ru.md) are reflected in both worksheets. Safe events stay in hand and face other players; Vampire applies to each replacement event. Copying an effect, out-of-turn event play and an extra full turn remain distinct. Card translation remains pending.
