@@ -1,5 +1,7 @@
 # Deck composition / Состав колод
 
+**Названия подтверждены, 2026-10-12:** [EV-026/117/312 переименованы без изменения ID и количества](../design/reviews/2026-10-12-renames-and-event-simplification-discussion.ru.md). В составе **334 события с пустой картой**, 669 компонентов; три события сверх цели. Новые шесть предложенных удалений и выплата двоим по 100B ещё не внесены.
+
 **Later clarification, 2026-10-11 / Отложенный добор:** [12 эффектов уточнены, EV-364 переименована в «ИИ-ассистент»](../design/reviews/2026-10-11-delayed-draw-and-ai-assistant.ru.md). ID и все количества сохранены: 334 события, три сверх цели. «Ипотека» теперь даёт шесть событий по эффекту без добора; это не изменение количества её экземпляров. Порция в рабочей ветке, слияние не поручено.
 
 **Later update, 2026-10-11 / Четыре добавления:** [EV-403–EV-406 approved](../design/reviews/2026-10-11-four-cash-events-and-wording-discussion.ru.md), по одному экземпляру каждой. Прежние шесть удалений сохранены, остальные количества не меняются. Теперь 334 события с пустой картой, три сверх цели. Обсуждаемые правки старых карт не внесены; нового поручения на слияние нет.
@@ -94,7 +96,7 @@ Names and effects live in the language folders. This table owns copy counts for 
 | EV-021 | event | 1 | draft: one per source row |
 | EV-023 | event | 1 | draft: one per source row |
 | EV-025 | event | 1 | draft: one per source row |
-| EV-026 | event | 1 | draft: one per source row |
+| EV-026 | event | 1 | title approved 2026-10-12: Налог на события; copies unchanged |
 | EV-028 | event | 1 | draft: one per source row |
 | EV-029 | event | 1 | draft: one per source row |
 | EV-030 | event | 1 | draft: one per source row |
@@ -156,7 +158,7 @@ Names and effects live in the language folders. This table owns copy counts for 
 | EV-113 | event | 1 | draft: one per source row |
 | EV-115 | event | 1 | author-approved: renamed «Сверхурочные», effect unchanged, 2026-09-29 |
 | EV-116 | event | 1 | draft: one per source row |
-| EV-117 | event | 1 | draft: one per source row |
+| EV-117 | event | 1 | title approved 2026-10-12: Обычная таблетка; copies unchanged |
 | EV-118 | event | 1 | draft: one per source row |
 | EV-119 | event | 1 | draft: one per source row |
 | EV-120 | event | 1 | draft: one per source row; renamed «Платный багаж», 2026-10-10 |
@@ -295,7 +297,7 @@ Names and effects live in the language folders. This table owns copy counts for 
 | EV-309 | event | 1 | draft: one per source row |
 | EV-310 | event | 1 | draft: one per source row |
 | EV-311 | final | 1 | draft: one per source row |
-| EV-312 | event | 1 | author-added: ordinary tablet, 2026-09-14 |
+| EV-312 | event | 1 | author-added 2026-09-14; title approved 2026-10-12: Волшебная таблетка; copies unchanged |
 | EV-314 | event | 1 | author-added: holiday, 2026-09-15 |
 | EV-315 | event | 1 | author-added: Кэшбэк, 2026-10-04 |
 | EV-316 | event | 1 | author-added: Коллектор, 2026-10-04 |

@@ -1,5 +1,7 @@
 # English card translation worksheet: events
 
+**Title approvals, 2026-10-12:** [EV-026 Налог на события, EV-117 Обычная таблетка, EV-312 Волшебная таблетка](../../../design/reviews/2026-10-12-renames-and-event-simplification-discussion.ru.md). Only source titles change; effects, IDs and copies stay unchanged. The new simplification/status batch remains discussion only. Inventory: 334 events including blank. Translation title/effect fields remain empty; earlier pending-title notes are historical.
+
 **Later author clarification, 2026-10-11:** [12 effect updates and EV-364 renamed ИИ-ассистент](../../../design/reviews/2026-10-11-delayed-draw-and-ai-assistant.ru.md). EV-003/004/086/115 defer their replacement draw until the specified discard; EV-087 gives SIX effect-gained events and NO replacement draw during the game. EV-074 pays immediately; exact wealth ties and Offshore ownership are clarified. Inventory stays **334 events**. Proposed EV-026/117/312 renames are still unconfirmed. Keep title/effect fields empty. Earlier conflicting notes are historical; no merge requested.
 
 **Later source update, 2026-10-11:** [Four approved cash events EV-403–EV-406](../../../design/reviews/2026-10-11-four-cash-events-and-wording-discussion.ru.md) added with one copy each. Current inventory: **304 filled records; 333 filled copies plus one blank = 334 events**, three above target. Other effect/title proposals are discussion only; existing source rows stay unchanged. Title/effect translation fields remain empty. PR #35 remains unmerged pending author instruction; older dated notes are historical.
@@ -50,7 +52,7 @@ Status: titles and effects await translation. EV-081 and its formerly approved t
 | EV-021 |  |  | Renamed «Мультизайм» on 2026-09-28: pun on a microloan from multiple lenders. Take 100B from each of two players; the word “other” was deliberately removed. Translation pending. |
 | EV-023 |  |  |  |
 | EV-025 |  |  | Source approved 2026-10-07: Делегирование. Take a new status and transfer the old one to a chosen other player. Translation pending. |
-| EV-026 |  |  | Source approved 2026-10-07: Налог на карты. Each player pays a 100B TAX per three events in hand; tax exemptions apply. Translation pending. |
+| EV-026 |  |  | Title approved 2026-10-12: Налог на события (formerly Налог на карты). Effect unchanged: each player pays a 100B TAX per three events in hand; tax exemptions apply. Translation pending. |
 | EV-028 |  |  | Source wording approved 2026-10-09; see the current RU source and the approved review. Translation pending. |
 | EV-029 |  |  | Source approved 2026-10-09: The chosen player chooses to pay the owner 200B (NOT the Bank) or discard an event from hand. Translation pending. |
 | EV-030 |  |  |  |
@@ -112,7 +114,7 @@ Status: titles and effects await translation. EV-081 and its formerly approved t
 | EV-113 |  |  |  |
 | EV-115 |  |  | Source approved 2026-10-11, delayed-draw clarification: Play one more event now and two instead of one on your next turn. Keep this played card until after your next own turn; its replacement draw waits until that discard. Other events keep their own draw rules. Translation pending. |
 | EV-116 |  |  | Source approved 2026-09-29: Inspect five and choose one INSTEAD OF the replacement draw for this event; not an additional card plus a draw. Translation pending. |
-| EV-117 |  |  |  |
+| EV-117 |  |  | Title approved 2026-10-12: Обычная таблетка (formerly Волшебная таблетка). Effect unchanged: remove one active negative event effect from the chosen player. Do not swap effects with EV-312. Translation pending. |
 | EV-118 |  |  | Source wording approved 2026-10-09; see the current RU source and the approved review. Translation pending. |
 | EV-119 |  |  | Wording updated 2026-10-09; use the current RU source. Source approved 2026-09-29: Gain one random discarded event through the effect; no replacement draw for this event. Translation pending. |
 | EV-120 |  |  | RU title renamed 2026-10-10: «Платный багаж» (formerly «Счёт»).  |
@@ -251,7 +253,7 @@ Status: titles and effects await translation. EV-081 and its formerly approved t
 | EV-309 |  |  |  |
 | EV-310 |  |  |  |
 | EV-311 |  |  | Source ending revised 2026-09-30: W distributes BABLOS to the losing players; UP adds «это был сон». Translate from current RU; outcome unchanged. |
-| EV-312 |  |  | Source approved 2026-10-09: Remove only salary bans ALREADY ACTIVE on the chosen player, including their current status's ban. No protection from later bans or a newly acquired salaryless status; no skipped-turn cure. Homeless allowance remains independent of restored salary. Translation pending. |
+| EV-312 |  |  | Title approved 2026-10-12: Волшебная таблетка (formerly Обычная таблетка). Effect unchanged: remove only salary bans ALREADY ACTIVE on the chosen player, including their current status's ban. No future immunity or skipped-turn cure; Homeless allowance remains independent. Translation pending. |
 | EV-314 |  |  |  |
 | EV-315 |  |  | Source approved 2026-10-04: Кэшбэк. See the current Russian source and the approved 2026-10-04 review. Translation pending. |
 | EV-316 |  |  | Source approved 2026-10-04: Коллектор. 100B paid to the owner by the player who skips, for every skipped turn during the next month; not a payment by all players when one skips. Translation pending. |
