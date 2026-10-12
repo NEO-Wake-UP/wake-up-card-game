@@ -175,7 +175,7 @@ Status: untranslated. Empty title/effect cells are fields to fill, not approved 
 | EV-200 |  |  | Source wording approved 2026-10-09; see the current RU source and the approved review. Translation pending. |
 | EV-202 |  |  | Source approved 2026-10-12: Chosen player pays Bank 100B now and 100B at the end of the current month. Translation pending. |
 | EV-203 |  |  | RU title renamed 2026-10-10: «Беспроигрышный билет» (formerly «Большая удача»).  |
-| EV-204 |  |  | Source approved 2026-10-10, logic review: Choose one of the players tied for the largest event hand, then take a random event from that hand. Translation pending. |
+| EV-204 |  |  | Wording approved 2026-10-12, evening: take a random event from a player with the largest event hand. If tied, choose any one of those players. Title, quantities and mechanic unchanged; translation pending. |
 | EV-206 |  |  | Source wording approved 2026-10-09; see the current RU source and the approved review. Translation pending. |
 | EV-208 |  |  | RU title renamed 2026-10-10: «Комиссия» (formerly «Просрочка платежа»).  |
 | EV-211 |  |  |  |
