@@ -8,7 +8,7 @@ Current specifications copied from the original design notes; final production c
 | --- | --- | --- |
 | Event and status cards / События и статусы | 63 × 88 mm | Stated trim size / Указанный размер карты |
 | Status deck / Статусы | 33 + 1 blank / пустая | 34 records; blank is ST-034 / 34 записи; пустая — ST-034 |
-| Event deck / События | Target: 330 + 1 blank / Цель: 330 + 1 пустая | [666-component target; reserve selection pending / Цель — 666 компонентов; отбор резерва впереди](deck.md) |
+| Event deck / События | Target: 330 + 1 blank / Цель: 330 + 1 пустая | [Current: 329 events; 2 below target / Сейчас 329 событий; до цели не хватает двух](deck.md) |
 | BABLOS | 30,000 B, written as 3 × 10,000 in source | At 100 B per note this implies 300 notes / При номинале 100 B это 300 банкнот; расчёт |
 | BABLOS note / Банкнота | 155 × 65 mm; 100 B | Prototype has identical sides / Прототип одинаковый с двух сторон |
 | Coin / Монета | 35 mm diameter; 3 mm thick / диаметр 35 мм; толщина 3 мм | [Specification / Техническое задание](../assets/coin/specification.md) |

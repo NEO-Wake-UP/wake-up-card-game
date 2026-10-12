@@ -1,5 +1,15 @@
 # Deck composition / Состав колод
 
+**Утверждено позднее 2026-10-12:** [исключены EV-126/128/129/152/207/265, добавлена EV-407](../design/reviews/2026-10-12-events-and-statuses-approved.ru.md). Имена ST-026/033 и EV-364 обновлены без изменения количества статусов. **329 событий с пустой картой**, на два меньше цели; 664 компонента. Автор поручил объединить весь PR #35; предыдущие запреты слияния ниже отменены.
+
+**Названия подтверждены, 2026-10-12:** [EV-026/117/312 переименованы без изменения ID и количества](../design/reviews/2026-10-12-renames-and-event-simplification-discussion.ru.md). В составе **334 события с пустой картой**, 669 компонентов; три события сверх цели. Новые шесть предложенных удалений и выплата двоим по 100B ещё не внесены.
+
+**Later clarification, 2026-10-11 / Отложенный добор:** [12 эффектов уточнены, EV-364 переименована в «ИИ-ассистент»](../design/reviews/2026-10-11-delayed-draw-and-ai-assistant.ru.md). ID и все количества сохранены: 334 события, три сверх цели. «Ипотека» теперь даёт шесть событий по эффекту без добора; это не изменение количества её экземпляров. Порция в рабочей ветке, слияние не поручено.
+
+**Later update, 2026-10-11 / Четыре добавления:** [EV-403–EV-406 approved](../design/reviews/2026-10-11-four-cash-events-and-wording-discussion.ru.md), по одному экземпляру каждой. Прежние шесть удалений сохранены, остальные количества не меняются. Теперь 334 события с пустой картой, три сверх цели. Обсуждаемые правки старых карт не внесены; нового поручения на слияние нет.
+
+**Updated 2026-10-11 / Упрощение колоды:** [EV-335/340/349/373/384/391 retired by the author](../design/reviews/2026-10-11-event-simplification-and-cash-audit.ru.md). Удалено ровно шесть экземпляров; остальные карты и количества прежние. Текущая опись — 330 событий с пустой картой, одно ниже цели. Эта порция сохраняется в рабочей ветке; новое слияние не поручено. Более ранние датированные количества и разрешения слияния ниже исторические.
+
 **Final approval, 2026-10-10 / Итог проверки:** [EV-341 «Наследство» retired; EV-129/167/343 approved](../design/reviews/2026-10-10-event-logic-final.ru.md). Together with the previous four removals, five events are retired in PR #34. / В этой порции дополнительно удалена только EV-341; EV-025 сохранена. Автор поручил объединить все накопленные изменения с main. Устаревшие отметки о запрете слияния ниже отменены; действуют текущая опись и последний обзор.
 
 **Latest update, 2026-10-10 / Проверка логики:** [EV-139/235/345/383 retired; 19 effects revised](../design/reviews/2026-10-10-event-logic-approved-part.ru.md). Удалены только эти четыре события, по одному экземпляру каждого. Остальные количества прежние; ID не перенумерованы. Текущая опись ниже заменяет количества из более ранних датированных объявлений. Слияние этой порции пока не поручено.
@@ -10,9 +20,9 @@
 
 **Provisional inventory; final selection is pending. / Предварительная опись; окончательный отбор ещё впереди.**
 
-The catalogue contains **306 filled event/final records**. With **30 copies of Coffee**, this is **335 filled copies + 1 blank = 336 events**. This is **5 event copies above the 331-card target**. With 300 BABLOS banknotes, 34 statuses and one coin, the provisional total is **671 components**; the target remains **666**. Do not remove further cards or reduce Coffee copies without the author's decision.
+The catalogue contains **299 filled event/final records**. With **30 copies of Coffee**, this is **328 filled copies + 1 blank = 329 events**, **two below the 331-card target**. With 300 BABLOS banknotes, 34 statuses and one coin, the provisional total is **664 components**; the target remains **666**. The latest six retirements and EV-407 are author-approved. Do not add further cards automatically.
 
-В каталоге **306 заполненных записей событий/финальных карт**. С **30 экземплярами «Кофе»** это **335 заполненных экземпляров + 1 пустая карта = 336 событий**. Сверх целевых **331 события** остаётся **5 экземпляров для будущего отбора**. Общая предварительная опись — **671 компонент: 300 банкнот BABLOS + 34 статуса + 336 событий + 1 монета**; цель **666** не меняется. Правила и PDF продолжают описывать целевой комплект; эта порция не означает утверждения увеличенного тиража.
+В каталоге **299 заполненных записей событий/финальных карт**. С **30 экземплярами «Кофе»** это **328 заполненных экземпляров + 1 пустая карта = 329 событий**, на **2 меньше целевых 331**. Общая предварительная опись — **664 компонента: 300 банкнот BABLOS + 34 статуса + 329 событий + 1 монета**; цель **666** не меняется. Шесть последних удалений и EV-407 утверждены; автоматически добавлять ещё две карты не нужно. Правила и PDF продолжают описывать целевой комплект.
 
 **EV-133 «Алкоголизм» исключена по решению автора 9 октября.** Её текст и прежняя идея рисунка сохранены в [обзоре](../design/reviews/2026-10-09-events-wording-approved.ru.md). The [80 events retired on 2026-10-08](../design/reviews/2026-10-08-event-cull-and-statuses.ru.md) and EV-035, EV-109, EV-111, EV-232, EV-263, EV-275, EV-287, EV-305, EV-306 and EV-313 also remain retired. Never reuse their IDs. EV-306 duplicated the effect retained at EV-278, now titled «Карманная кража». The rejected new proposals named «Перегруппировка» and «Делегирование» do not remove existing EV-033 and EV-025.
 
@@ -61,14 +71,14 @@ Names and effects live in the language folders. This table owns copy counts for 
 | ST-023 | status | 1 | draft: one per listed status |
 | ST-024 | status | 1 | author-approved: Спекулянт replaces Немой, 2026-10-04 |
 | ST-025 | status | 1 | draft: one per listed status |
-| ST-026 | status | 1 | draft: one per listed status |
+| ST-026 | status | 1 | author-approved replacement: Джокер, 2026-10-12; copies unchanged |
 | ST-027 | status | 1 | draft: one per listed status |
 | ST-028 | status | 1 | author-approved: Vampire replaces Banker, 2026-09-28 |
 | ST-029 | status | 1 | author-approved: Фрилансер replaces Барахольщик; no salary, 100B per played event, 2026-10-05 |
 | ST-030 | status | 1 | author-approved: Insurance Agent replaces Commentator, 2026-09-27 |
 | ST-031 | status | 1 | author-approved: «Инсайдер» replaces Philosopher, 2026-09-29 |
 | ST-032 | status | 1 | draft: one per listed status |
-| ST-033 | status | 1 | draft: one per listed status |
+| ST-033 | status | 1 | author-approved title: AI-агент, 2026-10-12; effect/copies unchanged |
 | ST-034 | blank-status | 1 | author-approved: blank moved from ST-005, 2026-09-27 |
 | EV-001 | event | 1 | draft: one per source row |
 | EV-003 | event | 1 | draft: one per source row |
@@ -88,7 +98,7 @@ Names and effects live in the language folders. This table owns copy counts for 
 | EV-021 | event | 1 | draft: one per source row |
 | EV-023 | event | 1 | draft: one per source row |
 | EV-025 | event | 1 | draft: one per source row |
-| EV-026 | event | 1 | draft: one per source row |
+| EV-026 | event | 1 | title approved 2026-10-12: Налог на события; copies unchanged |
 | EV-028 | event | 1 | draft: one per source row |
 | EV-029 | event | 1 | draft: one per source row |
 | EV-030 | event | 1 | draft: one per source row |
@@ -150,7 +160,7 @@ Names and effects live in the language folders. This table owns copy counts for 
 | EV-113 | event | 1 | draft: one per source row |
 | EV-115 | event | 1 | author-approved: renamed «Сверхурочные», effect unchanged, 2026-09-29 |
 | EV-116 | event | 1 | draft: one per source row |
-| EV-117 | event | 1 | draft: one per source row |
+| EV-117 | event | 1 | title approved 2026-10-12: Обычная таблетка; copies unchanged |
 | EV-118 | event | 1 | draft: one per source row |
 | EV-119 | event | 1 | draft: one per source row |
 | EV-120 | event | 1 | draft: one per source row; renamed «Платный багаж», 2026-10-10 |
@@ -159,9 +169,6 @@ Names and effects live in the language folders. This table owns copy counts for 
 | EV-123 | event | 1 | draft: one per source row; renamed «Как у соседа», 2026-10-10 |
 | EV-124 | event | 1 | draft: one per source row |
 | EV-125 | event | 1 | draft: one per source row |
-| EV-126 | event | 1 | draft: one per source row |
-| EV-128 | event | 1 | draft: one per source row |
-| EV-129 | event | 1 | draft: one per source row |
 | EV-130 | event | 1 | draft: one per source row |
 | EV-131 | event | 1 | draft: one per source row |
 | EV-132 | event | 1 | draft: one per source row; renamed «Магия чисел», 2026-10-10 |
@@ -179,7 +186,6 @@ Names and effects live in the language folders. This table owns copy counts for 
 | EV-148 | event | 1 | draft: one per source row; renamed «Саботаж», 2026-10-10 |
 | EV-149 | event | 1 | draft: one per source row |
 | EV-150 | event | 1 | draft: one per source row |
-| EV-152 | event | 1 | draft: one per source row |
 | EV-153 | event | 1 | draft: one per source row |
 | EV-154 | event | 1 | draft: one per source row |
 | EV-156 | event | 1 | draft: one per source row; renamed «Смена моды», 2026-10-10 |
@@ -215,7 +221,6 @@ Names and effects live in the language folders. This table owns copy counts for 
 | EV-203 | event | 1 | draft: one per source row; renamed «Беспроигрышный билет», 2026-10-10 |
 | EV-204 | event | 1 | draft: one per source row |
 | EV-206 | event | 1 | draft: one per source row |
-| EV-207 | event | 1 | draft: one per source row |
 | EV-208 | event | 1 | draft: one per source row; renamed «Комиссия», 2026-10-10 |
 | EV-211 | event | 1 | draft: one per source row |
 | EV-212 | event | 1 | draft: one per source row |
@@ -254,7 +259,6 @@ Names and effects live in the language folders. This table owns copy counts for 
 | EV-261 | event | 1 | draft: one per source row |
 | EV-262 | event | 1 | draft: one per source row |
 | EV-264 | event | 1 | draft: one per source row |
-| EV-265 | event | 1 | draft: one per source row |
 | EV-267 | event | 1 | draft: one per source row |
 | EV-269 | event | 1 | draft: one per source row |
 | EV-270 | event | 1 | draft: one per source row |
@@ -289,7 +293,7 @@ Names and effects live in the language folders. This table owns copy counts for 
 | EV-309 | event | 1 | draft: one per source row |
 | EV-310 | event | 1 | draft: one per source row |
 | EV-311 | final | 1 | draft: one per source row |
-| EV-312 | event | 1 | author-added: ordinary tablet, 2026-09-14 |
+| EV-312 | event | 1 | author-added 2026-09-14; title approved 2026-10-12: Волшебная таблетка; copies unchanged |
 | EV-314 | event | 1 | author-added: holiday, 2026-09-15 |
 | EV-315 | event | 1 | author-added: Кэшбэк, 2026-10-04 |
 | EV-316 | event | 1 | author-added: Коллектор, 2026-10-04 |
@@ -311,19 +315,16 @@ Names and effects live in the language folders. This table owns copy counts for 
 | EV-332 | event | 1 | author-added: Перезагрузка, 2026-10-04 |
 | EV-333 | event | 1 | author-added: Карантин, 2026-10-04 |
 | EV-334 | event | 1 | author-added: Мораторий, 2026-10-04; renamed «Сбой системы», 2026-10-10 |
-| EV-335 | event | 1 | author-added: Подражание, 2026-10-04 |
 | EV-336 | event | 1 | author-added: Вторая попытка, 2026-10-04 |
 | EV-337 | event | 1 | author-added: Перемена, 2026-10-04; renamed «Пересадка», 2026-10-10 |
 | EV-338 | event | 1 | author-added: Больничный, 2026-10-04 |
 | EV-339 | event | 1 | author-added: Конфискация, 2026-10-04 |
-| EV-340 | event | 1 | author-added: Рокировка, 2026-10-04 |
 | EV-342 | event | 1 | author-added: Немой, 2026-10-04 |
 | EV-343 | event | 1 | author-added: Фишинг, 2026-10-06 |
 | EV-344 | event | 1 | author-added: Массовая рассылка, 2026-10-06 |
 | EV-346 | event | 1 | author-added: Пробник, 2026-10-06 |
 | EV-347 | event | 1 | author-added: Предчувствие, 2026-10-06 |
 | EV-348 | event | 1 | author-added: Девальвация удачи, 2026-10-06 |
-| EV-349 | event | 1 | author-added: Тут и там, 2026-10-06; renamed «Совместительство», 2026-10-10 |
 | EV-350 | event | 1 | author-added: Время перемен, 2026-10-06 |
 | EV-351 | event | 1 | author-added: Пауза, 2026-10-06; renamed «Сбой доставки», 2026-10-10 |
 | EV-352 | event | 1 | author-added: Ускоритель, 2026-10-06 |
@@ -338,7 +339,7 @@ Names and effects live in the language folders. This table owns copy counts for 
 | EV-361 | event | 1 | author-added: Помощь с уборкой, 2026-10-06; renamed «Гарантийная замена», 2026-10-10 |
 | EV-362 | event | 1 | author-added: Перерождение, 2026-10-06 |
 | EV-363 | event | 1 | author-added: Стрелочник, 2026-10-06 |
-| EV-364 | event | 1 | author-added: Муки выбора, 2026-10-06 |
+| EV-364 | event | 1 | author-added 2026-10-06; title restored to «Муки выбора», 2026-10-12 |
 | EV-365 | event | 1 | author-added: Прожиточный минимум, 2026-10-06 |
 | EV-366 | event | 1 | author-added: Налог на суету, 2026-10-07 |
 | EV-367 | event | 1 | author-added: Мультипликатор, 2026-10-07 |
@@ -347,7 +348,6 @@ Names and effects live in the language folders. This table owns copy counts for 
 | EV-370 | event | 1 | author-added: Пользовательское соглашение, 2026-10-07 |
 | EV-371 | event | 1 | author-added: Калибровка, 2026-10-07 |
 | EV-372 | event | 1 | author-added: Перестановка, 2026-10-07; renamed «Кадровая перестановка», 2026-10-10 |
-| EV-373 | event | 1 | author-added: Раздвоение личности, 2026-10-07; renamed «Двойной гонорар», 2026-10-10 |
 | EV-374 | event | 1 | author-added: Буржуй, 2026-10-07 |
 | EV-375 | event | 1 | author-added: Субсидия, 2026-10-07 |
 | EV-376 | event | 1 | author-added: Принцип домино, 2026-10-07 |
@@ -357,14 +357,12 @@ Names and effects live in the language folders. This table owns copy counts for 
 | EV-380 | event | 1 | author-added 2026-10-08; renamed «Сотка», 2026-10-10; effect and copy count unchanged |
 | EV-381 | event | 1 | author-added: Делёжка, 2026-10-08 |
 | EV-382 | event | 1 | author-added: Сейф, 2026-10-08 |
-| EV-384 | event | 1 | author-added: Удалёнка, 2026-10-08 |
 | EV-385 | event | 1 | author-added: Однозадачность, 2026-10-08 |
 | EV-386 | event | 1 | author-added: Мониторинг активности, 2026-10-08; renamed «Премия за охват», 2026-10-10 |
 | EV-387 | event | 1 | author-added: Спонсор, 2026-10-08 |
 | EV-388 | event | 1 | author-added: Весомый аргумент, 2026-10-08 |
 | EV-389 | event | 1 | author-added: Реферальная программа, 2026-10-08 |
 | EV-390 | event | 1 | author-added: Двойной добор, 2026-10-08 |
-| EV-391 | event | 1 | author-added: Бесплатный сыр, 2026-10-08 |
 | EV-392 | event | 1 | author-added: Тотальный фриланс, 2026-10-08 |
 | EV-393 | event | 1 | author-added: Свободная память, 2026-10-10; provisional copy pending final selection |
 | EV-394 | event | 1 | author-added: Излишки производства, 2026-10-10; provisional copy pending final selection |
@@ -376,4 +374,9 @@ Names and effects live in the language folders. This table owns copy counts for 
 | EV-400 | event | 1 | author-added: Совет соседа, 2026-10-10; provisional copy pending final selection |
 | EV-401 | event | 1 | author-added: Реанимация, 2026-10-10; provisional copy pending final selection |
 | EV-402 | event | 1 | author-added: Экстренная помощь, 2026-10-10; provisional copy pending final selection |
+| EV-403 | event | 1 | author-added: На чай, 2026-10-11; provisional copy pending final selection |
+| EV-404 | event | 1 | author-added: Чаевые, 2026-10-11; provisional copy pending final selection |
+| EV-405 | event | 1 | author-added: Откат, 2026-10-11; provisional copy pending final selection |
+| EV-406 | event | 1 | author-added: Двойной куш, 2026-10-11; provisional copy pending final selection |
+| EV-407 | event | 1 | author-added: Взаимная выгода, 2026-10-12; one copy |
 | EV-BLANK | blank-event | 1 | explicit blank component |
