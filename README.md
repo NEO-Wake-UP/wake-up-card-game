@@ -1,5 +1,9 @@
 # WAKE UP
 
+**Итог вечера 2026-10-12:** [утверждена последняя пачка событий](design/reviews/2026-10-12-evening-events-approved.ru.md). Утверждена вечерняя пачка: 22 эффекта, EV-319 «Сбой выплат», удаление EV-321/359 и возврат EV-043 «Осечка» / EV-266 «Один на миллион» под прежними ID. EV-334 действует сразу до конца следующего месяца; EV-357 обменивает по два случайных события; EV-402 сначала выдаёт события, затем требует обязательный платёж. Отложенный сброс означает отложенный добор. Автор поручил объединить **все изменения PR #36 с main**, включая EV-204 и замысел AI-агента. Прежние пометки «на обсуждении» и запреты слияния для этой пачки отменены.
+
+Состав: **329 событий с пустой картой, 34 статуса, 300 банкнот, 1 монета — 664 компонента**. Два события до цели автор решит отдельно. Крупная разработка механик завершена по решению автора; следующий этап — его вычитка, согласованная шлифовка, дизайн, печать и бета-тест. Готовность баланса и печатного выпуска этим не утверждается.
+
 **Утверждено позднее 2026-10-12:** [упрощены события, исключены шесть карт, добавлена EV-407 «Взаимная выгода», обновлены Джокер и AI-агент](design/reviews/2026-10-12-events-and-statuses-approved.ru.md). Автор поручил **объединить все накопленные правки PR #35 с основной веткой**. В колоде **329 событий с пустой картой**, на два меньше цели; 664 компонента. Старые ожидания согласования и количества ниже — история.
 
 **Обновление 2026-10-12, рабочая ветка:** [подтверждены названия EV-026 «Налог на события», EV-117 «Обычная таблетка» и EV-312 «Волшебная таблетка»](design/reviews/2026-10-12-renames-and-event-simplification-discussion.ru.md). Эффекты прежние. Новая порция упрощений, удалений и статусов пока обсуждается; в описи **334 события с пустой картой**, три сверх цели. PR #35 остаётся без слияния. Старые отметки о неподтверждённых названиях ниже исторические.
@@ -56,9 +60,9 @@ Earn BABLOS, change your social status and navigate absurd events. Play for fun,
 | English | [English edition](game/en/README.md) | [Print pack status](print-and-play/en/README.md) |
 | Other languages / Другие языки | [Translation guide / Как перевести](templates/translation/README.md) | [Rules background / Фон правил](templates/rules/README.md) · [Blank cards / Пустые карты](templates/cards/README.md) |
 
-**Current edition (2026-10-12):** 299 filled event records; with 30 Coffee copies, 328 filled copies plus one blank = 329 events. Two below the 331-event target: 664 components versus the 666-component target. [Approved changes](design/reviews/2026-10-12-events-and-statuses-approved.ru.md). Final selection, card translations and complete print packs remain unfinished. The A5 rules describe the target set.
+**Current edition (2026-10-12):** 299 filled event records; with 30 Coffee copies, 328 filled copies plus one blank = 329 events. Two below the 331-event target: 664 components versus the 666-component target. [Approved changes](design/reviews/2026-10-12-evening-events-approved.ru.md). Major mechanics development is complete by the author’s decision. Two event slots, wording polish, card translations, artwork, print packs and physical beta testing remain. The A5 rules describe the target set.
 
-**Текущая редакция (2026-10-12):** 299 заполненных записей событий; с 30 копиями «Кофе» это 328 заполненных экземпляров и пустая карта — 329 событий. Предварительно 664 компонента, на два события меньше цели 666. [Утверждённые изменения](design/reviews/2026-10-12-events-and-statuses-approved.ru.md). Финальный отбор, перевод карточек, проверка баланса и полный печатный набор ещё впереди. Правила A5 описывают целевой комплект.
+**Текущая редакция (2026-10-12):** 299 заполненных записей событий; с 30 копиями «Кофе» это 328 заполненных экземпляров и пустая карта — 329 событий. Предварительно 664 компонента, на два события меньше цели 666. [Утверждённые изменения](design/reviews/2026-10-12-evening-events-approved.ru.md). Крупная разработка механик завершена; впереди выбор двух событий, шлифовка текста, перевод карточек, дизайн, печать и физический бета-тест. Правила A5 описывают целевой комплект.
 
 **Продолжение в новом чате:** начните с [START_HERE.ru.md — памятки Димы и Лиса](START_HERE.ru.md). Здесь собраны действующие решения, отменённые варианты, важные сочетания карт и результаты первых модельных партий.
 

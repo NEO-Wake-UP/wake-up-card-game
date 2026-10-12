@@ -1,5 +1,7 @@
 # Deck composition / Состав колод
 
+**Final evening approval, 2026-10-12:** [EV-321/359 retired; the original EV-043/266 restored, one copy each](../design/reviews/2026-10-12-evening-events-approved.ru.md). Same 299 filled records / 329 events including blank / 664 components. The author will choose the remaining two event slots separately. All accumulated PR #36 changes are authorised for merge; earlier discussion holds are superseded.
+
 **Утверждено позднее 2026-10-12:** [исключены EV-126/128/129/152/207/265, добавлена EV-407](../design/reviews/2026-10-12-events-and-statuses-approved.ru.md). Имена ST-026/033 и EV-364 обновлены без изменения количества статусов. **329 событий с пустой картой**, на два меньше цели; 664 компонента. Автор поручил объединить весь PR #35; предыдущие запреты слияния ниже отменены.
 
 **Названия подтверждены, 2026-10-12:** [EV-026/117/312 переименованы без изменения ID и количества](../design/reviews/2026-10-12-renames-and-event-simplification-discussion.ru.md). В составе **334 события с пустой картой**, 669 компонентов; три события сверх цели. Новые шесть предложенных удалений и выплата двоим по 100B ещё не внесены.
@@ -18,13 +20,13 @@
 
 **Updated 2026-10-10 / Обновлено 2026-10-10:** [10 new events and 43 approved renames](../design/reviews/2026-10-10-events-and-renames.ru.md). Existing effects, stable IDs, all statuses and earlier copy counts are preserved. The author requested merging this batch into main.
 
-**Provisional inventory; final selection is pending. / Предварительная опись; окончательный отбор ещё впереди.**
+**Major mechanics development complete; two event slots pending. / Крупная разработка механик завершена; осталось выбрать два события.**
 
-The catalogue contains **299 filled event/final records**. With **30 copies of Coffee**, this is **328 filled copies + 1 blank = 329 events**, **two below the 331-card target**. With 300 BABLOS banknotes, 34 statuses and one coin, the provisional total is **664 components**; the target remains **666**. The latest six retirements and EV-407 are author-approved. Do not add further cards automatically.
+The catalogue contains **299 filled event/final records**. With **30 copies of Coffee**, this is **328 filled copies + 1 blank = 329 events**, **two below the 331-card target**. With 300 BABLOS banknotes, 34 statuses and one coin, the provisional total is **664 components**; the target remains **666**. EV-321/359 are retired and the original EV-043/266 are restored by the latest approval. Do not add the remaining two event slots automatically.
 
-В каталоге **299 заполненных записей событий/финальных карт**. С **30 экземплярами «Кофе»** это **328 заполненных экземпляров + 1 пустая карта = 329 событий**, на **2 меньше целевых 331**. Общая предварительная опись — **664 компонента: 300 банкнот BABLOS + 34 статуса + 329 событий + 1 монета**; цель **666** не меняется. Шесть последних удалений и EV-407 утверждены; автоматически добавлять ещё две карты не нужно. Правила и PDF продолжают описывать целевой комплект.
+В каталоге **299 заполненных записей событий/финальных карт**. С **30 экземплярами «Кофе»** это **328 заполненных экземпляров + 1 пустая карта = 329 событий**, на **2 меньше целевых 331**. Общая предварительная опись — **664 компонента: 300 банкнот BABLOS + 34 статуса + 329 событий + 1 монета**; цель **666** не меняется. Последним решением EV-321/359 исключены, а EV-043/266 возвращены; автоматически добавлять ещё две карты не нужно. Правила и PDF продолжают описывать целевой комплект.
 
-**EV-133 «Алкоголизм» исключена по решению автора 9 октября.** Её текст и прежняя идея рисунка сохранены в [обзоре](../design/reviews/2026-10-09-events-wording-approved.ru.md). The [80 events retired on 2026-10-08](../design/reviews/2026-10-08-event-cull-and-statuses.ru.md) and EV-035, EV-109, EV-111, EV-232, EV-263, EV-275, EV-287, EV-305, EV-306 and EV-313 also remain retired. Never reuse their IDs. EV-306 duplicated the effect retained at EV-278, now titled «Карманная кража». The rejected new proposals named «Перегруппировка» and «Делегирование» do not remove existing EV-033 and EV-025.
+**EV-133 «Алкоголизм» исключена по решению автора 9 октября.** Её текст и прежняя идея рисунка сохранены в [обзоре](../design/reviews/2026-10-09-events-wording-approved.ru.md). The [80 events retired on 2026-10-08](../design/reviews/2026-10-08-event-cull-and-statuses.ru.md) remain retired EXCEPT EV-043 and EV-266, explicitly restored as the same original cards on 2026-10-12. EV-035, EV-109, EV-111, EV-232, EV-263, EV-275, EV-287, EV-305, EV-306 and EV-313 also remain retired. Never assign retired IDs to different cards. EV-306 duplicated the effect retained at EV-278, now titled «Карманная кража». The rejected new proposals named «Перегруппировка» and «Делегирование» do not remove existing EV-033 and EV-025.
 
 Статусов **33 + пустая ST-034**. С 4 октября ST-024 — «Спекулянт»; «Немой» перенесён в события как EV-342. С 5 октября ST-029 — «Фрилансер» вместо «Барахольщика», без зарплаты и со 100B **в начале розыгрыша** каждого своего события. Количество статусов и 30 экземпляров «Кофе» не меняются.
 
@@ -39,7 +41,7 @@ The catalogue contains **299 filled event/final records**. With **30 copies of C
 - `EV-379` … `EV-392`: 14 new events approved on 2026-10-08. Equation was rejected; Big Exchange remains EV-064 with a revised effect.
 - `EV-393` … `EV-402`: 10 new events approved on 2026-10-10. Reused titles do not revive retired IDs.
 - `EV-BLANK`: blank event card named in the original component list.
-- Never recycle IDs. Add new IDs after the largest existing number. Translation and illustration filenames retain the same ID.
+- Never assign retired IDs to different cards. By express approval on 2026-10-12, the SAME original EV-043 and EV-266 are restored under their previous IDs. Add genuinely new cards after the largest existing number. Translation and illustration filenames retain the same ID.
 - `final` identifies WAKE UP. During setup it goes at the bottom of the deck. Under the latest [short-rules decisions](../design/reviews/2026-09-20-short-rules.ru.md), receiving it puts it in hand; the player plays it on their own turn to trigger the ending. Revealing or receiving it does not trigger the ending. EV-172 may discard it; the author's intended winnerless outcome is kept in design notes and deliberately unstated on the card. Other unusual reveal/discard interactions still need clarification.
 
 Names and effects live in the language folders. This table owns copy counts for all translations. / Названия и эффекты находятся в языковых папках. Количества экземпляров для всех переводов задаются здесь.
@@ -111,6 +113,7 @@ Names and effects live in the language folders. This table owns copy counts for 
 | EV-040 | event | 1 | draft: one per source row |
 | EV-041 | event | 1 | draft: one per source row |
 | EV-042 | event | 1 | draft: one per source row |
+| EV-043 | event | 1 | author-restored original card: Осечка, 2026-10-12 |
 | EV-045 | event | 1 | draft: one per source row |
 | EV-048 | event | 1 | draft: one per source row; renamed «Аврал», 2026-10-10 |
 | EV-050 | event | 1 | draft: one per source row |
@@ -259,6 +262,7 @@ Names and effects live in the language folders. This table owns copy counts for 
 | EV-261 | event | 1 | draft: one per source row |
 | EV-262 | event | 1 | draft: one per source row |
 | EV-264 | event | 1 | draft: one per source row |
+| EV-266 | event | 1 | author-restored original card: Один на миллион, 2026-10-12 |
 | EV-267 | event | 1 | draft: one per source row |
 | EV-269 | event | 1 | draft: one per source row |
 | EV-270 | event | 1 | draft: one per source row |
@@ -299,9 +303,8 @@ Names and effects live in the language folders. This table owns copy counts for 
 | EV-316 | event | 1 | author-added: Коллектор, 2026-10-04 |
 | EV-317 | event | 1 | author-added: Договор, 2026-10-04; renamed «Красная цена», 2026-10-10 |
 | EV-318 | event | 1 | author-added: Дежавю, 2026-10-04 |
-| EV-319 | event | 1 | author-added: Сухой закон, 2026-10-04; renamed «Засуха», 2026-10-10 |
+| EV-319 | event | 1 | author-added: Сухой закон, 2026-10-04; renamed «Засуха», 2026-10-10; renamed «Сбой выплат», 2026-10-12 |
 | EV-320 | event | 1 | author-added: Золотой парашют, 2026-10-04 |
-| EV-321 | event | 1 | author-added: Невидимый налог, 2026-10-04 |
 | EV-322 | event | 1 | author-added: Отстранение, 2026-10-04 |
 | EV-323 | event | 1 | author-added: Добрый излучатель, 2026-10-04 |
 | EV-324 | event | 1 | author-added: Кредитная история, 2026-10-04; renamed «Мелкий шрифт», 2026-10-10 |
@@ -334,7 +337,6 @@ Names and effects live in the language folders. This table owns copy counts for 
 | EV-356 | event | 1 | author-added: Назад в будущее, 2026-10-06 |
 | EV-357 | event | 1 | author-added: Случайные связи, 2026-10-06 |
 | EV-358 | event | 1 | author-added: Два в одно, 2026-10-06; renamed «Переплавка», 2026-10-10 |
-| EV-359 | event | 1 | author-added: Проверка связи, 2026-10-06; renamed «Экспертиза», 2026-10-10 |
 | EV-360 | event | 1 | author-added: Кастинг, 2026-10-06 |
 | EV-361 | event | 1 | author-added: Помощь с уборкой, 2026-10-06; renamed «Гарантийная замена», 2026-10-10 |
 | EV-362 | event | 1 | author-added: Перерождение, 2026-10-06 |
