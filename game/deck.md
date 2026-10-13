@@ -1,5 +1,7 @@
 # Deck composition / Состав колод
 
+**Approved 2026-10-13:** EV-408–EV-410 added, one copy each; EV-167 renamed «Работа на износ», quantity unchanged. **332 events including blank / 667 components**, one above target. No automatic cull; save to working branch without merge. [Review](../design/reviews/2026-10-13-events-art-refresh.ru.md).
+
 **Final evening approval, 2026-10-12:** [EV-321/359 retired; the original EV-043/266 restored, one copy each](../design/reviews/2026-10-12-evening-events-approved.ru.md). Same 299 filled records / 329 events including blank / 664 components. The author will choose the remaining two event slots separately. All accumulated PR #36 changes are authorised for merge; earlier discussion holds are superseded.
 
 **Утверждено позднее 2026-10-12:** [исключены EV-126/128/129/152/207/265, добавлена EV-407](../design/reviews/2026-10-12-events-and-statuses-approved.ru.md). Имена ST-026/033 и EV-364 обновлены без изменения количества статусов. **329 событий с пустой картой**, на два меньше цели; 664 компонента. Автор поручил объединить весь PR #35; предыдущие запреты слияния ниже отменены.
@@ -22,9 +24,9 @@
 
 **Major mechanics development complete; two event slots pending. / Крупная разработка механик завершена; осталось выбрать два события.**
 
-The catalogue contains **299 filled event/final records**. With **30 copies of Coffee**, this is **328 filled copies + 1 blank = 329 events**, **two below the 331-card target**. With 300 BABLOS banknotes, 34 statuses and one coin, the provisional total is **664 components**; the target remains **666**. EV-321/359 are retired and the original EV-043/266 are restored by the latest approval. Do not add the remaining two event slots automatically.
+The catalogue contains **302 filled event/final records**. With **30 copies of Coffee**, this is **331 filled copies + 1 blank = 332 events**, **one above the 331-card target**. With 300 BABLOS banknotes, 34 statuses and one coin, the provisional total is **667 components**; target **666** is unchanged. No additional removal is authorised.
 
-В каталоге **299 заполненных записей событий/финальных карт**. С **30 экземплярами «Кофе»** это **328 заполненных экземпляров + 1 пустая карта = 329 событий**, на **2 меньше целевых 331**. Общая предварительная опись — **664 компонента: 300 банкнот BABLOS + 34 статуса + 329 событий + 1 монета**; цель **666** не меняется. Последним решением EV-321/359 исключены, а EV-043/266 возвращены; автоматически добавлять ещё две карты не нужно. Правила и PDF продолжают описывать целевой комплект.
+В каталоге **302 заполненные записи событий/финальных карт**. С **30 экземплярами «Кофе»** это **331 заполненный экземпляр + 1 пустая карта = 332 события**, на **одно больше целевых 331**. Общая опись — **667 компонентов: 300 банкнот BABLOS + 34 статуса + 332 события + 1 монета**; цель **666** не меняется. Лишнюю карту автор выберет отдельно. Правила и PDF продолжают описывать целевой комплект.
 
 **EV-133 «Алкоголизм» исключена по решению автора 9 октября.** Её текст и прежняя идея рисунка сохранены в [обзоре](../design/reviews/2026-10-09-events-wording-approved.ru.md). The [80 events retired on 2026-10-08](../design/reviews/2026-10-08-event-cull-and-statuses.ru.md) remain retired EXCEPT EV-043 and EV-266, explicitly restored as the same original cards on 2026-10-12. EV-035, EV-109, EV-111, EV-232, EV-263, EV-275, EV-287, EV-305, EV-306 and EV-313 also remain retired. Never assign retired IDs to different cards. EV-306 duplicated the effect retained at EV-278, now titled «Карманная кража». The rejected new proposals named «Перегруппировка» and «Делегирование» do not remove existing EV-033 and EV-025.
 
@@ -381,4 +383,8 @@ Names and effects live in the language folders. This table owns copy counts for 
 | EV-405 | event | 1 | author-added: Откат, 2026-10-11; provisional copy pending final selection |
 | EV-406 | event | 1 | author-added: Двойной куш, 2026-10-11; provisional copy pending final selection |
 | EV-407 | event | 1 | author-added: Взаимная выгода, 2026-10-12; one copy |
+| EV-408 | event | 1 | author-approved: Временной лаг, 2026-10-13 |
+| EV-409 | event | 1 | author-approved: Выгорание, 2026-10-13 |
+| EV-410 | event | 1 | author-approved: Испепеление, 2026-10-13 |
 | EV-BLANK | blank-event | 1 | explicit blank component |
+

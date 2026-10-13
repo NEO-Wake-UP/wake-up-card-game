@@ -337,4 +337,8 @@ Status: titles and effects await translation. EV-081 and its formerly approved t
 | EV-405 |  |  | Source approved 2026-10-11: Откат. Take 200B from the Bank and 200B from one chosen player. Preserve chosen player without adding OTHER. Translation pending. |
 | EV-406 |  |  | Source approved 2026-10-11: Двойной куш. Take 300B from the Bank and 300B from one chosen player. Preserve chosen player without adding OTHER. Translation pending. |
 | EV-407 |  |  | Source approved 2026-10-12: Взаимная выгода. You and another player of your choice each receive 100B from Bank; no extra condition. New card, one copy. Translation pending. |
+| EV-408 |  |  | Source approved 2026-10-13: Full turn of previous player in current turn order, then owner again, then normal order. Previous means position in queue, not last non-skipped actor. Month boundary and salary apply normally, including dealer; not merely an out-of-turn event play. Translation pending. |
+| EV-409 |  |  | Source approved 2026-10-13: All players with at least eight hand events discard two, owner-chosen; not a tax. Translation pending. |
+| EV-410 |  |  | Source approved 2026-10-13: All players with at least ten hand events discard excess to leave nine, owner-chosen; not a tax. Translation pending. |
 | EV-BLANK |  |  |  |
+
