@@ -155,7 +155,7 @@ Status: untranslated. Empty title/effect cells are fields to fill, not approved 
 | EV-162 |  |  |  |
 | EV-164 |  |  |  |
 | EV-165 |  |  | RU title renamed 2026-10-10: «Ростовщичество» (formerly «Долг»).  |
-| EV-167 |  |  | Final source approval 2026-10-10: No replacement draw for the two events allowed by Burnout; further plays granted by their effects keep their own draws. With Coffee allowing a third event, draw only for that third event; Double Draw gives two for it. Vampire cannot replace a draw that is not granted. Translation pending. |
+| EV-167 |  |  | Final source approval 2026-10-10: No replacement draw for the two events allowed by EV-167 (RU title renamed «Работа на износ» on 2026-10-13; former title «Выгорание»); further plays granted by their effects keep their own draws. With Coffee allowing a third event, draw only for that third event; Double Draw gives two for it. Vampire cannot replace a draw that is not granted. Translation pending. |
 | EV-168 |  |  | Source approved 2026-10-07: Микроконтроль. Intentional exchange with EV-179: set aside three selected events from hand, gain three new ones, put the selected originals on top in any order. Names and IDs unchanged. Translation pending. |
 | EV-169 |  |  | Source approved 2026-10-12: The poorest player gets a new status. Every player tied at the exact minimum also gets one; do not choose only one tied player. Translation pending. |
 | EV-172 |  |  |  |
@@ -337,4 +337,8 @@ Status: untranslated. Empty title/effect cells are fields to fill, not approved 
 | EV-405 |  |  | Source approved 2026-10-11: Откат. Take 200B from the Bank and 200B from one chosen player. Preserve chosen player without adding OTHER. Translation pending. |
 | EV-406 |  |  | Source approved 2026-10-11: Двойной куш. Take 300B from the Bank and 300B from one chosen player. Preserve chosen player without adding OTHER. Translation pending. |
 | EV-407 |  |  | Source approved 2026-10-12: Взаимная выгода. You and another player of your choice each receive 100B from Bank; no extra condition. New card, one copy. Translation pending. |
+| EV-408 |  |  | Source approved 2026-10-13: Full turn of previous player in current turn order, then owner again, then normal order. Previous means position in queue, not last non-skipped actor. Month boundary and salary apply normally, including dealer; not merely an out-of-turn event play. Translation pending. |
+| EV-409 |  |  | Source approved 2026-10-13: All players with at least eight hand events discard two, owner-chosen; not a tax. Translation pending. |
+| EV-410 |  |  | Source approved 2026-10-13: All players with at least ten hand events discard excess to leave nine, owner-chosen; not a tax. Translation pending. |
 | EV-BLANK |  |  |  |
+
