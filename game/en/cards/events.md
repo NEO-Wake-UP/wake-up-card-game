@@ -155,7 +155,7 @@ Status: titles and effects await translation. EV-081 and its formerly approved t
 | EV-162 |  |  |  |
 | EV-164 |  |  |  |
 | EV-165 |  |  | RU title renamed 2026-10-10: «Ростовщичество» (formerly «Долг»).  |
-| EV-167 |  |  | Final source approval 2026-10-10: No replacement draw for the two events allowed by Burnout; further plays granted by their effects keep their own draws. With Coffee allowing a third event, draw only for that third event; Double Draw gives two for it. Vampire cannot replace a draw that is not granted. Translation pending. |
+| EV-167 |  |  | Final source approval 2026-10-10: No replacement draw for the two events allowed by EV-167 (RU title renamed «Работа на износ» on 2026-10-13; former title «Выгорание»); further plays granted by their effects keep their own draws. With Coffee allowing a third event, draw only for that third event; Double Draw gives two for it. Vampire cannot replace a draw that is not granted. Translation pending. |
 | EV-168 |  |  | Source approved 2026-10-07: Микроконтроль. Intentional exchange with EV-179: set aside three selected events from hand, gain three new ones, put the selected originals on top in any order. Names and IDs unchanged. Translation pending. |
 | EV-169 |  |  | Source approved 2026-10-12: The poorest player gets a new status. Every player tied at the exact minimum also gets one; do not choose only one tied player. Translation pending. |
 | EV-172 |  |  |  |
