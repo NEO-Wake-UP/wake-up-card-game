@@ -18,7 +18,7 @@ Earn BABLOS, change your social status and navigate absurd events. Play for fun,
 | English | [English edition](game/en/README.md) | [Print pack status](print-and-play/en/README.md) |
 | Other languages / Другие языки | [Translation guide / Как перевести](templates/translation/README.md) | [Rules background / Фон правил](templates/rules/README.md) · [Blank cards / Пустые карты](templates/cards/README.md) |
 
-**Current edition:** 332 event cards including the blank; 34 statuses, 300 banknotes and one coin — 667 components. One event above the target. Card artwork, translations, print packs and physical beta testing remain unfinished.
+**Current edition:** 332 event cards including the blank; 34 statuses, 300 banknotes and one coin — 667 components. One event above the target. The full English card translation is drafted. Card artwork, independent English review, further localisations, print packs and physical beta testing remain unfinished.
 
 **Состав на 17 октября 2026:** 302 заполненных вида событий; 30 экземпляров «Кофе» дают 331 заполненную карту + пустую = **332 события**. Статусов **34**, банкнот **300**, монета **1**: всего **667 компонентов**, на одно событие больше цели. Лишнюю карту автор выберет при финальной вычитке.
 
