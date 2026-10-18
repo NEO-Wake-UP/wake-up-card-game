@@ -14,6 +14,7 @@
 
 ## Решения и история
 
+- [Навигация «Статусы», удаление старого PDF и перенос концепта, 19 октября](reviews/2026-10-19-navigation-and-assets.ru.md)
 - [Стиль получения карт](reviews/2026-10-17-card-acquisition-wording.ru.md)
 - [Единый стиль эффектов](reviews/2026-10-17-effect-style.ru.md)
 - [Выделение сброса и очистка сводок](reviews/2026-10-17-documentation-cleanup.ru.md)
