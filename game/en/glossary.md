@@ -14,9 +14,10 @@ Use BABLOS for the currency name and Latin B immediately after amounts: 100B. On
 | pass | пас — добровольный пропуск хода без добора | pass — voluntarily skip your turn without a draw |
 | salary | зарплата | salary |
 | event-card | Событие | Event (event card) |
-| status-card | Карта статуса | Status card |
+| status-card | Статус | Status (status card) |
 | discard | Сброс | Discard pile |
 | draw | добор — новое событие из колоды за розыгрыш события | draw — a replacement event from the deck for playing an event |
+| gain-event | получить новое событие по эффекту | gain a new event through an effect; distinct from a draw |
 | standard-victory | Основная победа | Standard victory |
 | legendary-victory | Легендарная победа | Legendary victory |
 | coin-up | UP | UP |

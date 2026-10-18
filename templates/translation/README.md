@@ -1,5 +1,7 @@
 # Translate WAKE UP / Перевести WAKE UP
 
+**Current status, 2026-10-19:** the [English edition](../../game/en/README.md) now has a full draft translation aligned with the current Russian cards. This folder remains a blank template for other languages. The dated source notes below retain their historical context; current Russian effects take precedence.
+
 **Latest source approval, evening 2026-10-12:** [final approved event batch](../../design/reviews/2026-10-12-evening-events-approved.ru.md). EV-321/359 are retired; the original EV-043/266 return under the same IDs. Use current Russian text, including delayed-discard/draw annotations; EV-334 starts immediately, EV-357 exchanges two random events each, EV-402 gains before mandatory payment. Translation worksheets are synchronized but not translated.
 
 **Latest source approval, 2026-10-08:** [80 events retired; Speculator and King updated](../../design/reviews/2026-10-08-event-cull-and-statuses.ru.md). Use the remaining IDs without renumbering. ST-024 sells for 100B; ST-020 collects a tax, with tax exemptions applying. Both worksheets match the active source; older dated notes are historical.
@@ -18,9 +20,9 @@
 
 **Source update, 2026-09-29:** [latest approved decisions](../../design/reviews/2026-09-29-statuses-final-and-draw.ru.md) supersede older source notes. Recheck status timing, ST-009’s two forms, ST-017’s 200B UP payout, ST-024’s reading-only exception, ST-026’s return to the deck, and Agony’s original-hand scope with effect-based gains allowed. Do not use ordinary draw as a separate type of draw.
 
-The template contains every current card ID with empty translation fields. The Russian text is the current source. English cards are also awaiting translation. This worksheet is not a finished printable edition.
+The template contains every current card ID with empty translation fields. The Russian text is the current source. The English draft is available for comparison and awaits independent language review. This worksheet is not a finished printable edition.
 
-Шаблон содержит все текущие ID и пустые поля перевода. Источник — русский каталог; английские карты ещё не переведены. Это заготовка для локализации, а не готовое печатное издание.
+Шаблон содержит все текущие ID и пустые поля перевода. Источник — русский каталог; полный английский черновик уже подготовлен, независимая языковая вычитка впереди. Это заготовка для локализации, а не готовое печатное издание.
 
 ## Steps / Шаги
 

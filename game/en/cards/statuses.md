@@ -1,60 +1,44 @@
-# English card translation worksheet: statuses
+# Statuses — English text
 
-**Source approval, 2026-10-12:** [ST-026 Джокер and ST-033 AI-агент](../../../design/reviews/2026-10-12-events-and-statuses-approved.ru.md). Joker chooses any new status from the deck within one minute on acquisition; no timeout penalty or compulsory fallback. AI-agent keeps the former copying effect. Other statuses and all 34 copies remain unchanged. Translation title/effect fields remain empty.
+English translation draft of the [current Russian statuses](../../ru/cards/statuses.md), aligned with source commit 3b1725e7fc2dc128359c2f882adffbd2c9595aea. Independent English-language review remains pending.
 
-**Latest source approval, 2026-10-10, after PR #33:** [ST-009/011/013 updated](../../../design/reviews/2026-10-10-statuses-monthly-and-sotka.ru.md). Transformer chooses only at month start, Traveller has three seat swaps per continuous ownership, Thief acts every two months for 300B without salary. Names, IDs and untranslated title/effect cells are preserved. Current source and row notes supersede older summaries.
+33 translated statuses plus the custom blank status. Card IDs and copy counts follow the [shared inventory](../../deck.md). Monetary amounts with B and all existing delayed-discard annotations are **bold**, as in the Russian source. Translation notes are editorial guidance, separate from the printed effect.
 
-**Latest source approval, 2026-10-08:** [Speculator and King](../../../design/reviews/2026-10-08-event-cull-and-statuses.ru.md). ST-024 price is now 100B. The ST-020 charge is explicitly a tax, so tax immunity applies. Other conditions and translation fields are unchanged; older dated notes are historical.
-
-**Source approved 2026-10-08:** ST-028 now explicitly replaces each individual event during a replacement draw with 200B from a chosen player. See [the approved source decision](../../../design/reviews/2026-10-08-event-refresh.ru.md); translation fields remain pending.
-
-**Source approved 2026-10-07:** ST-004/008/020 tax protection also covers the non-monetary EV-366. Homeless allowance remains available after salary restoration by EV-312; Donor reward is now 200B. Current row notes override earlier summaries. Translation fields remain pending.
-
-**Final source approval 2026-10-05:** Freelancer now explicitly receives 100B when BEGINNING to play an event, before resolving its effect. The earlier proposed timing phrase is approved. All status names are retained. Translation fields remain worksheets.
-
-**Further source approval 2026-10-05:** ST-005/015/025/031 wording approved; ST-027 returns the unchosen event to the TOP of the event deck. All current status names are retained. Freelancer eligibility is determined when the event starts: losing that status through the event keeps its 100B reward; acquiring it through the event does not grant that event's reward. The short Russian Freelancer wording is unchanged pending discussion of a possible timing phrase. Translation pending.
-
-**Latest source approval 2026-10-05:** ST-029 is now Фрилансер: no salary, 100B from the Bank for each event played by the owner. The previous discard-retrieval ability is retired. The author's approved amount is 100B, not the earlier 200B proposal. Translation pending.
-
-**Source approved 2026-10-04:** ST-024 is Спекулянт, replacing the former Mute status and its salary bonus. Mute is now event EV-342 and has NO aloud-reading exception. Earlier ST-024 notes are historical.
-
-**Source revision 2026-09-29:** consult the current Russian catalogue and translation notes for the approved status changes, the distinction between replacement draws and effect-based event gains, and Agony’s original-hand rule. Titles and effects in this worksheet still await translation.
-
-Status: untranslated. Author update 2026-09-27: ST-005 is now Minimalist, ST-030 is Insurance Agent, and the custom blank status is ST-034. These English names identify the Russian source, not an approved translation. Empty title/effect cells are fields to fill, not approved blank effects. Preserve IDs. Look up source text by ID in the [Russian statuses](../../ru/cards/statuses.md). For ST-034 and EV-BLANK, translate only a label if needed; leave their custom effect empty.
+Prior untranslated worksheets and historical notes remain available in [Git history](https://github.com/NEO-Wake-UP/wake-up-card-game/blob/3b1725e7fc2dc128359c2f882adffbd2c9595aea/game/en/cards/statuses.md). Current Russian effects override superseded notes.
 
 | ID | Title | Effect | Translation notes |
 | --- | --- | --- | --- |
-| ST-001 |  |  |  |
-| ST-002 |  |  | Source approved 2026-09-29: Always receives double salary; this is a continuing property, not a one-time payout. Translation pending. |
-| ST-003 |  |  | Source approved 2026-09-29: At the beginning of the month may take 100B from any player. If acquired mid-month, wait for the next month start. Translation pending. |
-| ST-004 |  |  | Source approved 2026-10-07: Собака. No salary. Taxes do not affect this player, including the event discard of EV-366. Bark once per month: another player laughs, receive 100B from the Bank. Translation pending. |
-| ST-005 |  |  | Source approved 2026-10-05: May decline replacement draws for played events, not event gains through effects. Check the hand AT month end: at most three events gives 100B extra salary. Translation pending. |
-| ST-006 |  |  | Source approved 2026-09-29: At month start hide the coin in one hand; another player guesses. Correct: guesser takes 100B from Bank; incorrect: owner takes it. Mid-month acquisition waits for next month start. Translation pending. |
-| ST-007 |  |  | Source approved 2026-09-29: Source name is now «Адвокат», replacing «Юрист». May discard three events from own hand to cancel an event effect personally directed against the owner. No monthly cap; cannot cancel multi-target/global effects (including Bandit), even partially. Translation pending. |
-| ST-008 |  |  | Source approved 2026-10-07: Бездомный. Taxes do not affect this player, including EV-366. No salary. At the end of every second month receive a 100B Bank allowance. The allowance is independent, so after EV-312 the owner receives both salary and allowance. Translation pending. |
-| ST-009 |  |  | Source approved 2026-10-10: Choose ONE effect ONLY at the beginning of each month, for that month: gain a new event per own skipped turn, OR receive 100B extra salary. Receiving this status mid-month does NOT allow an immediate choice; wait until the next month begins. The same form may be chosen again. This supersedes the old once-on-acquisition choice. Translation pending. |
-| ST-010 |  |  | Source approved 2026-09-29: Source title «Трудоголик», replacing «Рабочий». At the beginning of own turn may pay Bank 100B to play two events instead of one. Translation pending. |
-| ST-011 |  |  | Source approved 2026-10-10: After own turn, may swap seats with a chosen player, at most THREE times during this period of holding the status. A newly received instance gives a new allowance of three; the former once-every-three-months limit is removed. Translation pending. |
-| ST-012 |  |  | Source approved 2026-09-29: Receive 100B from Bank for every OWN skipped turn, voluntary or forced. Translation pending. |
-| ST-013 |  |  | Source approved 2026-10-10: No salary. Once every TWO months, discard a random event from another player's hand and take 300B from the Bank. The owner does not keep the discarded event. This replaces every three months/400B; the author prefers the easier alternating-month count. Translation pending. |
-| ST-014 |  |  |  |
-| ST-015 |  |  | Source approved 2026-10-05: Once every two months take 100B from one neighbour. The former loan/no-repayment joke is replaced by direct taking; no consent requirement was added. Translation pending. |
-| ST-016 |  |  |  |
-| ST-017 |  |  | Source approved 2026-09-29: UP payout deliberately reduced to 200B from Bank; W payment remains 100B to Bank. Salary remains available. Translation pending. |
-| ST-018 |  |  | Source approved 2026-09-29: At month end, instead of salary, receive 100B from Bank for each pair of events in own hand. Translation pending. |
-| ST-019 |  |  | Source approved 2026-09-29: Monthly theory about the game resembling life remains mandatory, not an optional suggestion. Translation pending. |
-| ST-020 |  |  | Source approved 2026-10-08: Король. Taxes do not affect you. Take a 100B TAX from a player addressing you without the royal title; tax immunity (including Dog and Homeless) prevents it. The King receives the tax, not the Bank. No monthly cap. Translation pending. |
-| ST-021 |  |  |  |
-| ST-022 |  |  | Source approved 2026-09-29: Receive a new event instead of salary. Translation pending. |
-| ST-023 |  |  | Source approved 2026-10-05: At the beginning of the month, exchange an event from your own hand for a random event from another player's hand. This replaces the previous once-per-month timing; a status gained mid-month waits for the next month start. Translation pending. |
-| ST-024 |  |  | Source approved 2026-10-08: at month start offer players the unseen top event for 100B paid to you (previously 200B). One offer and at most one sale; purchase is voluntary and you choose among willing buyers. Translation pending. |
-| ST-025 |  |  | Source approved 2026-10-05: At month start give another player 100B TO receive 200B from Bank; the first transfer is the condition for the reward. Mid-month acquisition waits for the relevant month-start timing. Translation pending. |
-| ST-026 |  |  | Source approved 2026-10-12: Джокер replaces Хозяин судьбы. Upon receiving this status, choose ANY new status from the status deck within one minute. No mandatory fallback or penalty after timeout; the author expressly rejected that addition. Normal status replacement applies; the former top-three selection and deck-position exchange are removed. Translation pending. |
-| ST-027 |  |  | Source approved 2026-10-05: When receiving a new event, choose one of the top two. Return the other to the TOP of the event deck, not an arbitrary position. Translation pending. |
-| ST-028 |  |  | Source approved 2026-10-08: Вампир. May take 200B from any player instead of EACH event due as a replacement draw. For a two-event draw may keep both, replace one with 200B or both with 400B. Effect-based event gains are not draws. No monthly cap. Translation pending. |
-| ST-029 |  |  | Final source approved 2026-10-05: Фрилансер replaces Барахольщик. No salary; receive 100B from the Bank when BEGINNING to play an event, before resolving its effect. A status-changing event rewards its initial Freelancer; becoming Freelancer through that event does not reward it. Income is independent of replacement draws. No monthly cap; the earlier 200B proposal is not approved. Translation pending. |
-| ST-030 |  |  | Source approved 2026-09-29: After the owner’s own bankruptcy, take 1100B from Bank. No new frequency limit. Translation pending. |
-| ST-031 |  |  | Source approved 2026-10-05: At MONTH start may inspect the top three events and return them to the TOP of the event deck in any order. Not at the beginning of own turn. Translation pending. |
-| ST-032 |  |  | Source approved 2026-10-07: Донор. At the beginning of the month, may receive 200B (not 300B) from the Bank for discarding one event from own hand. No timing change. Translation pending. |
-| ST-033 |  |  | Title approved 2026-10-12: AI-агент (Latin AI), formerly Джокер. Effect unchanged: at month start copy one neighbour status effect; copying is not receiving a status. Translation pending. |
-| ST-034 |  |  |  |
+| ST-001 | Heir | Upon receiving this status, receive **700B** from the Bank. | Receiving the status is the trigger; copying it does not trigger this payment. |
+| ST-002 | Official's Son | You always receive double salary. |  |
+| ST-003 | Supermodel | At the start of the month, you may take **100B** from any player. |  |
+| ST-004 | Dog | You receive no salary. Taxes do not affect you. Bark once per month: if another player laughs, receive **100B** from the Bank. | Tax immunity includes non-monetary taxes. |
+| ST-005 | Minimalist | You may decline draws. If you have no more than three events in hand at the end of the month, receive **100B** extra salary. | Effect-based gains are not draws. |
+| ST-006 | Gambler | At the start of the month, hide the coin in one hand. Another player guesses the hand: correct — they receive **100B** from the Bank; incorrect — you do. |  |
+| ST-007 | Lawyer | You may discard three events from your hand to cancel an event effect directed personally against you. | Does not cancel global or multi-target effects such as Bandit, even partially. |
+| ST-008 | Homeless | You receive no salary. Taxes do not affect you. At the end of every second month, receive a **100B** allowance from the Bank. | The allowance is independent of salary; restoring salary does not remove it. |
+| ST-009 | Transformer | At the start of each month, choose one effect for that month: 1) Gain a new event for each of your skipped turns. 2) Receive **100B** extra salary. | A status received mid-month waits until the next month starts; the choice is not made on acquisition. |
+| ST-010 | Workaholic | At the start of your turn, you may pay the Bank **100B** to play two events instead of one. |  |
+| ST-011 | Traveller | After your turn, you may swap seats at the table with a chosen player — up to three times before your status changes. | Three swaps per continuous period of ownership; reacquiring the status gives a new allowance. |
+| ST-012 | Slacker | Receive **100B** from the Bank for each of your skipped turns. | Includes both voluntary and forced skips. |
+| ST-013 | Thief | You receive no salary. Once every two months, discard a random event from another player's hand and receive **300B** from the Bank. | The discarded event is not kept by the Thief; the victim receives no draw for this discard. |
+| ST-014 | Barista | Whenever any player plays “Coffee”, receive **100B** from the Bank. |  |
+| ST-015 | Neighbour | Once every two months, take **100B** from one of your neighbours. |  |
+| ST-016 | Game Developer | You receive no salary. Receive **100B** from the Bank for each use of the coin in the game, up to **400B** per month. | “Use” is not narrowed to coin flips only. |
+| ST-017 | Startup Founder | Once per month, flip the coin: UP — receive **200B** from the Bank; W — give **100B** to the Bank. |  |
+| ST-018 | Collector | At the end of the month, instead of salary, receive **100B** from the Bank for every three events in your hand. | Count complete groups of THREE, not the superseded pairs. |
+| ST-019 | Town Crank | Each month, put forward a new theory about how the game resembles life. |  |
+| ST-020 | King | Taxes do not affect you. If a player addresses you without “Your Majesty”, take **100B** in tax from them. | Paid to the King, not the Bank; tax immunity applies. No monthly cap is added. |
+| ST-021 | Hacker | After your turn, you may reverse the direction of play. |  |
+| ST-022 | Shopaholic | Receive a new event instead of salary. |  |
+| ST-023 | Manipulator | At the start of the month, exchange an event from your hand for a random event from another player's hand. | The owner's event is chosen; the other player's event is random. |
+| ST-024 | Speculator | At the start of the month, offer players the top event of the deck for **100B**, without showing it. | A sale pays the owner. One offer and at most one sale; the owner chooses among willing buyers. |
+| ST-025 | Benefactor | At the start of the month, give another player **100B** to receive **200B** from the Bank. | The first transfer is the condition for the reward; the full-payment rule applies. |
+| ST-026 | Joker | Upon receiving this status, choose any new status from the deck for yourself within one minute. | No new timeout penalty or compulsory fallback is added. |
+| ST-027 | Oracle | When receiving a new event, choose one of the top two. Return the other to the top of the deck. | Applies to new-event gains as well as replacement draws, not discard-pile retrieval. |
+| ST-028 | Vampire | You may decline to receive an event as part of a draw. For each such refusal, take **200B** from any player. | Refusal is optional per individual replacement event; effect-based gains are not replaced. Double Draw allows declining one or both. |
+| ST-029 | Freelancer | You receive no salary. As you begin playing an event, receive **100B** from the Bank. | Paid before its effect. Losing this status through that event keeps the reward; gaining it through the event does not grant that reward. |
+| ST-030 | Insurance Agent | After your own bankruptcy, receive **1100B** from the Bank. | No new frequency limit or permanent bankrupt role is added. |
+| ST-031 | Insider | At the start of the month, you may look at the top three events and return them to the top of the deck in any order. |  |
+| ST-032 | Donor | At the start of the month, you may receive **200B** from the Bank in exchange for discarding one event from your hand. |  |
+| ST-033 | AI Agent | At the start of the month, copy the effect of one neighbour's status. (Copying does not count as receiving a status.) | Copies the full effect, including restrictions; the character refers to Agent Smith. |
+| ST-034 | Blank status for players to customise |  |  |

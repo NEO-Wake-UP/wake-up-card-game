@@ -1,7 +1,7 @@
 # Game / Игра
 
 - [Русская версия](ru/README.md): тексты карт и утверждённые автором правила.
-- [English edition](en/README.md): the current rules translation, pending independent language review, and untranslated card worksheets.
+- [English edition](en/README.md): rules and a full draft translation of the current events and statuses, pending independent English-language review.
 - [Deck / Состав колод](deck.md): постоянные ID и количества экземпляров, общие для всех языков.
 - [Components / Комплект](components.md): размеры и перечень физических компонентов.
 
