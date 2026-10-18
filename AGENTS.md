@@ -4,7 +4,7 @@ Read START_HERE.ru.md first, then current game/ru/rules.md, game/ru/cards/*.md a
 
 ## Current task and permissions
 
-Latest author instruction (2026-10-19, English audit): check English rules/events/statuses against the current Russian source, correct translation as needed and mirror bold amounts with B and existing delayed-discard annotations. Merge was conditional on NO English corrections being needed. English cards were untranslated and contained stale notes, so a full translation is prepared in existing PR #41 / amounts-bold-2026-10-19; DO NOT MERGE without a new author instruction. Retain all earlier Russian amount formatting. Rules RU/EN already correspond and remain unchanged; the author handles the rules PNG himself. PR #40 is already merged into main at 2ce80d936aee9fb8657114f58e949fd280ef6f74; its permission is completed. User will choose the one excess event at final proofreading. Details: design/reviews/2026-10-19-english-catalogue.ru.md.
+Latest author instruction: merge all of PR #41 / amounts-bold-2026-10-19 into main and finish for today. This explicitly supersedes the earlier conditional merge hold for this PR. The batch includes bold Russian amounts and the complete English card translation with matching bold amounts and delayed-discard annotations. Verify the actual GitHub merge before reporting completion; this permission does not extend to future batches. Rules RU/EN already correspond and remain unchanged; the author handles the rules PNG himself. PR #40 is already merged into main at 2ce80d936aee9fb8657114f58e949fd280ef6f74. User will choose the one excess event at final proofreading. Details: design/reviews/2026-10-19-english-catalogue.ru.md.
 
 ## Authoring rules
 
