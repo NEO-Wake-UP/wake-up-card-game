@@ -1,52 +1,16 @@
 # Deck composition / Состав колод
 
-**Approved 2026-10-13:** EV-408–EV-410 added, one copy each; EV-167 renamed «Работа на износ», quantity unchanged. **332 events including blank / 667 components**, one above target. No automatic cull; save to working branch without merge. [Review](../design/reviews/2026-10-13-events-art-refresh.ru.md).
+**Состав на 17 октября 2026:** 302 заполненных вида событий; 30 экземпляров «Кофе» дают 331 заполненную карту + пустую = **332 события**. Статусов **34**, банкнот **300**, монета **1**: всего **667 компонентов**, на одно событие больше цели. Лишнюю карту автор выберет при финальной вычитке.
 
-**Final evening approval, 2026-10-12:** [EV-321/359 retired; the original EV-043/266 restored, one copy each](../design/reviews/2026-10-12-evening-events-approved.ru.md). Same 299 filled records / 329 events including blank / 664 components. The author will choose the remaining two event slots separately. All accumulated PR #36 changes are authorised for merge; earlier discussion holds are superseded.
+Правила описывают целевой комплект: 331 событие и 666 компонентов. Не удалять карты автоматически. Текущие названия и эффекты находятся в game/ru/cards; эта таблица задаёт ID и количества для всех языков.
 
-**Утверждено позднее 2026-10-12:** [исключены EV-126/128/129/152/207/265, добавлена EV-407](../design/reviews/2026-10-12-events-and-statuses-approved.ru.md). Имена ST-026/033 и EV-364 обновлены без изменения количества статусов. **329 событий с пустой картой**, на два меньше цели; 664 компонента. Автор поручил объединить весь PR #35; предыдущие запреты слияния ниже отменены.
+## Постоянные номера
 
-**Названия подтверждены, 2026-10-12:** [EV-026/117/312 переименованы без изменения ID и количества](../design/reviews/2026-10-12-renames-and-event-simplification-discussion.ru.md). В составе **334 события с пустой картой**, 669 компонентов; три события сверх цели. Новые шесть предложенных удалений и выплата двоим по 100B ещё не внесены.
-
-**Later clarification, 2026-10-11 / Отложенный добор:** [12 эффектов уточнены, EV-364 переименована в «ИИ-ассистент»](../design/reviews/2026-10-11-delayed-draw-and-ai-assistant.ru.md). ID и все количества сохранены: 334 события, три сверх цели. «Ипотека» теперь даёт шесть событий по эффекту без добора; это не изменение количества её экземпляров. Порция в рабочей ветке, слияние не поручено.
-
-**Later update, 2026-10-11 / Четыре добавления:** [EV-403–EV-406 approved](../design/reviews/2026-10-11-four-cash-events-and-wording-discussion.ru.md), по одному экземпляру каждой. Прежние шесть удалений сохранены, остальные количества не меняются. Теперь 334 события с пустой картой, три сверх цели. Обсуждаемые правки старых карт не внесены; нового поручения на слияние нет.
-
-**Updated 2026-10-11 / Упрощение колоды:** [EV-335/340/349/373/384/391 retired by the author](../design/reviews/2026-10-11-event-simplification-and-cash-audit.ru.md). Удалено ровно шесть экземпляров; остальные карты и количества прежние. Текущая опись — 330 событий с пустой картой, одно ниже цели. Эта порция сохраняется в рабочей ветке; новое слияние не поручено. Более ранние датированные количества и разрешения слияния ниже исторические.
-
-**Final approval, 2026-10-10 / Итог проверки:** [EV-341 «Наследство» retired; EV-129/167/343 approved](../design/reviews/2026-10-10-event-logic-final.ru.md). Together with the previous four removals, five events are retired in PR #34. / В этой порции дополнительно удалена только EV-341; EV-025 сохранена. Автор поручил объединить все накопленные изменения с main. Устаревшие отметки о запрете слияния ниже отменены; действуют текущая опись и последний обзор.
-
-**Latest update, 2026-10-10 / Проверка логики:** [EV-139/235/345/383 retired; 19 effects revised](../design/reviews/2026-10-10-event-logic-approved-part.ru.md). Удалены только эти четыре события, по одному экземпляру каждого. Остальные количества прежние; ID не перенумерованы. Текущая опись ниже заменяет количества из более ранних датированных объявлений. Слияние этой порции пока не поручено.
-
-**Later update, 2026-10-10 / Позднее уточнение:** [ST-009/011/013 and EV-380 «Сотка»](../design/reviews/2026-10-10-statuses-monthly-and-sotka.ru.md). IDs and all copy counts remain unchanged: 34 statuses and 341 event copies including the blank, 10 above the target. / Все ID и количества прежние; эта порция не добавляет и не удаляет карт.
-
-**Updated 2026-10-10 / Обновлено 2026-10-10:** [10 new events and 43 approved renames](../design/reviews/2026-10-10-events-and-renames.ru.md). Existing effects, stable IDs, all statuses and earlier copy counts are preserved. The author requested merging this batch into main.
-
-**Major mechanics development complete; two event slots pending. / Крупная разработка механик завершена; осталось выбрать два события.**
-
-The catalogue contains **302 filled event/final records**. With **30 copies of Coffee**, this is **331 filled copies + 1 blank = 332 events**, **one above the 331-card target**. With 300 BABLOS banknotes, 34 statuses and one coin, the provisional total is **667 components**; target **666** is unchanged. No additional removal is authorised.
-
-В каталоге **302 заполненные записи событий/финальных карт**. С **30 экземплярами «Кофе»** это **331 заполненный экземпляр + 1 пустая карта = 332 события**, на **одно больше целевых 331**. Общая опись — **667 компонентов: 300 банкнот BABLOS + 34 статуса + 332 события + 1 монета**; цель **666** не меняется. Лишнюю карту автор выберет отдельно. Правила и PDF продолжают описывать целевой комплект.
-
-**EV-133 «Алкоголизм» исключена по решению автора 9 октября.** Её текст и прежняя идея рисунка сохранены в [обзоре](../design/reviews/2026-10-09-events-wording-approved.ru.md). The [80 events retired on 2026-10-08](../design/reviews/2026-10-08-event-cull-and-statuses.ru.md) remain retired EXCEPT EV-043 and EV-266, explicitly restored as the same original cards on 2026-10-12. EV-035, EV-109, EV-111, EV-232, EV-263, EV-275, EV-287, EV-305, EV-306 and EV-313 also remain retired. Never assign retired IDs to different cards. EV-306 duplicated the effect retained at EV-278, now titled «Карманная кража». The rejected new proposals named «Перегруппировка» and «Делегирование» do not remove existing EV-033 and EV-025.
-
-Статусов **33 + пустая ST-034**. С 4 октября ST-024 — «Спекулянт»; «Немой» перенесён в события как EV-342. С 5 октября ST-029 — «Фрилансер» вместо «Барахольщика», без зарплаты и со 100B **в начале розыгрыша** каждого своего события. Количество статусов и 30 экземпляров «Кофе» не меняются.
-
-## ID convention / Постоянные номера
-
-- `ST-001` … `ST-033`: original positions. By explicit author instruction on 2026-09-27, ST-005 is now Minimalist, ST-030 is Insurance Agent, and the blank status has moved to the new ST-034. This documented reassignment supersedes the former blank-ID mapping; other IDs are unchanged.
-- `EV-001` … `EV-311`: original event row order, not alphabetical order.
-- `EV-312` and `EV-314`: active events added during review. `EV-313` was removed as a duplicate; do not reuse this ID. Numbering does not set physical deck order; WAKE UP remains last during setup.
-- `EV-315` … `EV-342`: 28 new events approved on 2026-10-04, including Mute at EV-342.
-- `EV-343` … `EV-365`: 23 new events approved on 2026-10-06. Rejected proposals receive no IDs.
-- `EV-366` … `EV-378`: 13 new events approved on 2026-10-07. The revised Burnout retains EV-167; Coin Decider retains EV-307 unchanged.
-- `EV-379` … `EV-392`: 14 new events approved on 2026-10-08. Equation was rejected; Big Exchange remains EV-064 with a revised effect.
-- `EV-393` … `EV-402`: 10 new events approved on 2026-10-10. Reused titles do not revive retired IDs.
-- `EV-BLANK`: blank event card named in the original component list.
-- Never assign retired IDs to different cards. By express approval on 2026-10-12, the SAME original EV-043 and EV-266 are restored under their previous IDs. Add genuinely new cards after the largest existing number. Translation and illustration filenames retain the same ID.
-- `final` identifies WAKE UP. During setup it goes at the bottom of the deck. Under the latest [short-rules decisions](../design/reviews/2026-09-20-short-rules.ru.md), receiving it puts it in hand; the player plays it on their own turn to trigger the ending. Revealing or receiving it does not trigger the ending. EV-172 may discard it; the author's intended winnerless outcome is kept in design notes and deliberately unstated on the card. Other unusual reveal/discard interactions still need clarification.
-
-Names and effects live in the language folders. This table owns copy counts for all translations. / Названия и эффекты находятся в языковых папках. Количества экземпляров для всех переводов задаются здесь.
+- ID сохраняются при переименовании и удалении; не перенумеровывать и не назначать удалённый ID новой карте.
+- EV-043 и EV-266 возвращены автором как те же исходные карты, а не новые события.
+- ST-034 — пустой статус; EV-BLANK — пустое событие. EV-311 — финальное WAKE UP, при подготовке внизу колоды.
+- EV-143 «Кофе» — 30 копий. Остальные действующие события и статусы — по одной.
+- Поле Basis сохраняет историческое происхождение строки, а не актуальную формулировку эффекта. [История состава](../design/reviews/2026-10-17-documentation-cleanup.ru.md).
 
 | ID | Type | Copies | Basis |
 | --- | --- | --- | --- |

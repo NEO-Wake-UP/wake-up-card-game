@@ -8,7 +8,7 @@ All 13 original visual files (11 raster images and 2 vector sources) have been p
 | --- | --- |
 | [coin](coin) | Original CDR/EPS, image references and manufacturing brief / CDR/EPS, изображения и ТЗ монеты |
 | [prototypes/cards](prototypes/cards) | Three sample card fronts and two backs / Три примера лицевых сторон и две рубашки |
-| [prototypes/currency](prototypes/currency/README.md) | Earlier concept and current prefinal 100 BABLOS note / Прежний эскиз и предфинальная банкнота |
+| [prototypes/currency](prototypes/currency/README.md) | Earlier and prefinal 100 BABLOS notes; WAKE UP 2 joke concept / Прежняя и предфинальная банкноты, шуточный концепт WAKE UP 2 |
 | [prototypes/box](prototypes/box) | Cover, mockup and layout concept / Обложка, визуализация и концепт развёртки |
 | [inbox](inbox/README.md) | New uploads awaiting sorting / Новые загрузки до переименования и распределения |
 

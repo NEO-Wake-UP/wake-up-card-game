@@ -2,7 +2,7 @@
 
 **2026-10-05:** author-supplied illustrated rules are available as [Russian PNG](ru/WAKE_UP_rules_RU.png) and [English PNG](en/WAKE_UP_rules_EN.png). / Добавлены оформленные автором правила на русском и английском. [Пустой фон для других языков / Blank rules background](../templates/rules/README.md).
 
-**2026-10-01:** the Russian one-page A5 rules PDF has been rebuilt and matches the current Russian rules; body text is 10 pt. / Одностраничный PDF A5 пересобран и соответствует актуальному русскому тексту; основной шрифт 10 пт.
+**2026-10-19:** the old Russian A5 PDF has been removed at the author's request. The Russian Markdown now uses «Затем получите»; the author will update that word in the Russian PNG separately. / Старый русский PDF A5 удалён по поручению автора. В Markdown теперь «Затем получите»; это слово в русском PNG автор исправит самостоятельно.
 
 **No complete print-ready pack is available yet. / Полного готового набора пока нет.**
 
