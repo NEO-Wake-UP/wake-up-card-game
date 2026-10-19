@@ -1,0 +1,2185 @@
+{
+  "schema": "physical-event-numbers-v1",
+  "legacy_source_commit": "ae5afb42e89d9c16a2f776c86db843dbbcb55433",
+  "physical_event_count": 331,
+  "distinct_nonblank_event_types": 301,
+  "coffee_numbers": [
+    "EV-001",
+    "EV-002",
+    "EV-003",
+    "EV-004",
+    "EV-005",
+    "EV-006",
+    "EV-007",
+    "EV-008",
+    "EV-009",
+    "EV-010",
+    "EV-011",
+    "EV-012",
+    "EV-013",
+    "EV-014",
+    "EV-015",
+    "EV-016",
+    "EV-017",
+    "EV-018",
+    "EV-019",
+    "EV-020",
+    "EV-021",
+    "EV-022",
+    "EV-023",
+    "EV-024",
+    "EV-025",
+    "EV-026",
+    "EV-027",
+    "EV-028",
+    "EV-029",
+    "EV-030"
+  ],
+  "final_number": "EV-330",
+  "blank_number": "EV-331",
+  "entries": [
+    {
+      "legacy_id": "EV-001",
+      "numbers": [
+        "EV-031"
+      ],
+      "title_ru": "Кома"
+    },
+    {
+      "legacy_id": "EV-003",
+      "numbers": [
+        "EV-032"
+      ],
+      "title_ru": "Зеркало"
+    },
+    {
+      "legacy_id": "EV-004",
+      "numbers": [
+        "EV-033"
+      ],
+      "title_ru": "Игнор"
+    },
+    {
+      "legacy_id": "EV-005",
+      "numbers": [
+        "EV-034"
+      ],
+      "title_ru": "Прогул"
+    },
+    {
+      "legacy_id": "EV-008",
+      "numbers": [
+        "EV-035"
+      ],
+      "title_ru": "Ограбление банка"
+    },
+    {
+      "legacy_id": "EV-009",
+      "numbers": [
+        "EV-036"
+      ],
+      "title_ru": "Мировой кризис"
+    },
+    {
+      "legacy_id": "EV-010",
+      "numbers": [
+        "EV-037"
+      ],
+      "title_ru": "Революция"
+    },
+    {
+      "legacy_id": "EV-011",
+      "numbers": [
+        "EV-038"
+      ],
+      "title_ru": "Индексация зарплат"
+    },
+    {
+      "legacy_id": "EV-012",
+      "numbers": [
+        "EV-039"
+      ],
+      "title_ru": "Утилизация"
+    },
+    {
+      "legacy_id": "EV-014",
+      "numbers": [
+        "EV-040"
+      ],
+      "title_ru": "Собеседование"
+    },
+    {
+      "legacy_id": "EV-015",
+      "numbers": [
+        "EV-041"
+      ],
+      "title_ru": "Великая депрессия"
+    },
+    {
+      "legacy_id": "EV-016",
+      "numbers": [
+        "EV-042"
+      ],
+      "title_ru": "Восстание рабов"
+    },
+    {
+      "legacy_id": "EV-017",
+      "numbers": [
+        "EV-043"
+      ],
+      "title_ru": "Временная петля"
+    },
+    {
+      "legacy_id": "EV-018",
+      "numbers": [
+        "EV-044"
+      ],
+      "title_ru": "Аирдроп"
+    },
+    {
+      "legacy_id": "EV-019",
+      "numbers": [
+        "EV-045"
+      ],
+      "title_ru": "Государственная лотерея"
+    },
+    {
+      "legacy_id": "EV-021",
+      "numbers": [
+        "EV-046"
+      ],
+      "title_ru": "Мультизайм"
+    },
+    {
+      "legacy_id": "EV-023",
+      "numbers": [
+        "EV-047"
+      ],
+      "title_ru": "ГОП-СТОП"
+    },
+    {
+      "legacy_id": "EV-025",
+      "numbers": [
+        "EV-048"
+      ],
+      "title_ru": "Делегирование"
+    },
+    {
+      "legacy_id": "EV-026",
+      "numbers": [
+        "EV-049"
+      ],
+      "title_ru": "Налог на события"
+    },
+    {
+      "legacy_id": "EV-028",
+      "numbers": [
+        "EV-050"
+      ],
+      "title_ru": "Сотрудники"
+    },
+    {
+      "legacy_id": "EV-029",
+      "numbers": [
+        "EV-051"
+      ],
+      "title_ru": "Кошелёк или жизнь"
+    },
+    {
+      "legacy_id": "EV-030",
+      "numbers": [
+        "EV-052"
+      ],
+      "title_ru": "Ошибочный перевод"
+    },
+    {
+      "legacy_id": "EV-031",
+      "numbers": [
+        "EV-053"
+      ],
+      "title_ru": "Сомнительная сделка"
+    },
+    {
+      "legacy_id": "EV-033",
+      "numbers": [
+        "EV-054"
+      ],
+      "title_ru": "Перегруппировка"
+    },
+    {
+      "legacy_id": "EV-034",
+      "numbers": [
+        "EV-055"
+      ],
+      "title_ru": "Аудит"
+    },
+    {
+      "legacy_id": "EV-036",
+      "numbers": [
+        "EV-056"
+      ],
+      "title_ru": "Взятка"
+    },
+    {
+      "legacy_id": "EV-037",
+      "numbers": [
+        "EV-057"
+      ],
+      "title_ru": "Развод"
+    },
+    {
+      "legacy_id": "EV-039",
+      "numbers": [
+        "EV-058"
+      ],
+      "title_ru": "Круговорот BABLOS"
+    },
+    {
+      "legacy_id": "EV-040",
+      "numbers": [
+        "EV-059"
+      ],
+      "title_ru": "Коммунизм"
+    },
+    {
+      "legacy_id": "EV-041",
+      "numbers": [
+        "EV-060"
+      ],
+      "title_ru": "Помощь правительства"
+    },
+    {
+      "legacy_id": "EV-042",
+      "numbers": [
+        "EV-061"
+      ],
+      "title_ru": "Крысиные бега"
+    },
+    {
+      "legacy_id": "EV-043",
+      "numbers": [
+        "EV-062"
+      ],
+      "title_ru": "Осечка"
+    },
+    {
+      "legacy_id": "EV-045",
+      "numbers": [
+        "EV-063"
+      ],
+      "title_ru": "Филантроп"
+    },
+    {
+      "legacy_id": "EV-048",
+      "numbers": [
+        "EV-064"
+      ],
+      "title_ru": "Аврал"
+    },
+    {
+      "legacy_id": "EV-050",
+      "numbers": [
+        "EV-065"
+      ],
+      "title_ru": "Обмен ролями"
+    },
+    {
+      "legacy_id": "EV-051",
+      "numbers": [
+        "EV-066"
+      ],
+      "title_ru": "Ты уволен!"
+    },
+    {
+      "legacy_id": "EV-052",
+      "numbers": [
+        "EV-067"
+      ],
+      "title_ru": "Заморозка актива"
+    },
+    {
+      "legacy_id": "EV-053",
+      "numbers": [
+        "EV-068"
+      ],
+      "title_ru": "Денег нет, но вы держитесь!"
+    },
+    {
+      "legacy_id": "EV-055",
+      "numbers": [
+        "EV-069"
+      ],
+      "title_ru": "Подарок от бабушки"
+    },
+    {
+      "legacy_id": "EV-060",
+      "numbers": [
+        "EV-070"
+      ],
+      "title_ru": "Телепортация карты"
+    },
+    {
+      "legacy_id": "EV-061",
+      "numbers": [
+        "EV-071"
+      ],
+      "title_ru": "Високосный год"
+    },
+    {
+      "legacy_id": "EV-063",
+      "numbers": [
+        "EV-072"
+      ],
+      "title_ru": "Бумеранг"
+    },
+    {
+      "legacy_id": "EV-064",
+      "numbers": [
+        "EV-073"
+      ],
+      "title_ru": "Большой обмен"
+    },
+    {
+      "legacy_id": "EV-065",
+      "numbers": [
+        "EV-074"
+      ],
+      "title_ru": "Буст"
+    },
+    {
+      "legacy_id": "EV-067",
+      "numbers": [
+        "EV-075"
+      ],
+      "title_ru": "Вторая смена"
+    },
+    {
+      "legacy_id": "EV-068",
+      "numbers": [
+        "EV-076"
+      ],
+      "title_ru": "Зарплата натурой"
+    },
+    {
+      "legacy_id": "EV-069",
+      "numbers": [
+        "EV-077"
+      ],
+      "title_ru": "Офшор"
+    },
+    {
+      "legacy_id": "EV-070",
+      "numbers": [
+        "EV-078"
+      ],
+      "title_ru": "Порча"
+    },
+    {
+      "legacy_id": "EV-071",
+      "numbers": [
+        "EV-079"
+      ],
+      "title_ru": "Цугцванг"
+    },
+    {
+      "legacy_id": "EV-072",
+      "numbers": [
+        "EV-080"
+      ],
+      "title_ru": "Депортация"
+    },
+    {
+      "legacy_id": "EV-073",
+      "numbers": [
+        "EV-081"
+      ],
+      "title_ru": "День рождения"
+    },
+    {
+      "legacy_id": "EV-074",
+      "numbers": [
+        "EV-082"
+      ],
+      "title_ru": "Симулянт"
+    },
+    {
+      "legacy_id": "EV-077",
+      "numbers": [
+        "EV-083"
+      ],
+      "title_ru": "Болезнь"
+    },
+    {
+      "legacy_id": "EV-079",
+      "numbers": [
+        "EV-084"
+      ],
+      "title_ru": "Маршрут перестроен"
+    },
+    {
+      "legacy_id": "EV-080",
+      "numbers": [
+        "EV-085"
+      ],
+      "title_ru": "Чёрная пятница"
+    },
+    {
+      "legacy_id": "EV-082",
+      "numbers": [
+        "EV-086"
+      ],
+      "title_ru": "Ярмарка вакансий"
+    },
+    {
+      "legacy_id": "EV-084",
+      "numbers": [
+        "EV-087"
+      ],
+      "title_ru": "Тайный Санта"
+    },
+    {
+      "legacy_id": "EV-085",
+      "numbers": [
+        "EV-088"
+      ],
+      "title_ru": "Всеобщее равенство"
+    },
+    {
+      "legacy_id": "EV-086",
+      "numbers": [
+        "EV-089"
+      ],
+      "title_ru": "Покупка диплома"
+    },
+    {
+      "legacy_id": "EV-087",
+      "numbers": [
+        "EV-090"
+      ],
+      "title_ru": "Ипотека"
+    },
+    {
+      "legacy_id": "EV-088",
+      "numbers": [
+        "EV-091"
+      ],
+      "title_ru": "Непредвиденные расходы"
+    },
+    {
+      "legacy_id": "EV-091",
+      "numbers": [
+        "EV-092"
+      ],
+      "title_ru": "13-я зарплата"
+    },
+    {
+      "legacy_id": "EV-092",
+      "numbers": [
+        "EV-093"
+      ],
+      "title_ru": "Инфляция"
+    },
+    {
+      "legacy_id": "EV-093",
+      "numbers": [
+        "EV-094"
+      ],
+      "title_ru": "Иллюзия выбора"
+    },
+    {
+      "legacy_id": "EV-094",
+      "numbers": [
+        "EV-095"
+      ],
+      "title_ru": "Инвестиция"
+    },
+    {
+      "legacy_id": "EV-096",
+      "numbers": [
+        "EV-096"
+      ],
+      "title_ru": "Подкуп"
+    },
+    {
+      "legacy_id": "EV-097",
+      "numbers": [
+        "EV-097"
+      ],
+      "title_ru": "Переезд"
+    },
+    {
+      "legacy_id": "EV-098",
+      "numbers": [
+        "EV-098"
+      ],
+      "title_ru": "Колесо сансары"
+    },
+    {
+      "legacy_id": "EV-099",
+      "numbers": [
+        "EV-099"
+      ],
+      "title_ru": "Переквалификация"
+    },
+    {
+      "legacy_id": "EV-100",
+      "numbers": [
+        "EV-100"
+      ],
+      "title_ru": "Экономический коллапс"
+    },
+    {
+      "legacy_id": "EV-101",
+      "numbers": [
+        "EV-101"
+      ],
+      "title_ru": "Гуманитарная помощь"
+    },
+    {
+      "legacy_id": "EV-102",
+      "numbers": [
+        "EV-102"
+      ],
+      "title_ru": "Тюрьма"
+    },
+    {
+      "legacy_id": "EV-103",
+      "numbers": [
+        "EV-103"
+      ],
+      "title_ru": "Трудовой подвиг"
+    },
+    {
+      "legacy_id": "EV-104",
+      "numbers": [
+        "EV-104"
+      ],
+      "title_ru": "Вторичная переработка"
+    },
+    {
+      "legacy_id": "EV-105",
+      "numbers": [
+        "EV-105"
+      ],
+      "title_ru": "Чемодан без ручки"
+    },
+    {
+      "legacy_id": "EV-107",
+      "numbers": [
+        "EV-106"
+      ],
+      "title_ru": "Курс BABLOS"
+    },
+    {
+      "legacy_id": "EV-108",
+      "numbers": [
+        "EV-107"
+      ],
+      "title_ru": "Большой куш"
+    },
+    {
+      "legacy_id": "EV-110",
+      "numbers": [
+        "EV-108"
+      ],
+      "title_ru": "Распродажа"
+    },
+    {
+      "legacy_id": "EV-113",
+      "numbers": [
+        "EV-109"
+      ],
+      "title_ru": "Бизнес-ланч"
+    },
+    {
+      "legacy_id": "EV-115",
+      "numbers": [
+        "EV-110"
+      ],
+      "title_ru": "Сверхурочные"
+    },
+    {
+      "legacy_id": "EV-116",
+      "numbers": [
+        "EV-111"
+      ],
+      "title_ru": "Прозрение"
+    },
+    {
+      "legacy_id": "EV-117",
+      "numbers": [
+        "EV-112"
+      ],
+      "title_ru": "Обычная таблетка"
+    },
+    {
+      "legacy_id": "EV-118",
+      "numbers": [
+        "EV-113"
+      ],
+      "title_ru": "Ва-банк"
+    },
+    {
+      "legacy_id": "EV-119",
+      "numbers": [
+        "EV-114"
+      ],
+      "title_ru": "Магия синей изоленты"
+    },
+    {
+      "legacy_id": "EV-120",
+      "numbers": [
+        "EV-115"
+      ],
+      "title_ru": "Платный багаж"
+    },
+    {
+      "legacy_id": "EV-121",
+      "numbers": [
+        "EV-116"
+      ],
+      "title_ru": "Пассивный доход"
+    },
+    {
+      "legacy_id": "EV-122",
+      "numbers": [
+        "EV-117"
+      ],
+      "title_ru": "Реновация"
+    },
+    {
+      "legacy_id": "EV-123",
+      "numbers": [
+        "EV-118"
+      ],
+      "title_ru": "Как у соседа"
+    },
+    {
+      "legacy_id": "EV-124",
+      "numbers": [
+        "EV-119"
+      ],
+      "title_ru": "Затянуть пояса"
+    },
+    {
+      "legacy_id": "EV-125",
+      "numbers": [
+        "EV-120"
+      ],
+      "title_ru": "Премия"
+    },
+    {
+      "legacy_id": "EV-130",
+      "numbers": [
+        "EV-121"
+      ],
+      "title_ru": "Забастовка"
+    },
+    {
+      "legacy_id": "EV-131",
+      "numbers": [
+        "EV-122"
+      ],
+      "title_ru": "Алименты"
+    },
+    {
+      "legacy_id": "EV-132",
+      "numbers": [
+        "EV-123"
+      ],
+      "title_ru": "Магия чисел"
+    },
+    {
+      "legacy_id": "EV-134",
+      "numbers": [
+        "EV-124"
+      ],
+      "title_ru": "Бюрократия"
+    },
+    {
+      "legacy_id": "EV-135",
+      "numbers": [
+        "EV-125"
+      ],
+      "title_ru": "Аренда жилья"
+    },
+    {
+      "legacy_id": "EV-136",
+      "numbers": [
+        "EV-126"
+      ],
+      "title_ru": "Пластическая операция"
+    },
+    {
+      "legacy_id": "EV-140",
+      "numbers": [
+        "EV-127"
+      ],
+      "title_ru": "Рента"
+    },
+    {
+      "legacy_id": "EV-141",
+      "numbers": [
+        "EV-128"
+      ],
+      "title_ru": "Дэдлайн"
+    },
+    {
+      "legacy_id": "EV-142",
+      "numbers": [
+        "EV-129"
+      ],
+      "title_ru": "УЛЬТА"
+    },
+    {
+      "legacy_id": "EV-143",
+      "numbers": [
+        "EV-001",
+        "EV-002",
+        "EV-003",
+        "EV-004",
+        "EV-005",
+        "EV-006",
+        "EV-007",
+        "EV-008",
+        "EV-009",
+        "EV-010",
+        "EV-011",
+        "EV-012",
+        "EV-013",
+        "EV-014",
+        "EV-015",
+        "EV-016",
+        "EV-017",
+        "EV-018",
+        "EV-019",
+        "EV-020",
+        "EV-021",
+        "EV-022",
+        "EV-023",
+        "EV-024",
+        "EV-025",
+        "EV-026",
+        "EV-027",
+        "EV-028",
+        "EV-029",
+        "EV-030"
+      ],
+      "title_ru": "Кофе"
+    },
+    {
+      "legacy_id": "EV-144",
+      "numbers": [
+        "EV-130"
+      ],
+      "title_ru": "Энергетик"
+    },
+    {
+      "legacy_id": "EV-145",
+      "numbers": [
+        "EV-131"
+      ],
+      "title_ru": "Пирамида"
+    },
+    {
+      "legacy_id": "EV-146",
+      "numbers": [
+        "EV-132"
+      ],
+      "title_ru": "Свадьба"
+    },
+    {
+      "legacy_id": "EV-147",
+      "numbers": [
+        "EV-133"
+      ],
+      "title_ru": "Деньги к деньгам"
+    },
+    {
+      "legacy_id": "EV-148",
+      "numbers": [
+        "EV-134"
+      ],
+      "title_ru": "Саботаж"
+    },
+    {
+      "legacy_id": "EV-149",
+      "numbers": [
+        "EV-135"
+      ],
+      "title_ru": "Кооперация"
+    },
+    {
+      "legacy_id": "EV-150",
+      "numbers": [
+        "EV-136"
+      ],
+      "title_ru": "Голосование"
+    },
+    {
+      "legacy_id": "EV-153",
+      "numbers": [
+        "EV-137"
+      ],
+      "title_ru": "Вирус"
+    },
+    {
+      "legacy_id": "EV-154",
+      "numbers": [
+        "EV-138"
+      ],
+      "title_ru": "Цепная реакция"
+    },
+    {
+      "legacy_id": "EV-156",
+      "numbers": [
+        "EV-139"
+      ],
+      "title_ru": "Пандемия"
+    },
+    {
+      "legacy_id": "EV-157",
+      "numbers": [
+        "EV-140"
+      ],
+      "title_ru": "Суперсила"
+    },
+    {
+      "legacy_id": "EV-158",
+      "numbers": [
+        "EV-141"
+      ],
+      "title_ru": "Плановое устаревание"
+    },
+    {
+      "legacy_id": "EV-160",
+      "numbers": [
+        "EV-142"
+      ],
+      "title_ru": "Дуэль"
+    },
+    {
+      "legacy_id": "EV-161",
+      "numbers": [
+        "EV-143"
+      ],
+      "title_ru": "Утилизатор"
+    },
+    {
+      "legacy_id": "EV-162",
+      "numbers": [
+        "EV-144"
+      ],
+      "title_ru": "Кот"
+    },
+    {
+      "legacy_id": "EV-164",
+      "numbers": [
+        "EV-145"
+      ],
+      "title_ru": "Пассивная агрессия"
+    },
+    {
+      "legacy_id": "EV-165",
+      "numbers": [
+        "EV-146"
+      ],
+      "title_ru": "Ростовщичество"
+    },
+    {
+      "legacy_id": "EV-167",
+      "numbers": [
+        "EV-147"
+      ],
+      "title_ru": "Работа на износ"
+    },
+    {
+      "legacy_id": "EV-168",
+      "numbers": [
+        "EV-148"
+      ],
+      "title_ru": "Микроконтроль"
+    },
+    {
+      "legacy_id": "EV-169",
+      "numbers": [
+        "EV-149"
+      ],
+      "title_ru": "Текучка кадров"
+    },
+    {
+      "legacy_id": "EV-172",
+      "numbers": [
+        "EV-150"
+      ],
+      "title_ru": "Расточитель"
+    },
+    {
+      "legacy_id": "EV-175",
+      "numbers": [
+        "EV-151"
+      ],
+      "title_ru": "Рейдерский захват"
+    },
+    {
+      "legacy_id": "EV-176",
+      "numbers": [
+        "EV-152"
+      ],
+      "title_ru": "Халява"
+    },
+    {
+      "legacy_id": "EV-178",
+      "numbers": [
+        "EV-153"
+      ],
+      "title_ru": "Страховка"
+    },
+    {
+      "legacy_id": "EV-179",
+      "numbers": [
+        "EV-154"
+      ],
+      "title_ru": "Менеджмент"
+    },
+    {
+      "legacy_id": "EV-183",
+      "numbers": [
+        "EV-155"
+      ],
+      "title_ru": "Золотой телец"
+    },
+    {
+      "legacy_id": "EV-184",
+      "numbers": [
+        "EV-156"
+      ],
+      "title_ru": "Поиск работы"
+    },
+    {
+      "legacy_id": "EV-185",
+      "numbers": [
+        "EV-157"
+      ],
+      "title_ru": "Военная экономика"
+    },
+    {
+      "legacy_id": "EV-186",
+      "numbers": [
+        "EV-158"
+      ],
+      "title_ru": "Совместные усилия"
+    },
+    {
+      "legacy_id": "EV-187",
+      "numbers": [
+        "EV-159"
+      ],
+      "title_ru": "Налог на роскошь"
+    },
+    {
+      "legacy_id": "EV-188",
+      "numbers": [
+        "EV-160"
+      ],
+      "title_ru": "Налог на существование"
+    },
+    {
+      "legacy_id": "EV-193",
+      "numbers": [
+        "EV-161"
+      ],
+      "title_ru": "Суд"
+    },
+    {
+      "legacy_id": "EV-194",
+      "numbers": [
+        "EV-162"
+      ],
+      "title_ru": "Дефицит"
+    },
+    {
+      "legacy_id": "EV-195",
+      "numbers": [
+        "EV-163"
+      ],
+      "title_ru": "Баланс"
+    },
+    {
+      "legacy_id": "EV-196",
+      "numbers": [
+        "EV-164"
+      ],
+      "title_ru": "Автобусная остановка"
+    },
+    {
+      "legacy_id": "EV-197",
+      "numbers": [
+        "EV-165"
+      ],
+      "title_ru": "Одноглазый Джо"
+    },
+    {
+      "legacy_id": "EV-199",
+      "numbers": [
+        "EV-166"
+      ],
+      "title_ru": "Мультиход"
+    },
+    {
+      "legacy_id": "EV-200",
+      "numbers": [
+        "EV-167"
+      ],
+      "title_ru": "Перепродажа"
+    },
+    {
+      "legacy_id": "EV-202",
+      "numbers": [
+        "EV-168"
+      ],
+      "title_ru": "Вредная привычка"
+    },
+    {
+      "legacy_id": "EV-203",
+      "numbers": [
+        "EV-169"
+      ],
+      "title_ru": "Беспроигрышный билет"
+    },
+    {
+      "legacy_id": "EV-204",
+      "numbers": [
+        "EV-170"
+      ],
+      "title_ru": "Зависть"
+    },
+    {
+      "legacy_id": "EV-206",
+      "numbers": [
+        "EV-171"
+      ],
+      "title_ru": "Импульсивное решение"
+    },
+    {
+      "legacy_id": "EV-208",
+      "numbers": [
+        "EV-172"
+      ],
+      "title_ru": "Комиссия"
+    },
+    {
+      "legacy_id": "EV-211",
+      "numbers": [
+        "EV-173"
+      ],
+      "title_ru": "Тренд или кринж"
+    },
+    {
+      "legacy_id": "EV-212",
+      "numbers": [
+        "EV-174"
+      ],
+      "title_ru": "Экономная поездка"
+    },
+    {
+      "legacy_id": "EV-214",
+      "numbers": [
+        "EV-175"
+      ],
+      "title_ru": "Денежный портал"
+    },
+    {
+      "legacy_id": "EV-217",
+      "numbers": [
+        "EV-176"
+      ],
+      "title_ru": "Посредник"
+    },
+    {
+      "legacy_id": "EV-218",
+      "numbers": [
+        "EV-177"
+      ],
+      "title_ru": "Работа на перспективу"
+    },
+    {
+      "legacy_id": "EV-220",
+      "numbers": [
+        "EV-178"
+      ],
+      "title_ru": "Дырявый карман"
+    },
+    {
+      "legacy_id": "EV-221",
+      "numbers": [
+        "EV-179"
+      ],
+      "title_ru": "Визуализация"
+    },
+    {
+      "legacy_id": "EV-223",
+      "numbers": [
+        "EV-180"
+      ],
+      "title_ru": "Шанс"
+    },
+    {
+      "legacy_id": "EV-224",
+      "numbers": [
+        "EV-181"
+      ],
+      "title_ru": "Джекпот"
+    },
+    {
+      "legacy_id": "EV-225",
+      "numbers": [
+        "EV-182"
+      ],
+      "title_ru": "Выходные"
+    },
+    {
+      "legacy_id": "EV-226",
+      "numbers": [
+        "EV-183"
+      ],
+      "title_ru": "Дивиденды"
+    },
+    {
+      "legacy_id": "EV-227",
+      "numbers": [
+        "EV-184"
+      ],
+      "title_ru": "Свежая идея"
+    },
+    {
+      "legacy_id": "EV-229",
+      "numbers": [
+        "EV-185"
+      ],
+      "title_ru": "Повышение"
+    },
+    {
+      "legacy_id": "EV-230",
+      "numbers": [
+        "EV-186"
+      ],
+      "title_ru": "Бонус"
+    },
+    {
+      "legacy_id": "EV-231",
+      "numbers": [
+        "EV-187"
+      ],
+      "title_ru": "Криптовалюта"
+    },
+    {
+      "legacy_id": "EV-233",
+      "numbers": [
+        "EV-188"
+      ],
+      "title_ru": "Справедливость"
+    },
+    {
+      "legacy_id": "EV-234",
+      "numbers": [
+        "EV-189"
+      ],
+      "title_ru": "Сетевой маркетинг"
+    },
+    {
+      "legacy_id": "EV-237",
+      "numbers": [
+        "EV-190"
+      ],
+      "title_ru": "Добрососедство"
+    },
+    {
+      "legacy_id": "EV-238",
+      "numbers": [
+        "EV-191"
+      ],
+      "title_ru": "Бартер"
+    },
+    {
+      "legacy_id": "EV-239",
+      "numbers": [
+        "EV-192"
+      ],
+      "title_ru": "Покупка машины"
+    },
+    {
+      "legacy_id": "EV-242",
+      "numbers": [
+        "EV-193"
+      ],
+      "title_ru": "Сотрудник года"
+    },
+    {
+      "legacy_id": "EV-244",
+      "numbers": [
+        "EV-194"
+      ],
+      "title_ru": "Эврика"
+    },
+    {
+      "legacy_id": "EV-246",
+      "numbers": [
+        "EV-195"
+      ],
+      "title_ru": "Налог без причины"
+    },
+    {
+      "legacy_id": "EV-248",
+      "numbers": [
+        "EV-196"
+      ],
+      "title_ru": "Выходное пособие"
+    },
+    {
+      "legacy_id": "EV-249",
+      "numbers": [
+        "EV-197"
+      ],
+      "title_ru": "Страх"
+    },
+    {
+      "legacy_id": "EV-250",
+      "numbers": [
+        "EV-198"
+      ],
+      "title_ru": "Паника"
+    },
+    {
+      "legacy_id": "EV-251",
+      "numbers": [
+        "EV-199"
+      ],
+      "title_ru": "Агония"
+    },
+    {
+      "legacy_id": "EV-252",
+      "numbers": [
+        "EV-200"
+      ],
+      "title_ru": "Медитация"
+    },
+    {
+      "legacy_id": "EV-253",
+      "numbers": [
+        "EV-201"
+      ],
+      "title_ru": "Скидка"
+    },
+    {
+      "legacy_id": "EV-254",
+      "numbers": [
+        "EV-202"
+      ],
+      "title_ru": "Прибавка к зарплате"
+    },
+    {
+      "legacy_id": "EV-255",
+      "numbers": [
+        "EV-203"
+      ],
+      "title_ru": "Грин-карта"
+    },
+    {
+      "legacy_id": "EV-256",
+      "numbers": [
+        "EV-204"
+      ],
+      "title_ru": "Забытая заначка"
+    },
+    {
+      "legacy_id": "EV-258",
+      "numbers": [
+        "EV-205"
+      ],
+      "title_ru": "Вознаграждение"
+    },
+    {
+      "legacy_id": "EV-260",
+      "numbers": [
+        "EV-206"
+      ],
+      "title_ru": "Подстава"
+    },
+    {
+      "legacy_id": "EV-261",
+      "numbers": [
+        "EV-207"
+      ],
+      "title_ru": "Штраф"
+    },
+    {
+      "legacy_id": "EV-262",
+      "numbers": [
+        "EV-208"
+      ],
+      "title_ru": "Покерфейс"
+    },
+    {
+      "legacy_id": "EV-264",
+      "numbers": [
+        "EV-209"
+      ],
+      "title_ru": "Промежуточный победитель"
+    },
+    {
+      "legacy_id": "EV-266",
+      "numbers": [
+        "EV-210"
+      ],
+      "title_ru": "Один на миллион"
+    },
+    {
+      "legacy_id": "EV-267",
+      "numbers": [
+        "EV-211"
+      ],
+      "title_ru": "Сломанный телефон"
+    },
+    {
+      "legacy_id": "EV-269",
+      "numbers": [
+        "EV-212"
+      ],
+      "title_ru": "Рыбалка"
+    },
+    {
+      "legacy_id": "EV-270",
+      "numbers": [
+        "EV-213"
+      ],
+      "title_ru": "Вдохновение"
+    },
+    {
+      "legacy_id": "EV-271",
+      "numbers": [
+        "EV-214"
+      ],
+      "title_ru": "Лень"
+    },
+    {
+      "legacy_id": "EV-272",
+      "numbers": [
+        "EV-215"
+      ],
+      "title_ru": "Шпион"
+    },
+    {
+      "legacy_id": "EV-273",
+      "numbers": [
+        "EV-216"
+      ],
+      "title_ru": "Экономический рост"
+    },
+    {
+      "legacy_id": "EV-276",
+      "numbers": [
+        "EV-217"
+      ],
+      "title_ru": "Удача"
+    },
+    {
+      "legacy_id": "EV-277",
+      "numbers": [
+        "EV-218"
+      ],
+      "title_ru": "Ограбление"
+    },
+    {
+      "legacy_id": "EV-278",
+      "numbers": [
+        "EV-219"
+      ],
+      "title_ru": "Карманная кража"
+    },
+    {
+      "legacy_id": "EV-279",
+      "numbers": [
+        "EV-220"
+      ],
+      "title_ru": "Идеальный шторм"
+    },
+    {
+      "legacy_id": "EV-280",
+      "numbers": [
+        "EV-221"
+      ],
+      "title_ru": "Семейный подряд"
+    },
+    {
+      "legacy_id": "EV-282",
+      "numbers": [
+        "EV-222"
+      ],
+      "title_ru": "Бандит"
+    },
+    {
+      "legacy_id": "EV-283",
+      "numbers": [
+        "EV-223"
+      ],
+      "title_ru": "Казино"
+    },
+    {
+      "legacy_id": "EV-284",
+      "numbers": [
+        "EV-224"
+      ],
+      "title_ru": "Робин Гуд"
+    },
+    {
+      "legacy_id": "EV-285",
+      "numbers": [
+        "EV-225"
+      ],
+      "title_ru": "Монета устала"
+    },
+    {
+      "legacy_id": "EV-286",
+      "numbers": [
+        "EV-226"
+      ],
+      "title_ru": "Гиперинфляция"
+    },
+    {
+      "legacy_id": "EV-288",
+      "numbers": [
+        "EV-227"
+      ],
+      "title_ru": "Русская рулетка"
+    },
+    {
+      "legacy_id": "EV-290",
+      "numbers": [
+        "EV-228"
+      ],
+      "title_ru": "Монета отдыхает"
+    },
+    {
+      "legacy_id": "EV-291",
+      "numbers": [
+        "EV-229"
+      ],
+      "title_ru": "Налоговый инспектор"
+    },
+    {
+      "legacy_id": "EV-292",
+      "numbers": [
+        "EV-230"
+      ],
+      "title_ru": "Освоение BABLOS"
+    },
+    {
+      "legacy_id": "EV-295",
+      "numbers": [
+        "EV-231"
+      ],
+      "title_ru": "Налог за утилизацию"
+    },
+    {
+      "legacy_id": "EV-296",
+      "numbers": [
+        "EV-232"
+      ],
+      "title_ru": "Тяну на дно"
+    },
+    {
+      "legacy_id": "EV-298",
+      "numbers": [
+        "EV-233"
+      ],
+      "title_ru": "Групповая лень"
+    },
+    {
+      "legacy_id": "EV-299",
+      "numbers": [
+        "EV-234"
+      ],
+      "title_ru": "Золотая жила"
+    },
+    {
+      "legacy_id": "EV-300",
+      "numbers": [
+        "EV-235"
+      ],
+      "title_ru": "Генератор событий"
+    },
+    {
+      "legacy_id": "EV-301",
+      "numbers": [
+        "EV-236"
+      ],
+      "title_ru": "Сломанный бонус"
+    },
+    {
+      "legacy_id": "EV-302",
+      "numbers": [
+        "EV-237"
+      ],
+      "title_ru": "Козёл отпущения"
+    },
+    {
+      "legacy_id": "EV-303",
+      "numbers": [
+        "EV-238"
+      ],
+      "title_ru": "Карьерный рост"
+    },
+    {
+      "legacy_id": "EV-304",
+      "numbers": [
+        "EV-239"
+      ],
+      "title_ru": "Ночной воришка"
+    },
+    {
+      "legacy_id": "EV-307",
+      "numbers": [
+        "EV-240"
+      ],
+      "title_ru": "Монета-решала"
+    },
+    {
+      "legacy_id": "EV-308",
+      "numbers": [
+        "EV-241"
+      ],
+      "title_ru": "Ничего личного"
+    },
+    {
+      "legacy_id": "EV-309",
+      "numbers": [
+        "EV-242"
+      ],
+      "title_ru": "Апгрейд"
+    },
+    {
+      "legacy_id": "EV-310",
+      "numbers": [
+        "EV-243"
+      ],
+      "title_ru": "Селфи"
+    },
+    {
+      "legacy_id": "EV-311",
+      "numbers": [
+        "EV-330"
+      ],
+      "title_ru": "WAKE UP"
+    },
+    {
+      "legacy_id": "EV-312",
+      "numbers": [
+        "EV-244"
+      ],
+      "title_ru": "Волшебная таблетка"
+    },
+    {
+      "legacy_id": "EV-314",
+      "numbers": [
+        "EV-245"
+      ],
+      "title_ru": "Праздник"
+    },
+    {
+      "legacy_id": "EV-315",
+      "numbers": [
+        "EV-246"
+      ],
+      "title_ru": "Кэшбэк"
+    },
+    {
+      "legacy_id": "EV-316",
+      "numbers": [
+        "EV-247"
+      ],
+      "title_ru": "Коллектор"
+    },
+    {
+      "legacy_id": "EV-317",
+      "numbers": [
+        "EV-248"
+      ],
+      "title_ru": "Красная цена"
+    },
+    {
+      "legacy_id": "EV-318",
+      "numbers": [
+        "EV-249"
+      ],
+      "title_ru": "Дежавю"
+    },
+    {
+      "legacy_id": "EV-319",
+      "numbers": [
+        "EV-250"
+      ],
+      "title_ru": "Сбой выплат"
+    },
+    {
+      "legacy_id": "EV-320",
+      "numbers": [
+        "EV-251"
+      ],
+      "title_ru": "Золотой парашют"
+    },
+    {
+      "legacy_id": "EV-322",
+      "numbers": [
+        "EV-252"
+      ],
+      "title_ru": "Отстранение"
+    },
+    {
+      "legacy_id": "EV-323",
+      "numbers": [
+        "EV-253"
+      ],
+      "title_ru": "Добрый излучатель"
+    },
+    {
+      "legacy_id": "EV-324",
+      "numbers": [
+        "EV-254"
+      ],
+      "title_ru": "Мелкий шрифт"
+    },
+    {
+      "legacy_id": "EV-325",
+      "numbers": [
+        "EV-255"
+      ],
+      "title_ru": "Налоговые каникулы"
+    },
+    {
+      "legacy_id": "EV-326",
+      "numbers": [
+        "EV-256"
+      ],
+      "title_ru": "Дотация"
+    },
+    {
+      "legacy_id": "EV-327",
+      "numbers": [
+        "EV-257"
+      ],
+      "title_ru": "Стрижка BABLOS"
+    },
+    {
+      "legacy_id": "EV-328",
+      "numbers": [
+        "EV-258"
+      ],
+      "title_ru": "Обмен"
+    },
+    {
+      "legacy_id": "EV-329",
+      "numbers": [
+        "EV-259"
+      ],
+      "title_ru": "Вторая жизнь"
+    },
+    {
+      "legacy_id": "EV-330",
+      "numbers": [
+        "EV-260"
+      ],
+      "title_ru": "Обмен мнениями"
+    },
+    {
+      "legacy_id": "EV-331",
+      "numbers": [
+        "EV-261"
+      ],
+      "title_ru": "Когти орла"
+    },
+    {
+      "legacy_id": "EV-332",
+      "numbers": [
+        "EV-262"
+      ],
+      "title_ru": "Перезагрузка"
+    },
+    {
+      "legacy_id": "EV-333",
+      "numbers": [
+        "EV-263"
+      ],
+      "title_ru": "Карантин"
+    },
+    {
+      "legacy_id": "EV-334",
+      "numbers": [
+        "EV-264"
+      ],
+      "title_ru": "Сбой системы"
+    },
+    {
+      "legacy_id": "EV-336",
+      "numbers": [
+        "EV-265"
+      ],
+      "title_ru": "Вторая попытка"
+    },
+    {
+      "legacy_id": "EV-337",
+      "numbers": [
+        "EV-266"
+      ],
+      "title_ru": "Пересадка"
+    },
+    {
+      "legacy_id": "EV-338",
+      "numbers": [
+        "EV-267"
+      ],
+      "title_ru": "Больничный"
+    },
+    {
+      "legacy_id": "EV-339",
+      "numbers": [
+        "EV-268"
+      ],
+      "title_ru": "Конфискация"
+    },
+    {
+      "legacy_id": "EV-342",
+      "numbers": [
+        "EV-269"
+      ],
+      "title_ru": "Немой"
+    },
+    {
+      "legacy_id": "EV-343",
+      "numbers": [
+        "EV-270"
+      ],
+      "title_ru": "Фишинг"
+    },
+    {
+      "legacy_id": "EV-344",
+      "numbers": [
+        "EV-271"
+      ],
+      "title_ru": "Массовая рассылка"
+    },
+    {
+      "legacy_id": "EV-346",
+      "numbers": [
+        "EV-272"
+      ],
+      "title_ru": "Пробник"
+    },
+    {
+      "legacy_id": "EV-347",
+      "numbers": [
+        "EV-273"
+      ],
+      "title_ru": "Предчувствие"
+    },
+    {
+      "legacy_id": "EV-348",
+      "numbers": [
+        "EV-274"
+      ],
+      "title_ru": "Девальвация удачи"
+    },
+    {
+      "legacy_id": "EV-350",
+      "numbers": [
+        "EV-275"
+      ],
+      "title_ru": "Время перемен"
+    },
+    {
+      "legacy_id": "EV-351",
+      "numbers": [
+        "EV-276"
+      ],
+      "title_ru": "Сбой доставки"
+    },
+    {
+      "legacy_id": "EV-352",
+      "numbers": [
+        "EV-277"
+      ],
+      "title_ru": "Ускоритель"
+    },
+    {
+      "legacy_id": "EV-353",
+      "numbers": [
+        "EV-278"
+      ],
+      "title_ru": "Каскадная помощь"
+    },
+    {
+      "legacy_id": "EV-354",
+      "numbers": [
+        "EV-279"
+      ],
+      "title_ru": "Совет директоров"
+    },
+    {
+      "legacy_id": "EV-355",
+      "numbers": [
+        "EV-280"
+      ],
+      "title_ru": "Срочный перевод"
+    },
+    {
+      "legacy_id": "EV-356",
+      "numbers": [
+        "EV-281"
+      ],
+      "title_ru": "Назад в будущее"
+    },
+    {
+      "legacy_id": "EV-357",
+      "numbers": [
+        "EV-282"
+      ],
+      "title_ru": "Случайные связи"
+    },
+    {
+      "legacy_id": "EV-358",
+      "numbers": [
+        "EV-283"
+      ],
+      "title_ru": "Переплавка"
+    },
+    {
+      "legacy_id": "EV-360",
+      "numbers": [
+        "EV-284"
+      ],
+      "title_ru": "Кастинг"
+    },
+    {
+      "legacy_id": "EV-361",
+      "numbers": [
+        "EV-285"
+      ],
+      "title_ru": "Гарантийная замена"
+    },
+    {
+      "legacy_id": "EV-362",
+      "numbers": [
+        "EV-286"
+      ],
+      "title_ru": "Перерождение"
+    },
+    {
+      "legacy_id": "EV-363",
+      "numbers": [
+        "EV-287"
+      ],
+      "title_ru": "Стрелочник"
+    },
+    {
+      "legacy_id": "EV-364",
+      "numbers": [
+        "EV-288"
+      ],
+      "title_ru": "Муки выбора"
+    },
+    {
+      "legacy_id": "EV-365",
+      "numbers": [
+        "EV-289"
+      ],
+      "title_ru": "Прожиточный минимум"
+    },
+    {
+      "legacy_id": "EV-366",
+      "numbers": [
+        "EV-290"
+      ],
+      "title_ru": "Налог на суету"
+    },
+    {
+      "legacy_id": "EV-367",
+      "numbers": [
+        "EV-291"
+      ],
+      "title_ru": "Мультипликатор"
+    },
+    {
+      "legacy_id": "EV-368",
+      "numbers": [
+        "EV-292"
+      ],
+      "title_ru": "Ctrl+C, Ctrl+V"
+    },
+    {
+      "legacy_id": "EV-369",
+      "numbers": [
+        "EV-293"
+      ],
+      "title_ru": "Карта отклонена"
+    },
+    {
+      "legacy_id": "EV-370",
+      "numbers": [
+        "EV-294"
+      ],
+      "title_ru": "Пользовательское соглашение"
+    },
+    {
+      "legacy_id": "EV-371",
+      "numbers": [
+        "EV-295"
+      ],
+      "title_ru": "Калибровка"
+    },
+    {
+      "legacy_id": "EV-372",
+      "numbers": [
+        "EV-296"
+      ],
+      "title_ru": "Кадровая перестановка"
+    },
+    {
+      "legacy_id": "EV-374",
+      "numbers": [
+        "EV-297"
+      ],
+      "title_ru": "Буржуй"
+    },
+    {
+      "legacy_id": "EV-375",
+      "numbers": [
+        "EV-298"
+      ],
+      "title_ru": "Субсидия"
+    },
+    {
+      "legacy_id": "EV-376",
+      "numbers": [
+        "EV-299"
+      ],
+      "title_ru": "Принцип домино"
+    },
+    {
+      "legacy_id": "EV-377",
+      "numbers": [
+        "EV-300"
+      ],
+      "title_ru": "Парадокс выбора"
+    },
+    {
+      "legacy_id": "EV-378",
+      "numbers": [
+        "EV-301"
+      ],
+      "title_ru": "Краудфандинг"
+    },
+    {
+      "legacy_id": "EV-379",
+      "numbers": [
+        "EV-302"
+      ],
+      "title_ru": "Задом наперёд"
+    },
+    {
+      "legacy_id": "EV-380",
+      "numbers": [
+        "EV-303"
+      ],
+      "title_ru": "Сотка"
+    },
+    {
+      "legacy_id": "EV-381",
+      "numbers": [
+        "EV-304"
+      ],
+      "title_ru": "Делёжка"
+    },
+    {
+      "legacy_id": "EV-382",
+      "numbers": [
+        "EV-305"
+      ],
+      "title_ru": "Сейф"
+    },
+    {
+      "legacy_id": "EV-385",
+      "numbers": [
+        "EV-306"
+      ],
+      "title_ru": "Однозадачность"
+    },
+    {
+      "legacy_id": "EV-386",
+      "numbers": [
+        "EV-307"
+      ],
+      "title_ru": "Премия за охват"
+    },
+    {
+      "legacy_id": "EV-387",
+      "numbers": [
+        "EV-308"
+      ],
+      "title_ru": "Спонсор"
+    },
+    {
+      "legacy_id": "EV-388",
+      "numbers": [
+        "EV-309"
+      ],
+      "title_ru": "Весомый аргумент"
+    },
+    {
+      "legacy_id": "EV-389",
+      "numbers": [
+        "EV-310"
+      ],
+      "title_ru": "Реферальная программа"
+    },
+    {
+      "legacy_id": "EV-390",
+      "numbers": [
+        "EV-311"
+      ],
+      "title_ru": "Двойной добор"
+    },
+    {
+      "legacy_id": "EV-392",
+      "numbers": [
+        "EV-312"
+      ],
+      "title_ru": "Тотальный фриланс"
+    },
+    {
+      "legacy_id": "EV-393",
+      "numbers": [
+        "EV-313"
+      ],
+      "title_ru": "Свободная память"
+    },
+    {
+      "legacy_id": "EV-394",
+      "numbers": [
+        "EV-314"
+      ],
+      "title_ru": "Излишки производства"
+    },
+    {
+      "legacy_id": "EV-395",
+      "numbers": [
+        "EV-315"
+      ],
+      "title_ru": "Испытательный срок"
+    },
+    {
+      "legacy_id": "EV-396",
+      "numbers": [
+        "EV-316"
+      ],
+      "title_ru": "Налог на прибыль"
+    },
+    {
+      "legacy_id": "EV-397",
+      "numbers": [
+        "EV-317"
+      ],
+      "title_ru": "Залог"
+    },
+    {
+      "legacy_id": "EV-398",
+      "numbers": [
+        "EV-318"
+      ],
+      "title_ru": "Капкан"
+    },
+    {
+      "legacy_id": "EV-399",
+      "numbers": [
+        "EV-319"
+      ],
+      "title_ru": "Переадресация"
+    },
+    {
+      "legacy_id": "EV-400",
+      "numbers": [
+        "EV-320"
+      ],
+      "title_ru": "Совет соседа"
+    },
+    {
+      "legacy_id": "EV-401",
+      "numbers": [
+        "EV-321"
+      ],
+      "title_ru": "Реанимация"
+    },
+    {
+      "legacy_id": "EV-402",
+      "numbers": [
+        "EV-322"
+      ],
+      "title_ru": "Экстренная помощь"
+    },
+    {
+      "legacy_id": "EV-403",
+      "numbers": [
+        "EV-323"
+      ],
+      "title_ru": "На чай"
+    },
+    {
+      "legacy_id": "EV-404",
+      "numbers": [
+        "EV-324"
+      ],
+      "title_ru": "Куш"
+    },
+    {
+      "legacy_id": "EV-405",
+      "numbers": [
+        "EV-325"
+      ],
+      "title_ru": "Двойной куш"
+    },
+    {
+      "legacy_id": "EV-407",
+      "numbers": [
+        "EV-326"
+      ],
+      "title_ru": "Взаимная выгода"
+    },
+    {
+      "legacy_id": "EV-408",
+      "numbers": [
+        "EV-327"
+      ],
+      "title_ru": "Временной лаг"
+    },
+    {
+      "legacy_id": "EV-409",
+      "numbers": [
+        "EV-328"
+      ],
+      "title_ru": "Выгорание"
+    },
+    {
+      "legacy_id": "EV-410",
+      "numbers": [
+        "EV-329"
+      ],
+      "title_ru": "Испепеление"
+    },
+    {
+      "legacy_id": "EV-BLANK",
+      "numbers": [
+        "EV-331"
+      ],
+      "title_ru": "Пустая карта для заполнения игроками"
+    }
+  ]
+}
