@@ -1,26 +1,8 @@
 # Blank translation worksheet: statuses
 
-**Source approval, 2026-10-12:** [ST-026 Джокер and ST-033 AI-агент](../../../design/reviews/2026-10-12-events-and-statuses-approved.ru.md). Joker chooses any new status from the deck within one minute on acquisition; no timeout penalty or compulsory fallback. AI-agent keeps the former copying effect. Other statuses and all 34 copies remain unchanged. Translation title/effect fields remain empty.
+Use the current [Russian statuses](../../../game/ru/cards/statuses.md) and the [shared inventory](../../../game/deck.md). The [approved changes of 19 October](../../../design/reviews/2026-10-19-card-refinement.ru.md) supersede older notes. 33 status IDs plus ST-034; ST-017 now flips at month start. Title/effect cells remain empty for a new translation; custom blank effects stay empty.
 
-**Latest source approval, 2026-10-10, after PR #33:** [ST-009/011/013 updated](../../../design/reviews/2026-10-10-statuses-monthly-and-sotka.ru.md). Transformer chooses only at month start, Traveller has three seat swaps per continuous ownership, Thief acts every two months for 300B without salary. Names, IDs and untranslated title/effect cells are preserved. Current source and row notes supersede older summaries.
-
-**Latest source approval, 2026-10-08:** [Speculator and King](../../../design/reviews/2026-10-08-event-cull-and-statuses.ru.md). ST-024 price is now 100B. The ST-020 charge is explicitly a tax, so tax immunity applies. Other conditions and translation fields are unchanged; older dated notes are historical.
-
-**Source approved 2026-10-08:** ST-028 now explicitly replaces each individual event during a replacement draw with 200B from a chosen player. See [the approved source decision](../../../design/reviews/2026-10-08-event-refresh.ru.md); translation fields remain pending.
-
-**Source approved 2026-10-07:** ST-004/008/020 tax protection also covers the non-monetary EV-366. Homeless allowance remains available after salary restoration by EV-312; Donor reward is now 200B. Current row notes override earlier summaries. Translation fields remain pending.
-
-**Final source approval 2026-10-05:** Freelancer now explicitly receives 100B when BEGINNING to play an event, before resolving its effect. The earlier proposed timing phrase is approved. All status names are retained. Translation fields remain worksheets.
-
-**Further source approval 2026-10-05:** ST-005/015/025/031 wording approved; ST-027 returns the unchosen event to the TOP of the event deck. All current status names are retained. Freelancer eligibility is determined when the event starts: losing that status through the event keeps its 100B reward; acquiring it through the event does not grant that event's reward. The short Russian Freelancer wording is unchanged pending discussion of a possible timing phrase. Translation pending.
-
-**Latest source approval 2026-10-05:** ST-029 is now Фрилансер: no salary, 100B from the Bank for each event played by the owner. The previous discard-retrieval ability is retired. The author's approved amount is 100B, not the earlier 200B proposal. Translation pending.
-
-**Source approved 2026-10-04:** ST-024 is Спекулянт, replacing the former Mute status and its salary bonus. Mute is now event EV-342 and has NO aloud-reading exception. Earlier ST-024 notes are historical.
-
-**Source revision 2026-09-29:** consult the current Russian catalogue and translation notes for the approved status changes, the distinction between replacement draws and effect-based event gains, and Agony’s original-hand rule. Titles and effects in this worksheet still await translation.
-
-Status: untranslated. Author update 2026-09-27: ST-005 is now Minimalist, ST-030 is Insurance Agent, and the custom blank status is ST-034. These English names identify the Russian source, not an approved translation. Empty title/effect cells are fields to fill, not approved blank effects. Preserve IDs. Look up source text by ID in the [Russian statuses](../../../game/ru/cards/statuses.md). For ST-034 and EV-BLANK, translate only a label if needed; leave their custom effect empty.
+Earlier worksheet summaries remain in [Git history](https://github.com/NEO-Wake-UP/wake-up-card-game/blob/cc8ecf704416c9c8b09f8a1a6d3e0ce0a0f48a59/templates/translation/cards/statuses.md). Current source text overrides those historical decisions.
 
 | ID | Title | Effect | Translation notes |
 | --- | --- | --- | --- |
@@ -40,7 +22,7 @@ Status: untranslated. Author update 2026-09-27: ST-005 is now Minimalist, ST-030
 | ST-014 |  |  |  |
 | ST-015 |  |  | Source approved 2026-10-05: Once every two months take 100B from one neighbour. The former loan/no-repayment joke is replaced by direct taking; no consent requirement was added. Translation pending. |
 | ST-016 |  |  |  |
-| ST-017 |  |  | Source approved 2026-09-29: UP payout deliberately reduced to 200B from Bank; W payment remains 100B to Bank. Salary remains available. Translation pending. |
+| ST-017 |  |  | Source approved 2026-10-19: flip at the start of each month; UP receives 200B from the Bank, W pays 100B. Mid-month acquisition waits for the next month start. Translation pending. |
 | ST-018 |  |  | Source approved 2026-09-29: At month end, instead of salary, receive 100B from Bank for each pair of events in own hand. Translation pending. |
 | ST-019 |  |  | Source approved 2026-09-29: Monthly theory about the game resembling life remains mandatory, not an optional suggestion. Translation pending. |
 | ST-020 |  |  | Source approved 2026-10-08: Король. Taxes do not affect you. Take a 100B TAX from a player addressing you without the royal title; tax immunity (including Dog and Homeless) prevents it. The King receives the tax, not the Bank. No monthly cap. Translation pending. |

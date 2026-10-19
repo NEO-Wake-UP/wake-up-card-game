@@ -1,8 +1,8 @@
 # Deck composition / Состав колод
 
-**Состав на 17 октября 2026:** 302 заполненных вида событий; 30 экземпляров «Кофе» дают 331 заполненную карту + пустую = **332 события**. Статусов **34**, банкнот **300**, монета **1**: всего **667 компонентов**, на одно событие больше цели. Лишнюю карту автор выберет при финальной вычитке.
+**Состав на 19 октября 2026:** 301 заполненный вид событий; 30 экземпляров «Кофе» дают 330 заполненных карт + пустую = **331 событие**. Статусов **34**, банкнот **300**, монета **1**: всего **666 компонентов**. Целевой состав достигнут после удаления EV-406; остальные ID и количества сохранены.
 
-Правила описывают целевой комплект: 331 событие и 666 компонентов. Не удалять карты автоматически. Текущие названия и эффекты находятся в game/ru/cards; эта таблица задаёт ID и количества для всех языков.
+Комплект соответствует правилам: 331 событие и 666 компонентов. EV-406 удалена по прямому решению автора; её ID не переиспользовать. Дополнительных удалений не требуется. Текущие названия и эффекты находятся в game/ru/cards; эта таблица задаёт ID и количества для всех языков.
 
 ## Постоянные номера
 
@@ -30,7 +30,7 @@
 | ST-014 | status | 1 | draft: one per listed status |
 | ST-015 | status | 1 | draft: one per listed status |
 | ST-016 | status | 1 | draft: one per listed status |
-| ST-017 | status | 1 | author-approved: UP reward 200B, 2026-09-29 |
+| ST-017 | status | 1 | author-approved: UP reward 200B, 2026-09-29; month-start flip approved 2026-10-19 |
 | ST-018 | status | 1 | author-approved: Collector replaces NPC, 2026-09-28 |
 | ST-019 | status | 1 | draft: one per listed status |
 | ST-020 | status | 1 | draft: one per listed status |
@@ -157,7 +157,7 @@
 | EV-150 | event | 1 | draft: one per source row |
 | EV-153 | event | 1 | draft: one per source row |
 | EV-154 | event | 1 | draft: one per source row |
-| EV-156 | event | 1 | draft: one per source row; renamed «Смена моды», 2026-10-10 |
+| EV-156 | event | 1 | draft: one per source row; renamed «Смена моды», 2026-10-10; renamed «Пандемия», 2026-10-19; effect unchanged |
 | EV-157 | event | 1 | draft: one per source row |
 | EV-158 | event | 1 | draft: one per source row |
 | EV-160 | event | 1 | draft: one per source row |
@@ -180,7 +180,7 @@
 | EV-187 | event | 1 | draft: one per source row |
 | EV-188 | event | 1 | draft: one per source row |
 | EV-193 | event | 1 | draft: one per source row |
-| EV-194 | event | 1 | draft: one per source row |
+| EV-194 | event | 1 | draft: one per source row; delayed discard/draw at next month end approved 2026-10-19; draw follows the end of the ban |
 | EV-195 | event | 1 | draft: one per source row |
 | EV-196 | event | 1 | draft: one per source row |
 | EV-197 | event | 1 | draft: one per source row |
@@ -210,7 +210,7 @@
 | EV-234 | event | 1 | draft: one per source row |
 | EV-237 | event | 1 | draft: one per source row; renamed «Добрососедство», 2026-10-10 |
 | EV-238 | event | 1 | draft: one per source row |
-| EV-239 | event | 1 | draft: one per source row; renamed «Новая машина», 2026-10-10 |
+| EV-239 | event | 1 | draft: one per source row; renamed «Новая машина», 2026-10-10; renamed «Покупка машины», 2026-10-19; 400B plus one hand event for the top status without choosing |
 | EV-242 | event | 1 | draft: one per source row |
 | EV-244 | event | 1 | draft: one per source row |
 | EV-246 | event | 1 | draft: one per source row |
@@ -343,9 +343,8 @@
 | EV-401 | event | 1 | author-added: Реанимация, 2026-10-10; provisional copy pending final selection |
 | EV-402 | event | 1 | author-added: Экстренная помощь, 2026-10-10; provisional copy pending final selection |
 | EV-403 | event | 1 | author-added: На чай, 2026-10-11; provisional copy pending final selection |
-| EV-404 | event | 1 | author-added: Чаевые, 2026-10-11; provisional copy pending final selection |
-| EV-405 | event | 1 | author-added: Откат, 2026-10-11; provisional copy pending final selection |
-| EV-406 | event | 1 | author-added: Двойной куш, 2026-10-11; provisional copy pending final selection |
+| EV-404 | event | 1 | author-added: Чаевые, 2026-10-11; provisional copy pending final selection; renamed «Куш», 2026-10-19; effect unchanged |
+| EV-405 | event | 1 | author-added: Откат, 2026-10-11; provisional copy pending final selection; renamed «Двойной куш», 2026-10-19; effect unchanged |
 | EV-407 | event | 1 | author-added: Взаимная выгода, 2026-10-12; one copy |
 | EV-408 | event | 1 | author-approved: Временной лаг, 2026-10-13 |
 | EV-409 | event | 1 | author-approved: Выгорание, 2026-10-13 |
