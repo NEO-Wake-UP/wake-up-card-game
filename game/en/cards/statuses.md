@@ -1,6 +1,6 @@
 # Statuses — English text
 
-English translation draft of the [current Russian statuses](../../ru/cards/statuses.md), aligned with source commit 3b1725e7fc2dc128359c2f882adffbd2c9595aea. Independent English-language review remains pending.
+English translation draft of the [current Russian statuses](../../ru/cards/statuses.md), updated to match the [approved Russian changes of 19 October](../../../design/reviews/2026-10-19-card-refinement.ru.md). Independent English-language review remains pending.
 
 33 translated statuses plus the custom blank status. Card IDs and copy counts follow the [shared inventory](../../deck.md). Monetary amounts with B and all existing delayed-discard annotations are **bold**, as in the Russian source. Translation notes are editorial guidance, separate from the printed effect.
 
@@ -24,7 +24,7 @@ Prior untranslated worksheets and historical notes remain available in [Git hist
 | ST-014 | Barista | Whenever any player plays “Coffee”, receive **100B** from the Bank. |  |
 | ST-015 | Neighbour | Once every two months, take **100B** from one of your neighbours. |  |
 | ST-016 | Game Developer | You receive no salary. Receive **100B** from the Bank for each use of the coin in the game, up to **400B** per month. | “Use” is not narrowed to coin flips only. |
-| ST-017 | Startup Founder | Once per month, flip the coin: UP — receive **200B** from the Bank; W — give **100B** to the Bank. |  |
+| ST-017 | Startup Founder | At the start of the month, flip the coin: UP — receive **200B** from the Bank; W — give **100B** to the Bank. | Gaining this status mid-month does not trigger a flip; wait for the next month start. |
 | ST-018 | Collector | At the end of the month, instead of salary, receive **100B** from the Bank for every three events in your hand. | Count complete groups of THREE, not the superseded pairs. |
 | ST-019 | Town Crank | Each month, put forward a new theory about how the game resembles life. |  |
 | ST-020 | King | Taxes do not affect you. If a player addresses you without “Your Majesty”, take **100B** in tax from them. | Paid to the King, not the Bank; tax immunity applies. No monthly cap is added. |
