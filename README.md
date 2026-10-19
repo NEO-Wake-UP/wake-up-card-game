@@ -18,9 +18,9 @@ Earn BABLOS, change your social status and navigate absurd events. Play for fun,
 | English | [English edition](game/en/README.md) | [Print pack status](print-and-play/en/README.md) |
 | Other languages / Другие языки | [Translation guide / Как перевести](templates/translation/README.md) | [Rules background / Фон правил](templates/rules/README.md) · [Blank cards / Пустые карты](templates/cards/README.md) |
 
-**Current edition:** 331 event cards including the blank; 34 statuses, 300 banknotes and one coin — 666 components. The target inventory is reached after retiring EV-406. The full English card translation is drafted. Card artwork, independent English review, further localisations, print packs and physical beta testing remain unfinished.
+**Current edition:** 331 event cards including the blank; 34 statuses, 300 banknotes and one coin — 666 components. Events are numbered EV-001–EV-331; EV-001–EV-030 are the 30 Coffee copies, EV-330 is WAKE UP and EV-331 is blank. The full English card translation is drafted. Card artwork, independent English review, further localisations, print packs and physical beta testing remain unfinished.
 
-**Состав на 19 октября 2026:** 301 заполненный вид событий; 30 экземпляров «Кофе» дают 330 заполненных карт + пустую = **331 событие**. Статусов **34**, банкнот **300**, монета **1**: всего **666 компонентов**. Целевой состав достигнут после удаления EV-406; остальные ID и количества сохранены.
+**Состав на 19 октября 2026:** 301 заполненный вид событий; 30 экземпляров «Кофе» дают 330 заполненных карт + пустую = **331 событие**. Статусов **34**, банкнот **300**, монета **1**: всего **666 компонентов**. Физические события упорядочены от EV-001 до EV-331; [соответствие прежним номерам](game/event-numbering.md) сохранено. Количество карт не изменилось.
 
 **Продолжение в новом чате:** начните с [START_HERE.ru.md — памятки Димы и Лиса](START_HERE.ru.md). Здесь собраны действующие решения, отменённые варианты, важные сочетания карт и результаты первых модельных партий.
 
