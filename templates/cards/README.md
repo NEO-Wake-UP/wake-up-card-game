@@ -1,5 +1,7 @@
 # Blank card layouts / Пустые макеты карт
 
+**Current layout priority / Приоритет вёрстки, 2026-10-22:** [large readable type, roughly 2–5 words per semantic line, text before artwork / крупный текст и смысловые строки](../../design/card-layout-principles.ru.md). The frames below are starting points; adjust the text area before fitting artwork.
+
 - [Event card / Событие](event-blank.svg)
 - [Status card / Карта статуса](status-blank.svg)
 
