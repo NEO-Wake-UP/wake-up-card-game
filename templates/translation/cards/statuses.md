@@ -6,7 +6,7 @@ Earlier worksheet summaries remain in [Git history](https://github.com/NEO-Wake-
 
 | ID | Title | Effect | Translation notes |
 | --- | --- | --- | --- |
-| ST-001 |  |  |  |
+| ST-001 |  |  | Source approved 2026-10-22: One personal 700B payout per player per game, shared across actual acquisition and copying. Losing/regaining the status or copying it again does not reset that limit. Another player has their own limit. Translation pending. |
 | ST-002 |  |  | Source approved 2026-09-29: Always receives double salary; this is a continuing property, not a one-time payout. Translation pending. |
 | ST-003 |  |  | Source approved 2026-09-29: At the beginning of the month may take 100B from any player. If acquired mid-month, wait for the next month start. Translation pending. |
 | ST-004 |  |  | Source approved 2026-10-07: Собака. No salary. Taxes do not affect this player, including the event discard of EV-290. Bark once per month: another player laughs, receive 100B from the Bank. Translation pending. |
@@ -18,12 +18,12 @@ Earlier worksheet summaries remain in [Git history](https://github.com/NEO-Wake-
 | ST-010 |  |  | Source approved 2026-09-29: Source title «Трудоголик», replacing «Рабочий». At the beginning of own turn may pay Bank 100B to play two events instead of one. Translation pending. |
 | ST-011 |  |  | Source approved 2026-10-10: After own turn, may swap seats with a chosen player, at most THREE times during this period of holding the status. A newly received instance gives a new allowance of three; the former once-every-three-months limit is removed. Translation pending. |
 | ST-012 |  |  | Source approved 2026-09-29: Receive 100B from Bank for every OWN skipped turn, voluntary or forced. Translation pending. |
-| ST-013 |  |  | Source approved 2026-10-10: No salary. Once every TWO months, discard a random event from another player's hand and take 300B from the Bank. The owner does not keep the discarded event. This replaces every three months/400B; the author prefers the easier alternating-month count. Translation pending. |
+| ST-013 |  |  | Source approved 2026-10-22: Count the two-month cycle from acquiring this status, not from the start of the game. The discarded event is not kept by the Thief; the victim receives no draw for this discard. Translation pending. |
 | ST-014 |  |  |  |
-| ST-015 |  |  | Source approved 2026-10-05: Once every two months take 100B from one neighbour. The former loan/no-repayment joke is replaced by direct taking; no consent requirement was added. Translation pending. |
+| ST-015 |  |  | Source approved 2026-10-22: Count the two-month cycle from acquiring this status, not from the start of the game. Translation pending. |
 | ST-016 |  |  |  |
 | ST-017 |  |  | Source approved 2026-10-19: flip at the start of each month; UP receives 200B from the Bank, W pays 100B. Mid-month acquisition waits for the next month start. Translation pending. |
-| ST-018 |  |  | Source approved 2026-09-29: At month end, instead of salary, receive 100B from Bank for each pair of events in own hand. Translation pending. |
+| ST-018 |  |  | Source approved 2026-10-22: Count complete groups of THREE. This salary replacement also applies to extra salary payments, including EV-092 and EV-152. Translation pending. |
 | ST-019 |  |  | Source approved 2026-09-29: Monthly theory about the game resembling life remains mandatory, not an optional suggestion. Translation pending. |
 | ST-020 |  |  | Source approved 2026-10-08: Король. Taxes do not affect you. Take a 100B TAX from a player addressing you without the royal title; tax immunity (including Dog and Homeless) prevents it. The King receives the tax, not the Bank. No monthly cap. Translation pending. |
 | ST-021 |  |  |  |
@@ -38,5 +38,5 @@ Earlier worksheet summaries remain in [Git history](https://github.com/NEO-Wake-
 | ST-030 |  |  | Source approved 2026-09-29: After the owner’s own bankruptcy, take 1100B from Bank. No new frequency limit. Translation pending. |
 | ST-031 |  |  | Source approved 2026-10-05: At MONTH start may inspect the top three events and return them to the TOP of the event deck in any order. Not at the beginning of own turn. Translation pending. |
 | ST-032 |  |  | Source approved 2026-10-07: Донор. At the beginning of the month, may receive 200B (not 300B) from the Bank for discarding one event from own hand. No timing change. Translation pending. |
-| ST-033 |  |  | Title approved 2026-10-12: AI-агент (Latin AI), formerly Джокер. Effect unchanged: at month start copy one neighbour status effect; copying is not receiving a status. Translation pending. |
+| ST-033 |  |  | Source approved 2026-10-22: Copies the full effect, including restrictions. Heir has one personal payout per game shared with actual acquisition. The author permits the rare Joker interaction, allowing a new status to be chosen. The character refers to Agent Smith. Translation pending. |
 | ST-034 |  |  |  |
