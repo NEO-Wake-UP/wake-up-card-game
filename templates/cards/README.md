@@ -1,6 +1,6 @@
 # Blank card layouts / Пустые макеты карт
 
-**Current layout priority / Приоритет вёрстки, 2026-10-22:** [large readable type, roughly 2–5 words per semantic line, text before artwork / крупный текст и смысловые строки](../../design/card-layout-principles.ru.md). The frames below are starting points; adjust the text area before fitting artwork.
+**Current layout priority / Приоритет с 2026-10-23:** [title and full effect together at the top; artwork below / название и эффект сверху, рисунок снизу](../../design/card-layout-principles.ru.md). Narrow white perimeter border, connected rounded title/effect frames, large soft readable type, roughly 2–5 words per semantic line. Subjective direction: 70% readability / 30% cartoon high-tech style with New Year colours. [Jackpot previews / Пробы «Джекпота»](../../design/jackpot-layout-previews.ru.md). The SVG files below preserve the former effect-at-bottom layout and are historical starting points; they have not been rebuilt as the new masters.
 
 - [Event card / Событие](event-blank.svg)
 - [Status card / Карта статуса](status-blank.svg)
