@@ -4,7 +4,8 @@
 
 ## Текущие материалы
 
-- [Принципы крупного текста и строк по 2–5 слов](card-layout-principles.ru.md)
+- [Компоновка с текстом сверху и направление 70/30](card-layout-principles.ru.md)
+- [Два пробных макета «Джекпота»](jackpot-layout-previews.ru.md)
 - [Авторский замысел](vision.ru.md)
 - [Идеи рисунков событий](event-illustration-ideas.ru.md)
 - [Идеи рисунков статусов](status-illustration-ideas.ru.md)
@@ -15,6 +16,7 @@
 
 ## Решения и история
 
+- [Отдельные выплаты, сброс в конце месяца и новый дизайн, 23 октября](reviews/2026-10-23-month-end-and-design.ru.md)
 - [Утверждённая вычитка статусов и событий, 22 октября](reviews/2026-10-22-status-event-polish.ru.md)
 - [Шесть принятых правок и последовательные номера EV-001–EV-331, 19 октября](reviews/2026-10-19-event-order.ru.md)
 - [Таблица соответствия прежним EV-номерам](../game/event-numbering.md)

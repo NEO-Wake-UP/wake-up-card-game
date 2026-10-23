@@ -1,6 +1,6 @@
 # Statuses — English text
 
-English translation draft of the [current Russian statuses](../../ru/cards/statuses.md), updated to match the [approved Russian changes of 22 October](../../../design/reviews/2026-10-22-status-event-polish.ru.md). Independent English-language review remains pending.
+English translation draft of the [current Russian statuses](../../ru/cards/statuses.md), updated to match the [approved Russian changes of 23 October](../../../design/reviews/2026-10-23-month-end-and-design.ru.md). Independent English-language review remains pending.
 
 33 translated statuses plus the custom blank status. Card IDs and copy counts follow the [shared inventory](../../deck.md). Monetary amounts with B and all existing delayed-discard annotations are **bold**, as in the Russian source. Translation notes are editorial guidance, separate from the printed effect.
 
@@ -12,11 +12,11 @@ Prior untranslated worksheets and historical notes remain available in [Git hist
 | ST-002 | Official's Son | You always receive double salary. |  |
 | ST-003 | Supermodel | At the start of the month, you may take **100B** from any player. |  |
 | ST-004 | Dog | You receive no salary. Taxes do not affect you. Bark once per month: if another player laughs, receive **100B** from the Bank. | Tax immunity includes non-monetary taxes. |
-| ST-005 | Minimalist | You may decline draws. If you have no more than three events in hand at the end of the month, receive **100B** extra salary. | Effect-based gains are not draws. |
+| ST-005 | Minimalist | You may decline draws. If you have no more than three events in hand at the end of the month, receive **100B** from the Bank. | Effect-based gains are not draws. This month-end payout is independent of salary. Count only events in hand; players decide the order of month-end delayed draws and hand checks. |
 | ST-006 | Gambler | At the start of the month, hide the coin in one hand. Another player guesses the hand: correct — they receive **100B** from the Bank; incorrect — you do. |  |
 | ST-007 | Lawyer | You may discard three events from your hand to cancel an event effect directed personally against you. | Does not cancel global or multi-target effects such as Bandit, even partially. |
 | ST-008 | Homeless | You receive no salary. Taxes do not affect you. At the end of every second month, receive a **100B** allowance from the Bank. | The allowance is independent of salary; restoring salary does not remove it. |
-| ST-009 | Transformer | At the start of each month, choose one effect for that month: 1) Gain a new event for each of your skipped turns. 2) Receive **100B** extra salary. | A status received mid-month waits until the next month starts; the choice is not made on acquisition. |
+| ST-009 | Transformer | At the start of each month, choose one effect for that month: 1) Gain a new event for each of your skipped turns. 2) At the end of the month, receive **100B** from the Bank. | A status received mid-month waits until the next month starts; the choice is not made on acquisition. The second form is a separate month-end Bank payout, independent of salary and salary bans. |
 | ST-010 | Workaholic | At the start of your turn, you may pay the Bank **100B** to play two events instead of one. |  |
 | ST-011 | Traveller | After your turn, you may swap seats at the table with a chosen player — up to three times before your status changes. | Three swaps per continuous period of ownership; reacquiring the status gives a new allowance. |
 | ST-012 | Slacker | Receive **100B** from the Bank for each of your skipped turns. | Includes both voluntary and forced skips. |
@@ -25,9 +25,9 @@ Prior untranslated worksheets and historical notes remain available in [Git hist
 | ST-015 | Neighbour | At the start of every second month, take **100B** from one of your neighbours. | Count the two-month cycle from acquiring this status, not from the start of the game. |
 | ST-016 | Game Developer | You receive no salary. Receive **100B** from the Bank for each use of the coin in the game, up to **400B** per month. | “Use” is not narrowed to coin flips only. |
 | ST-017 | Startup Founder | At the start of the month, flip the coin: UP — receive **200B** from the Bank; W — give **100B** to the Bank. | Gaining this status mid-month does not trigger a flip; wait for the next month start. |
-| ST-018 | Collector | Instead of salary, receive **100B** from the Bank for every three events in your hand. | Count complete groups of THREE. This salary replacement also applies to extra salary payments, including EV-092 and EV-152. |
+| ST-018 | Collector | You receive no salary. At the end of the month, receive **100B** from the Bank for every three events in your hand. | Count complete groups of THREE in hand. The separate payout happens only at month end; extra salary events EV-092/152 do not trigger it. Under the established EV-244 interpretation, removing the no-salary restriction leaves this payout intact. Players decide the order of month-end delayed draws and hand checks. |
 | ST-019 | Town Crank | Each month, put forward a new theory about how the game resembles life. |  |
-| ST-020 | King | Taxes do not affect you. If a player addresses you without “Your Majesty”, take **100B** in tax from them. | Paid to the King, not the Bank; tax immunity applies. No monthly cap is added. |
+| ST-020 | King | Taxes do not affect you. Each time a player addresses you without “Your Majesty”, take **100B** in tax from them. | Paid to the King, not the Bank; tax immunity applies. Each violation triggers the tax; no monthly cap is added. |
 | ST-021 | Hacker | After your turn, you may reverse the direction of play. |  |
 | ST-022 | Shopaholic | Receive a new event instead of salary. |  |
 | ST-023 | Manipulator | At the start of the month, exchange an event from your hand for a random event from another player's hand. | The owner's event is chosen; the other player's event is random. |

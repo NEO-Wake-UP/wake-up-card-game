@@ -39,7 +39,7 @@ Historical notes use a different numbering system. This worksheet uses current n
 | EV-031 |  |  | Source approved 2026-10-19; follow the current RU effect and the card-refinement review. |
 | EV-032 |  |  | Source approved 2026-10-22; follow the current RU effect and the status-event-polish review. Triggers only on a negative event against the owner; a beneficial event does not use up the protection. Reflects only the part aimed at the owner; global events bypass it. |
 | EV-033 |  |  | Source approved 2026-10-22; follow the current RU effect and the status-event-polish review. Triggers only on a negative event against the owner; a beneficial event does not use up the protection. Cancels the whole targeted event, including its other targets. |
-| EV-034 |  |  |  |
+| EV-034 |  |  | Source approved 2026-10-23: Keep until the end of the current month, then discard and receive the delayed replacement draw. No replacement draw at initial play. |
 | EV-035 |  |  | RU title renamed 2026-10-10: «Ограбление банка» (formerly «Совместный грабёж»). |
 | EV-036 |  |  |  |
 | EV-037 |  |  | Source approved 2026-10-07: Революция. Collect all player statuses, shuffle and deal one to each player. Translation pending. |
@@ -73,15 +73,15 @@ Historical notes use a different numbering system. This worksheet uses current n
 | EV-065 |  |  | Source approved 2026-10-07: Обмен ролями. Exchange statuses with the chosen player. Translation pending. |
 | EV-066 |  |  | Source approved 2026-10-19; follow the current RU effect and the card-refinement review. |
 | EV-067 |  |  | Source wording approved 2026-10-09; see the current RU source and the approved review. Translation pending. |
-| EV-068 |  |  | Source wording approved 2026-10-09; see the current RU source and the approved review. Translation pending. |
+| EV-068 |  |  | Source approved 2026-10-23: Keep until the end of the current month, then discard and receive the delayed replacement draw. No replacement draw at initial play. Previous editorial context: Source wording approved 2026-10-09; see the current RU source and the approved review. Translation pending. |
 | EV-069 |  |  |  |
 | EV-070 |  |  |  |
 | EV-071 |  |  |  |
 | EV-072 |  |  | Source approved 2026-10-09: Return Boomerang to hand at month end. Its normal replacement draw follows the general timing. The author keeps it beside the discard while waiting, not mixed into it. Translation pending. |
 | EV-073 |  |  | Source approved 2026-10-08: Большой обмен. All players simultaneously pass one event from their own hand to the right. Replaces sequential transfer in the current turn direction. Same ID and title. Translation pending. |
 | EV-074 |  |  | Source approved 2026-10-11, delayed-draw clarification: Choose another player: on their next own turn they play two events instead of one. Scope and mandatory two-or-pass meaning are unchanged. Translation pending. |
-| EV-075 |  |  |  |
-| EV-076 |  |  | Source wording approved 2026-10-09; see the current RU source and the approved review. Translation pending. |
+| EV-075 |  |  | Source approved 2026-10-23: Keep until the end of the current month, then discard and receive the delayed replacement draw. No replacement draw at initial play. |
+| EV-076 |  |  | Source approved 2026-10-23: Keep until the end of the current month, then discard and receive the delayed replacement draw. No replacement draw at initial play. Previous editorial context: Source wording approved 2026-10-09; see the current RU source and the approved review. Translation pending. |
 | EV-077 |  |  | Source approved 2026-10-11, delayed-draw clarification: Declare all your BABLOS and deposit them in the Bank. They are no longer your personal BABLOS until you choose to reclaim that declared sum; the former three-month wait is removed. Deposited money is excluded from personal wealth/victory calculations and personal losses while it remains in the Bank. Do not add permanent immunity after reclaiming it or a repeat-deposit ability. Translation pending. |
 | EV-078 |  |  | Source wording approved 2026-10-09; see the current RU source and the approved review. Translation pending. |
 | EV-079 |  |  | Source approved 2026-10-07: Цугцванг. Chosen player pays you 200B or skips their own next turn; existing short text reconfirmed. Translation pending. |
@@ -108,7 +108,7 @@ Historical notes use a different numbering system. This worksheet uses current n
 | EV-100 |  |  | Source wording approved 2026-10-09; see the current RU source and the approved review. Translation pending. |
 | EV-101 |  |  |  |
 | EV-102 |  |  | Approved 2026-10-19: follow the current RU effect, including delayed discard and its replacement draw. Translation pending. |
-| EV-103 |  |  | Source wording approved 2026-10-09; see the current RU source and the approved review. Translation pending. |
+| EV-103 |  |  | Source approved 2026-10-23: Keep until the end of the current month, then discard and receive the delayed replacement draw. No replacement draw at initial play. Previous editorial context: Source wording approved 2026-10-09; see the current RU source and the approved review. Translation pending. |
 | EV-104 |  |  | Source approved 2026-10-19; follow the current RU effect and the card-refinement review. |
 | EV-105 |  |  | Source approved 2026-10-09: Pass this event to the chosen player's hand. The normal replacement draw for playing it remains; no additional effect-based event gain. Translation pending. |
 | EV-106 |  |  |  |
@@ -161,8 +161,8 @@ Historical notes use a different numbering system. This worksheet uses current n
 | EV-153 |  |  | Source approved 2026-10-19; follow the current RU effect and the card-refinement review. The initial 100B must be paid. Covers the whole negative monetary effect, not a voluntary purchase; discard when that coverage triggers. |
 | EV-154 |  |  | Source approved 2026-10-07: Менеджмент. Intentional exchange with EV-148: gain two new events, then discard two from hand. Names and IDs unchanged. Translation pending. |
 | EV-155 |  |  | Source approved 2026-10-09: Take 100B from the Bank. Return this event to hand instead of the replacement draw for THIS event; do not suppress draws for other played events. The author removed the word immediately from the proposed wording. Translation pending. |
-| EV-156 |  |  | Source wording approved 2026-10-09; see the current RU source and the approved review. Translation pending. |
-| EV-157 |  |  | Source approved 2026-10-10, logic review: At this month end, pay the monetary salary to the Bank instead of receiving it. This does not turn non-money salary replacements into money payments. A player with no monetary salary pays no salary. This is not a tax. Translation pending. |
+| EV-156 |  |  | Source approved 2026-10-23: Keep until the end of the current month, then discard and receive the delayed replacement draw. No replacement draw at initial play. Previous editorial context: Source wording approved 2026-10-09; see the current RU source and the approved review. Translation pending. |
+| EV-157 |  |  | Source approved 2026-10-23: Keep until the end of the current month, then discard and receive the delayed replacement draw. No replacement draw at initial play. Previous editorial context: Source approved 2026-10-10, logic review: At this month end, pay the monetary salary to the Bank instead of receiving it. This does not turn non-money salary replacements into money payments. A player with no monetary salary pays no salary. This is not a tax. Translation pending. |
 | EV-158 |  |  | Approved 2026-10-19: follow the current RU effect, including delayed discard and its replacement draw. Translation pending. |
 | EV-159 |  |  | Source approved 2026-10-22; follow the current RU effect and the status-event-polish review. This payment is explicitly a tax; tax immunity applies. |
 | EV-160 |  |  | Source approved 2026-10-22; follow the current RU effect and the status-event-polish review. This payment is explicitly a tax; tax immunity applies. |
@@ -173,7 +173,7 @@ Historical notes use a different numbering system. This worksheet uses current n
 | EV-165 |  |  | Source approved 2026-10-19; follow the current RU effect and the card-refinement review. |
 | EV-166 |  |  | Source approved 2026-10-07: Мультиход. May play up to two additional events, paying 100B (not 200B) to the Bank before EACH. Translation pending. |
 | EV-167 |  |  | Source wording approved 2026-10-09; see the current RU source and the approved review. Translation pending. |
-| EV-168 |  |  | Source approved 2026-10-12: Chosen player pays Bank 100B now and 100B at the end of the current month. Translation pending. |
+| EV-168 |  |  | Source approved 2026-10-23: Keep until the end of the current month, then discard and receive the delayed replacement draw. No replacement draw at initial play. Previous editorial context: Source approved 2026-10-12: Chosen player pays Bank 100B now and 100B at the end of the current month. Translation pending. |
 | EV-169 |  |  | RU title renamed 2026-10-10: «Беспроигрышный билет» (formerly «Большая удача»). |
 | EV-170 |  |  | Wording approved 2026-10-12, evening: take a random event from a player with the largest event hand. If tied, choose any one of those players. Title, quantities and mechanic unchanged; translation pending. |
 | EV-171 |  |  | Source wording approved 2026-10-09; see the current RU source and the approved review. Translation pending. |
@@ -187,7 +187,7 @@ Historical notes use a different numbering system. This worksheet uses current n
 | EV-179 |  |  |  |
 | EV-180 |  |  |  |
 | EV-181 |  |  | Source approved 2026-10-12: First UP wins 200B; take winnings from Bank or toss again, each further UP doubles unclaimed winnings. W zeroes winnings AND ends the entire turn. Translation pending. |
-| EV-182 |  |  | Source approved 2026-10-10, logic review: All players skip turns until this month ends. The CURRENT turn also ends, including when the event is played outside the owner's turn. Translation pending. |
+| EV-182 |  |  | Source approved 2026-10-23: Keep until the end of the current month, then discard and receive the delayed replacement draw. No replacement draw at initial play. Previous editorial context: Source approved 2026-10-10, logic review: All players skip turns until this month ends. The CURRENT turn also ends, including when the event is played outside the owner's turn. Translation pending. |
 | EV-183 |  |  | Source approved 2026-10-22; follow the current RU effect and the status-event-polish review.  |
 | EV-184 |  |  | RU title renamed 2026-10-10: «Свежая идея» (formerly «Стресс»). Source wording approved 2026-10-09; see the current RU source and the approved review. Translation pending. |
 | EV-185 |  |  | Source approved 2026-10-19; follow the current RU effect and the card-refinement review. |
@@ -205,7 +205,7 @@ Historical notes use a different numbering system. This worksheet uses current n
 | EV-197 |  |  | Approved 2026-10-19: follow the current RU effect, including delayed discard and its replacement draw. Translation pending. |
 | EV-198 |  |  | Source approved 2026-10-22; follow the current RU effect and the status-event-polish review. Randomises the first event of that turn, not every extra play. Keep this event until the end of the chosen player's next turn, then discard and receive its delayed draw. |
 | EV-199 |  |  | Source approved 2026-09-29: Play the events in the original hand. No replacement draws for the entire sequence, including Agony. Event gains through effects ARE allowed; new/returned events do not automatically join the required set. Separate play instructions (such as EV-171) still apply. Old ban on effect gains cancelled. Translation pending. |
-| EV-200 |  |  | Source approved 2026-10-07: Медитация. At the end of this month, receive two new events instead of salary. Translation pending. |
+| EV-200 |  |  | Source approved 2026-10-23: Keep until the end of the current month, then discard and receive the delayed replacement draw. No replacement draw at initial play. Previous editorial context: Source approved 2026-10-07: Медитация. At the end of this month, receive two new events instead of salary. Translation pending. |
 | EV-201 |  |  | Source approved 2026-10-12: Each of your Bank payments is reduced by 100B through next month. Discard at the end of next month; replacement draw is delayed until that discard. Translation pending. |
 | EV-202 |  |  | Source approved 2026-10-12: Add 100B to salary every two months until status changes. Discard on that status change; replacement draw is delayed until that discard. Translation pending. |
 | EV-203 |  |  | Source wording approved 2026-10-09; see the current RU source and the approved review. Translation pending. |
@@ -221,7 +221,7 @@ Historical notes use a different numbering system. This worksheet uses current n
 | EV-213 |  |  |  |
 | EV-214 |  |  | Source approved 2026-10-22; follow the current RU effect and the status-event-polish review. Counts as a skipped turn. The chosen player gains an event by effect; the owner receives this played event's delayed replacement draw after its discard. |
 | EV-215 |  |  | Source approved 2026-10-19; follow the current RU effect and the card-refinement review. |
-| EV-216 |  |  |  |
+| EV-216 |  |  | Source approved 2026-10-23: Keep until the end of the current month, then discard and receive the delayed replacement draw. No replacement draw at initial play. |
 | EV-217 |  |  | Source approved 2026-10-22; follow the current RU effect and the status-event-polish review.  |
 | EV-218 |  |  |  |
 | EV-219 |  |  | RU title renamed 2026-10-10: «Карманная кража» (formerly «Захват»). Source updated 2026-10-04: title is Захват. Existing effect unchanged: take a random event from the chosen player’s hand. The new Конфискация proposal is a separate candidate. Translation pending. |
@@ -230,7 +230,7 @@ Historical notes use a different numbering system. This worksheet uses current n
 | EV-222 |  |  | Source approved 2026-10-09: Take one random event from each of two players' hands. The word other remains omitted; source wording now explicitly says from hand. Translation pending. |
 | EV-223 |  |  |  |
 | EV-224 |  |  | Source approved 2026-10-10, logic review: Choose two DISTINCT players: one with the most BABLOS, one with the least. The first pays the second 500B. Ties allow a choice; if everyone ties, choose any two distinct players. Translation pending. |
-| EV-225 |  |  | Source approved 2026-10-22; follow the current RU effect and the status-event-polish review. The condition includes the part of the month before this event was played. Keep through this month even if the condition has already failed; discard at month end. |
+| EV-225 |  |  | Source approved 2026-10-23: Shortened month-end discard annotation; timing unchanged. Source approved 2026-10-22; follow the current RU effect and the status-event-polish review. The condition includes the part of the month before this event was played. Keep through this month even if the condition has already failed; discard at month end. |
 | EV-226 |  |  |  |
 | EV-227 |  |  | Source wording approved 2026-10-09; see the current RU source and the approved review. Translation pending. |
 | EV-228 |  |  | Source approved 2026-10-19; follow the current RU effect and the card-refinement review. Mandatory-flip events cannot be played and coin abilities cannot be used during the ban. |
@@ -251,11 +251,11 @@ Historical notes use a different numbering system. This worksheet uses current n
 | EV-243 |  |  |  |
 | EV-244 |  |  | Title approved 2026-10-12: Волшебная таблетка (formerly Обычная таблетка). Effect unchanged: remove only salary bans ALREADY ACTIVE on the chosen player, including their current status's ban. No future immunity or skipped-turn cure; Homeless allowance remains independent. Translation pending. |
 | EV-245 |  |  |  |
-| EV-246 |  |  | Source approved 2026-10-22; follow the current RU effect and the status-event-polish review.  |
+| EV-246 |  |  | Source approved 2026-10-23: Shortened month-end discard annotation; timing unchanged. Source approved 2026-10-22; follow the current RU effect and the status-event-polish review. |
 | EV-247 |  |  | RU source approved 2026-10-12: every player who skips their own turn next month pays the owner 100B; discard at next month end, with replacement draw deferred. |
 | EV-248 |  |  | RU title renamed 2026-10-10: «Красная цена» (formerly «Договор»). Source approved 2026-10-04: Договор. See the current Russian source and the approved 2026-10-04 review. Translation pending. |
 | EV-249 |  |  | Source approved 2026-10-04: Дежавю. See the current Russian source and the approved 2026-10-04 review. Translation pending. |
-| EV-250 |  |  | RU title approved 2026-10-12: «Сбой выплат» replaces «Засуха»; only event-effect BABLOS receipts are blocked, other effect actions remain. Translation pending. |
+| EV-250 |  |  | Source approved 2026-10-23: Keep until the end of the current month, then discard and receive the delayed replacement draw. No replacement draw at initial play. Previous editorial context: RU title approved 2026-10-12: «Сбой выплат» replaces «Засуха»; only event-effect BABLOS receipts are blocked, other effect actions remain. Translation pending. |
 | EV-251 |  |  | RU source approved 2026-10-12, final evening batch: see design/reviews/2026-10-12-evening-events-approved.ru.md. Translation pending. |
 | EV-252 |  |  | RU source approved 2026-10-12, final evening batch: see design/reviews/2026-10-12-evening-events-approved.ru.md. Translation pending. |
 | EV-253 |  |  | Source approved 2026-10-19; follow the current RU effect and the card-refinement review. |
