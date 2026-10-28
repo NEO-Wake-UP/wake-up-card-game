@@ -10,6 +10,8 @@ Follow the [wording and coin-face notation approved on 28 October](../../../desi
 
 See the [final wording polish approved on 28 October](../../../design/reviews/2026-10-28-final-wording-polish.ru.md). Equivalent English wording is retained where it already matches the approved Russian meaning.
 
+Follow the [status balance and clarity changes approved on 28 October](../../../design/reviews/2026-10-28-status-balance-and-child-clarity.ru.md). Collector now receives normal salary; Minimalist has a separate 200B month-end bonus.
+
 | ID | Title | Effect | Translation notes |
 | --- | --- | --- | --- |
 | EV-001 | Coffee | Receive **200B** from the Bank or play one more event. |  |
@@ -153,10 +155,10 @@ See the [final wording polish approved on 28 October](../../../design/reviews/20
 | EV-139 | Pandemic | You and both your neighbours each gain a new status from the deck. |  |
 | EV-140 | Superpower | Play one more event and resolve its effect twice. |  |
 | EV-141 | Planned Obsolescence | Each player discards an event from their hand, gives **100B** to the Bank and gains a new event. |  |
-| EV-142 | Duel | First you, then a chosen player flip the coin: (UP) — take a random event and **300B** from your opponent; (W) — nothing. |  |
+| EV-142 | Duel | First you, then a chosen player flip the coin: (UP) — take a random event from your opponent's hand and **300B** from them; (W) — nothing. |  |
 | EV-143 | Disposer | Pay the Bank **4000B** to eliminate a chosen player from the game. | In team play, the eliminated player's teammates continue. |
 | EV-144 | Cat | This event cannot be played. But you can show it off! |  |
-| EV-145 | Passive Aggression | Take **200B** or a random event from a chosen player. |  |
+| EV-145 | Passive Aggression | Take **200B** from a chosen player or a random event from their hand. |  |
 | EV-146 | Usury | Give a chosen player **200B**. At the end of next month, take **400B** from them. **(Discard at the end of next month.)** |  |
 | EV-147 | Working Yourself into the Ground | On your next turn, you may play two events in a row without a draw for either. **(Discard after your next turn.)** | Only the two events granted by this effect lose their draws; extra plays granted by effects retain theirs. This event has its own delayed draw after your next turn. |
 | EV-148 | Micromanagement | Choose three events from your hand and gain three new ones. Put the chosen events on top of the deck. |  |
@@ -176,12 +178,12 @@ See the [final wording polish approved on 28 October](../../../design/reviews/20
 | EV-162 | Shortage | Next month, no player receives a draw. **(Discard at the end of next month.)** | Keep until the end of next month. When the ban ends, discard this event and receive its delayed replacement draw. This supersedes the former normal-discard exception. |
 | EV-163 | Balance | If you have more events in hand than your left-hand neighbour but fewer than your right-hand neighbour, receive **400B** from the Bank. |  |
 | EV-164 | Bus Stop | Pay the Bank **100B** as your fare or leave the game “without losing”. |  |
-| EV-165 | One-Eyed Joe | Keep one eye closed until the end of next month to receive **500B** from the Bank. **(Discard at the end of next month.)** |  |
+| EV-165 | One-Eyed Joe | Keep one eye closed until the end of next month — receive **500B** from the Bank for completing the challenge. **(Discard at the end of next month.)** | The reward is for successfully completing the challenge through the end of next month, not an advance payment. Keep the existing month-end discard and delayed replacement draw. |
 | EV-166 | Multi-Move | You may play up to two more events, paying the Bank **100B** before each. |  |
 | EV-167 | Resale | Discard an event from your hand to receive **200B** from the Bank and gain a new event. |  |
 | EV-168 | Bad Habit | A chosen player pays the Bank **100B** both now and at the end of the month. **(Discard at month end.)** | Keep this event until month end, then discard it and receive its delayed replacement draw. No replacement draw at initial play. |
 | EV-169 | Guaranteed-Win Ticket | Flip the coin: (UP) — receive **300B** from the Bank; (W) — gain a new event. |  |
-| EV-170 | Envy | Take a random event from the player with the most events in hand. In a tie, choose any of them. |  |
+| EV-170 | Envy | Take a random event from the hand of the player with the most events in hand. In a tie, choose any of them. |  |
 | EV-171 | Impulsive Decision | Gain the top event of the deck and play it immediately. |  |
 | EV-172 | Commission | A chosen player pays the Bank **100B**. |  |
 | EV-173 | Trend or Cringe | Flip the coin: (UP) — receive **300B** from the Bank; (W) — take a random event from the discard pile. |  |
@@ -219,7 +221,7 @@ See the [final wording polish approved on 28 October](../../../design/reviews/20
 | EV-205 | Reward | Receive **200B** from the Bank and give **100B** to another player. |  |
 | EV-206 | Set-Up | A chosen player flips the coin: (UP) — they gain a new status from the deck; (W) — nothing. |  |
 | EV-207 | Fine | A chosen player pays the Bank **300B**. |  |
-| EV-208 | Poker Face | Keep a completely expressionless face until the end of next month to receive **400B** from the Bank. **(Discard at the end of next month.)** |  |
+| EV-208 | Poker Face | Keep a completely expressionless face until the end of next month — receive **400B** from the Bank for completing the challenge. **(Discard at the end of next month.)** | The reward is for successfully completing the challenge through the end of next month, not an advance payment. Keep the existing month-end discard and delayed replacement draw. |
 | EV-209 | Interim Winner | The richest player skips their next turn. In a tie, each of the richest players does so. |  |
 | EV-210 | One in a Million | Flip the coin. If it lands on its edge, take all the BABLOS from the Bank. |  |
 | EV-211 | Telephone Game | You and a chosen player each give the other a random event from your hand. |  |
@@ -280,7 +282,7 @@ See the [final wording polish approved on 28 October](../../../design/reviews/20
 | EV-266 | Reseating | Choose two different players: one with the most events in hand and one with the fewest. They swap seats at the table. |  |
 | EV-267 | Sick Leave | When their next turn is due, a chosen player skips it and receives **100B** from the Bank. **(Discard after their skipped turn.)** | The payout happens when the chosen player's next turn is due, not at initial play. Discard after that skip. |
 | EV-268 | Confiscation | A chosen player gives you **300B** and gains a new status from the deck. |  |
-| EV-269 | Mute | Communicate without words until the end of next month to receive **400B** from the Bank. **(Discard at the end of next month.)** | No exception for reading effects aloud. |
+| EV-269 | Mute | Communicate without words until the end of next month — receive **400B** from the Bank for completing the challenge. **(Discard at the end of next month.)** | The reward is for successfully completing the challenge through the end of next month, not an advance payment. Keep the existing month-end discard and delayed replacement draw. No exception for reading effects aloud. |
 | EV-270 | Phishing | The next payment to the Bank through an event effect goes to you. **(Discard when triggered.)** | Intercepts one payment, not all payments of an event. |
 | EV-271 | Mass Mailing | Give one event from your hand to each of the other players and gain two new events. |  |
 | EV-272 | Free Sample | Exchange your status for the top one in the status deck. At the end of next month, you may repeat the exchange. **(Discard at the end of next month.)** |  |

@@ -8,13 +8,15 @@ Follow the [wording and coin-face notation approved on 28 October](../../../desi
 
 See the [final wording polish approved on 28 October](../../../design/reviews/2026-10-28-final-wording-polish.ru.md). Equivalent English wording is retained where it already matches the approved Russian meaning.
 
+Follow the [status balance and clarity changes approved on 28 October](../../../design/reviews/2026-10-28-status-balance-and-child-clarity.ru.md). Collector now receives normal salary; Minimalist has a separate 200B month-end bonus.
+
 | ID | Title | Effect | Translation notes |
 | --- | --- | --- | --- |
 | ST-001 |  |  | Source approved 2026-10-22: One personal 700B payout per player per game, shared across actual acquisition and copying. Losing/regaining the status or copying it again does not reset that limit. Another player has their own limit. Translation pending. |
 | ST-002 |  |  | Source approved 2026-09-29: Always receives double salary; this is a continuing property, not a one-time payout. Translation pending. |
-| ST-003 |  |  | Source approved 2026-09-29: At the beginning of the month may take 100B from a chosen player. If acquired mid-month, wait for the next month start. Translation pending. |
+| ST-003 |  |  | Source approved 2026-10-28: At month start may take 100B from a player chosen by the status owner. Mid-month acquisition waits for the next month start. Translation pending. |
 | ST-004 |  |  | Source approved 2026-10-07: Собака. No salary. Taxes do not affect this player, including the event discard of EV-290. Bark once per month: another player laughs, receive 100B from the Bank. Translation pending. |
-| ST-005 |  |  | Source approved 2026-10-23: Effect-based gains are not draws. This month-end payout is independent of salary. Count only events in hand; players decide the order of month-end delayed draws and hand checks. Translation pending. |
+| ST-005 |  |  | Source approved 2026-10-28: May decline draws. With at most three events in hand at month end receives a separate 200B Bank bonus, plus normal salary under the general rules. Players decide the order of delayed draws and hand checks. Translation pending. |
 | ST-006 |  |  | Source approved 2026-09-29: At month start hide the coin in one hand; another player guesses. Correct: guesser takes 100B from Bank; incorrect: owner takes it. Mid-month acquisition waits for next month start. Translation pending. |
 | ST-007 |  |  | Source approved 2026-09-29: Source name is now «Адвокат», replacing «Юрист». May discard three events from own hand to cancel an event effect personally directed against the owner. No monthly cap; cannot cancel multi-target/global effects (including Bandit), even partially. Translation pending. |
 | ST-008 |  |  | Source approved 2026-10-07: Бездомный. Taxes do not affect this player, including EV-290. No salary. At the end of every second month receive a 100B Bank allowance. The allowance is independent, so after EV-244 the owner receives both salary and allowance. Translation pending. |
@@ -23,11 +25,11 @@ See the [final wording polish approved on 28 October](../../../design/reviews/20
 | ST-011 |  |  | Source approved 2026-10-10: After own turn, may swap seats with a chosen player, at most THREE times during this period of holding the status. A newly received instance gives a new allowance of three; the former once-every-three-months limit is removed. Translation pending. |
 | ST-012 |  |  | Source approved 2026-09-29: Receive 100B from Bank for every OWN skipped turn, voluntary or forced. Translation pending. |
 | ST-013 |  |  | Source approved 2026-10-22: Count the two-month cycle from acquiring this status, not from the start of the game. The discarded event is not kept by the Thief; the victim receives no draw for this discard. Translation pending. |
-| ST-014 |  |  |  |
+| ST-014 |  |  | Source approved 2026-10-28: Whenever any player plays the Coffee event, receives 100B from the Bank. Translation pending. |
 | ST-015 |  |  | Source approved 2026-10-22: Count the two-month cycle from acquiring this status, not from the start of the game. Translation pending. |
 | ST-016 |  |  |  |
 | ST-017 |  |  | Source approved 2026-10-19: flip at the start of each month; (UP) receives 200B from the Bank, (W) pays 100B. Mid-month acquisition waits for the next month start. Translation pending. |
-| ST-018 |  |  | Source approved 2026-10-23: Count complete groups of THREE in hand. The separate payout happens only at month end; extra salary events EV-092/152 do not trigger it. Under the established EV-244 interpretation, removing the no-salary restriction leaves this payout intact. Players decide the order of month-end delayed draws and hand checks. Translation pending. |
+| ST-018 |  |  | Source approved 2026-10-28: Receives normal salary plus a separate 100B month-end Bank bonus for each complete group of three events in hand. Extra salary events EV-092/152 pay salary but do not trigger the hand bonus. Salary bans do not cancel the separate bonus. Players decide the order of delayed draws and hand checks. Translation pending. |
 | ST-019 |  |  | Source approved 2026-09-29: Monthly theory about the game resembling life remains mandatory, not an optional suggestion. Translation pending. |
 | ST-020 |  |  | Source approved 2026-10-23: Paid to the King, not the Bank; tax immunity applies. Each violation triggers the tax; no monthly cap is added. Translation pending. |
 | ST-021 |  |  |  |
@@ -41,6 +43,6 @@ See the [final wording polish approved on 28 October](../../../design/reviews/20
 | ST-029 |  |  | Final source approved 2026-10-05: Фрилансер replaces Барахольщик. No salary; receive 100B from the Bank when BEGINNING to play an event, before resolving its effect. A status-changing event rewards its initial Freelancer; becoming Freelancer through that event does not reward it. Income is independent of replacement draws. No monthly cap; the earlier 200B proposal is not approved. Translation pending. |
 | ST-030 |  |  | Source approved 2026-09-29: After the owner’s own bankruptcy, take 1100B from Bank. No new frequency limit. Translation pending. |
 | ST-031 |  |  | Source approved 2026-10-05: At MONTH start may inspect the top three events and return them to the TOP of the event deck in any order. Not at the beginning of own turn. Translation pending. |
-| ST-032 |  |  | Source approved 2026-10-07: Донор. At the beginning of the month, may receive 200B (not 300B) from the Bank for discarding one event from own hand. No timing change. Translation pending. |
+| ST-032 |  |  | Source approved 2026-10-28: At month start may receive 200B from the Bank for discarding one event from the owner's own hand. Translation pending. |
 | ST-033 |  |  | Source approved 2026-10-22: Copies the full effect, including restrictions. Heir has one personal payout per game shared with actual acquisition. The author permits the rare Joker interaction, allowing a new status to be chosen. The character refers to Agent Smith. Translation pending. |
 | ST-034 |  |  |  |
