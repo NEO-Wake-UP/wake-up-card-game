@@ -8,6 +8,8 @@ Follow the [wording and coin-face notation approved on 28 October](../../../desi
 
 See the [final wording polish approved on 28 October](../../../design/reviews/2026-10-28-final-wording-polish.ru.md). Equivalent English wording is retained where it already matches the approved Russian meaning.
 
+Follow the [status balance and clarity changes approved on 28 October](../../../design/reviews/2026-10-28-status-balance-and-child-clarity.ru.md). Collector now receives normal salary; Minimalist has a separate 200B month-end bonus.
+
 | ID | Title | Effect | Translation notes |
 | --- | --- | --- | --- |
 | EV-001 |  |  | One of 30 numbered Coffee copies; each physical number has one copy. Receive 200B from the Bank OR play one more event. Translation pending. |
@@ -151,10 +153,10 @@ See the [final wording polish approved on 28 October](../../../design/reviews/20
 | EV-139 |  |  | Source approved 2026-10-19; follow the current RU effect and the card-refinement review. |
 | EV-140 |  |  |  |
 | EV-141 |  |  | Source wording approved 2026-10-09; see the current RU source and the approved review. Translation pending. |
-| EV-142 |  |  | Source approved 2026-10-10, logic review: The owner tosses and resolves first; the selected player follows. Each (UP) independently takes a random event and 300B from the opponent; (W) does nothing. Both (UP) results are possible. Translation pending. |
+| EV-142 |  |  | Source clarification approved 2026-10-28: the random event is taken from the targeted player's HAND. Source approved 2026-10-10, logic review: The owner tosses and resolves first; the selected player follows. Each (UP) independently takes a random event and 300B from the opponent; (W) does nothing. Both (UP) results are possible. Translation pending. |
 | EV-143 |  |  | Source wording approved 2026-10-09; see the current RU source and the approved review. Translation pending. |
 | EV-144 |  |  | Source approved 2026-10-19; follow the current RU effect and the card-refinement review. |
-| EV-145 |  |  |  |
+| EV-145 |  |  | Source clarification approved 2026-10-28: the random event is taken from the targeted player's HAND. |
 | EV-146 |  |  | Source approved 2026-10-19; follow the current RU effect and the card-refinement review. |
 | EV-147 |  |  | Source approved 2026-10-19; follow the current RU effect and the card-refinement review. Only the two events granted by this effect lose their draws; extra plays granted by effects retain theirs. This event has its own delayed draw after your next turn. |
 | EV-148 |  |  | Source approved 2026-10-22; follow the current RU effect and the status-event-polish review.  |
@@ -174,12 +176,12 @@ See the [final wording polish approved on 28 October](../../../design/reviews/20
 | EV-162 |  |  | Source approved 2026-10-19; follow the current RU effect and the card-refinement review. Keep until the end of next month. When the ban ends, discard this event and receive its delayed replacement draw. This supersedes the former normal-discard exception. |
 | EV-163 |  |  |  |
 | EV-164 |  |  |  |
-| EV-165 |  |  | Source approved 2026-10-19; follow the current RU effect and the card-refinement review. |
+| EV-165 |  |  | Source wording approved 2026-10-28: the reward is for successfully completing the challenge through the end of next month, not an advance. Keep the existing discard and delayed replacement draw. Translation pending. |
 | EV-166 |  |  | Source approved 2026-10-07: Мультиход. May play up to two additional events, paying 100B (not 200B) to the Bank before EACH. Translation pending. |
 | EV-167 |  |  | Source wording approved 2026-10-09; see the current RU source and the approved review. Translation pending. |
 | EV-168 |  |  | Source approved 2026-10-23: Keep until the end of the current month, then discard and receive the delayed replacement draw. No replacement draw at initial play. Previous editorial context: Source approved 2026-10-12: Chosen player pays Bank 100B now and 100B at the end of the current month. Translation pending. |
 | EV-169 |  |  | RU title renamed 2026-10-10: «Беспроигрышный билет» (formerly «Большая удача»). |
-| EV-170 |  |  | Wording approved 2026-10-12, evening: take a random event from a player with the largest event hand. If tied, choose any one of those players. Title, quantities and mechanic unchanged; translation pending. |
+| EV-170 |  |  | Source clarification approved 2026-10-28: the random event is taken from the targeted player's HAND. Wording approved 2026-10-12, evening: take a random event from a player with the largest event hand. If tied, choose any one of those players. Title, quantities and mechanic unchanged; translation pending. |
 | EV-171 |  |  | Source wording approved 2026-10-09; see the current RU source and the approved review. Translation pending. |
 | EV-172 |  |  | RU title renamed 2026-10-10: «Комиссия» (formerly «Просрочка платежа»). |
 | EV-173 |  |  |  |
@@ -217,7 +219,7 @@ See the [final wording polish approved on 28 October](../../../design/reviews/20
 | EV-205 |  |  | Source approved 2026-10-09: Take 200B from the Bank, then give another player 100B; preserve this sequence. Translation pending. |
 | EV-206 |  |  |  |
 | EV-207 |  |  | Source wording approved 2026-10-09; see the current RU source and the approved review. Translation pending. |
-| EV-208 |  |  | Source approved 2026-10-19; follow the current RU effect and the card-refinement review. |
+| EV-208 |  |  | Source wording approved 2026-10-28: the reward is for successfully completing the challenge through the end of next month, not an advance. Keep the existing discard and delayed replacement draw. Translation pending. |
 | EV-209 |  |  | Source approved 2026-10-12: The richest player skips their next turn; every player tied at the exact maximum also skips. Do not choose only one tied player. Translation pending. |
 | EV-210 |  |  | Restored by author 2026-10-12 under the original ID, one copy: «Один на миллион». Russian effect restored unchanged; translation pending. |
 | EV-211 |  |  | Source wording approved 2026-10-09; see the current RU source and the approved review. Translation pending. |
@@ -278,7 +280,7 @@ See the [final wording polish approved on 28 October](../../../design/reviews/20
 | EV-266 |  |  | Source approved 2026-10-10, logic review: Choose two DISTINCT players: one with the largest event hand, one with the smallest. They swap seats. If everyone ties, choose any two distinct players. Translation pending. |
 | EV-267 |  |  | Source approved 2026-10-22; follow the current RU effect and the status-event-polish review. The payout happens when the chosen player's next turn is due, not at initial play. Discard after that skip. |
 | EV-268 |  |  | Source approved 2026-10-04: Конфискация. See the current Russian source and the approved 2026-10-04 review. Translation pending. |
-| EV-269 |  |  | Source approved 2026-10-19; follow the current RU effect and the card-refinement review. No exception for reading effects aloud. |
+| EV-269 |  |  | Source wording approved 2026-10-28: the reward is for successfully completing the challenge through the end of next month, not an advance. Keep the existing discard and delayed replacement draw. Reading effects aloud is not an exception. Translation pending. |
 | EV-270 |  |  | Source approved 2026-10-19; follow the current RU effect and the card-refinement review. Intercepts one payment, not all payments of an event. |
 | EV-271 |  |  | Source approved 2026-10-06: Массовая рассылка. Gifts come from the owner's hand. Unplayable without one event for every other player, excluding this event itself. Keep that clarification in development notes, not the short effect. Translation pending. |
 | EV-272 |  |  | Source approved 2026-10-19; follow the current RU effect and the card-refinement review. |
