@@ -6,6 +6,8 @@ Historical notes use a different numbering system. This worksheet uses current n
 
 Follow the [wording and coin-face notation approved on 28 October](../../../design/reviews/2026-10-28-wording-and-coin-faces.ru.md). Coin faces in effects are written (W) and (UP); the title WAKE UP stays unchanged. “You and a chosen player” names two distinct participants; “you and two chosen players” names three.
 
+See the [final wording polish approved on 28 October](../../../design/reviews/2026-10-28-final-wording-polish.ru.md). Equivalent English wording is retained where it already matches the approved Russian meaning.
+
 | ID | Title | Effect | Translation notes |
 | --- | --- | --- | --- |
 | EV-001 |  |  | One of 30 numbered Coffee copies; each physical number has one copy. Receive 200B from the Bank OR play one more event. Translation pending. |
@@ -135,7 +137,7 @@ Follow the [wording and coin-face notation approved on 28 October](../../../desi
 | EV-125 |  |  |  |
 | EV-126 |  |  | Source approved 2026-10-09: Full activation price is now 300B to receive a new status from the status deck. Translation pending. |
 | EV-127 |  |  | Source approved 2026-10-12: Pay Bank 1000B for 100B added to salary until game end. Discard at game end: no replacement draw during play, as expressly intended by the author. Translation pending. |
-| EV-128 |  |  |  |
+| EV-128 |  |  | Wording approved 2026-10-28: A month now ends before each scheduled turn of the player chosen by the owner. Includes skipped turns; relocates the month boundary. Translation pending. |
 | EV-129 |  |  |  |
 | EV-130 |  |  |  |
 | EV-131 |  |  | Source approved 2026-10-12: Seed the event with 100B. Before every subsequent event play, its playing player contributes 100B. The tenth-note depositor takes the pot and discards Pyramid. The seed is not charged twice; passing alone does not contribute. Translation pending. |
@@ -185,7 +187,7 @@ Follow the [wording and coin-face notation approved on 28 October](../../../desi
 | EV-175 |  |  | Source approved 2026-10-22; follow the current RU effect and the status-event-polish review.  |
 | EV-176 |  |  |  |
 | EV-177 |  |  | Source approved 2026-10-19; follow the current RU effect and the card-refinement review. |
-| EV-178 |  |  |  |
+| EV-178 |  |  | Wording approved 2026-10-28: A chosen player makes two separate 100B payments to the Bank. Do not combine them into a single 200B payment; per-payment effects apply separately. Translation pending. |
 | EV-179 |  |  |  |
 | EV-180 |  |  |  |
 | EV-181 |  |  | Source approved 2026-10-12: First (UP) wins 200B; take winnings from Bank or toss again, each further (UP) doubles unclaimed winnings. (W) zeroes winnings AND ends the entire turn. Translation pending. |
@@ -267,7 +269,7 @@ Follow the [wording and coin-face notation approved on 28 October](../../../desi
 | EV-257 |  |  | RU title renamed 2026-10-10: «Стрижка BABLOS» (formerly «Финансовый лимит»). Source approved 2026-10-04: Финансовый лимит. See the current Russian source and the approved 2026-10-04 review. Translation pending. |
 | EV-258 |  |  | Source approved 2026-10-04: Обмен. Each owner chooses the event they give; the author intentionally omits a separate choice sentence. Translation pending. |
 | EV-259 |  |  | RU title renamed 2026-10-10: «Вторая жизнь» (formerly «Второй шанс»). Source approved 2026-10-04: Второй шанс. See the current Russian source and the approved 2026-10-04 review. Translation pending. |
-| EV-260 |  |  | RU source approved 2026-10-12, final evening batch: see design/reviews/2026-10-12-evening-events-approved.ru.md. Translation pending. |
+| EV-260 |  |  | Wording approved 2026-10-28: Two chosen players each give the other one event. Each gives one of their own and receives one from the other. Translation pending. |
 | EV-261 |  |  | Source approved 2026-10-04: Когти орла. See the current Russian source and the approved 2026-10-04 review. Translation pending. |
 | EV-262 |  |  | Source approved 2026-10-09: Each player may receive a new status. General rules discard the old status; no free swap with another player is introduced. Translation pending. |
 | EV-263 |  |  | RU source approved 2026-10-12, final evening batch: see design/reviews/2026-10-12-evening-events-approved.ru.md. Translation pending. |

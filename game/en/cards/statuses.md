@@ -8,6 +8,8 @@ Prior untranslated worksheets and historical notes remain available in [Git hist
 
 Follow the [wording and coin-face notation approved on 28 October](../../../design/reviews/2026-10-28-wording-and-coin-faces.ru.md). Coin faces in effects are written (W) and (UP); the title WAKE UP stays unchanged. “You and a chosen player” names two distinct participants; “you and two chosen players” names three.
 
+See the [final wording polish approved on 28 October](../../../design/reviews/2026-10-28-final-wording-polish.ru.md). Equivalent English wording is retained where it already matches the approved Russian meaning.
+
 | ID | Title | Effect | Translation notes |
 | --- | --- | --- | --- |
 | ST-001 | Heir | When you gain or copy this status, receive **700B** from the Bank — once per game. | One personal 700B payout per player per game, shared across actual acquisition and copying. Losing/regaining the status or copying it again does not reset that limit. Another player has their own limit. |
