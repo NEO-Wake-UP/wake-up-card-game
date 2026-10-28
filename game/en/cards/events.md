@@ -60,11 +60,11 @@ Follow the [status balance and clarity changes approved on 28 October](../../../
 | EV-044 | Airdrop | Each player gains two new events. |  |
 | EV-045 | State Lottery | Each player flips the coin: (UP) — receive **100B** from the Bank; (W) — give **200B** to the Bank. |  |
 | EV-046 | Multiple Loans | Take **100B** from each of two players. |  |
-| EV-047 | Shakedown | A chosen player chooses: give you **200B** or flip the coin. (UP) — they give you **400B**; (W) — they lose nothing. | The choice belongs to the targeted player. |
+| EV-047 | Shakedown | Choose a player. They decide: give you **200B** or flip the coin. (UP) — they give you **400B**; (W) — they lose nothing. | The owner chooses the player; that player decides between giving 200B and flipping the coin. |
 | EV-048 | Delegation | Gain a new status and give your previous one to another chosen player. |  |
 | EV-049 | Event Tax | Each player pays the Bank **100B** in tax for every three events in their hand. |  |
 | EV-050 | Co-workers | You and a chosen player each gain a new event. |  |
-| EV-051 | Your Money or Your Life | A chosen player chooses: pay you **200B** or discard an event from their hand. |  |
+| EV-051 | Your Money or Your Life | Choose a player. They decide: pay you **200B** or discard an event from their own hand. |  |
 | EV-052 | Mistaken Transfer | Your left-hand neighbour gives **200B** to your right-hand neighbour. |  |
 | EV-053 | Dubious Deal | A chosen player pays you **200B**. Give them an event from your hand. |  |
 | EV-054 | Regrouping | Gain as many new events as you have in your hand. Then put your previous events on top of the deck. |  |
@@ -74,7 +74,7 @@ Follow the [status balance and clarity changes approved on 28 October](../../../
 | EV-058 | BABLOS Circulation | All players simultaneously pass half their BABLOS to their right-hand neighbour. With an odd number of banknotes, the owner keeps the extra note. |  |
 | EV-059 | Communism | Pool all players' BABLOS and divide them equally among everyone. Undivided banknotes go to the Bank. |  |
 | EV-060 | Government Aid | Each player receives **100B** from the Bank. |  |
-| EV-061 | Rat Race | Starting with you and following the direction of play, each player swaps statuses once with a chosen player. | Each player initiates one swap; being chosen for someone else's swap does not consume that opportunity. |
+| EV-061 | Rat Race | Starting with you and following the direction of play, each player swaps statuses once with a player they choose. | Each player initiates one swap; being chosen for someone else's swap does not consume that opportunity. |
 | EV-062 | Misfire | Flip the coin. Nothing happens. |  |
 | EV-063 | Philanthropist | The richest player gives **100B** to each of the other players. In a tie, each of the richest players does so. |  |
 | EV-064 | All Hands on Deck | Next month, all players play two events on their turn instead of one. **(Discard at the end of next month.)** |  |
@@ -92,7 +92,7 @@ Follow the [status balance and clarity changes approved on 28 October](../../../
 | EV-076 | Salary in Kind | This month, all players receive a new event instead of salary. **(Discard at month end.)** | Keep this event until month end, then discard it and receive its delayed replacement draw. No replacement draw at initial play. |
 | EV-077 | Offshore Account | Announce the amount of your BABLOS and put all of them in the Bank. They become yours again when you decide to take them back. | Deposited BABLOS are not personal money until reclaimed; no waiting period is added. |
 | EV-078 | Curse | A chosen player gains a new status from the deck. |  |
-| EV-079 | Zugzwang | A chosen player chooses: pay you **200B** or skip their next turn. |  |
+| EV-079 | Zugzwang | Choose a player. They decide: pay you **200B** or skip their next turn. |  |
 | EV-080 | Deportation | Two chosen players swap seats at the table. |  |
 | EV-081 | Birthday | All players give you **100B** each as a gift. |  |
 | EV-082 | Malingerer | When your next turn is due, skip it and receive **300B** from the Bank. **(Discard after you skip your turn.)** | Both the mandatory skip and the 300B payout happen when the next turn is due. This supersedes the former immediate payout. Replacement draw follows this event's discard after the skip. |

@@ -58,11 +58,11 @@ Follow the [status balance and clarity changes approved on 28 October](../../../
 | EV-044 |  |  | RU title renamed 2026-10-10: «Аирдроп» (formerly «Окно возможностей»). Source wording approved 2026-10-09; see the current RU source and the approved review. Translation pending. |
 | EV-045 |  |  |  |
 | EV-046 |  |  | Renamed «Мультизайм» on 2026-09-28: pun on a microloan from multiple lenders. Take 100B from each of two players; the word “other” was deliberately removed. Translation pending. |
-| EV-047 |  |  |  |
+| EV-047 |  |  | Wording approved 2026-10-28: The owner chooses a player. That player decides to give the owner 200B or flip the coin; (UP) gives 400B to the owner, (W) loses nothing. Translation pending. |
 | EV-048 |  |  | Source approved 2026-10-07: Делегирование. Take a new status and transfer the old one to another chosen player. Translation pending. |
 | EV-049 |  |  | Title approved 2026-10-12: Налог на события (formerly Налог на карты). Effect unchanged: each player pays a 100B TAX per three events in hand; tax exemptions apply. Translation pending. |
 | EV-050 |  |  | Source wording approved 2026-10-09; see the current RU source and the approved review. Translation pending. |
-| EV-051 |  |  | Source approved 2026-10-09: The chosen player chooses to pay the owner 200B (NOT the Bank) or discard an event from hand. Translation pending. |
+| EV-051 |  |  | Wording approved 2026-10-28: The owner chooses a player. That player decides to pay the owner 200B (not the Bank) or discard one event from their own hand. Translation pending. |
 | EV-052 |  |  |  |
 | EV-053 |  |  | Wording updated 2026-10-09; use the current RU source. Author removed “other” on 2026-09-28; the chosen player may be the owner. Payment 200B and event transfer unchanged. Translation pending. |
 | EV-054 |  |  | Source wording approved 2026-10-09; see the current RU source and the approved review. Translation pending. |
@@ -72,7 +72,7 @@ Follow the [status balance and clarity changes approved on 28 October](../../../
 | EV-058 |  |  | Source approved 2026-10-07: Круговорот BABLOS. All players simultaneously pass half their BABLOS to the right; with an odd banknote count, the owner keeps the extra note. Translation pending. |
 | EV-059 |  |  | Source approved 2026-10-07: Коммунизм. Pool all players' BABLOS and divide equally; indivisible banknotes go to the Bank. Translation pending. |
 | EV-060 |  |  |  |
-| EV-061 |  |  | Source approved 2026-10-19; follow the current RU effect and the card-refinement review. Each player initiates one swap; being chosen for someone else's swap does not consume that opportunity. |
+| EV-061 |  |  | Source approved 2026-10-19; follow the current RU effect and the card-refinement review. Each player initiates one swap; being chosen for someone else's swap does not consume that opportunity. Each player chooses their own swap partner; the event owner does not choose every partner. |
 | EV-062 |  |  | Restored by author 2026-10-12 under the original ID, one copy: «Осечка». Russian effect restored unchanged; translation pending. |
 | EV-063 |  |  | Source approved 2026-10-11, delayed-draw clarification: Only the EXACT maximum BABLOS amount qualifies. The author now means ALL players tied at that maximum pay the remaining players 100B each, replacing the former choose-one-payer rule. Others are outside the tied-richest group. Identify the group before transfers. Translation pending. |
 | EV-064 |  |  | Source approved 2026-10-19; follow the current RU effect and the card-refinement review. |
@@ -90,7 +90,7 @@ Follow the [status balance and clarity changes approved on 28 October](../../../
 | EV-076 |  |  | Source approved 2026-10-23: Keep until the end of the current month, then discard and receive the delayed replacement draw. No replacement draw at initial play. Previous editorial context: Source wording approved 2026-10-09; see the current RU source and the approved review. Translation pending. |
 | EV-077 |  |  | Source approved 2026-10-11, delayed-draw clarification: Declare all your BABLOS and deposit them in the Bank. They are no longer your personal BABLOS until you choose to reclaim that declared sum; the former three-month wait is removed. Deposited money is excluded from personal wealth/victory calculations and personal losses while it remains in the Bank. Do not add permanent immunity after reclaiming it or a repeat-deposit ability. Translation pending. |
 | EV-078 |  |  | Source wording approved 2026-10-09; see the current RU source and the approved review. Translation pending. |
-| EV-079 |  |  | Source approved 2026-10-07: Цугцванг. Chosen player pays you 200B or skips their own next turn; existing short text reconfirmed. Translation pending. |
+| EV-079 |  |  | Wording approved 2026-10-28: The owner chooses a player. That player decides to pay the owner 200B or skip their own next turn. Translation pending. |
 | EV-080 |  |  | Source wording approved 2026-10-28: Two chosen players swap seats. Translation pending. |
 | EV-081 |  |  |  |
 | EV-082 |  |  | Source approved 2026-10-22; follow the current RU effect and the status-event-polish review. Both the mandatory skip and the 300B payout happen when the next turn is due. This supersedes the former immediate payout. Replacement draw follows this event's discard after the skip. |
@@ -165,7 +165,7 @@ Follow the [status balance and clarity changes approved on 28 October](../../../
 | EV-151 |  |  | Source approved 2026-10-19; follow the current RU effect and the card-refinement review. |
 | EV-152 |  |  |  |
 | EV-153 |  |  | Source approved 2026-10-19; follow the current RU effect and the card-refinement review. The initial 100B must be paid. Covers the whole negative monetary effect, not a voluntary purchase; discard when that coverage triggers. |
-| EV-154 |  |  | Source approved 2026-10-07: Менеджмент. Intentional exchange with EV-148: gain two new events, then discard two from hand. Names and IDs unchanged. Translation pending. |
+| EV-154 |  |  | Source approved 2026-10-07: Менеджмент. Intentional exchange with EV-148: gain two new events, then discard two from the owner's own hand. Names and IDs unchanged. Translation pending. |
 | EV-155 |  |  | Source approved 2026-10-09: Take 100B from the Bank. Return this event to hand instead of the replacement draw for THIS event; do not suppress draws for other played events. The author removed the word immediately from the proposed wording. Translation pending. |
 | EV-156 |  |  | Source approved 2026-10-23: Keep until the end of the current month, then discard and receive the delayed replacement draw. No replacement draw at initial play. Previous editorial context: Source wording approved 2026-10-09; see the current RU source and the approved review. Translation pending. |
 | EV-157 |  |  | Source approved 2026-10-23: Keep until the end of the current month, then discard and receive the delayed replacement draw. No replacement draw at initial play. Previous editorial context: Source approved 2026-10-10, logic review: At this month end, pay the monetary salary to the Bank instead of receiving it. This does not turn non-money salary replacements into money payments. A player with no monetary salary pays no salary. This is not a tax. Translation pending. |
