@@ -8,6 +8,8 @@ Use the [old-to-new number table](../../event-numbering.md) when reading histori
 
 Follow the [wording and coin-face notation approved on 28 October](../../../design/reviews/2026-10-28-wording-and-coin-faces.ru.md). Coin faces in effects are written (W) and (UP); the title WAKE UP stays unchanged. “You and a chosen player” names two distinct participants; “you and two chosen players” names three.
 
+See the [final wording polish approved on 28 October](../../../design/reviews/2026-10-28-final-wording-polish.ru.md). Equivalent English wording is retained where it already matches the approved Russian meaning.
+
 | ID | Title | Effect | Translation notes |
 | --- | --- | --- | --- |
 | EV-001 | Coffee | Receive **200B** from the Bank or play one more event. |  |
@@ -51,7 +53,7 @@ Follow the [wording and coin-face notation approved on 28 October](../../../desi
 | EV-039 | Disposal | Each player may discard an event from their hand and gain a new one. |  |
 | EV-040 | Job Interview | Flip the coin: (UP) — gain a new status; (W) — your turn is over. | (W) ends the whole turn, including further plays granted by other effects. Draws already earned are not cancelled. |
 | EV-041 | Great Depression | Until the end of next month, players receive no salary. **(Discard at the end of next month.)** |  |
-| EV-042 | Slave Revolt | Each of the other players gives **100B** to the poorest player. In a tie, all players with that same lowest amount receive it. |  |
+| EV-042 | Slave Revolt | Each of the other players gives **100B** to the poorest player. In a tie, each of the poorest players receives it. |  |
 | EV-043 | Time Loop | Flip the coin: (UP) — play another event and flip again; (W) — your turn is over. | (W) ends the whole turn, not just this chain. Draws already earned are not cancelled. |
 | EV-044 | Airdrop | Each player gains two new events. |  |
 | EV-045 | State Lottery | Each player flips the coin: (UP) — receive **100B** from the Bank; (W) — give **200B** to the Bank. |  |
@@ -61,7 +63,7 @@ Follow the [wording and coin-face notation approved on 28 October](../../../desi
 | EV-049 | Event Tax | Each player pays the Bank **100B** in tax for every three events in their hand. |  |
 | EV-050 | Co-workers | You and a chosen player each gain a new event. |  |
 | EV-051 | Your Money or Your Life | A chosen player chooses: pay you **200B** or discard an event from their hand. |  |
-| EV-052 | Mistaken Transfer | The player on your left gives **200B** to the player on your right. |  |
+| EV-052 | Mistaken Transfer | Your left-hand neighbour gives **200B** to your right-hand neighbour. |  |
 | EV-053 | Dubious Deal | A chosen player pays you **200B**. Give them an event from your hand. |  |
 | EV-054 | Regrouping | Gain as many new events as you have in your hand. Then put your previous events on top of the deck. |  |
 | EV-055 | Audit | Look at the top three statuses and return them to the top of the deck in any order. |  |
@@ -72,7 +74,7 @@ Follow the [wording and coin-face notation approved on 28 October](../../../desi
 | EV-060 | Government Aid | Each player receives **100B** from the Bank. |  |
 | EV-061 | Rat Race | Starting with you and following the direction of play, each player swaps statuses once with a chosen player. | Each player initiates one swap; being chosen for someone else's swap does not consume that opportunity. |
 | EV-062 | Misfire | Flip the coin. Nothing happens. |  |
-| EV-063 | Philanthropist | The richest player gives **100B** to each of the other players. In a tie, every player with that same highest amount does so. |  |
+| EV-063 | Philanthropist | The richest player gives **100B** to each of the other players. In a tie, each of the richest players does so. |  |
 | EV-064 | All Hands on Deck | Next month, all players play two events on their turn instead of one. **(Discard at the end of next month.)** |  |
 | EV-065 | Role Swap | Swap statuses with a chosen player. |  |
 | EV-066 | You're Fired! | Until the end of next month, a chosen player receives no salary. **(Discard at the end of next month.)** |  |
@@ -137,7 +139,7 @@ Follow the [wording and coin-face notation approved on 28 October](../../../desi
 | EV-125 | Rent Payment | A chosen player gives you **200B**. |  |
 | EV-126 | Plastic Surgery | Pay the Bank **300B** to gain a new status from the deck. |  |
 | EV-127 | Annuity | Pay the Bank **1000B** to receive **100B** extra salary until the end of the game. **(Discard at the end of the game.)** | No replacement draw during the game. |
-| EV-128 | Deadline | Choose a player. A month now ends just before each of their scheduled turns. | Includes skipped turns; relocates the normal month boundary. |
+| EV-128 | Deadline | A month now ends just before each scheduled turn of the player you choose. | Includes skipped turns; relocates the normal month boundary. |
 | EV-129 | ULTIMATE | Receive **200B** from the Bank and gain a new event. Take **100B** from each player. |  |
 | EV-130 | Energy Drink | Receive **300B** from the Bank or play two more events. |  |
 | EV-131 | Pyramid | Put this event on the table with **100B**. Before each subsequent event is played, its player adds **100B**. Whoever adds the tenth banknote takes all the BABLOS and discards “Pyramid”. |  |
@@ -150,7 +152,7 @@ Follow the [wording and coin-face notation approved on 28 October](../../../desi
 | EV-138 | Chain Reaction | Take **400B** from a chosen player. They take **200B** from a player they choose, who then takes **100B** from a player of their choice. |  |
 | EV-139 | Pandemic | You and both your neighbours each gain a new status from the deck. |  |
 | EV-140 | Superpower | Play one more event and resolve its effect twice. |  |
-| EV-141 | Planned Obsolescence | Each player discards an event from their hand, gives **100B** to the Bank and gains a new event in its place. |  |
+| EV-141 | Planned Obsolescence | Each player discards an event from their hand, gives **100B** to the Bank and gains a new event. |  |
 | EV-142 | Duel | First you, then a chosen player flip the coin: (UP) — take a random event and **300B** from your opponent; (W) — nothing. |  |
 | EV-143 | Disposer | Pay the Bank **4000B** to eliminate a chosen player from the game. | In team play, the eliminated player's teammates continue. |
 | EV-144 | Cat | This event cannot be played. But you can show it off! |  |
@@ -158,7 +160,7 @@ Follow the [wording and coin-face notation approved on 28 October](../../../desi
 | EV-146 | Usury | Give a chosen player **200B**. At the end of next month, take **400B** from them. **(Discard at the end of next month.)** |  |
 | EV-147 | Working Yourself into the Ground | On your next turn, you may play two events in a row without a draw for either. **(Discard after your next turn.)** | Only the two events granted by this effect lose their draws; extra plays granted by effects retain theirs. This event has its own delayed draw after your next turn. |
 | EV-148 | Micromanagement | Choose three events from your hand and gain three new ones. Put the chosen events on top of the deck. |  |
-| EV-149 | Staff Turnover | The poorest player gains a new status. In a tie, all players with that same lowest amount do so. |  |
+| EV-149 | Staff Turnover | The poorest player gains a new status. In a tie, each of the poorest players does so. |  |
 | EV-150 | Squanderer | Discard the top three events of the deck. |  |
 | EV-151 | Hostile Takeover | Swap statuses with a chosen player and take **200B** from them. |  |
 | EV-152 | Freebie | Receive an extra salary payment from the Bank. |  |
@@ -187,7 +189,7 @@ Follow the [wording and coin-face notation approved on 28 October](../../../desi
 | EV-175 | Money Portal | You and two chosen players each receive **100B** from the Bank. |  |
 | EV-176 | Middleman | Take **300B** from a chosen player. Keep **100B** and give **200B** to another player. |  |
 | EV-177 | Working for the Future | A chosen player receives no salary this month, but double salary next month. **(Discard at the end of next month.)** |  |
-| EV-178 | Hole in Your Pocket | A chosen player gives **100B** to the Bank twice. |  |
+| EV-178 | Hole in Your Pocket | A chosen player gives **100B** to the Bank twice. | Two separate payments of 100B, not one payment of 200B. Per-payment effects apply to each separately. |
 | EV-179 | Visualisation | Imagine **1000B** and receive **100B** from the Bank. |  |
 | EV-180 | Chance | Flip the coin: (UP) — receive **500B** from the Bank; (W) — nothing. |  |
 | EV-181 | Jackpot | Flip the coin: (UP) — winnings of **200B**; (W) — the winnings are lost and your turn ends. After (UP), collect your winnings from the Bank or flip again: each further (UP) doubles them. |  |
@@ -218,7 +220,7 @@ Follow the [wording and coin-face notation approved on 28 October](../../../desi
 | EV-206 | Set-Up | A chosen player flips the coin: (UP) — they gain a new status from the deck; (W) — nothing. |  |
 | EV-207 | Fine | A chosen player pays the Bank **300B**. |  |
 | EV-208 | Poker Face | Keep a completely expressionless face until the end of next month to receive **400B** from the Bank. **(Discard at the end of next month.)** |  |
-| EV-209 | Interim Winner | The richest player skips their next turn. In a tie, all players with that same highest amount do so. |  |
+| EV-209 | Interim Winner | The richest player skips their next turn. In a tie, each of the richest players does so. |  |
 | EV-210 | One in a Million | Flip the coin. If it lands on its edge, take all the BABLOS from the Bank. |  |
 | EV-211 | Telephone Game | You and a chosen player each give the other a random event from your hand. |  |
 | EV-212 | Fishing | Flip the coin and gain a new event: (UP) — keep it; (W) — give it to the player on your right. |  |
@@ -269,7 +271,7 @@ Follow the [wording and coin-face notation approved on 28 October](../../../desi
 | EV-257 | BABLOS Haircut | A chosen player gives the Bank all their BABLOS above **3500B**. |  |
 | EV-258 | Exchange | Exchange one event from your hand with a chosen player. |  |
 | EV-259 | Second Life | Take a random event from the discard pile and give it to another player. |  |
-| EV-260 | Exchange of Opinions | Choose two players. They exchange one event each. |  |
+| EV-260 | Exchange of Opinions | Two chosen players each give the other one event. | Each chosen player gives one of their own events and receives one from the other. |
 | EV-261 | Eagle's Claws | Take **200B** from each of two players. |  |
 | EV-262 | Reboot | Each player may gain a new status. |  |
 | EV-263 | Quarantine | Until the end of next month, a chosen player receives no draws. **(Discard at the end of next month.)** |  |
@@ -291,7 +293,7 @@ Follow the [wording and coin-face notation approved on 28 October](../../../desi
 | EV-279 | Board of Directors | Everyone votes: “receive” or “pay”. A majority for “receive” — each receives **200B** from the Bank; otherwise, each pays the Bank **200B**. |  |
 | EV-280 | Urgent Transfer | Another player receives **200B** from the Bank if you pay **100B** to the Bank. |  |
 | EV-281 | Back to the Future | Take the top event from the discard pile into your hand. |  |
-| EV-282 | Random Connections | Choose two players. They each give the other two random events from their hand. |  |
+| EV-282 | Random Connections | Two chosen players each give the other two random events from their hand. |  |
 | EV-283 | Reforging | Discard any number of pairs of events from your hand. Gain a new event for each pair. |  |
 | EV-284 | Casting | Each of the other players shows you one event from their hand. Take one of the events shown. |  |
 | EV-285 | Warranty Replacement | A chosen player discards an event from their hand and gains a new one. |  |
@@ -313,7 +315,7 @@ Follow the [wording and coin-face notation approved on 28 October](../../../desi
 | EV-301 | Crowdfunding | Each other player may give you **100B** once to gain a new event. |  |
 | EV-302 | Backwards | Put three events from your hand on top of the deck. Take the top two events from the discard pile into your hand. |  |
 | EV-303 | A Hundred | If you have exactly **100B**, receive **500B** from the Bank. |  |
-| EV-304 | Sharing Out | Look at the top two events of the deck. Gain one and give the other to any other player. |  |
+| EV-304 | Sharing Out | Look at the top two events of the deck. Gain one and give the other to another player. |  |
 | EV-305 | Safe | Turn two events in your hand face up towards the other players. While they remain in your hand, other players' effects do not affect them. |  |
 | EV-306 | Single-Tasking | Next month, no more than one event may be played per turn, even through effects. **(Discard at the end of next month.)** |  |
 | EV-307 | Reach Bonus | Receive **100B** from the Bank for each player who has played an event this month. |  |
@@ -331,7 +333,7 @@ Follow the [wording and coin-face notation approved on 28 October](../../../desi
 | EV-319 | Redirection | Redirect the next event effect aimed personally at you to a chosen player other than the player who played that event. **(Discard when triggered.)** |  |
 | EV-320 | Neighbour's Advice | Show your right-hand neighbour two events from your hand. Play the one they choose. You and that neighbour each receive **100B** from the Bank. |  |
 | EV-321 | Resuscitation | Choose a player with an empty hand: they gain three new events, and you receive **300B** from the Bank. |  |
-| EV-322 | Emergency Aid | A chosen player with three or fewer events in hand gains two new events. Then they give you **200B**. | The events are gained before the mandatory payment; this is not a purchase condition. |
+| EV-322 | Emergency Aid | A chosen player who has no more than three events in hand gains two new events. Then they give you **200B**. | The events are gained before the mandatory payment; this is not a purchase condition. |
 | EV-323 | For a Cuppa | Take **100B** from a chosen player. |  |
 | EV-324 | Score | Receive **100B** from the Bank and take **100B** from a chosen player. |  |
 | EV-325 | Double Score | Receive **200B** from the Bank and take **200B** from a chosen player. |  |
