@@ -4,11 +4,13 @@ Use the current [Russian statuses](../../../game/ru/cards/statuses.md) and the [
 
 Earlier worksheet summaries remain in [Git history](https://github.com/NEO-Wake-UP/wake-up-card-game/blob/cc8ecf704416c9c8b09f8a1a6d3e0ce0a0f48a59/templates/translation/cards/statuses.md). Current source text overrides those historical decisions.
 
+Follow the [wording and coin-face notation approved on 28 October](../../../design/reviews/2026-10-28-wording-and-coin-faces.ru.md). Coin faces in effects are written (W) and (UP); the title WAKE UP stays unchanged. “You and a chosen player” names two distinct participants; “you and two chosen players” names three.
+
 | ID | Title | Effect | Translation notes |
 | --- | --- | --- | --- |
 | ST-001 |  |  | Source approved 2026-10-22: One personal 700B payout per player per game, shared across actual acquisition and copying. Losing/regaining the status or copying it again does not reset that limit. Another player has their own limit. Translation pending. |
 | ST-002 |  |  | Source approved 2026-09-29: Always receives double salary; this is a continuing property, not a one-time payout. Translation pending. |
-| ST-003 |  |  | Source approved 2026-09-29: At the beginning of the month may take 100B from any player. If acquired mid-month, wait for the next month start. Translation pending. |
+| ST-003 |  |  | Source approved 2026-09-29: At the beginning of the month may take 100B from a chosen player. If acquired mid-month, wait for the next month start. Translation pending. |
 | ST-004 |  |  | Source approved 2026-10-07: Собака. No salary. Taxes do not affect this player, including the event discard of EV-290. Bark once per month: another player laughs, receive 100B from the Bank. Translation pending. |
 | ST-005 |  |  | Source approved 2026-10-23: Effect-based gains are not draws. This month-end payout is independent of salary. Count only events in hand; players decide the order of month-end delayed draws and hand checks. Translation pending. |
 | ST-006 |  |  | Source approved 2026-09-29: At month start hide the coin in one hand; another player guesses. Correct: guesser takes 100B from Bank; incorrect: owner takes it. Mid-month acquisition waits for next month start. Translation pending. |
@@ -22,7 +24,7 @@ Earlier worksheet summaries remain in [Git history](https://github.com/NEO-Wake-
 | ST-014 |  |  |  |
 | ST-015 |  |  | Source approved 2026-10-22: Count the two-month cycle from acquiring this status, not from the start of the game. Translation pending. |
 | ST-016 |  |  |  |
-| ST-017 |  |  | Source approved 2026-10-19: flip at the start of each month; UP receives 200B from the Bank, W pays 100B. Mid-month acquisition waits for the next month start. Translation pending. |
+| ST-017 |  |  | Source approved 2026-10-19: flip at the start of each month; (UP) receives 200B from the Bank, (W) pays 100B. Mid-month acquisition waits for the next month start. Translation pending. |
 | ST-018 |  |  | Source approved 2026-10-23: Count complete groups of THREE in hand. The separate payout happens only at month end; extra salary events EV-092/152 do not trigger it. Under the established EV-244 interpretation, removing the no-salary restriction leaves this payout intact. Players decide the order of month-end delayed draws and hand checks. Translation pending. |
 | ST-019 |  |  | Source approved 2026-09-29: Monthly theory about the game resembling life remains mandatory, not an optional suggestion. Translation pending. |
 | ST-020 |  |  | Source approved 2026-10-23: Paid to the King, not the Bank; tax immunity applies. Each violation triggers the tax; no monthly cap is added. Translation pending. |
@@ -33,7 +35,7 @@ Earlier worksheet summaries remain in [Git history](https://github.com/NEO-Wake-
 | ST-025 |  |  | Source approved 2026-10-05: At month start give another player 100B TO receive 200B from Bank; the first transfer is the condition for the reward. Mid-month acquisition waits for the relevant month-start timing. Translation pending. |
 | ST-026 |  |  | Source approved 2026-10-12: Джокер replaces Хозяин судьбы. Upon receiving this status, choose ANY new status from the status deck within one minute. No mandatory fallback or penalty after timeout; the author expressly rejected that addition. Normal status replacement applies; the former top-three selection and deck-position exchange are removed. Translation pending. |
 | ST-027 |  |  | Source approved 2026-10-05: When receiving a new event, choose one of the top two. Return the other to the TOP of the event deck, not an arbitrary position. Translation pending. |
-| ST-028 |  |  | Source approved 2026-10-08: Вампир. May take 200B from any player instead of EACH event due as a replacement draw. For a two-event draw may keep both, replace one with 200B or both with 400B. Effect-based event gains are not draws. No monthly cap. Translation pending. |
+| ST-028 |  |  | Source approved 2026-10-08: Вампир. May take 200B from a chosen player instead of EACH event due as a replacement draw. For a two-event draw may keep both, replace one with 200B or both with 400B. Effect-based event gains are not draws. No monthly cap. Translation pending. |
 | ST-029 |  |  | Final source approved 2026-10-05: Фрилансер replaces Барахольщик. No salary; receive 100B from the Bank when BEGINNING to play an event, before resolving its effect. A status-changing event rewards its initial Freelancer; becoming Freelancer through that event does not reward it. Income is independent of replacement draws. No monthly cap; the earlier 200B proposal is not approved. Translation pending. |
 | ST-030 |  |  | Source approved 2026-09-29: After the owner’s own bankruptcy, take 1100B from Bank. No new frequency limit. Translation pending. |
 | ST-031 |  |  | Source approved 2026-10-05: At MONTH start may inspect the top three events and return them to the TOP of the event deck in any order. Not at the beginning of own turn. Translation pending. |
