@@ -6,11 +6,13 @@ English translation draft of the [current Russian statuses](../../ru/cards/statu
 
 Prior untranslated worksheets and historical notes remain available in [Git history](https://github.com/NEO-Wake-UP/wake-up-card-game/blob/3b1725e7fc2dc128359c2f882adffbd2c9595aea/game/en/cards/statuses.md). Current Russian effects override superseded notes.
 
+Follow the [wording and coin-face notation approved on 28 October](../../../design/reviews/2026-10-28-wording-and-coin-faces.ru.md). Coin faces in effects are written (W) and (UP); the title WAKE UP stays unchanged. “You and a chosen player” names two distinct participants; “you and two chosen players” names three.
+
 | ID | Title | Effect | Translation notes |
 | --- | --- | --- | --- |
 | ST-001 | Heir | When you gain or copy this status, receive **700B** from the Bank — once per game. | One personal 700B payout per player per game, shared across actual acquisition and copying. Losing/regaining the status or copying it again does not reset that limit. Another player has their own limit. |
 | ST-002 | Official's Son | You always receive double salary. |  |
-| ST-003 | Supermodel | At the start of the month, you may take **100B** from any player. |  |
+| ST-003 | Supermodel | At the start of the month, you may take **100B** from a chosen player. |  |
 | ST-004 | Dog | You receive no salary. Taxes do not affect you. Bark once per month: if another player laughs, receive **100B** from the Bank. | Tax immunity includes non-monetary taxes. |
 | ST-005 | Minimalist | You may decline draws. If you have no more than three events in hand at the end of the month, receive **100B** from the Bank. | Effect-based gains are not draws. This month-end payout is independent of salary. Count only events in hand; players decide the order of month-end delayed draws and hand checks. |
 | ST-006 | Gambler | At the start of the month, hide the coin in one hand. Another player guesses the hand: correct — they receive **100B** from the Bank; incorrect — you do. |  |
@@ -24,7 +26,7 @@ Prior untranslated worksheets and historical notes remain available in [Git hist
 | ST-014 | Barista | Whenever any player plays “Coffee”, receive **100B** from the Bank. |  |
 | ST-015 | Neighbour | At the start of every second month, take **100B** from one of your neighbours. | Count the two-month cycle from acquiring this status, not from the start of the game. |
 | ST-016 | Game Developer | You receive no salary. Receive **100B** from the Bank for each use of the coin in the game, up to **400B** per month. | “Use” is not narrowed to coin flips only. |
-| ST-017 | Startup Founder | At the start of the month, flip the coin: UP — receive **200B** from the Bank; W — give **100B** to the Bank. | Gaining this status mid-month does not trigger a flip; wait for the next month start. |
+| ST-017 | Startup Founder | At the start of the month, flip the coin: (UP) — receive **200B** from the Bank; (W) — give **100B** to the Bank. | Gaining this status mid-month does not trigger a flip; wait for the next month start. |
 | ST-018 | Collector | You receive no salary. At the end of the month, receive **100B** from the Bank for every three events in your hand. | Count complete groups of THREE in hand. The separate payout happens only at month end; extra salary events EV-092/152 do not trigger it. Under the established EV-244 interpretation, removing the no-salary restriction leaves this payout intact. Players decide the order of month-end delayed draws and hand checks. |
 | ST-019 | Town Crank | Each month, put forward a new theory about how the game resembles life. |  |
 | ST-020 | King | Taxes do not affect you. Each time a player addresses you without “Your Majesty”, take **100B** in tax from them. | Paid to the King, not the Bank; tax immunity applies. Each violation triggers the tax; no monthly cap is added. |
@@ -35,7 +37,7 @@ Prior untranslated worksheets and historical notes remain available in [Git hist
 | ST-025 | Benefactor | At the start of the month, give another player **100B** to receive **200B** from the Bank. | The first transfer is the condition for the reward; the full-payment rule applies. |
 | ST-026 | Joker | Upon receiving this status, choose any new status from the deck for yourself within one minute. | No new timeout penalty or compulsory fallback is added. |
 | ST-027 | Oracle | When receiving a new event, choose one of the top two. Return the other to the top of the deck. | Applies to new-event gains as well as replacement draws, not discard-pile retrieval. |
-| ST-028 | Vampire | You may decline to receive an event as part of a draw. For each such refusal, take **200B** from any player. | Refusal is optional per individual replacement event; effect-based gains are not replaced. Double Draw allows declining one or both. |
+| ST-028 | Vampire | You may decline to receive an event as part of a draw. For each such refusal, take **200B** from a chosen player. | Refusal is optional per individual replacement event; effect-based gains are not replaced. Double Draw allows declining one or both. |
 | ST-029 | Freelancer | You receive no salary. As you begin playing an event, receive **100B** from the Bank. | Paid before its effect. Losing this status through that event keeps the reward; gaining it through the event does not grant that reward. |
 | ST-030 | Insurance Agent | After your own bankruptcy, receive **1100B** from the Bank. | No new frequency limit or permanent bankrupt role is added. |
 | ST-031 | Insider | At the start of the month, you may look at the top three events and return them to the top of the deck in any order. |  |
