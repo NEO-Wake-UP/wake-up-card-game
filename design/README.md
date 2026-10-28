@@ -16,6 +16,8 @@
 
 ## Решения и история
 
+- [Явный выбор игрока и собственная рука, 28 октября](reviews/2026-10-28-explicit-choices-and-own-hand.ru.md)
+
 - [Баланс статусов, навигация и ясность для начинающих, 28 октября](reviews/2026-10-28-status-balance-and-child-clarity.ru.md)
 
 - [Финальная шлифовка 16 формулировок, 28 октября](reviews/2026-10-28-final-wording-polish.ru.md)
