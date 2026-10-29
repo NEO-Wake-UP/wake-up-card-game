@@ -1,6 +1,6 @@
 # Translate WAKE UP / Перевести WAKE UP
 
-**Current status, 2026-10-23:** the [English edition](../../game/en/README.md) has a complete draft aligned with current Russian effects and physical numbers. Independent language review remains pending. This folder is a blank template for further languages.
+**Current status, 2026-10-29:** the [English edition](../../game/en/README.md) has a complete draft aligned with current Russian effects and physical numbers. Independent language review remains pending. This folder is a blank template for further languages.
 
 Events are numbered EV-001–EV-331, one physical card per row. EV-001–EV-030 are 30 Coffee copies; the other 299 ordinary events are followed by WAKE UP and the custom blank. There are 301 distinct nonblank event types. Statuses remain ST-001–ST-034.
 
@@ -11,7 +11,7 @@ Events are numbered EV-001–EV-331, one physical card per row. EV-001–EV-030 
 ## Steps / Шаги
 
 1. Copy this folder's `cards`, `rules.md` and `glossary.md` into a new `game/<language>/` folder. Use a language code: for example `hi` for Hindi, `bn` for Bengali, `ta` for Tamil. Use a regional suffix when needed, for example `pt-BR`. Add a short README with translator credit and status.
-2. Open [Russian events](../../game/ru/cards/events.md) and [statuses](../../game/ru/cards/statuses.md). Fill Title and Effect by current number. Keep EV-001–EV-331 in order: the first 30 rows are identical Coffee copies, EV-330 is WAKE UP and EV-331 is blank. ST-034 is the blank status. Preserve all amounts, targets, timing, bold amounts with B and the 75 bold discard annotations. The blank cards have no predefined effect. Use the [number map](../../game/event-numbering.md) for historical references.
+2. Open [Russian events](../../game/ru/cards/events.md) and [statuses](../../game/ru/cards/statuses.md). Fill Title and Effect by current number. Keep EV-001–EV-331 in order: the first 30 rows are identical Coffee copies, EV-330 is WAKE UP and EV-331 is blank. ST-034 is the blank status. Preserve all amounts, targets, timing, bold amounts with B and the 76 bold discard annotations. The blank cards have no predefined effect. Use the [number map](../../game/event-numbering.md) for historical references.
 3. Fill the glossary, then translate the [rules](../../game/ru/rules.md). Explain uncertain jokes or culturally specific references in Translation notes. A changed effect is a game adaptation and needs to be marked separately from a translation.
 4. Fix relative source links in copied files: from `game/<language>/cards/`, use `../../ru/cards/events.md` or `../../ru/cards/statuses.md`. From rules or glossary, use `../ru/rules.md` or `../ru/glossary.md`. Keep all IDs unchanged and refresh the worksheet if the source adds cards.
 5. Have another speaker review the translation and record the source commit reviewed. Keep its status as draft until review is complete. On a computer, `python scripts/validate.py` checks IDs and file links; incomplete translations are reported as such.
