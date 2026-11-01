@@ -16,6 +16,8 @@
 
 ## Решения и история
 
+- [Утверждённые названия и формулировки выплат статусов, 1 ноября](reviews/2026-11-01-approved-names-and-status-payouts.ru.md)
+
 - [Финальная вычитка, явный выбор и пометки налогов, 1 ноября](reviews/2026-11-01-final-events-chooser-and-tax.ru.md)
 
 - [Финальная вычитка первой половины событий и единый BABLOS, 29 октября](reviews/2026-10-29-final-event-proofreading.ru.md)
