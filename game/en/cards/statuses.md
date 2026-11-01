@@ -1,12 +1,14 @@
 # Statuses — English text
 
+Follow the [final proofreading, explicit choice and tax markers approved on 1 November](../../../design/reviews/2026-11-01-final-events-chooser-and-tax.ru.md). The owner is named as the chooser where appropriate; choices made by other participants remain theirs. Tax actions use (tax), and tax immunity is unchanged.
+
 English translation draft of the [current Russian statuses](../../ru/cards/statuses.md), updated to match the [approved Russian changes of 23 October](../../../design/reviews/2026-10-23-month-end-and-design.ru.md). Independent English-language review remains pending.
 
 33 translated statuses plus the custom blank status. Card IDs and copy counts follow the [shared inventory](../../deck.md). Monetary amounts with B and all existing delayed-discard annotations are **bold**, as in the Russian source. Translation notes are editorial guidance, separate from the printed effect.
 
 Prior untranslated worksheets and historical notes remain available in [Git history](https://github.com/NEO-Wake-UP/wake-up-card-game/blob/3b1725e7fc2dc128359c2f882adffbd2c9595aea/game/en/cards/statuses.md). Current Russian effects override superseded notes.
 
-Follow the [wording and coin-face notation approved on 28 October](../../../design/reviews/2026-10-28-wording-and-coin-faces.ru.md). Coin faces in effects are written (W) and (UP); the title WAKE UP stays unchanged. “You and a chosen player” names two distinct participants; “you and two chosen players” names three.
+Follow the [wording and coin-face notation approved on 28 October](../../../design/reviews/2026-10-28-wording-and-coin-faces.ru.md). Coin faces in effects are written (W) and (UP); the title WAKE UP stays unchanged. “You and a player you choose” names two distinct participants; “you and two players you choose” names three.
 
 See the [final wording polish approved on 28 October](../../../design/reviews/2026-10-28-final-wording-polish.ru.md). Equivalent English wording is retained where it already matches the approved Russian meaning.
 
@@ -33,7 +35,7 @@ Follow the [status balance and clarity changes approved on 28 October](../../../
 | ST-017 | Startup Founder | At the start of the month, flip the coin: (UP) — receive **200B** from the Bank; (W) — give **100B** to the Bank. | Gaining this status mid-month does not trigger a flip; wait for the next month start. |
 | ST-018 | Collector | At the end of the month, receive **100B** from the Bank for every three events in your hand. | Receives normal salary under the general rules, plus 100B for each complete group of THREE events in hand at month end. Extra salary events EV-092/152 pay normal salary but do not trigger the hand bonus. Salary bans do not cancel this separate bonus. Players decide the order of month-end delayed draws and hand checks. |
 | ST-019 | Town Crank | Each month, put forward a new theory about how the game resembles life. |  |
-| ST-020 | King | Taxes do not affect you. Each time a player addresses you without “Your Majesty”, take **100B** in tax from them. | Paid to the King, not the Bank; tax immunity applies. Each violation triggers the tax; no monthly cap is added. |
+| ST-020 | King | Taxes do not affect you. Each time a player addresses you without “Your Majesty”, take **100B** from them (tax). | Paid to the King, not the Bank; tax immunity applies. Each violation triggers the tax; no monthly cap is added. |
 | ST-021 | Hacker | After your turn, you may reverse the direction of play. |  |
 | ST-022 | Shopaholic | Receive a new event instead of salary. |  |
 | ST-023 | Manipulator | At the start of the month, exchange an event from your hand for a random event from another player's hand. | The owner's event is chosen; the other player's event is random. |

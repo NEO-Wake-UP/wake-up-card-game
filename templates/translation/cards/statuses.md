@@ -1,10 +1,12 @@
 # Blank translation worksheet: statuses
 
+Follow the [final proofreading, explicit choice and tax markers approved on 1 November](../../../design/reviews/2026-11-01-final-events-chooser-and-tax.ru.md). The owner is named as the chooser where appropriate; choices made by other participants remain theirs. Tax actions use (tax), and tax immunity is unchanged.
+
 Use the current [Russian statuses](../../../game/ru/cards/statuses.md) and the [shared inventory](../../../game/deck.md). The [approved changes of 19 October](../../../design/reviews/2026-10-19-card-refinement.ru.md) supersede older notes. 33 status IDs plus ST-034; ST-017 now flips at month start. Title/effect cells remain empty for a new translation; custom blank effects stay empty.
 
 Earlier worksheet summaries remain in [Git history](https://github.com/NEO-Wake-UP/wake-up-card-game/blob/cc8ecf704416c9c8b09f8a1a6d3e0ce0a0f48a59/templates/translation/cards/statuses.md). Current source text overrides those historical decisions.
 
-Follow the [wording and coin-face notation approved on 28 October](../../../design/reviews/2026-10-28-wording-and-coin-faces.ru.md). Coin faces in effects are written (W) and (UP); the title WAKE UP stays unchanged. “You and a chosen player” names two distinct participants; “you and two chosen players” names three.
+Follow the [wording and coin-face notation approved on 28 October](../../../design/reviews/2026-10-28-wording-and-coin-faces.ru.md). Coin faces in effects are written (W) and (UP); the title WAKE UP stays unchanged. “You and a player you choose” names two distinct participants; “you and two players you choose” names three.
 
 See the [final wording polish approved on 28 October](../../../design/reviews/2026-10-28-final-wording-polish.ru.md). Equivalent English wording is retained where it already matches the approved Russian meaning.
 
@@ -31,7 +33,7 @@ Follow the [status balance and clarity changes approved on 28 October](../../../
 | ST-017 |  |  | Source approved 2026-10-19: flip at the start of each month; (UP) receives 200B from the Bank, (W) pays 100B. Mid-month acquisition waits for the next month start. Translation pending. |
 | ST-018 |  |  | Source approved 2026-10-28: Receives normal salary plus a separate 100B month-end Bank bonus for each complete group of three events in hand. Extra salary events EV-092/152 pay salary but do not trigger the hand bonus. Salary bans do not cancel the separate bonus. Players decide the order of delayed draws and hand checks. Translation pending. |
 | ST-019 |  |  | Source approved 2026-09-29: Monthly theory about the game resembling life remains mandatory, not an optional suggestion. Translation pending. |
-| ST-020 |  |  | Source approved 2026-10-23: Paid to the King, not the Bank; tax immunity applies. Each violation triggers the tax; no monthly cap is added. Translation pending. |
+| ST-020 |  |  | Source approved 2026-11-01: The collection action is marked (tax). Paid to the King, not the Bank; tax immunity applies. Each violation triggers the tax; no monthly cap is added. Translation pending. |
 | ST-021 |  |  |  |
 | ST-022 |  |  | Source approved 2026-09-29: Receive a new event instead of salary. Translation pending. |
 | ST-023 |  |  | Source approved 2026-10-05: At the beginning of the month, exchange an event from your own hand for a random event from another player's hand. This replaces the previous once-per-month timing; a status gained mid-month waits for the next month start. Translation pending. |

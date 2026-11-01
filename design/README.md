@@ -16,6 +16,8 @@
 
 ## Решения и история
 
+- [Финальная вычитка, явный выбор и пометки налогов, 1 ноября](reviews/2026-11-01-final-events-chooser-and-tax.ru.md)
+
 - [Финальная вычитка первой половины событий и единый BABLOS, 29 октября](reviews/2026-10-29-final-event-proofreading.ru.md)
 
 - [Явный выбор игрока и собственная рука, 28 октября](reviews/2026-10-28-explicit-choices-and-own-hand.ru.md)
