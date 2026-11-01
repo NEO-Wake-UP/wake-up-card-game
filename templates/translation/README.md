@@ -1,12 +1,14 @@
 # Translate WAKE UP / Перевести WAKE UP
 
-**Current status, 2026-10-29:** the [English edition](../../game/en/README.md) has a complete draft aligned with current Russian effects and physical numbers. Independent language review remains pending. This folder is a blank template for further languages.
+**Current status, 2026-11-01:** the [English edition](../../game/en/README.md) has a complete draft aligned with current Russian effects and physical numbers. Independent language review remains pending. This folder is a blank template for further languages.
 
 Events are numbered EV-001–EV-331, one physical card per row. EV-001–EV-030 are 30 Coffee copies; the other 299 ordinary events are followed by WAKE UP and the custom blank. There are 301 distinct nonblank event types. Statuses remain ST-001–ST-034.
 
 Номера в старых обсуждениях относятся к прежней системе: используйте [таблицу соответствия](../../game/event-numbering.md). Русские эффекты — первоисточник. Содержание прежней инструкции и датированные заметки сохранены в [истории до перенумерации](https://github.com/NEO-Wake-UP/wake-up-card-game/blob/ae5afb42e89d9c16a2f776c86db843dbbcb55433/templates/translation/README.md).
 
 Для оформления правил доступны [пустой фон](../rules/README.md) и [пустые рамки карт](../cards/README.md). Полный печатный набор ещё не подготовлен.
+
+Follow the [approved source changes of 1 November](../../design/reviews/2026-11-01-final-events-chooser-and-tax.ru.md). State who chooses each target: the owner unless the effect passes choice to another participant. Preserve those exceptions and all other-player restrictions. Mark actual tax actions with (tax), including non-BABLOS taxes; keep tax-immunity text and exact discard deadlines. EV-256 includes 1000B; EV-286 also changes status; EV-308 costs 300B.
 
 ## Steps / Шаги
 
