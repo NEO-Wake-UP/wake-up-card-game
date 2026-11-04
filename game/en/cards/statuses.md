@@ -1,5 +1,7 @@
 # Statuses — English text
 
+[Status and event balance approved on 4 November](../../../design/reviews/2026-11-04-status-event-balance.ru.md).
+
 [Approved event titles and status payout wording, 1 November](../../../design/reviews/2026-11-01-approved-names-and-status-payouts.ru.md).
 
 Follow the [final proofreading, explicit choice and tax markers approved on 1 November](../../../design/reviews/2026-11-01-final-events-chooser-and-tax.ru.md). The owner is named as the chooser where appropriate; choices made by other participants remain theirs. Tax actions use (tax), and tax immunity is unchanged.
@@ -30,10 +32,10 @@ Follow the [status balance and clarity changes approved on 28 October](../../../
 | ST-010 | Workaholic | At the start of your turn, you may pay the Bank **100B** to play two events instead of one. |  |
 | ST-011 | Traveller | After your turn, you may swap seats at the table with a player you choose — up to three times before your status changes. | Three swaps per continuous period of ownership; reacquiring the status gives a new allowance. |
 | ST-012 | Slacker | Receive **100B** from the Bank for each of your skipped turns. | Includes both voluntary and forced skips. |
-| ST-013 | Thief | You receive no salary. At the start of every second month, discard a random event from another player's hand — in return, you receive **300B** from the Bank. | Count the two-month cycle from acquiring this status, not from the start of the game. The discarded event is not kept by the Thief; the victim receives no draw for this discard. |
-| ST-014 | Barista | Whenever any player plays the “Coffee” event, receive **100B** from the Bank. |  |
+| ST-013 | Thief | At the start of every second month, choose another player with four or more events in hand. Discard a random event from their hand — in return, you receive **200B** from the Bank. | Receives normal salary. Count the two-month cycle from acquiring this status, not from the start of the game. Check the target's hand before discarding; no eligible other player means no discard or reward. The discarded event is not kept by the Thief; the target receives no replacement draw. |
+| ST-014 | Barista | Whenever any player plays the “Coffee” event, you receive **200B** from the Bank. | Includes the owner's own Coffee; normal salary remains payable. |
 | ST-015 | Neighbour | At the start of every second month, take **100B** from one of your neighbours. | Count the two-month cycle from acquiring this status, not from the start of the game. |
-| ST-016 | Game Developer | You receive no salary. Receive **100B** from the Bank for each use of the coin in the game, up to **400B** per month. | “Use” is not narrowed to coin flips only. |
+| ST-016 | Game Developer | You receive **200B** from the Bank for each use of the coin in the game, up to **400B** per month. | Receives normal salary. The 400B cap applies only to coin-use payouts, separately from salary. “Use” includes coin mini-games as well as physical flips. |
 | ST-017 | Startup Founder | At the start of the month, flip the coin: (UP) — you receive **200B** from the Bank; (W) — you give **100B** to the Bank. | Gaining this status mid-month does not trigger a flip; wait for the next month start. |
 | ST-018 | Collector | At the end of the month, receive **100B** from the Bank for every three events in your hand. | Receives normal salary under the general rules, plus 100B for each complete group of THREE events in hand at month end. Extra salary events EV-092/152 pay normal salary but do not trigger the hand bonus. Salary bans do not cancel this separate bonus. Players decide the order of month-end delayed draws and hand checks. |
 | ST-019 | Town Crank | Each month, put forward a new theory about how the game resembles life. |  |
@@ -43,7 +45,7 @@ Follow the [status balance and clarity changes approved on 28 October](../../../
 | ST-023 | Manipulator | At the start of the month, exchange an event from your hand for a random event from another player's hand. | The owner's event is chosen; the other player's event is random. |
 | ST-024 | Speculator | At the start of the month, offer players the top event of the deck for **100B**, without showing it. | A sale pays the owner. One offer and at most one sale; the owner chooses among willing buyers. |
 | ST-025 | Benefactor | At the start of the month, give another player **100B** — in return, you receive **200B** from the Bank. | The first transfer is the condition for the reward; the full-payment rule applies. |
-| ST-026 | Joker | Upon receiving this status, choose any new status from the deck for yourself within one minute. | No new timeout penalty or compulsory fallback is added. |
+| ST-026 | Joker | Upon receiving this status, choose any new status from the deck for yourself within one minute. Then return Joker to the status deck and shuffle it. | The chosen new status is removed before Joker returns and the remaining status deck is shuffled. Preserve the explicit name Joker; the author rejected replacing it with “the previous status”. No new timeout penalty, compulsory fallback or copying exception is added. |
 | ST-027 | Oracle | When receiving a new event, choose one of the top two. Return the other to the top of the deck. | Applies to new-event gains as well as replacement draws, not discard-pile retrieval. |
 | ST-028 | Vampire | You may decline to receive an event as part of a draw. For each such refusal, take **200B** from a player you choose. | Refusal is optional per individual replacement event; effect-based gains are not replaced. Double Draw allows declining one or both. |
 | ST-029 | Freelancer | You receive no salary. As you begin playing an event, receive **100B** from the Bank. | Paid before its effect. Losing this status through that event keeps the reward; gaining it through the event does not grant that reward. |
