@@ -1,5 +1,7 @@
 # Statuses — English text
 
+[Other-player choices and wording approved on 9 November](../../../design/reviews/2026-11-09-choices-and-wording.ru.md).
+
 [Status and event balance approved on 4 November](../../../design/reviews/2026-11-04-status-event-balance.ru.md).
 
 [Approved event titles and status payout wording, 1 November](../../../design/reviews/2026-11-01-approved-names-and-status-payouts.ru.md).
@@ -22,7 +24,7 @@ Follow the [status balance and clarity changes approved on 28 October](../../../
 | --- | --- | --- | --- |
 | ST-001 | Heir | When you gain or copy this status, receive **700B** from the Bank — once per game. | One personal 700B payout per player per game, shared across actual acquisition and copying. Losing/regaining the status or copying it again does not reset that limit. Another player has their own limit. |
 | ST-002 | Official's Son | You always receive double salary. |  |
-| ST-003 | Supermodel | At the start of the month, you may take **100B** from a player you choose. |  |
+| ST-003 | Supermodel | At the start of the month, you may take **100B** from another player. | The owner chooses another player; self-targeting is excluded. |
 | ST-004 | Dog | You receive no salary. Taxes do not affect you. Bark once per month: if another player laughs, you receive **100B** from the Bank. | Tax immunity includes non-monetary taxes. |
 | ST-005 | Minimalist | You may decline draws. If you have no more than three events in hand at the end of the month, receive **200B** from the Bank. | The 200B month-end payout is independent of salary; normal salary remains payable. Count only events in hand; players decide the order of month-end delayed draws and hand checks. Effect-based gains are not draws. |
 | ST-006 | Gambler | At the start of the month, hide the coin in one hand. Another player guesses the hand: correct — they receive **100B** from the Bank; incorrect — you do. |  |
@@ -43,7 +45,7 @@ Follow the [status balance and clarity changes approved on 28 October](../../../
 | ST-021 | Hacker | After your turn, you may reverse the direction of play. |  |
 | ST-022 | Shopaholic | Receive a new event instead of salary. |  |
 | ST-023 | Manipulator | At the start of the month, exchange an event from your hand for a random event from another player's hand. | The owner's event is chosen; the other player's event is random. |
-| ST-024 | Speculator | At the start of the month, offer players the top event of the deck for **100B**, without showing it. | A sale pays the owner. One offer and at most one sale; the owner chooses among willing buyers. |
+| ST-024 | Speculator | At the start of the month, offer players the top event of the deck for **100B**, without showing it. At most one sale per month. | A sale pays the owner. At most one sale per month; the owner chooses among willing buyers. |
 | ST-025 | Benefactor | At the start of the month, give another player **100B** — in return, you receive **200B** from the Bank. | The first transfer is the condition for the reward; the full-payment rule applies. |
 | ST-026 | Joker | Upon receiving this status, choose any new status from the deck for yourself within one minute. Then return Joker to the status deck and shuffle it. | The chosen new status is removed before Joker returns and the remaining status deck is shuffled. Preserve the explicit name Joker; the author rejected replacing it with “the previous status”. No new timeout penalty, compulsory fallback or copying exception is added. |
 | ST-027 | Oracle | When receiving a new event, choose one of the top two. Return the other to the top of the deck. | Applies to new-event gains as well as replacement draws, not discard-pile retrieval. |
