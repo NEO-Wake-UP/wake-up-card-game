@@ -1,5 +1,7 @@
 # Events — English text
 
+[Second-event effects approved on 9 November](../../../design/reviews/2026-11-09-second-event-bonus.ru.md).
+
 [Other-player choices and wording approved on 9 November](../../../design/reviews/2026-11-09-choices-and-wording.ru.md).
 
 [Status and event balance approved on 4 November](../../../design/reviews/2026-11-04-status-event-balance.ru.md).
@@ -21,6 +23,8 @@ Follow the [wording and coin-face notation approved on 28 October](../../../desi
 See the [final wording polish approved on 28 October](../../../design/reviews/2026-10-28-final-wording-polish.ru.md). Equivalent English wording is retained where it already matches the approved Russian meaning.
 
 Follow the [status balance and clarity changes approved on 28 October](../../../design/reviews/2026-10-28-status-balance-and-child-clarity.ru.md). Collector now receives normal salary; Minimalist has a separate 200B month-end bonus.
+
+**“Second this turn”.** Count events from the start of the current turn, including additional plays granted by any effect. Only the second event qualifies; third and later events use their normal effects. Receiving or discarding a card without playing it does not count. Repeating an effect is not a new play: an event keeps the position established when it was played. The enhanced amount replaces the normal amount rather than being added to it. A new full turn starts a new count.
 
 | ID | Title | Effect | Translation notes |
 | --- | --- | --- | --- |
@@ -75,7 +79,7 @@ Follow the [status balance and clarity changes approved on 28 October](../../../
 | EV-049 | Event Tax | Each player pays the Bank **100B** for every three events in their hand (tax). |  |
 | EV-050 | Co-workers | Choose another player. You and that player each gain a new event. |  |
 | EV-051 | Your Wallet or Your Life | Choose another player. They decide: pay you **200B** or discard an event from their own hand. |  |
-| EV-052 | Express Delivery | Your left-hand neighbour gives you **100B** and gives your right-hand neighbour **200B**. |  |
+| EV-052 | Flashback | Take the top event from the discard pile into your hand. If you played this event second this turn, immediately play the event you took. | Second this turn refers to Flashback itself. The retrieved event is then the third play, not another second play. The extra play is mandatory, subject to existing play prohibitions; if the retrieved card cannot be played, such as Got a Cat, it stays in hand. Normal replacement draws follow the usual chain timing. Only the current top discard is taken; no free choice from the pile. |
 | EV-053 | Dubious Deal | Choose another player. They pay you **200B**. Give them an event from your hand. |  |
 | EV-054 | Regrouping | Gain as many new events as you have in your hand. Then put your previous events on top of the deck. |  |
 | EV-055 | Audit | Look at the top three statuses and return them to the top of the deck in any order. |  |
@@ -106,7 +110,7 @@ Follow the [status balance and clarity changes approved on 28 October](../../../
 | EV-080 | Deportation | Two players you choose swap seats at the table. |  |
 | EV-081 | Birthday | All players give you **100B** each as a gift. |  |
 | EV-082 | Malingerer | When your next turn is due, skip it and receive **300B** from the Bank. **(Discard when triggered.)** | Both the mandatory skip and the 300B payout happen when the next turn is due. This supersedes the former immediate payout. Replacement draw follows this event's discard after the skip. |
-| EV-083 | Illness | A player you choose skips their next turn. **(Discard when triggered.)** | Discard after the chosen player skips their next turn; then receive the delayed replacement draw. No replacement draw at initial play. |
+| EV-083 | Illness | A player you choose skips their next turn. If you played this event second this turn, they skip two turns instead of one. **(Discard when triggered.)** | Schedule one next turn to be skipped normally, or two next turns if Illness was the second event played this turn. Keep this card until all skips assigned by its effect are completed, then discard and receive its delayed replacement draw. No replacement draw at initial play. When its effect is repeated, retain its original play position and resolve the appropriate version again. |
 | EV-084 | Rerouting | Reverse the direction of play. |  |
 | EV-085 | Black Friday | Starting with you and following the direction of play, each player may pay the Bank **100B** to gain a new event. |  |
 | EV-086 | Job Fair | Choose one of the top three statuses for yourself. Return the others to the deck. |  |
@@ -218,7 +222,7 @@ Follow the [status balance and clarity changes approved on 28 October](../../../
 | EV-192 | Buying a Car | Pay the Bank **400B** and discard one event from your hand to gain a new status. | Both costs are required. Standard new-status acquisition takes the top status without choosing; improvement is not guaranteed. Deliberately distinct from Joker. |
 | EV-193 | Employee of the Year | Receive **300B** from the Bank. |  |
 | EV-194 | Eureka | Gain two new events. |  |
-| EV-195 | Tax for No Reason | All players pay the Bank **100B** each (tax). | This payment is explicitly a tax; tax immunity applies. |
+| EV-195 | Tax for No Reason | All players pay the Bank **100B** each (tax). If you played this event second this turn, they pay **200B** each instead of **100B**. | This payment is a tax in both versions; tax immunity applies. The second-play amount is 200B each instead of 100B, not an additional payment. Being played third or later does not qualify. |
 | EV-196 | Severance Pay | Choose another player. They receive **500B** from the Bank and receive no salary until their status changes. **(Discard when their status changes.)** | Choose another player, not yourself. The chosen player changing status ends the salary ban and triggers this event's discard. |
 | EV-197 | Fear | A player you choose skips their next turn. **(Discard when triggered.)** | The generic trigger annotation waits for the chosen player to skip their next turn. Then discard and receive the delayed replacement draw. |
 | EV-198 | Panic | On their next turn, a player you choose shuffles the events in their hand and plays a random one. **(Discard after their next turn.)** | Randomises the first event of that turn, not every extra play. Keep this event until the end of the chosen player's next turn, then discard and receive its delayed draw. The exact deadline is intentionally retained. |
@@ -227,7 +231,7 @@ Follow the [status balance and clarity changes approved on 28 October](../../../
 | EV-201 | Discount | Until the end of next month, each of your payments to the Bank is reduced by **100B**. **(Discard at the end of next month.)** |  |
 | EV-202 | Pay Rise | Until your status changes, receive **100B** extra salary once every two months. **(Discard when your status changes.)** |  |
 | EV-203 | The Right to Move | Pay the Bank **100B** to swap seats at the table with a player you choose. |  |
-| EV-204 | Forgotten Stash | Receive **100B** from the Bank. |  |
+| EV-204 | Forgotten Stash | Receive **100B** from the Bank; if you played this event second this turn, receive **400B** instead. | Receive 400B total instead of 100B only if this event is played second this turn. A repeated effect retains the original play position: a second-play Stash repeated twice pays 400B twice, before other modifiers. |
 | EV-205 | Reward | Receive **200B** from the Bank and give **100B** to another player. |  |
 | EV-206 | Set-Up | A player you choose flips the coin: (UP) — they gain a new status from the deck; (W) — nothing. |  |
 | EV-207 | Fine | A player you choose pays the Bank **300B**. |  |
@@ -241,7 +245,7 @@ Follow the [status balance and clarity changes approved on 28 October](../../../
 | EV-215 | Spy | Look at the events in the hand of a player you choose for no longer than one minute. |  |
 | EV-216 | Economic Growth | At the end of the month, all players receive **200B** extra salary. **(Discard at month end.)** | Keep this event until month end, then discard it and receive its delayed replacement draw. No replacement draw at initial play. |
 | EV-217 | Luck | Receive **200B** from the Bank and gain a new event. |  |
-| EV-218 | Robbery | Take **300B** from a player you choose. |  |
+| EV-218 | Robbery | Take **300B** from a player you choose; if you played this event second this turn, take **500B** instead. | The amount taken from the same chosen player is 500B instead of 300B only if this event is played second this turn. It is not an extra Bank payout. Normal insufficient-payment rules still apply. |
 | EV-219 | Pickpocketing | Take a random event from the hand of a player you choose. |  |
 | EV-220 | Perfect Storm | Each player pays the Bank **200B** and discards an event from their hand. |  |
 | EV-221 | Family Business | You and a player you choose each receive **200B** from the Bank. |  |
