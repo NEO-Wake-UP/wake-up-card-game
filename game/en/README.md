@@ -1,5 +1,7 @@
 # English edition
 
+**Status titles, 14 November 2026:** [all 33 bilingual title pairs are approved](../../design/reviews/2026-11-14-approved-status-titles.ru.md). Status titles omit “The”; use the full Game Developer and American English spelling throughout the live English text. Creative event-title review will proceed in separate batches.
+
 **Status, 2026-10-29: English translation draft aligned with the current Russian source.** Titles and effects are translated for all 301 distinct event types and 33 statuses, plus labels for the two custom blank cards. The event table contains all 331 physical numbers, including 30 Coffee copies. Prepared by the AI assistant at the author's request; independent English-language review is still pending.
 
 - [Rules](rules.md): checked against the current Russian rules; their wording and formatting remain unchanged. “Then take a new event from the deck” correctly translates the Russian draw instruction.
@@ -9,7 +11,7 @@
 - [Shared deck composition](../deck.md)
 - [Print pack status](../../print-and-play/en/README.md)
 
-The source for this translation is the [current Russian catalogue](../ru/README.md), including the [final event proofreading approved on 29 October](../../design/reviews/2026-10-29-final-event-proofreading.ru.md) and the [approved status balance and clarity changes of 28 October](../../design/reviews/2026-10-28-status-balance-and-child-clarity.ru.md). Match cards by their current physical number; use the [number map](../event-numbering.md) for historical references. Translation notes preserve important distinctions and explain cultural references; they are separate from the printed effect. Only the two custom blank effects are intentionally empty.
+The source for this translation is the [current Russian catalog](../ru/README.md), including the [final event proofreading approved on 29 October](../../design/reviews/2026-10-29-final-event-proofreading.ru.md) and the [approved status balance and clarity changes of 28 October](../../design/reviews/2026-10-28-status-balance-and-child-clarity.ru.md). Match cards by their current physical number; use the [number map](../event-numbering.md) for historical references. Translation notes preserve important distinctions and explain cultural references; they are separate from the printed effect. Only the two custom blank effects are intentionally empty.
 
 Use **draw** only for the replacement event received for playing an event; **gain a new event** describes effect-based acquisition. Complete groups, turn order, chosen versus other players, payment direction and timing follow the current Russian text. [Translation review](../../design/reviews/2026-10-19-english-catalogue.ru.md).
 

@@ -1,5 +1,7 @@
 # Blank translation worksheet: statuses
 
+[Current bilingual status titles, approved 14 November](../../../design/reviews/2026-11-14-approved-status-titles.ru.md). Use the approved RU/EN title pairs as the source for further localization. ST-009 stays Transformer, not Chameleon. The title/effect columns below remain blank for other languages; older dated source names are historical.
+
 Follow the [approved titles and five status wording changes of 1 November](../../../design/reviews/2026-11-01-approved-names-and-status-payouts.ru.md). Title/effect fields remain blank for a new translation; follow the current RU source.
 
 Follow the [final proofreading, explicit choice and tax markers approved on 1 November](../../../design/reviews/2026-11-01-final-events-chooser-and-tax.ru.md). The owner is named as the chooser where appropriate; choices made by other participants remain theirs. Tax actions use (tax), and tax immunity is unchanged.
