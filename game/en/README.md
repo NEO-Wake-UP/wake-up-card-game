@@ -1,5 +1,7 @@
 # English edition
 
+**Event titles, 14 November 2026:** [EV-001–EV-075 bilingual pairs are approved](../../design/reviews/2026-11-14-event-titles-001-075.ru.md). This includes 30 Coffee copies. Later event-title batches remain for separate discussion; gameplay effects are unchanged.
+
 **Status titles, 14 November 2026:** [all 33 bilingual title pairs are approved](../../design/reviews/2026-11-14-approved-status-titles.ru.md). Status titles omit “The”; use the full Game Developer and American English spelling throughout the live English text. Creative event-title review will proceed in separate batches.
 
 **Status, 2026-10-29: English translation draft aligned with the current Russian source.** Titles and effects are translated for all 301 distinct event types and 33 statuses, plus labels for the two custom blank cards. The event table contains all 331 physical numbers, including 30 Coffee copies. Prepared by the AI assistant at the author's request; independent English-language review is still pending.
