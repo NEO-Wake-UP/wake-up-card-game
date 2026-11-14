@@ -1,5 +1,7 @@
 # Blank translation worksheet: events
 
+[Current bilingual titles for EV-001–EV-075, approved 14 November](../../../design/reviews/2026-11-14-event-titles-001-075.ru.md). Use these title pairs and the current catalogs as the source for further translations; older dated source names below are historical. Title/effect fields remain blank for other languages.
+
 Follow the [approved titles and five status wording changes of 1 November](../../../design/reviews/2026-11-01-approved-names-and-status-payouts.ru.md). Title/effect fields remain blank for a new translation; follow the current RU source.
 
 Follow the [final proofreading, explicit choice and tax markers approved on 1 November](../../../design/reviews/2026-11-01-final-events-chooser-and-tax.ru.md). The owner is named as the chooser where appropriate; choices made by other participants remain theirs. Tax actions use (tax), and tax immunity is unchanged.

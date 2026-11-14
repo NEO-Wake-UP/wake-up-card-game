@@ -18,6 +18,7 @@
 
 - [Утверждённые названия событий, 13 ноября](reviews/2026-11-13-approved-event-titles.ru.md)
 
+- [Названия событий EV-001–EV-075 RU/EN, 14 ноября](reviews/2026-11-14-event-titles-001-075.ru.md)
 - [Утверждённые названия статусов RU/EN, 14 ноября](reviews/2026-11-14-approved-status-titles.ru.md)
 - [Соседи и точечные упрощения для чтения, 13 ноября](reviews/2026-11-13-neighbours-and-reading-clarity.ru.md)
 
