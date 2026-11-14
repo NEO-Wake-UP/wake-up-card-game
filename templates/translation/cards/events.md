@@ -261,7 +261,7 @@ Follow the [status balance and clarity changes approved on 28 October](../../../
 | EV-241 |  |  | Author wording revised 2026-09-28: take 100B from every player. No explicit exclusion of the owner. Translation pending. |
 | EV-242 |  |  |  |
 | EV-243 |  |  |  |
-| EV-244 |  |  | Title approved 2026-10-12: Волшебная таблетка (formerly Обычная таблетка). Effect unchanged: remove only salary bans ALREADY ACTIVE on the chosen player, including their current status's ban. No future immunity or skipped-turn cure; Homeless allowance remains independent. Translation pending. Approved 2026-11-01: the printed effect explicitly identifies the owner as the chooser; preserve target eligibility. |
+| EV-244 |  |  | Title approved 2026-10-12: Волшебная таблетка (formerly Обычная таблетка). Effect unchanged: remove only salary bans ALREADY ACTIVE on the chosen player, including their current status's ban. No future immunity or skipped-turn cure; Drifter allowance remains independent. Translation pending. Approved 2026-11-01: the printed effect explicitly identifies the owner as the chooser; preserve target eligibility. |
 | EV-245 |  |  |  |
 | EV-246 |  |  | Source approved 2026-10-23: Shortened month-end discard annotation; timing unchanged. Source approved 2026-10-22; follow the current RU effect and the status-event-polish review. |
 | EV-247 |  |  | RU source approved 2026-10-12: every player who skips their own turn next month pays the owner 100B; discard at next month end, with replacement draw deferred. |

@@ -8,7 +8,7 @@
 
 ## SETUP
 
-Shuffle the status cards and deal one face up to each player. Place the **“WAKE UP”** event at the bottom of the shuffled event deck. Deal **5 events** face down to each player. Place the BABLOS in the **centre** of the table — this is the **Bank**.
+Shuffle the status cards and deal one face up to each player. Place the **“WAKE UP”** event at the bottom of the shuffled event deck. Deal **5 events** face down to each player. Place the BABLOS in the **center** of the table — this is the **Bank**.
 
 ## PLAYING THE GAME
 

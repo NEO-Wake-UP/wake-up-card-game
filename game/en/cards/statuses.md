@@ -1,6 +1,8 @@
 # Statuses — English text
 
-[Neighbours and reading clarity approved on 13 November](../../../design/reviews/2026-11-13-neighbours-and-reading-clarity.ru.md).
+[Bilingual status titles approved on 14 November](../../../design/reviews/2026-11-14-approved-status-titles.ru.md). Status titles omit “The”; use American English spelling. Effects are unchanged apart from spelling.
+
+[Neighbors and reading clarity approved on 13 November](../../../design/reviews/2026-11-13-neighbours-and-reading-clarity.ru.md).
 
 [Explicit hand ownership, player choices and second-event effects approved on 13 November](../../../design/reviews/2026-11-13-final-wording-and-second-events.ru.md).
 
@@ -27,30 +29,30 @@ Follow the [status balance and clarity changes approved on 28 October](../../../
 | ID | Title | Effect | Translation notes |
 | --- | --- | --- | --- |
 | ST-001 | Heir | When you gain or copy this status, receive **700B** from the Bank — once per game. | One personal 700B payout per player per game, shared across actual acquisition and copying. Losing/regaining the status or copying it again does not reset that limit. Another player has their own limit. |
-| ST-002 | Official's Son | You always receive double salary. |  |
+| ST-002 | Golden Child | You always receive double salary. |  |
 | ST-003 | Supermodel | At the start of the month, take **100B** from another player. | The owner chooses another player and must take 100B; self-targeting is excluded. |
 | ST-004 | Dog | You receive no salary. Taxes do not affect you. Bark once per month: if another player laughs, you receive **100B** from the Bank. | Tax immunity includes non-monetary taxes. |
 | ST-005 | Minimalist | You may decline draws. If you have three or fewer events in your hand at the end of the month, receive **200B** from the Bank. | The 200B month-end payout is independent of salary; normal salary remains payable. Count only events in hand; players decide the order of month-end delayed draws and hand checks. Effect-based gains are not draws. |
-| ST-006 | Gambler | At the start of the month, hide the coin in one hand. Another player guesses the hand: correct — they receive **100B** from the Bank; incorrect — you do. |  |
+| ST-006 | Trickster | At the start of the month, hide the coin in one hand. Another player guesses the hand: correct — they receive **100B** from the Bank; incorrect — you do. |  |
 | ST-007 | Lawyer | You may discard three events from your own hand to cancel an event effect directed personally against you. | Does not cancel global or multi-target effects such as Bandit, even partially. |
-| ST-008 | Homeless | You receive no salary. Taxes do not affect you. At the end of every second month, receive a **100B** allowance from the Bank. | The allowance is independent of salary; restoring salary does not remove it. |
+| ST-008 | Drifter | You receive no salary. Taxes do not affect you. At the end of every second month, receive a **100B** allowance from the Bank. | The allowance is independent of salary; restoring salary does not remove it. |
 | ST-009 | Transformer | At the start of each month, choose one effect for that month: 1) Gain a new event for each of your skipped turns. 2) At the end of the month, receive **100B** from the Bank. | A status received mid-month waits until the next month starts; the choice is not made on acquisition. The second form is a separate month-end Bank payout, independent of salary and salary bans. |
 | ST-010 | Workaholic | At the start of your turn, you may pay the Bank **100B** to play two events instead of one. |  |
-| ST-011 | Traveller | After your turn, you may swap seats at the table with a player you choose. At most three swaps in total before your status changes. | Three swaps per continuous period of ownership; reacquiring the status gives a new allowance. |
+| ST-011 | Traveler | After your turn, you may swap seats at the table with a player you choose. At most three swaps in total before your status changes. | Three swaps per continuous period of ownership; reacquiring the status gives a new allowance. |
 | ST-012 | Slacker | Receive **100B** from the Bank for each of your skipped turns. | Includes both voluntary and forced skips. |
 | ST-013 | Thief | At the start of every second month, choose another player with four or more events in hand. Discard a random event from their hand — you receive **200B** from the Bank for completing the task. | Receives normal salary. Count the two-month cycle from acquiring this status, not from the start of the game. Check the target's hand before discarding; no eligible other player means no discard or reward. The discarded event is not kept by the Thief; the target receives no replacement draw. |
 | ST-014 | Barista | Whenever any player plays the “Coffee” event, you receive **200B** from the Bank. | Includes the owner's own Coffee; normal salary remains payable. |
-| ST-015 | Neighbour | At the start of every second month, take **100B** from your neighbour on the left or right. | Count the two-month cycle from acquiring this status, not from the start of the game. |
+| ST-015 | Neighbor | At the start of every second month, take **100B** from your neighbor on the left or right. | Count the two-month cycle from acquiring this status, not from the start of the game. |
 | ST-016 | Game Developer | You receive **200B** from the Bank for each use of the coin in the game, up to **400B** per month. | Receives normal salary. The 400B cap applies only to coin-use payouts, separately from salary. “Use” includes coin mini-games as well as physical flips. |
 | ST-017 | Startup Founder | At the start of the month, flip the coin: (UP) — you receive **200B** from the Bank; (W) — you give **100B** to the Bank. | Gaining this status mid-month does not trigger a flip; wait for the next month start. |
 | ST-018 | Collector | At the end of the month, receive **100B** from the Bank for every three events in your hand. | Receives normal salary under the general rules, plus 100B for each complete group of THREE events in hand at month end. Extra salary events EV-092/152 pay salary but do not trigger the hand bonus; EV-152 doubles that salary when played second. Salary bans do not cancel this separate bonus. Players decide the order of month-end delayed draws and hand checks. |
-| ST-019 | Town Crank | Each month, put forward a new theory about how the game resembles life. |  |
+| ST-019 | Conspiracy Theorist | Each month, put forward a new theory about how the game resembles life. |  |
 | ST-020 | King | Taxes do not affect you. Each time a player addresses you without “Your Majesty”, take **100B** from them (tax). | Paid to the King, not the Bank; tax immunity applies. Each violation triggers the tax; no monthly cap is added. |
 | ST-021 | Hacker | After your turn, you may reverse the direction of play. |  |
 | ST-022 | Shopaholic | Receive a new event instead of salary. |  |
 | ST-023 | Manipulator | At the start of the month, exchange an event from your own hand for a random event from another player's hand. | The owner's event is chosen; the other player's event is random. |
-| ST-024 | Speculator | At the start of the month, offer players the top event of the deck for **100B**, without showing it. At most one sale per month. | A sale pays the owner. At most one sale per month; the owner chooses among willing buyers. |
-| ST-025 | Benefactor | At the start of the month, give another player **100B** — you receive **200B** from the Bank for completing the task. | The first transfer is the condition for the reward; the full-payment rule applies. |
+| ST-024 | Huckster | At the start of the month, offer players the top event of the deck for **100B**, without showing it. At most one sale per month. | A sale pays the owner. At most one sale per month; the owner chooses among willing buyers. |
+| ST-025 | Philanthropist | At the start of the month, give another player **100B** — you receive **200B** from the Bank for completing the task. | The first transfer is the condition for the reward; the full-payment rule applies. |
 | ST-026 | Joker | Upon receiving this status, choose any new status from the deck for yourself within one minute. Then return Joker to the status deck and shuffle it. | The chosen new status is removed before Joker returns and the remaining status deck is shuffled. Preserve the explicit name Joker; the author rejected replacing it with “the previous status”. No new timeout penalty, compulsory fallback or copying exception is added. |
 | ST-027 | Oracle | When receiving a new event, choose one of the top two. Return the other to the top of the deck. | Applies to new-event gains as well as replacement draws, not discard-pile retrieval. |
 | ST-028 | Vampire | You may decline to receive an event as part of a draw. For each such refusal, take **200B** from a player you choose. | Refusal is optional per individual replacement event; effect-based gains are not replaced. Double Draw allows declining one or both. |
@@ -58,5 +60,5 @@ Follow the [status balance and clarity changes approved on 28 October](../../../
 | ST-030 | Insurance Agent | After your bankruptcy, you receive **1100B** from the Bank. | No new frequency limit or permanent bankrupt role is added. |
 | ST-031 | Insider | At the start of the month, you may look at the top three events and return them to the top of the deck in any order. |  |
 | ST-032 | Donor | At the start of the month, you may discard an event from your own hand to receive **200B** from the Bank. | Discarding one event from the owner's hand is the cost for the 200B reward. Using this status remains optional. |
-| ST-033 | AI Agent | At the start of the month, copy the status effect of your neighbour on the left or right. | Copies the full effect, including restrictions. Heir has one personal payout per game shared with actual acquisition. The author permits the rare Joker interaction, allowing a new status to be chosen. The character refers to Agent Smith. |
-| ST-034 | Blank status for players to customise |  |  |
+| ST-033 | AI Agent | At the start of the month, copy the status effect of your neighbor on the left or right. | Copies the full effect, including restrictions. Heir has one personal payout per game shared with actual acquisition. The author permits the rare Joker interaction, allowing a new status to be chosen. The character refers to Agent Smith. |
+| ST-034 | Blank status for players to customize |  |  |

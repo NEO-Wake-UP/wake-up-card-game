@@ -31,4 +31,4 @@ The lettering inside illustrations may also need translation. / Надписи �
 | [Budget trip / Экономная поездка](prototypes/cards/event-budget-trip.ru.png) | EV-174 |
 
 
-ST-019 is now «Городской сумасшедший», with a new effect and no vote or reward. This prototype retains the old title and effect and needs new lettering. / ST-019 теперь «Городской сумасшедший»: новый эффект без голосования и награды. Прототип сохраняет старое название и эффект; надписи требуют обновления.
+ST-019 is now “Conspiracy Theorist” / «Конспиролог», following the title approval of 14 November. Its monthly theory effect remains unchanged, without a vote or reward. The prototype uses an earlier effect; all lettering needs comparison with the current catalog before use. / С 14 ноября ST-019 снова называется «Конспиролог» / Conspiracy Theorist. Эффект с ежемесячной теорией сохранён, без голосования и награды. На прототипе прежний эффект; перед использованием все надписи нужно сверить с текущим каталогом.
