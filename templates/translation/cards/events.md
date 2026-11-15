@@ -1,5 +1,7 @@
 # Blank translation worksheet: events
 
+[Final EV-241–EV-330 title pairs, approved 15 November](../../../design/reviews/2026-11-15-event-titles-241-330.ru.md). The bilingual naming pass is complete through WAKE UP. Follow current catalogs for titles and effects; older dated source labels below remain historical. Title/effect fields stay blank for other languages. No mechanics change in this batch.
+
 [Current EV-151–EV-240 titles and EV-152 triple salary, approved 15 November](../../../design/reviews/2026-11-15-event-titles-151-240-and-triple-salary.ru.md). Follow the current catalogs; title/effect fields remain blank for other languages. Older dated source names below are historical.
 
 [Current titles, Three Poisons and participant order, approved 15 November](../../../design/reviews/2026-11-15-event-titles-076-150-and-buddhism.ru.md). Follow the current RU/EN catalogs; title/effect fields below remain blank for other languages. Earlier dated source names are historical.
