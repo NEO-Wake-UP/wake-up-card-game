@@ -1,5 +1,7 @@
 # English edition
 
+**15 November 2026:** [EV-076–EV-150 title pairs, Buddhist references and participant ordering are approved](../../design/reviews/2026-11-15-event-titles-076-150-and-buddhism.ru.md). EV-098 is Samsara; EV-078 is Three Poisons with two chosen other players plus the owner gaining new statuses. Joint effects list the other participants before the owner. This updates EV-068 as well; later title batches remain separate.
+
 **Event titles, 14 November 2026:** [EV-001–EV-075 bilingual pairs are approved](../../design/reviews/2026-11-14-event-titles-001-075.ru.md). This includes 30 Coffee copies. Later event-title batches remain for separate discussion; gameplay effects are unchanged.
 
 **Status titles, 14 November 2026:** [all 33 bilingual title pairs are approved](../../design/reviews/2026-11-14-approved-status-titles.ru.md). Status titles omit “The”; use the full Game Developer and American English spelling throughout the live English text. Creative event-title review will proceed in separate batches.

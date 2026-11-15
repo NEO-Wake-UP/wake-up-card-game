@@ -18,6 +18,7 @@
 
 - [Утверждённые названия событий, 13 ноября](reviews/2026-11-13-approved-event-titles.ru.md)
 
+- [Названия EV-076–EV-150, буддийские отсылки и порядок участников, 15 ноября](reviews/2026-11-15-event-titles-076-150-and-buddhism.ru.md)
 - [Названия событий EV-001–EV-075 RU/EN, 14 ноября](reviews/2026-11-14-event-titles-001-075.ru.md)
 - [Утверждённые названия статусов RU/EN, 14 ноября](reviews/2026-11-14-approved-status-titles.ru.md)
 - [Соседи и точечные упрощения для чтения, 13 ноября](reviews/2026-11-13-neighbours-and-reading-clarity.ru.md)
