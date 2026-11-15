@@ -1,5 +1,7 @@
 # Blank translation worksheet: events
 
+[Current EV-151–EV-240 titles and EV-152 triple salary, approved 15 November](../../../design/reviews/2026-11-15-event-titles-151-240-and-triple-salary.ru.md). Follow the current catalogs; title/effect fields remain blank for other languages. Older dated source names below are historical.
+
 [Current titles, Three Poisons and participant order, approved 15 November](../../../design/reviews/2026-11-15-event-titles-076-150-and-buddhism.ru.md). Follow the current RU/EN catalogs; title/effect fields below remain blank for other languages. Earlier dated source names are historical.
 
 [Current bilingual titles for EV-001–EV-075, approved 14 November](../../../design/reviews/2026-11-14-event-titles-001-075.ru.md). Use these title pairs and the current catalogs as the source for further translations; older dated source names below are historical. Title/effect fields remain blank for other languages.
@@ -173,7 +175,7 @@ Follow the [status balance and clarity changes approved on 28 October](../../../
 | EV-149 |  |  | Source approved 2026-10-12: The poorest player gets a new status. Every player tied at the exact minimum also gets one; do not choose only one tied player. Translation pending. |
 | EV-150 |  |  |  |
 | EV-151 |  |  | Source approved 2026-10-19; follow the current RU effect and the card-refinement review. Approved 2026-11-01: the printed effect explicitly identifies the owner as the chooser; preserve target eligibility. |
-| EV-152 |  |  |  |
+| EV-152 |  |  | Approved 2026-11-15: When played second, triple the salary amount actually due to the owner: ordinary 100B becomes 300B; an existing 200B salary becomes 600B. Salary bans and statuses without salary remain effective. Separate non-salary payouts do not trigger. Translation pending. |
 | EV-153 |  |  | Source approved 2026-10-29: Use BABLOS instead of the adjective monetary. Pay the initial 100B in full. The Bank covers the WHOLE next negative event effect requiring BABLOS, not a voluntary purchase. Discard and delayed replacement draw follow that coverage. Translation pending. |
 | EV-154 |  |  | Source approved 2026-10-07: Менеджмент. Intentional exchange with EV-148: gain two new events, then discard two from the owner's own hand. Names and IDs unchanged. Translation pending. |
 | EV-155 |  |  | Source approved 2026-10-09: Take 100B from the Bank. Return this event to hand instead of the replacement draw for THIS event; do not suppress draws for other played events. The author removed the word immediately from the proposed wording. Translation pending. |
@@ -207,7 +209,7 @@ Follow the [status balance and clarity changes approved on 28 October](../../../
 | EV-183 |  |  | Source approved 2026-10-22; follow the current RU effect and the status-event-polish review. |
 | EV-184 |  |  | RU title renamed 2026-10-10: «Свежая идея» (formerly «Стресс»). Source wording approved 2026-10-09; see the current RU source and the approved review. Translation pending. |
 | EV-185 |  |  | Source approved 2026-10-19; follow the current RU effect and the card-refinement review. |
-| EV-186 |  |  | Source wording approved 2026-10-09; see the current RU source and the approved review. Translation pending. |
+| EV-186 |  |  | Title approved 2026-11-15: Buy Three, Get One. The promotional title is a joke: receive 100B for every complete group of three events in hand. Do not buy, discard or exchange those events. Translation pending. |
 | EV-187 |  |  | Source approved 2026-10-19; follow the current RU effect and the card-refinement review. |
 | EV-188 |  |  | Source approved 2026-10-12: Take any amount up to 300B from Bank. Your left neighbour receives twice that amount from Bank, regardless of wealth. Translation pending. |
 | EV-189 |  |  | Source updated 2026-10-04: title is Сетевой маркетинг. Take 100B from the Bank for each other player. Translation pending. |

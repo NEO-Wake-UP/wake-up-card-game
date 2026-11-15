@@ -16,6 +16,7 @@
 
 ## Решения и история
 
+- [Названия EV-151–EV-240 RU/EN и тройная зарплата EV-152, 15 ноября](reviews/2026-11-15-event-titles-151-240-and-triple-salary.ru.md)
 - [Утверждённые названия событий, 13 ноября](reviews/2026-11-13-approved-event-titles.ru.md)
 
 - [Названия EV-076–EV-150, буддийские отсылки и порядок участников, 15 ноября](reviews/2026-11-15-event-titles-076-150-and-buddhism.ru.md)
