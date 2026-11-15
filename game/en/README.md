@@ -1,5 +1,7 @@
 # English edition
 
+**Final title batch, 15 November 2026:** [EV-241–EV-330 bilingual titles are approved](../../design/reviews/2026-11-15-event-titles-241-330.ru.md), including Encore, Fat Cat, Traveling Light, Mandatory Tip and the Double Dip / Double Dip XL pair. The approved naming batches now cover every nonblank event and all 33 nonblank statuses. All printed effects are unchanged in this batch; independent English-language proofreading remains pending.
+
 **EV-151–EV-240, 15 November 2026:** [the bilingual title batch and EV-152 triple salary are approved](../../design/reviews/2026-11-15-event-titles-151-240-and-triple-salary.ru.md). Golden Calf is retained; the latest choices are Air Tax, Buy Three, Get One and Economic Upswing. EV-186 keeps its existing hand-count reward. EV-152 pays three times the salary actually due when played second; salary bans and separate bonuses remain unchanged. The next naming batch starts at EV-241.
 
 **15 November 2026:** [EV-076–EV-150 title pairs, Buddhist references and participant ordering are approved](../../design/reviews/2026-11-15-event-titles-076-150-and-buddhism.ru.md). EV-098 is Samsara; EV-078 is Three Poisons with two chosen other players plus the owner gaining new statuses. Joint effects list the other participants before the owner. This updates EV-068 as well; later title batches remain separate.

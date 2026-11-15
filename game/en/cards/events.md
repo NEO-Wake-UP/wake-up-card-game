@@ -1,5 +1,7 @@
 # Events — English text
 
+[Final EV-241–EV-330 bilingual title batch, approved 15 November](../../../design/reviews/2026-11-15-event-titles-241-330.ru.md). All printed effects are unchanged.
+
 [EV-151–EV-240 bilingual titles and EV-152 triple salary, approved 15 November](../../../design/reviews/2026-11-15-event-titles-151-240-and-triple-salary.ru.md).
 
 [EV-076–EV-150 titles, Buddhist references and participant order approved on 15 November](../../../design/reviews/2026-11-15-event-titles-076-150-and-buddhism.ru.md).
@@ -280,91 +282,91 @@ Follow the [status balance and clarity changes approved on 28 October](../../../
 | EV-238 | New Role | Gain a new status from the deck. |  |
 | EV-239 | Night Thief | Choose another player. Secretly take up to **300B** from them. They guess the amount taken: correct — return it; incorrect — keep it. | The thief chooses the amount from available money, rather than taking notes blindly. |
 | EV-240 | Coin's Verdict | Choose another player. Flip the coin: (UP) — take **300B** from them; (W) — give them **300B**. |  |
-| EV-241 | Nothing Personal | Take **100B** from each of the other players. |  |
+| EV-241 | Just Business | Take **100B** from each of the other players. |  |
 | EV-242 | Upgrade | Choose one of the top two statuses for yourself. Return the other to the deck. |  |
 | EV-243 | Selfie | Take a selfie with your BABLOS — receive **400B** from the Bank for completing the task. | Posting the photo is not required. |
 | EV-244 | Magic Pill | Choose a player. Remove all current bans on receiving salary from them. | The owner may choose themselves. Includes a current status-based salary ban; does not remove skipped turns or grant future immunity. |
 | EV-245 | Celebration | All players receive **100B** each from the Bank and each gain a new event. |  |
 | EV-246 | Cashback | Pay the Bank **200B**. At the end of the month, receive **300B** from the Bank. **(Discard at month end.)** |  |
 | EV-247 | Debt Collector | Next month, each player gives you **100B** for every turn they skip. **(Discard at the end of next month.)** | No new once-per-month cap; forced skips also qualify. |
-| EV-248 | Fair Price | Choose another player. They may sell you one event from their own hand for **100B**. |  |
+| EV-248 | Sweet Deal | Choose another player. They may sell you one event from their own hand for **100B**. |  |
 | EV-249 | Déjà Vu | Put the top event from the discard pile on top of the event deck. |  |
-| EV-250 | Matrix Glitch | Until the end of the month, players receive no BABLOS through event effects. **(Discard at month end.)** | Keep this event until month end, then discard it and receive its delayed replacement draw. No replacement draw at initial play. |
+| EV-250 | Glitch in the Matrix | Until the end of the month, players receive no BABLOS through event effects. **(Discard at month end.)** | Keep this event until month end, then discard it and receive its delayed replacement draw. No replacement draw at initial play. |
 | EV-251 | Golden Parachute | The next time your status changes, receive **500B** from the Bank. **(Discard when your status changes.)** |  |
 | EV-252 | Suspension | Choose another player. Their status effect is inactive until the end of next month. **(Discard at the end of next month.)** |  |
 | EV-253 | Negative Growth | All players receive **200B** each from the Bank. At the end of next month, each gives **300B** to the Bank. **(Discard at the end of next month.)** |  |
 | EV-254 | Fine Print | Choose another player. Their next mandatory payment to the Bank is doubled. **(Discard when triggered.)** |  |
 | EV-255 | Tax Holiday | Taxes do not affect you until your status changes. **(Discard when your status changes.)** | Covers non-monetary taxes too. |
-| EV-256 | Grant | If you have **1000B** or less, receive **200B** from the Bank. | Check and pay immediately when played. The threshold now includes exactly 1000B, as approved by the author. |
-| EV-257 | BABLOS Haircut | Choose another player. They give the Bank all their BABLOS above **3500B**. |  |
+| EV-256 | Aid for the Needy | If you have **1000B** or less, receive **200B** from the Bank. | Check and pay immediately when played. The threshold now includes exactly 1000B, as approved by the author. |
+| EV-257 | Wealth Cap | Choose another player. They give the Bank all their BABLOS above **3500B**. |  |
 | EV-258 | Deal | Choose another player. Exchange one event from your own hand with them. |  |
 | EV-259 | Second Life | Choose another player. Take a random event from the discard pile. Give it to the chosen player. | Choose the other recipient before taking the random event from the discard pile. |
-| EV-260 | Exchange of Opinions | Choose two players. They each give the other one event from their own hand. | Each chosen player gives one of their own events and receives one from the other. |
-| EV-261 | Eagle's Claws | Choose two players. Take **200B** from each of them. |  |
+| EV-260 | Exchange of Views | Choose two players. They each give the other one event from their own hand. | Each chosen player gives one of their own events and receives one from the other. |
+| EV-261 | Double Trouble | Choose two players. Take **200B** from each of them. |  |
 | EV-262 | Reincarnation | Each player may gain a new status. |  |
 | EV-263 | Quarantine | Choose another player. They receive no draws until the end of next month. **(Discard at the end of next month.)** |  |
 | EV-264 | System Failure | All status effects are inactive until the end of next month. **(Discard at the end of next month.)** | Starts immediately, rather than only next month. |
-| EV-265 | Second Attempt | Choose another player. On their next coin flip, they may flip the coin once more and choose either result. **(Discard after the result is chosen.)** | The target must be another player. The extra flip is optional, and either result may be kept; declining the extra flip selects the first result and consumes the event. Each actual flip is a separate coin use. |
-| EV-266 | Reseating | Choose two different players: one with the most events in hand and one with the fewest. They swap seats at the table. |  |
-| EV-267 | Sick Leave | Choose another player. When their next turn is due, they skip it and receive **100B** from the Bank. **(Discard when triggered.)** | The payout happens when the chosen player's next turn is due, not at initial play. Generic trigger wording still waits for that skip, then discard and draw. |
+| EV-265 | Second Chance | Choose another player. On their next coin flip, they may flip the coin once more and choose either result. **(Discard after the result is chosen.)** | The target must be another player. The extra flip is optional, and either result may be kept; declining the extra flip selects the first result and consumes the event. Each actual flip is a separate coin use. |
+| EV-266 | Seat Swap | Choose two different players: one with the most events in hand and one with the fewest. They swap seats at the table. |  |
+| EV-267 | Paid Sick Day | Choose another player. When their next turn is due, they skip it and receive **100B** from the Bank. **(Discard when triggered.)** | The payout happens when the chosen player's next turn is due, not at initial play. Generic trigger wording still waits for that skip, then discard and draw. |
 | EV-268 | Confiscation | Choose another player. They give you **300B** and gain a new status from the deck. |  |
 | EV-269 | Vow of Silence | Communicate without words until the end of next month — receive **400B** from the Bank for completing the challenge. **(Discard at the end of next month.)** | The reward is for successfully completing the challenge through the end of next month, not an advance payment. Keep the existing month-end discard and delayed replacement draw. No exception for reading effects aloud. |
 | EV-270 | Pocket Bank | The next payment to the Bank through an event effect goes to you instead of the Bank. **(Discard when triggered.)** | Intercepts one payment, not all payments of an event. |
-| EV-271 | Mass Mailing | Give one event from your hand to each of the other players to gain two new events. | The reward requires the full distribution: one event from the owner's remaining hand for each other player. If there are not enough events for everyone, the exchange is not performed and the two new events are not gained. The normal replacement draw for playing this event is separate. |
-| EV-272 | Free Sample | Exchange your status for the top one in the status deck. At the end of next month, you may repeat the exchange. **(Discard at the end of next month.)** |  |
+| EV-271 | Reply All | Give one event from your hand to each of the other players to gain two new events. | The reward requires the full distribution: one event from the owner's remaining hand for each other player. If there are not enough events for everyone, the exchange is not performed and the two new events are not gained. The normal replacement draw for playing this event is separate. |
+| EV-272 | Free Trial | Exchange your status for the top one in the status deck. At the end of next month, you may repeat the exchange. **(Discard at the end of next month.)** |  |
 | EV-273 | Premonition | Predict the result of the next coin flip: (UP) or (W). If correct, receive **300B** from the Bank. **(Discard when triggered.)** |  |
-| EV-274 | Tricky Luck | Choose another player. On their next coin flip, they flip twice: two (UP) results count as (UP); otherwise, (W). **(Discard when triggered.)** | Applies once to the next actual coin flip, not to a hide-and-guess coin mini-game. Two UP results are required for the combined result to be UP; each actual flip is still a coin use. |
-| EV-275 | Time for Change | Reverse the direction of play now and at the end of next month. **(Discard at the end of next month.)** |  |
-| EV-276 | Delivery Failure | Choose another player. They receive no draw on their next turn. **(Discard after their next turn.)** | Keep through the whole specified turn, including a pass; discard after that turn. The exact deadline is intentionally retained. |
+| EV-274 | Odds Against You | Choose another player. On their next coin flip, they flip twice: two (UP) results count as (UP); otherwise, (W). **(Discard when triggered.)** | Applies once to the next actual coin flip, not to a hide-and-guess coin mini-game. Two UP results are required for the combined result to be UP; each actual flip is still a coin use. |
+| EV-275 | Winds of Change | Reverse the direction of play now and at the end of next month. **(Discard at the end of next month.)** |  |
+| EV-276 | Lost Package | Choose another player. They receive no draw on their next turn. **(Discard after their next turn.)** | Keep through the whole specified turn, including a pass; discard after that turn. The exact deadline is intentionally retained. |
 | EV-277 | Hyperactivity | Choose another player. On their next turn, they may play up to three events instead of one. **(Discard after their next turn.)** | Choose another player. Keep through the whole specified turn, even if that player declines additional plays; discard after that turn. Intended for teammates or trailing opponents. |
-| EV-278 | Cascading Aid | Choose another player. Give them **200B**. Their left-hand neighbor receives **100B** and their right-hand neighbor **300B**, both from the Bank. |  |
+| EV-278 | Ripple Effect | Choose another player. Give them **200B**. Their left-hand neighbor receives **100B** and their right-hand neighbor **300B**, both from the Bank. |  |
 | EV-279 | Board of Directors | Everyone votes: “receive” or “pay”. A majority for “receive” — each receives **200B** from the Bank; otherwise, each pays the Bank **200B**. |  |
-| EV-280 | Urgent Transfer | Choose another player. Pay the Bank **100B** to have them receive **300B** from the Bank. | The owner must pay the full 100B for the chosen other player to receive 300B from the Bank. |
+| EV-280 | Bonus Transfer | Choose another player. Pay the Bank **100B** to have them receive **300B** from the Bank. | The owner must pay the full 100B for the chosen other player to receive 300B from the Bank. |
 | EV-281 | Back to the Future | Take the top event from the discard pile into your hand. |  |
 | EV-282 | Random Connections | Choose two players. They each give the other two random events from their own hand. |  |
 | EV-283 | Reforging | Discard any even number of events from your own hand. Gain a new event for every two events you discarded. | Any two events qualify; their titles and effects need not match. Discard an even number and gain one new event per two discarded. |
 | EV-284 | Casting | Each of the other players shows you one event from their hand. Take one of the events shown. |  |
 | EV-285 | Warranty Replacement | Choose another player. They discard an event from their own hand and gain a new one. |  |
 | EV-286 | Rebirth | Discard all events from your own hand and gain the same number of new ones. Then gain a new status. | First replace the hand with the same number of events, then gain a new status under the normal status-change rule. The new status is not chosen. |
-| EV-287 | Pointsman | Choose a player. After your turn, the turn passes to them, then continues in the current direction. | The owner may choose themselves. The title combines railway points with the Russian image of redirecting blame. |
-| EV-288 | Two Chairs | Gain two new events. Keep one and discard the other. |  |
-| EV-289 | Subsistence Minimum | Give all your BABLOS to the Bank and receive **500B** from the Bank. |  |
-| EV-290 | Tax Paid in Events | Players with six or more events in hand each discard one event (tax). | Tax Paid in Events is distinct from Event Tax (EV-049). Tax immunity applies even though the payment is an event. |
-| EV-291 | Multiplication | The next time you receive BABLOS from the Bank, receive twice as much. **(Discard when triggered.)** |  |
-| EV-292 | Repeat Session | When you next play an event, resolve its effect twice. Pay for a paid effect each time. **(Discard when triggered.)** | Keep until the specified effect has finished, then discard and receive the delayed replacement draw. No replacement draw at initial play. |
+| EV-287 | Switchman | Choose a player. After your turn, the turn passes to them, then continues in the current direction. | The owner may choose themselves. Switchman preserves the railway image of directing the next turn. The Russian title also evokes redirecting blame; this extra association is not implied by the English job title. |
+| EV-288 | The Greater of Two Evils | Gain two new events. Keep one and discard the other. | The title jokes about choosing a future tool against opponents. This event itself only gains two events, keeps one and discards the other; it adds no attack or requirement to keep a harmful event. |
+| EV-289 | Bare Minimum | Give all your BABLOS to the Bank and receive **500B** from the Bank. |  |
+| EV-290 | Hustle Tax | Players with six or more events in hand each discard one event (tax). | Hustle Tax is distinct from Event Tax (EV-049). Tax immunity applies even though the payment is an event. |
+| EV-291 | Double Up | The next time you receive BABLOS from the Bank, receive twice as much. **(Discard when triggered.)** | Double one qualifying receipt from the Bank, as printed. The title does not introduce compound interest or repeated growth. |
+| EV-292 | Encore | When you next play an event, resolve its effect twice. Pay for a paid effect each time. **(Discard when triggered.)** | Encore is the approved performance metaphor for repeating the same event effect. Keep until the specified effect has finished, then discard and receive the delayed replacement draw. No replacement draw at initial play. |
 | EV-293 | Transaction Declined | Choose another player. They cannot use paid event effects until the end of next month. **(Discard at the end of next month.)** |  |
-| EV-294 | The Price of Events | Each player decides: discard an event from their own hand or pay the Bank **100B**. |  |
+| EV-294 | Subscription Fee | Each player decides: discard an event from their own hand or pay the Bank **100B**. |  |
 | EV-295 | The Norm | Choose another player. They gain new events or discard excess events until they have five events in their hand. | The target must now be another player. Gain only the missing events or discard only the excess; a hand already containing five events stays unchanged. |
-| EV-296 | Staff Reshuffle | Choose two other players. They swap statuses. | Choose two other players; the owner cannot be one of them. This remains distinct from Role Reversal. |
-| EV-297 | Bourgeois | If you have more BABLOS than each of your neighbors, receive **300B** from the Bank. |  |
+| EV-296 | Corporate Reshuffle | Choose two other players. They swap statuses. | Choose two other players; the owner cannot be one of them. This remains distinct from Role Reversal. |
+| EV-297 | Fat Cat | If you have more BABLOS than each of your neighbors, receive **300B** from the Bank. | Fat Cat is the approved satirical title for a wealthy, influential person. The existing comparison checks each neighbor separately, not their combined BABLOS. |
 | EV-298 | Subsidy | Choose another player. Until the end of next month, they receive **100B** more each time they receive BABLOS from the Bank. **(Discard at the end of next month.)** | Choose another player, not the owner. The author intends assistance to teammates or trailing opponents; do not restore self-targeting as a balance adjustment. |
 | EV-299 | Domino Effect | Discard a random event from your right-hand neighbor's hand. Then each of the other players does the same, going to the right. | One round to the right, regardless of the current direction of play. The owner acts first, then every other player once; the final discard is from the owner's hand. This ends the chain, not the whole turn. |
 | EV-300 | Someone Else's Choice | Choose another player. They decide: receive **300B** from the Bank or gain two new events. You receive the remaining option. | The owner chooses another player; that player decides which reward they receive. The owner receives the other reward. |
 | EV-301 | Travel Agent | Each other player may pay you **100B** once to gain a new event. | Each other player has their own one-time opportunity during this resolution to pay the owner 100B and gain one new event for themselves; this is not one sale shared by all players. |
-| EV-302 | Backwards | Put three events from your own hand on top of the deck. Take the top two events from the discard pile into your hand. |  |
-| EV-303 | Lucky Hundred | If you have exactly **100B**, receive **500B** from the Bank. | Title approved 2026-11-13: Lucky Hundred. The exact-100B condition and 500B reward are unchanged. |
-| EV-304 | Sharing Out | Choose another player. Look at the top two events of the deck. Gain one and give the other to them. | Choose the other recipient before looking at the top two events, then choose which event each receives. |
+| EV-302 | Reverse Gear | Put three events from your own hand on top of the deck. Take the top two events from the discard pile into your hand. |  |
+| EV-303 | Lucky Bill | If you have exactly **100B**, receive **500B** from the Bank. | Title approved 2026-11-15: Lucky Bill. The exact-100B condition and 500B reward are unchanged. |
+| EV-304 | Splitting the Loot | Choose another player. Look at the top two events of the deck. Gain one and give the other to them. | Choose the other recipient before looking at the top two events, then choose which event each receives. |
 | EV-305 | Safe | Turn two events in your own hand face up towards the other players. While they remain in your own hand, other players' effects do not affect them. |  |
 | EV-306 | Hustle Limit | Next month, no more than one event may be played per turn, even through effects. **(Discard at the end of next month.)** |  |
-| EV-307 | A Flurry of Activity | Receive **100B** from the Bank for each player who has played an event this month. |  |
+| EV-307 | Busywork | Receive **100B** from the Bank for each player who has played an event this month. |  |
 | EV-308 | Sponsor | Pay the Bank **300B** to gain a new event. The other players each receive **100B** from the Bank. | The full price is now 300B. The new event and the other players' 100B rewards are unchanged. |
 | EV-309 | Weighty Argument | Choose another player. They pay the Bank **100B** for each event in your hand. |  |
-| EV-310 | Referral Programme | Each player may receive **100B** from the Bank. Then receive **100B** from the Bank for each player who did. |  |
-| EV-311 | Double Draw | Next month, each player draws two events instead of one for each event they play. **(Discard at the end of next month.)** | Applies to each player's own replacement draws. Effect-based gains are not doubled; normal chain-end draw timing is unchanged. |
-| EV-312 | Total Freelancing | Next month, there is no salary. Whenever a player begins playing an event, they receive **100B** from the Bank. **(Discard at the end of next month.)** |  |
-| EV-313 | Light Hand | If you have fewer than five events in hand, receive **100B** from the Bank for each missing event. |  |
+| EV-310 | Referral Program | Each player may receive **100B** from the Bank. Then receive **100B** from the Bank for each player who did. |  |
+| EV-311 | Season of Plenty | Next month, each player draws two events instead of one for each event they play. **(Discard at the end of next month.)** | Applies to each player's own replacement draws. Effect-based gains are not doubled; normal chain-end draw timing is unchanged. |
+| EV-312 | Gig Economy | Next month, there is no salary. Whenever a player begins playing an event, they receive **100B** from the Bank. **(Discard at the end of next month.)** |  |
+| EV-313 | Traveling Light | If you have fewer than five events in hand, receive **100B** from the Bank for each missing event. | Traveling Light is the approved metaphor for a small hand. Keep the existing reward: 100B for each event missing from five, only when fewer than five events are held. |
 | EV-314 | Transfer Fee | Choose another player. Give them any number of events from your own hand. For each event given, discard one more from your own hand. | The owner chooses another recipient. Each event transferred requires one additional discard from the owner's own hand; the transferred cards themselves do not pay that fee. |
 | EV-315 | Probation | At the end of next month, receive **400B** from the Bank if no one's status changes before then. **(Discard at the end of next month.)** |  |
 | EV-316 | Income Tax | Next month, after each receipt of BABLOS, the recipient pays the Bank **100B** (tax). **(Discard at the end of next month.)** |  |
-| EV-317 | Pledge | Flip the coin: (UP) — receive **400B** from the Bank; (W) — discard an event from your own hand. | The W outcome discards one event, rather than two. With no event left in hand there is nothing to discard. |
+| EV-317 | Collateral | Flip the coin: (UP) — receive **400B** from the Bank; (W) — discard an event from your own hand. | The W outcome discards one event, rather than two. With no event left in hand there is nothing to discard. |
 | EV-318 | Trap | Each player may gain a new event. Those who do skip their next turn. |  |
 | EV-319 | Ricochet | Redirect the next event effect aimed personally at you to a player you choose other than the player who played that event. **(Discard when triggered.)** |  |
 | EV-320 | Neighbor's Advice | Show your right-hand neighbor two events from your own hand. Play one more event this turn — the one they choose. That neighbor and you each receive **100B** from the Bank. | The chosen event is an additional play in the same turn. Any two hand events may be shown; existing play restrictions still apply. Replacement draws for the chain follow the general rules. |
 | EV-321 | Resuscitation | Choose a player with an empty hand. They gain three new events and you receive **300B** from the Bank. | The owner may choose themselves if their hand is empty. The target gains three events and the owner receives 300B; if they are the same player, both gains go to them. |
 | EV-322 | Emergency Aid | Choose another player with three or fewer events in hand. They gain two new events, then give you **200B**. | The events are gained before the mandatory payment; this is not a purchase condition. |
-| EV-323 | For a Cuppa | Choose another player. Take **100B** from them. |  |
-| EV-324 | Score | Choose another player. Receive **100B** from the Bank and take **100B** from them. |  |
-| EV-325 | Double Score | Choose another player. Receive **200B** from the Bank and take **200B** from them. |  |
+| EV-323 | Mandatory Tip | Choose another player. Take **100B** from them. | Mandatory Tip is the approved joke about taking a tip without asking. Take 100B from the chosen other player; no Bank payout and no new tax classification. |
+| EV-324 | Double Dip | Choose another player. Receive **100B** from the Bank and take **100B** from them. | Double Dip refers to receiving BABLOS from two sources: 100B from the Bank and 100B from the chosen other player. XL identifies the larger version; no additional effect or tax classification is introduced. |
+| EV-325 | Double Dip XL | Choose another player. Receive **200B** from the Bank and take **200B** from them. | Double Dip refers to receiving BABLOS from two sources: 200B from the Bank and 200B from the chosen other player. XL identifies the larger version; no additional effect or tax classification is introduced. |
 | EV-326 | Mutual Benefit | Choose another player. That player and you each receive **100B** from the Bank. |  |
 | EV-327 | Time Glitch | After your turn, the previous player in turn order takes a turn, then you take another turn. | Full turns in the current direction; skipped turns do not redefine “previous”. Normal month boundaries apply. |
 | EV-328 | Burnout | All players with eight or more events in hand discard two events each. You receive **100B** from the Bank for each player who discarded events. | Count players who actually discarded, once per player, including the owner if eligible. Count the current hand after this event has left it. The reward is per player, not per discarded event. |

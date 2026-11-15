@@ -16,6 +16,7 @@
 
 ## Решения и история
 
+- [Финальные названия EV-241–EV-330 RU/EN, 15 ноября](reviews/2026-11-15-event-titles-241-330.ru.md)
 - [Названия EV-151–EV-240 RU/EN и тройная зарплата EV-152, 15 ноября](reviews/2026-11-15-event-titles-151-240-and-triple-salary.ru.md)
 - [Утверждённые названия событий, 13 ноября](reviews/2026-11-13-approved-event-titles.ru.md)
 
